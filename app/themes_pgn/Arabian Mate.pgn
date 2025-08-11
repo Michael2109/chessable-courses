@@ -1,0 +1,850 @@
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2nk/ppp2p1r/5Np1/3pP3/3P4/5P1R/PP3P1P/3R1K2 w - - 0 25"]
+[LichessURL "https://lichess.org/4U3KhAIw/black#48"]
+[PuzzleId "BN7qK"]
+[Themes "arabianMate kingsideAttack master masterVsMaster mate mateIn1 middlegame oneMove"]
+
+25. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5Bk/4pp1P/8/8/1Rn2P2/P7/K7 b - - 0 43"]
+[LichessURL "https://lichess.org/AvUljAOe#85"]
+[PuzzleId "eBrUG"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+43... Rxa2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/np1R3p/5Np1/pP6/r7/8/2P2KPP/7R w - - 1 28"]
+[LichessURL "https://lichess.org/e2249CN3/black#54"]
+[PuzzleId "OaCIW"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+28. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q7/ppp2p2/3pkq2/2bNp3/2B1P2r/3P1n2/PPP2PPP/R4R1K b - - 2 16"]
+[LichessURL "https://lichess.org/HtLkgF5c#31"]
+[PuzzleId "eD7Fq"]
+[Themes "arabianMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+16... Rxh2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5n1k/5p2/5N2/p1p1Pn2/P5R1/1rP4P/5K2/8 w - - 0 47"]
+[LichessURL "https://lichess.org/lhapJrlP/black#92"]
+[PuzzleId "v30I6"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+47. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/pp4p1/2p1p2p/7r/2p2p2/2B2n2/PP3P1R/3Q1R1K b - - 0 31"]
+[LichessURL "https://lichess.org/eqTYD1Lp#61"]
+[PuzzleId "XArd8"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+31... Rxh2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp3p2/4pN2/4n1R1/8/P7/2rr1P1P/R4K2 w - - 4 33"]
+[LichessURL "https://lichess.org/aQd35R18/black#64"]
+[PuzzleId "sG2ll"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+33. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5p2/4p1p1/7P/R7/2P2n2/PP3PRP/7K b - - 0 37"]
+[LichessURL "https://lichess.org/Q10zTyNl#73"]
+[PuzzleId "qHjRl"]
+[Themes "arabianMate endgame mate mateIn2 short"]
+
+37... Rd1+ 38. Rg1 Rxg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/3R3p/p2p1Np1/3P4/1pn5/7P/7K/8 w - - 1 37"]
+[LichessURL "https://lichess.org/ra94bTdg/black#72"]
+[PuzzleId "Ij4lw"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+37. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/3R4/6r1/4pp2/5n2/1k3P2/7K b - - 22 69"]
+[LichessURL "https://lichess.org/i2Ek8hZ0#137"]
+[PuzzleId "0XLrb"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+69... Rg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b3k/7p/r4N2/4Bp2/ppn5/1P4R1/P5PP/6K1 w - - 0 31"]
+[LichessURL "https://lichess.org/Gndx51xn/black#60"]
+[PuzzleId "ocpLp"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+31. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q4r1/5k2/1RNp4/4p3/8/5n1b/5P1P/7K b - - 0 37"]
+[LichessURL "https://lichess.org/EQTLc59U#73"]
+[PuzzleId "57d4t"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+37... Rg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/2p4n/1p1p1N1R/p2Pp1r1/2P2n2/5P2/PPK5/8 w - - 0 38"]
+[LichessURL "https://lichess.org/gGpw9ETu/black#74"]
+[PuzzleId "t57r0"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+38. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/p5r1/6n1/P1R5/4N2P/1P3P1K/8 b - - 0 34"]
+[LichessURL "https://lichess.org/otd6Ej55#67"]
+[PuzzleId "ZHyTy"]
+[Themes "arabianMate endgame mate mateIn2 short"]
+
+34... Nf3+ 35. Kh1 Rg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/1p4rp/p3pNp1/4q1P1/3R4/P2BP3/1P4P1/1R4K1 w - - 0 26"]
+[LichessURL "https://lichess.org/AJmLoQIJ/black#50"]
+[PuzzleId "mk4KG"]
+[Themes "arabianMate kingsideAttack mate mateIn2 middlegame short"]
+
+26. Rd8+ Rg8 27. Rxg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/1P3p1k/2B3pp/2p1P3/1rP5/2n4P/8/K7 b - - 4 58"]
+[LichessURL "https://lichess.org/Iv26n3Gi#115"]
+[PuzzleId "V4o9C"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+58... Rb1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/p1p2p1r/1p1p1N2/n7/2nqPP2/7R/2P4P/5R1K w - - 0 37"]
+[LichessURL "https://lichess.org/f7F46C8f/black#72"]
+[PuzzleId "vR9UD"]
+[Themes "arabianMate master mate mateIn1 middlegame oneMove"]
+
+37. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k4r1/1pR5/p4p2/3P3p/5P2/2B2n1P/PP6/6RK b - - 0 30"]
+[LichessURL "https://lichess.org/V0kr0ta0#59"]
+[PuzzleId "TVeL1"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+30... Rxg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/q5r1/5N2/p4P1p/1pp1P3/P4Bp1/1P1R2P1/5K2 w - - 3 47"]
+[LichessURL "https://lichess.org/KBtj28Vj/black#92"]
+[PuzzleId "aCRJ1"]
+[Themes "arabianMate endgame mate mateIn2 short"]
+
+47. Rd8+ Rg8 48. Rxg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/5pb1/2pp2Pp/p4N1Q/Pp1p1P2/1P3n1P/1P4R1/4R2K b - - 0 28"]
+[LichessURL "https://lichess.org/VVU4FsSc#55"]
+[PuzzleId "J0Bxq"]
+[Themes "arabianMate kingsideAttack mate mateIn2 middlegame short"]
+
+28... Rxe1+ 29. Rg1 Rxg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/q6p/5N2/4P3/8/pr4RP/6PK/8 w - - 0 45"]
+[LichessURL "https://lichess.org/OMezAqE8/black#88"]
+[PuzzleId "9Esiy"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+45. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3r1k1/1p3p2/2pQ1Pp1/8/1P3n2/P5RP/4R2K b - - 0 43"]
+[LichessURL "https://lichess.org/LmmMh4Xn#85"]
+[PuzzleId "RZ8jA"]
+[Themes "arabianMate endgame mate mateIn2 short"]
+
+43... Rxe1+ 44. Rg1 Rxg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/3R3r/p4N2/8/8/1p6/1KP5/8 w - - 0 43"]
+[LichessURL "https://lichess.org/biwVqWvv/black#84"]
+[PuzzleId "FDD9E"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+43. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pp3p2/8/2P2B1p/2pp4/5n2/PP3R2/6RK b - - 0 34"]
+[LichessURL "https://lichess.org/jcS9orps#67"]
+[PuzzleId "NTxXr"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+34... Rxg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6Rp/p4Npr/4pp2/P7/1K3P2/8/8 w - - 0 39"]
+[LichessURL "https://lichess.org/PVLF5iSn/black#76"]
+[PuzzleId "6htlR"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+39. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p7/7p/2B2p2/2P3p1/5nP1/PP2r2P/5R1K b - - 0 35"]
+[LichessURL "https://lichess.org/3LNcLNou#69"]
+[PuzzleId "Yp3uZ"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+35... Rxh2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b1k/R7/5N1p/4p2P/3pP3/3P2P1/1rr2PK1/8 w - - 0 48"]
+[LichessURL "https://lichess.org/dYXTdTVK/black#94"]
+[PuzzleId "MXQ5s"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+48. Rh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pp3p1/p3pk2/R7/2P5/1P3n2/P1r4P/5R1K b - - 3 36"]
+[LichessURL "https://lichess.org/UsmijfwG#71"]
+[PuzzleId "h6WSK"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+36... Rxh2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5B1k/p4p2/q3bN2/3pPp1p/r2n3P/6R1/3N1PP1/4K3 w - - 0 28"]
+[LichessURL "https://lichess.org/rTJYVRIa/black#54"]
+[PuzzleId "lO0vg"]
+[Themes "arabianMate master mate mateIn1 middlegame oneMove"]
+
+28. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p1p/8/3R2p1/P5r1/2B2n2/1PP2P2/7K b - - 0 34"]
+[LichessURL "https://lichess.org/nUIznx9m#67"]
+[PuzzleId "hsTN6"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+34... Rg1# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/2p5/5N2/1Pp5/Pn1p4/4p2r/1P5P/2K3R1 w - - 0 37"]
+[LichessURL "https://lichess.org/w2AXrGmg/black#72"]
+[PuzzleId "TkobS"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+37. Rxg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1p1pp1/4p3/8/P2P2p1/BP3nP1/2P2P1P/RN1Q1R1K b kq - 2 14"]
+[LichessURL "https://lichess.org/QuX1lauv#27"]
+[PuzzleId "3m0bJ"]
+[Themes "arabianMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+14... Rxh2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/pp3p1r/3p1N2/4pPP1/2P1P3/4q1P1/PP4K1/R6R w - - 0 26"]
+[LichessURL "https://lichess.org/IdetAdIk/black#50"]
+[PuzzleId "e6cip"]
+[Themes "arabianMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+26. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "N1bk3r/pp4p1/3p4/2b1p3/4B3/5n2/PPP3PP/R1B2R1K b - - 1 15"]
+[LichessURL "https://lichess.org/Q9PSRz6P#29"]
+[PuzzleId "cPAKy"]
+[Themes "arabianMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+15... Rxh2# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/3R4/1pp2Np1/p1b4p/P1B1PK2/1Pr5/8/8 w - - 2 39"]
+[LichessURL "https://lichess.org/76vwsbu8/black#76"]
+[PuzzleId "CpJca"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+39. Rh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k6r/p4ppp/p1Nr1n2/8/3p4/1R2PP2/3K2PP/1R6 w - - 0 21"]
+[LichessURL "https://lichess.org/hRPDrywz/black#40"]
+[PuzzleId "jGind"]
+[Themes "arabianMate endgame mate mateIn2 queensideAttack short"]
+
+21. Rb8+ Rxb8 22. Rxb8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/p1p1p2p/q1Pp3P/6N1/6R1/5PK1/8 w - - 0 47"]
+[LichessURL "https://lichess.org/QvC3eJM9/black#92"]
+[PuzzleId "rl2MK"]
+[Themes "arabianMate endgame mate mateIn2 short"]
+
+47. Nf6+ Kh8 48. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rq1k/2R5/5N1p/pp2P3/5P2/3P3P/8/5RK1 w - - 0 36"]
+[LichessURL "https://lichess.org/53r4uYuk/black#70"]
+[PuzzleId "evU6X"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+36. Rh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p4k/1p1p3b/p2Pp3/2P3N1/1Pr4p/P3K2P/6R1 w - - 2 45"]
+[LichessURL "https://lichess.org/oSYPW8cl/black#88"]
+[PuzzleId "Xbefl"]
+[Themes "arabianMate endgame mate mateIn2 short"]
+
+45. Nf6+ Kh8 46. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/5N2/3p2R1/1p6/6KP/8/1q6 w - - 0 48"]
+[LichessURL "https://lichess.org/3tdyBUDj/black#94"]
+[PuzzleId "DEGAH"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+48. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq3k/pp2r1np/2pp1Nn1/4p1P1/2PP4/2N1P3/PP2BP2/R3K2R w KQ - 0 21"]
+[LichessURL "https://lichess.org/OX7b5JK0/black#40"]
+[PuzzleId "T8cE5"]
+[Themes "arabianMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+21. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q3k/ppp4r/5NpR/3BP3/3P2b1/8/PP3PP1/R3K3 w Q - 2 19"]
+[LichessURL "https://lichess.org/v1Vy6afK/black#36"]
+[PuzzleId "PA0eA"]
+[Themes "arabianMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+19. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/7q/p4Np1/1pb1p3/2p1P3/P1P5/1P3P2/1K1R3R w - - 0 33"]
+[LichessURL "https://lichess.org/rt7SN1f0/black#64"]
+[PuzzleId "TLqya"]
+[Themes "arabianMate mate mateIn1 middlegame oneMove"]
+
+33. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1b4r/p2r1p2/2N1p3/3n2p1/3P3p/6P1/P3BPP1/1RR3K1 w - - 1 30"]
+[LichessURL "https://lichess.org/REmIUSVj/black#58"]
+[PuzzleId "PCXTN"]
+[Themes "arabianMate mate mateIn1 middlegame oneMove"]
+
+30. Rb8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/p2R4/1p3Np1/4rp1p/4p3/1b2P2P/5PP1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/QBj3yskW/black#56"]
+[PuzzleId "rJnXo"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+29. Rh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q3k/7r/p1p1bNp1/1p2P3/6P1/P4P1R/1PP1N3/2K5 w - - 0 27"]
+[LichessURL "https://lichess.org/jxKpphVY/black#52"]
+[PuzzleId "biqKC"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+27. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/1pq4r/p2ppNR1/8/P2pP3/1B1P3P/1PP2PP1/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/tAxvBsjZ/black#46"]
+[PuzzleId "sAuY2"]
+[Themes "arabianMate mate mateIn1 middlegame oneMove"]
+
+24. Rg8# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/R6p/5Np1/8/2p2P2/P5P1/1r5P/5K2 w - - 4 35"]
+[LichessURL "https://lichess.org/Pv5JUIAO/black#68"]
+[PuzzleId "cUS8c"]
+[Themes "arabianMate endgame mate mateIn1 oneMove"]
+
+35. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r4k/pR5p/1p2nNpb/4P3/2PP4/6P1/P6P/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/Vm602KO7/black#46"]
+[PuzzleId "DXGHh"]
+[Themes "arabianMate mate mateIn1 middlegame oneMove"]
+
+24. Rxh7# *
+
+
+
+[Event "Arabian Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R4bk/6p1/3p1N1p/4p2P/6P1/3p4/1Pr2P2/6K1 w - - 9 37"]
+[LichessURL "https://lichess.org/4oi759QR/black#72"]
+[PuzzleId "3kSj5"]
+[Themes "arabianMate endgame master mate mateIn1 oneMove"]
+
+37. Rxg8# *
+
+
+

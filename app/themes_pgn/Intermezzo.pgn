@@ -1,0 +1,204 @@
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/1pp2p2/4p1pp/4n3/7P/1P6/1B3PP1/1K1R3R w - - 0 26"]
+[LichessURL "https://lichess.org/sCXFHAVh/black#50"]
+[PuzzleId "WLCgH"]
+[Themes "advantage endgame intermezzo master short"]
+
+26. Rxd8 Rxd8 27. Bxe5 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/p4pp1/1p6/2p1pb1p/2Pp1R1P/P2Q1B1R/1PP3P1/5K2 b - - 0 24"]
+[LichessURL "https://lichess.org/4F5yajOv#47"]
+[PuzzleId "aCewA"]
+[Themes "advantage intermezzo middlegame short"]
+
+24... Bxd3+ 25. cxd3 exf4 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3r1p2/p4P1p/1p1n1ppP/1P1P4/2r5/5PPK/1B2R3 w - - 0 34"]
+[LichessURL "https://lichess.org/00KMv3qn/black#66"]
+[PuzzleId "N0rDP"]
+[Themes "endgame intermezzo mate mateIn2 short"]
+
+34. Re8+ Kh7 35. Bxf5# *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p1pq1pp1/2n2n1p/1B2p2P/1B1pP1P1/3Q1P2/2P5/R3K1NR b KQ - 0 17"]
+[LichessURL "https://lichess.org/CKt1R4kR#33"]
+[PuzzleId "ppcBi"]
+[Themes "crushing exposedKing intermezzo long middlegame"]
+
+17... Nxb4 18. Bxd7 Nxd3+ 19. cxd3 Nxd7 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/p1p4p/4p3/P1P1n3/1rNR3P/6P1/7K w - - 0 33"]
+[LichessURL "https://lichess.org/6ORNTvxd/black#64"]
+[PuzzleId "FsN5a"]
+[Themes "advantage endgame intermezzo short"]
+
+33. Rd8+ Kh7 34. Nxe4 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/1bpnq3/1p1b4/1P1pn1Bp/8/1N1P1NP1/4PPB1/R2Q1RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/uiBa23qD#35"]
+[PuzzleId "ahK8f"]
+[Themes "crushing intermezzo kingsideAttack middlegame short"]
+
+18... Nxf3+ 19. exf3 Qxg5 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3q2k/p1pp1rpp/1p6/3B4/8/P7/1P4PP/R3R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/Mh1Jyvrn/black#44"]
+[PuzzleId "Ph2oY"]
+[Themes "advantage endgame intermezzo short"]
+
+23. Rxe8+ Rxe8 24. Bxf7 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1pp3p1/1p1p3p/8/2Bn1R2/7P/PP2RPP1/6K1 b - - 0 24"]
+[LichessURL "https://lichess.org/NPTdcfZV#47"]
+[PuzzleId "QQGPf"]
+[Themes "advantage endgame intermezzo short"]
+
+24... Nxe2+ 25. Bxe2 Rxf4 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/2n1p3/8/3q4/5B2/PP3PPP/R1BQK2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/x5hOrxyy/black#22"]
+[PuzzleId "H22Nr"]
+[Themes "crushing intermezzo middlegame short"]
+
+12. Bxc6+ bxc6 13. Qxd4 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1bR2rkp/p3Q1p1/8/P5P1/1Pp5/2P2P1P/4R1K1 b - - 0 30"]
+[LichessURL "https://lichess.org/eAgR8GC2#59"]
+[PuzzleId "YyyfU"]
+[Themes "advantage endgame intermezzo short"]
+
+30... Rxe6 31. Rxe6 Rxc7 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p4p1/2qpr2p/p4R2/5P2/2P3PK/PP5P/4R3 w - - 0 30"]
+[LichessURL "https://lichess.org/ZiY5mOrV/black#58"]
+[PuzzleId "zedEs"]
+[Themes "advantage endgame hangingPiece intermezzo queenRookEndgame short"]
+
+30. Rxf8+ Kh7 31. Rxe6 *
+
+
+
+[Event "Intermezzo"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/2n1p3/8/3q4/5B2/PP3PPP/R1BQ1RK1 w kq - 0 13"]
+[LichessURL "https://lichess.org/4oCiLeDp/black#24"]
+[PuzzleId "cPi5X"]
+[Themes "crushing intermezzo middlegame short"]
+
+13. Bxc6+ bxc6 14. Qxd4 *
+
+
+

@@ -1,0 +1,833 @@
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1b1r/pp3kpp/2p1b3/8/8/1P4P1/P2PQP1P/R1B1R1K1 w - - 0 15"]
+[LichessURL "https://lichess.org/3vDqDS1M/black#28"]
+[PuzzleId "M66JS"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+15. Qxe6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1p2R1p1/pNp5/2P2p2/4pq2/1P6/PK2QP2/7r b - - 2 30"]
+[LichessURL "https://lichess.org/2uvR1QYI#59"]
+[PuzzleId "GTzGQ"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+30... Qc1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4r/ppk3p1/3pb2p/1q2p3/7N/2P4P/PP1Q2P1/2KR3R w - - 0 23"]
+[LichessURL "https://lichess.org/l2uevIfO/black#44"]
+[PuzzleId "rGgHU"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+23. Qxd6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q1ppp/2p2b2/p7/Pp2P3/1P2QN1P/1PR1KPP1/1r6 b - - 6 27"]
+[LichessURL "https://lichess.org/XJqZrydc#53"]
+[PuzzleId "wnBIT"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+27... Qd1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/3bk3/p1p1p1pB/q2p4/1b1P4/2N2Q2/PPP1KP2/r7 w - - 0 22"]
+[LichessURL "https://lichess.org/vCgOTPU7/black#42"]
+[PuzzleId "pKf6n"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+22. Qxf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p1R1pp1/3p3p/2pP2B1/1qP5/1P1Q1P2/1P3KPP/r7 b - - 0 23"]
+[LichessURL "https://lichess.org/WpvulMnu#45"]
+[PuzzleId "bcdwH"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+23... Qe1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q3/pp2kpp1/2p3p1/2P1p3/1P6/P2Q2P1/5P1P/6K1 w - - 10 32"]
+[LichessURL "https://lichess.org/qRAdplAh/black#62"]
+[PuzzleId "CRjoA"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+32. Qd6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4qpk1/6pp/1Q6/P6P/1P1B2P1/2PK1P2/6r1 b - - 6 41"]
+[LichessURL "https://lichess.org/W4Kdlmhx#81"]
+[PuzzleId "Z7eql"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+41... Qe1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p4/4p3/3qk3/1Q5P/6PK/8 w - - 3 53"]
+[LichessURL "https://lichess.org/Fe4mPyPC/black#104"]
+[PuzzleId "GhiHO"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+53. Qf3# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/p1p1q2p/1p1p3Q/5p1R/3N4/3B1P2/PPPK1P2/6r1 b - - 0 21"]
+[LichessURL "https://lichess.org/uuFIlhCQ#41"]
+[PuzzleId "QdDh2"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+21... Qe1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/4p1kp/3pp1p1/P1p1n3/7P/5QP1/5P1K/3r1q2 w - - 0 32"]
+[LichessURL "https://lichess.org/ZG79O5yR/black#62"]
+[PuzzleId "BhK2Y"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+32. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3pp1/2p2qp1/2Qp4/1P1PP3/3BP1P1/4R1KP/r7 b - - 2 27"]
+[LichessURL "https://lichess.org/rlt6wil9#53"]
+[PuzzleId "Nb6I1"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+27... Qf1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5r1/ppp2pk1/2np4/2b1pq2/7R/2PP1N1P/PP1Q1PP1/R5K1 w - - 2 22"]
+[LichessURL "https://lichess.org/nQZG76Mi/black#42"]
+[PuzzleId "66now"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+22. Qh6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/8/4P1B1/2p4p/p1P3pP/1R3q2/2KR3Q/2B5 b - - 0 35"]
+[LichessURL "https://lichess.org/OhqHASEF#69"]
+[PuzzleId "WnrpD"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+35... Qxb3# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6Kp/8/3pk3/4q3/7P/P7/5Q2 w - - 12 64"]
+[LichessURL "https://lichess.org/6PIjyLyj/black#126"]
+[PuzzleId "iwAWP"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove queenEndgame"]
+
+64. Qf6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5qk1/p7/2Q3p1/8/8/2B3P1/PPP3KP/3r4 b - - 2 35"]
+[LichessURL "https://lichess.org/fVhiFXk4#69"]
+[PuzzleId "y1mcK"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+35... Qf1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/1kq5/5Q2/3b1P2/7P/R6K/3r4 w - - 13 58"]
+[LichessURL "https://lichess.org/J8RIRlUE/black#114"]
+[PuzzleId "dBgtz"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+58. Qa5# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pppp1ppp/8/3P4/3q4/2N1P3/P1Q2KPP/R4B1R b - - 0 15"]
+[LichessURL "https://lichess.org/dHIy6iWv#29"]
+[PuzzleId "Jzvdv"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+15... Qxe3# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1b2/2p2kpp/p1n1b3/1p1n4/8/7P/PP2QPP1/RNB1R1K1 w - - 0 19"]
+[LichessURL "https://lichess.org/pWeQTPFz/black#36"]
+[PuzzleId "YbxCW"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+19. Qxe6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4qppp/2Q5/8/2P5/5P2/P2R1KPP/1r6 b - - 2 29"]
+[LichessURL "https://lichess.org/haWv9r9w#57"]
+[PuzzleId "dz1za"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+29... Qe1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/2pp1kpp/5q2/2p5/8/3P1rP1/P1P4P/4Q1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/ex36Euva/black#50"]
+[PuzzleId "Mva6y"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+26. Qe8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3q1pk/2p4p/3p4/2p2Q2/P1P2P2/1P1R1KPP/r7 b - - 0 33"]
+[LichessURL "https://lichess.org/b0fCtiGt#65"]
+[PuzzleId "ai6Hf"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+33... Qe1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1b1r/p4kpp/2n1p3/1b6/1n6/1Q6/PP1P1PPP/R1B1R1K1 w - - 0 15"]
+[LichessURL "https://lichess.org/UVFziREQ/black#28"]
+[PuzzleId "ZVCeE"]
+[Themes "dovetailMate mate mateIn1 oneMove opening"]
+
+15. Qxe6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/1p1p1q1p/3P2p1/1PPBB3/6P1/3Q2KP/r7 b - - 2 35"]
+[LichessURL "https://lichess.org/NQQpSUOZ#69"]
+[PuzzleId "m10xt"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+35... Qf1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/pb4kp/1pq3p1/2p5/2n3P1/2P1p3/P4QPK/8 w - - 2 42"]
+[LichessURL "https://lichess.org/BwAnmI9G/black#82"]
+[PuzzleId "natFz"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+42. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1k/p5p1/2q4p/4P1PP/1P1Q1P2/PK1R4/6r1 b - - 0 35"]
+[LichessURL "https://lichess.org/OKfxG42a#69"]
+[PuzzleId "WfaNz"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+35... Qc1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/p3p1kp/4q1p1/8/3p4/1P2bQ2/P5K1/8 w - - 0 37"]
+[LichessURL "https://lichess.org/C9oGqNkf/black#72"]
+[PuzzleId "5ULRR"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+37. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5p1p/p7/4Bq2/P2Q2R1/P3P1KP/2r5 b - - 1 30"]
+[LichessURL "https://lichess.org/9tFLKDBO#59"]
+[PuzzleId "jYGRa"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove"]
+
+30... Qf1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/3q2kp/2p3p1/p2p4/P4Q2/8/2r2P2/6K1 w - - 2 40"]
+[LichessURL "https://lichess.org/kYFopU2R/black#78"]
+[PuzzleId "KM012"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+40. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2k1/p4ppp/2p5/7b/2P2N2/P1Q2P2/1PK3PP/3RrB1R b - - 0 21"]
+[LichessURL "https://lichess.org/y7T97sW3#41"]
+[PuzzleId "U8Np3"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+21... Qxd1# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q6r/8/8/p3p2p/3bk3/1Q6/5RPP/6K1 w - - 6 54"]
+[LichessURL "https://lichess.org/hSNVd5qS/black#106"]
+[PuzzleId "TMVKc"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+54. Qf3# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/3p4/5p2/4qk2/1Q6/1P5K/8 w - - 22 68"]
+[LichessURL "https://lichess.org/Nk7vWxM9/black#134"]
+[PuzzleId "RHmBr"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+68. Qg3# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/p3n1kp/1p2q1r1/8/5Q1K/5N2/P6P/8 w - - 10 41"]
+[LichessURL "https://lichess.org/90Cb36WJ/black#80"]
+[PuzzleId "80I4e"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+41. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1r/pp3kpp/4p3/3p1nq1/8/5P2/PPP1Q2P/RN2R2K w - - 0 22"]
+[LichessURL "https://lichess.org/8iM3YUzl/black#42"]
+[PuzzleId "HkwTQ"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+22. Qxe6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/p1qr2kp/2p3p1/1p3p2/1Q6/P3P2P/1P3PP1/6K1 w - - 4 30"]
+[LichessURL "https://lichess.org/sd5srQCf/black#58"]
+[PuzzleId "iFbz2"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+30. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/2p2kp1/pp1b1q1p/3p4/3P4/2P5/PPK1Q3/8 w - - 0 36"]
+[LichessURL "https://lichess.org/1KvNWVVz/black#70"]
+[PuzzleId "0dCph"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+36. Qe8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b5/1pk1r3/p5Q1/q2pn3/4N3/2P2P2/P1P3PP/R4RK1 w - - 7 26"]
+[LichessURL "https://lichess.org/wJA2dfIU/black#50"]
+[PuzzleId "Lx7bJ"]
+[Themes "dovetailMate mate mateIn1 middlegame oneMove"]
+
+26. Qd6# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R4r2/1r2p1kp/3p2p1/4p3/1p6/1R6/1P3Q1q/5K2 w - - 2 40"]
+[LichessURL "https://lichess.org/jEnl6D5M/black#78"]
+[PuzzleId "WBhaE"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+40. Qxf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/8/6p1/6kp/8/4P3/q5PK/8 w - - 4 42"]
+[LichessURL "https://lichess.org/ZYLJPWf2/black#82"]
+[PuzzleId "on76j"]
+[Themes "dovetailMate endgame master mate mateIn1 oneMove queenEndgame"]
+
+42. Qf4# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/8/3q1p2/2pk4/8/5P2/6K1/8 w - - 4 60"]
+[LichessURL "https://lichess.org/zGMTpmwf/black#118"]
+[PuzzleId "lyapC"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+60. Qe4# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/2r1kp1p/p3p1p1/1p6/8/P6P/1q3PP1/3Q2K1 w - - 0 34"]
+[LichessURL "https://lichess.org/IQ746H7l/black#66"]
+[PuzzleId "UQnoA"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+34. Qd8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/8/p1p1q1p1/4p2p/3pk3/P6P/6P1/6K1 w - - 4 44"]
+[LichessURL "https://lichess.org/3bqkwSl2/black#86"]
+[PuzzleId "GWIfC"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+44. Qf3# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/3r1kpp/p1pq1p2/8/2p5/2PPQ3/PP4PP/6K1 w - - 0 27"]
+[LichessURL "https://lichess.org/kGjwVRrS/black#52"]
+[PuzzleId "UNPJ0"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+27. Qe8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R5p/1np2kp1/1p1p1p2/1P6/2q2P2/2P1Q1PP/r4B1K w - - 1 29"]
+[LichessURL "https://lichess.org/XKGcQvdC/black#56"]
+[PuzzleId "2ukKz"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+29. Qe7# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/8/3pk1p1/4q3/8/5Q2 w - - 10 61"]
+[LichessURL "https://lichess.org/MeHRj9d9/black#120"]
+[PuzzleId "MS3pm"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+61. Qf5# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/1p4kp/b3r1p1/3n4/PQ6/3r2P1/5P1P/6K1 w - - 4 39"]
+[LichessURL "https://lichess.org/n0MfsLU2/black#76"]
+[PuzzleId "HTh0U"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+39. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/p1r3kp/1p2p1p1/4q3/P2p4/1P3QPP/6PK/8 w - - 0 33"]
+[LichessURL "https://lichess.org/ZfbljNnu/black#64"]
+[PuzzleId "1wo18"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove"]
+
+33. Qf8# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/p5p1/2pp4/2qk4/P7/5PK1/8/8 w - - 19 46"]
+[LichessURL "https://lichess.org/y5HqFzxm/black#90"]
+[PuzzleId "SWJZ7"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenEndgame"]
+
+46. Qe4# *
+
+
+
+[Event "Dovetail Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbq1b1r/p1pn1kpp/2Q5/3Pp3/2pP4/8/PP1P1PPP/RNB1K2R w KQ - 0 11"]
+[LichessURL "https://lichess.org/mAfbNqNg/black#20"]
+[PuzzleId "hrUr4"]
+[Themes "dovetailMate mate mateIn1 oneMove opening"]
+
+11. Qe6# *
+
+
+

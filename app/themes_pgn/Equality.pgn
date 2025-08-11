@@ -1,0 +1,442 @@
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/ppn1p1pp/3P4/4pP2/P1B2K2/5P1P/8 w - - 0 38"]
+[LichessURL "https://lichess.org/M264oWGf/black#74"]
+[PuzzleId "6wG0r"]
+[Themes "endgame equality short"]
+
+38. Kxe4 exd5+ 39. Kxd5 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5q1k/1p2p1Qp/8/3P1P2/1P2P3/1K4R1/8 b - - 0 51"]
+[LichessURL "https://lichess.org/AX2RQ1WZ#101"]
+[PuzzleId "mNRNY"]
+[Themes "endgame equality short"]
+
+51... Qxg6 52. Rxg6 Kxg6 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3r4/p2P3p/5p2/4N3/8/K5P1/8 w - - 0 43"]
+[LichessURL "https://lichess.org/BcCtT31T/black#84"]
+[PuzzleId "zMeqG"]
+[Themes "endgame equality fork short"]
+
+43. Nf6+ Kf7 44. Nxd7 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1pp2pp1/1p1p3p/4n3/4P3/2N2B2/PPPQ1P1P/R4RK1 b - - 0 17"]
+[LichessURL "https://lichess.org/XbQNenRY#33"]
+[PuzzleId "KBxas"]
+[Themes "equality fork middlegame short"]
+
+17... Nxf3+ 18. Kg2 Nxd2 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/7p/6p1/8/pB3kP1/3K3P/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/1JXS2Jah/black#94"]
+[PuzzleId "WjmKm"]
+[Themes "endgame equality fork short"]
+
+48. Bd6+ Kg5 49. Bxb8 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1Q2nk2/4q2p/3R4/3P4/1KP5/1P6/8 b - - 0 57"]
+[LichessURL "https://lichess.org/Xf1W8sEB#113"]
+[PuzzleId "BYQoh"]
+[Themes "endgame equality short"]
+
+57... Qxd5+ 58. Qxd5+ Nxd5 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r2k1/1b3pbp/3Rp1p1/4P3/2p2P2/2q4P/5RPN/3Q2K1 w - - 2 33"]
+[LichessURL "https://lichess.org/Sh6wIdPn/black#64"]
+[PuzzleId "hoNTt"]
+[Themes "equality kingsideAttack middlegame short"]
+
+33. Rxd8+ Rxd8 34. Qxd8+ *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/p3bppp/1pP1p3/1P6/4Nn2/2P2N2/RPB2PPP/2R3K1 b - - 2 17"]
+[LichessURL "https://lichess.org/ASqDghN6#33"]
+[PuzzleId "oWPdP"]
+[Themes "equality fork middlegame short"]
+
+17... Ne2+ 18. Kf1 Nxc1 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pp5/3p3k/p1nPp2p/2P1P3/2N1N1r1/PP6/3K4 w - - 0 32"]
+[LichessURL "https://lichess.org/Of0F28Ot/black#62"]
+[PuzzleId "vheUe"]
+[Themes "endgame equality fork short"]
+
+32. Nf5+ Kg5 33. Nxg3 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3ppB/8/2p1P3/3p4/1Pb1PPB1/P4KPP/R2Q3R b - - 0 19"]
+[LichessURL "https://lichess.org/Sx3BRWEc#37"]
+[PuzzleId "Ta8qa"]
+[Themes "equality hangingPiece middlegame oneMove"]
+
+19... Kxh7 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5k2/8/2q2p2/5RK1/8 w - - 0 65"]
+[LichessURL "https://lichess.org/JmAGRVLI/black#128"]
+[PuzzleId "cBvHI"]
+[Themes "endgame equality fork queenRookEndgame short"]
+
+65. Rxf3+ Qxf3+ 66. Kxf3 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1b5p/5r2/1p1p3P/pP1p3R/3P4/B1PN4/2K2R2 b - - 1 32"]
+[LichessURL "https://lichess.org/NSiVwxVu#63"]
+[PuzzleId "oOopp"]
+[Themes "equality middlegame short"]
+
+32... Rxf1+ 33. Nxf1 Rxf1+ *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p5b1/1pq1b1p1/5p1p/5P2/2P4P/PP1BQ1P1/4RRK1 w - - 0 24"]
+[LichessURL "https://lichess.org/G3hfIhrC/black#46"]
+[PuzzleId "QEP4n"]
+[Themes "equality kingsideAttack middlegame short"]
+
+24. Qxe6+ Qxe6 25. Rxe6 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/p4Bp1/2pp1n1p/1p2p3/3PP3/2N2N1P/PPP2PP1/R1BQK2R b KQkq - 0 7"]
+[LichessURL "https://lichess.org/UDONCDk9#13"]
+[PuzzleId "ZShLp"]
+[Themes "equality hangingPiece oneMove opening"]
+
+7... Kxf7 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1p3k1r/2p5/B2p1KP1/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/xnXQAFF0/black#112"]
+[PuzzleId "FovYQ"]
+[Themes "endgame equality fork short"]
+
+57. g5+ Kg7 58. gxh6+ *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/pQq2pp1/2Bppn1p/5b2/3P1B2/4PN2/PP3PPP/R3K2R b KQk - 0 14"]
+[LichessURL "https://lichess.org/Vn7pmYas#27"]
+[PuzzleId "foEu3"]
+[Themes "equality middlegame short"]
+
+14... Qxc6 15. Qxc6+ Rxc6 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pp5p/3pp1p1/2p3b1/2P1P3/4Q3/PPP3PP/RNB1K2R w KQkq - 0 13"]
+[LichessURL "https://lichess.org/2o6JPkrk/black#24"]
+[PuzzleId "BU83o"]
+[Themes "equality middlegame short"]
+
+13. Qxg5 Qxg5 14. Bxg5 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q6/5k2/2Qp1p1p/b2Pp1p1/4P3/7P/R4PP1/6K1 b - - 1 30"]
+[LichessURL "https://lichess.org/2ripyTEQ#59"]
+[PuzzleId "5NnCi"]
+[Themes "endgame equality fork short"]
+
+30... Qb1+ 31. Kh2 Qxa2 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/pp2qppp/3B4/4n3/2b5/2P4P/1K1Q1PP1/3R3R w - - 0 23"]
+[LichessURL "https://lichess.org/qo8UoRNb/black#44"]
+[PuzzleId "2AwlB"]
+[Themes "equality middlegame short"]
+
+23. Bxe7 Rxd2+ 24. Rxd2 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k4r1/1ppR4/p7/6r1/4P3/2P2P1R/PP4P1/6K1 b - - 0 30"]
+[LichessURL "https://lichess.org/tAQ0YFT6#59"]
+[PuzzleId "55pi7"]
+[Themes "endgame equality oneMove rookEndgame"]
+
+30... Rxg2+ *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1pp5/p1N4p/3r4/1P2p3/P7/1B4PP/4K3 w - - 0 31"]
+[LichessURL "https://lichess.org/82mcG5aG/black#60"]
+[PuzzleId "4yZGu"]
+[Themes "endgame equality fork short"]
+
+31. Ne7+ Kf7 32. Nxd5 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/8/2b5/P3p3/2B1P3/1P4PP/2R3K1 b - - 0 25"]
+[LichessURL "https://lichess.org/oq4Jnikp#49"]
+[PuzzleId "kxTxg"]
+[Themes "endgame equality fork short"]
+
+25... Bxe3+ 26. Kf1 Bxc1 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppB/2n1pb2/3p4/3P3P/4PN2/PPPN1PP1/R2QK2R b KQ - 0 10"]
+[LichessURL "https://lichess.org/rJZCS71M#19"]
+[PuzzleId "se0G6"]
+[Themes "equality hangingPiece oneMove opening"]
+
+10... Kxh7 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp4pp/3pb1q1/5pB1/3P4/2PB4/PP1N1PPP/R2Q2K1 b - - 1 15"]
+[LichessURL "https://lichess.org/BpzLDwVr#29"]
+[PuzzleId "cJIVI"]
+[Themes "equality hangingPiece middlegame oneMove"]
+
+15... Qxg5 *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/ppq2p2/2p1r1pp/2Pp4/8/1PBB3P/PNQ2PP1/4R1K1 b - - 5 24"]
+[LichessURL "https://lichess.org/Zy9xJXyE#47"]
+[PuzzleId "Bg29h"]
+[Themes "equality kingsideAttack middlegame short"]
+
+24... Rxe1+ 25. Bxe1 Rxe1+ *
+
+
+
+[Event "Equality"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/8/6R1/3K4/6P1/7n/8 b - - 0 69"]
+[LichessURL "https://lichess.org/qnakWh6V#137"]
+[PuzzleId "p3waO"]
+[Themes "endgame equality fork short"]
+
+69... Nf3+ 70. Ke3 Nxg5 *
+
+
+

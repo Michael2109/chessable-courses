@@ -1,0 +1,850 @@
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1kp4p/p3b1p1/8/2P4P/2KN1P2/P4BP1/8 w - - 5 43"]
+[LichessURL "https://lichess.org/pu0AC1Dl/black#84"]
+[PuzzleId "Vxx8y"]
+[Themes "advantage endgame fork short"]
+
+43. Nc5+ Kc8 44. Nxe6 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/4Qp1p/1p3q2/p7/2pP4/5N1P/4RK2/8 b - - 0 36"]
+[LichessURL "https://lichess.org/dO7g4YhV#71"]
+[PuzzleId "gaAjB"]
+[Themes "advantage endgame short"]
+
+36... Qxe7 37. Rxe7 Kxe7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp1rBpb1/6p1/3B3p/5P2/1P6/P4PPP/3R2K1 w - - 3 26"]
+[LichessURL "https://lichess.org/6D2kyiqr/black#50"]
+[PuzzleId "FFuhr"]
+[Themes "advantage discoveredAttack endgame short"]
+
+26. Bxf7+ Kxf7 27. Rxd7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/p1p1rppp/2p5/4n3/5B2/7P/PPP2PP1/RN2R1K1 b k - 3 14"]
+[LichessURL "https://lichess.org/b3NfiliK#27"]
+[PuzzleId "aUjQ8"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+
+14... Nf3+ 15. gxf3 Rxe1+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1r1kpp/p3p3/4B3/P1P5/8/2r2bPP/2R2RK1 w - - 0 29"]
+[LichessURL "https://lichess.org/t8E12MtA/black#56"]
+[PuzzleId "FuxaY"]
+[Themes "advantage endgame short"]
+
+29. Rxf2+ Rxf2 30. Kxf2 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pbq2ppp/1p2p3/3pP3/1P2n3/1P3NP1/PB2QPBP/2R1K2R b K - 0 16"]
+[LichessURL "https://lichess.org/ziG2qkJc#31"]
+[PuzzleId "8ibKH"]
+[Themes "advantage long middlegame"]
+
+16... Qxc1+ 17. Bxc1 Rxc1+ 18. Qd1 Rxd1+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p5p/3b2p1/1q1P2N1/8/8/2R2PP1/2Q3K1 w - - 0 35"]
+[LichessURL "https://lichess.org/umvH6ZUC/black#68"]
+[PuzzleId "QBpsV"]
+[Themes "advantage endgame short"]
+
+35. Rc8+ Rxc8 36. Qxc8+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kp1/3b3p/3P3r/8/4N3/5PP1/2R2K2 b - - 3 48"]
+[LichessURL "https://lichess.org/ehNB6oR2#95"]
+[PuzzleId "2GrRm"]
+[Themes "advantage endgame short skewer"]
+
+48... Rh1+ 49. Ke2 Rxc1 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/kp6/3p3q/4b3/P1P1P3/1P2r3/R2K1Q2 w - - 0 47"]
+[LichessURL "https://lichess.org/V2wLX09y/black#92"]
+[PuzzleId "Cmsns"]
+[Themes "advantage endgame short"]
+
+47. Qxe2+ Qxe2+ 48. Kxe2 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p4R2/2k4p/4P3/8/PPP2K1n/8 b - - 0 35"]
+[LichessURL "https://lichess.org/aJtQxtPw#69"]
+[PuzzleId "2kQVj"]
+[Themes "advantage endgame fork short"]
+
+35... Ng4+ 36. Kf3 Nxf6 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/p2b3p/2p3p1/2B1b3/N1P2R1Q/1P5P/P5rK/5R2 w - - 1 35"]
+[LichessURL "https://lichess.org/uO8BRpmM/black#68"]
+[PuzzleId "jn7i7"]
+[Themes "advantage hangingPiece middlegame short"]
+
+35. Kxg2 Qxh4 36. Rxh4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4pp1/5R1p/P3N3/n3Pn2/4Q3/5PPP/5K2 b - - 0 26"]
+[LichessURL "https://lichess.org/3zVKBII8#51"]
+[PuzzleId "MvDPJ"]
+[Themes "advantage endgame short"]
+
+26... Rd1+ 27. Qe1 Rxe1+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3r/p1k2ppp/B1p5/3npb2/1b6/2N2P2/PPPB2PP/R1K4R w - - 5 14"]
+[LichessURL "https://lichess.org/eHoaat96/black#26"]
+[PuzzleId "ylgfn"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+14. Nxd5+ cxd5 15. Bxb4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/p4ppp/1ppq1n2/4P3/4P3/2NQ3P/PP3PP1/R2R2K1 b - - 0 18"]
+[LichessURL "https://lichess.org/TMnYYHAp#35"]
+[PuzzleId "uE6eF"]
+[Themes "advantage middlegame short"]
+
+18... Qxd3 19. Rxd3 Rxd3 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/3k3N/p7/1pp1n3/4P3/P3N1P1/1PP1K3/8 w - - 1 33"]
+[LichessURL "https://lichess.org/RqtWvCBL/black#64"]
+[PuzzleId "kktqV"]
+[Themes "advantage endgame fork short"]
+
+33. Nf6+ Ke6 34. Nxg8 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2r2/p3Q1kp/1q3pp1/8/1r1p4/1P3P2/P3BKPP/R6R b - - 1 21"]
+[LichessURL "https://lichess.org/VtZ4xAsy#41"]
+[PuzzleId "1sY0W"]
+[Themes "advantage defensiveMove master middlegame short"]
+
+21... Rf7 22. Qxf7+ Kxf7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/1p2n1p1/p3n2p/4N3/PP2P3/2P5/6PP/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/a6DZI6Hw/black#46"]
+[PuzzleId "sqbG2"]
+[Themes "advantage endgame fork short"]
+
+24. Nf7+ Kh7 25. Nxd8 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p5p1/1p6/4nN2/2P1P3/1P4P1/P2R3P/6K1 b - - 2 40"]
+[LichessURL "https://lichess.org/q3yzdFRb#79"]
+[PuzzleId "wWpVn"]
+[Themes "advantage endgame fork master short"]
+
+40... Nf3+ 41. Kf2 Nxd2 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/3p1p2/1b1Pp1p1/1p1qP1Pp/2rpNP1P/3R4/4RKN1 w - - 2 57"]
+[LichessURL "https://lichess.org/ptOO4I5x/black#112"]
+[PuzzleId "lmJC6"]
+[Themes "advantage fork master middlegame short"]
+
+57. Nf5+ Kh8 58. Nxd4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1pp1pp1p/3p2p1/p2P4/1n2PP2/P1Q2N2/1PP3PP/2KR1B1R b - - 0 12"]
+[LichessURL "https://lichess.org/qdcRahde#23"]
+[PuzzleId "Uo5ax"]
+[Themes "advantage fork middlegame short"]
+
+12... Na2+ 13. Kb1 Nxc3+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3r2p1/5p1p/q7/8/6P1/p3QP1P/R5K1 w - - 0 35"]
+[LichessURL "https://lichess.org/t9rmIcSi/black#68"]
+[PuzzleId "vRCzp"]
+[Themes "advantage endgame fork master masterVsMaster short"]
+
+35. Qe8+ Kh7 36. Qxd7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n4/3kp1R1/3p4/r5P1/4PK1P/4B3/8 b - - 0 45"]
+[LichessURL "https://lichess.org/Bcznamsy#89"]
+[PuzzleId "rQvls"]
+[Themes "advantage endgame fork short"]
+
+45... Ne5+ 46. Kf2 Nxg6 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5r/4kp1p/4bb2/pp3p2/2pN4/4P3/PPK2PPP/3R1B1R w - - 2 20"]
+[LichessURL "https://lichess.org/0EC7ZXBp/black#38"]
+[PuzzleId "lH4Dg"]
+[Themes "advantage fork interference middlegame short"]
+
+20. Nc6+ Kf8 21. Nxb8 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pqp4p/1p1p2p1/3P4/2PQ1n2/1P3N2/PB3PPP/R5K1 b - - 2 29"]
+[LichessURL "https://lichess.org/7Z5vEEJN#57"]
+[PuzzleId "tJAcL"]
+[Themes "advantage fork middlegame short"]
+
+29... Ne2+ 30. Kf1 Nxd4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/7p/1ppb1kp1/5p2/7P/1B2R3/5P1P/6K1 w - - 1 47"]
+[LichessURL "https://lichess.org/0xnzBFuO/black#92"]
+[PuzzleId "I8wU3"]
+[Themes "advantage endgame fork short"]
+
+47. Re6+ Kg7 48. Rxd6 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p1r1p1/R7/B1b2p1p/4rP2/1P4P1/P1R3KP/8 b - - 2 32"]
+[LichessURL "https://lichess.org/zI3GWHo6#63"]
+[PuzzleId "Nd5Pw"]
+[Themes "advantage endgame short"]
+
+32... Re2+ 33. Rxe2 Rxe2+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r1q2/p1p3p1/2p4p/3bN3/2P5/8/PP2QbPP/4R1K1 w - - 0 28"]
+[LichessURL "https://lichess.org/xz4qVcav/black#54"]
+[PuzzleId "eiwHd"]
+[Themes "advantage master middlegame short"]
+
+28. Qxf2 Qxf2+ 29. Kxf2 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/1p6/2p2Qk1/2Pp4/1P2p2p/2B4P/5PP1/6K1 b - - 0 43"]
+[LichessURL "https://lichess.org/ZsPvr7G3#85"]
+[PuzzleId "RxxEL"]
+[Themes "advantage endgame short"]
+
+43... Qxf6 44. Bxf6 Kxf6 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pbp3pp/8/4qp2/3Pp3/8/PPP2PPP/RN1Q1RK1 w - - 0 17"]
+[LichessURL "https://lichess.org/aSDXU6rK/black#32"]
+[PuzzleId "m5gFN"]
+[Themes "advantage middlegame short"]
+
+17. dxe5 Rxd1 18. Rxd1 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6pp/p7/1pq1p3/3nP1BQ/1P6/PPr3PP/1R5K b - - 3 26"]
+[LichessURL "https://lichess.org/muudh2Ab#51"]
+[PuzzleId "ES8Yz"]
+[Themes "advantage endgame short"]
+
+26... Rc1+ 27. Qe1 Rxe1+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p6/4R3/3p2bP/1p4P1/1P6/P7/1K6 w - - 0 36"]
+[LichessURL "https://lichess.org/N7mmH8H2/black#70"]
+[PuzzleId "k1gh3"]
+[Themes "advantage endgame fork short"]
+
+36. Rg6+ Kh7 37. Rxg5 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/pp3kp1/3Br3/8/P1pP2p1/1nP2P2/8/1R2RNK1 b - - 0 33"]
+[LichessURL "https://lichess.org/4REwAGXI#65"]
+[PuzzleId "8bHUm"]
+[Themes "advantage master middlegame short"]
+
+33... Rxe1 34. Rxe1 Rxe1 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp3pp1/2pk1n2/4bP1p/4P3/4N2P/PPK3B1/8 w - - 0 25"]
+[LichessURL "https://lichess.org/1SUsWiQC/black#48"]
+[PuzzleId "b6QU0"]
+[Themes "advantage deflection endgame short"]
+
+25. Nc4+ Kc5 26. Nxe5 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1nr/8/3p1p1b/p2PpPpp/1pP1P3/3nRN2/B5PP/1R1Q3K b kq - 0 27"]
+[LichessURL "https://lichess.org/z6cVNjdQ#53"]
+[PuzzleId "PcmOo"]
+[Themes "advantage fork middlegame short"]
+
+27... Nf2+ 28. Kg1 Nxd1 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/p1rbkppp/1p2p3/3pP3/1P1n1P2/P1NB4/5P1P/2R1K2R w K - 3 22"]
+[LichessURL "https://lichess.org/FqZeRUlP/black#42"]
+[PuzzleId "ONCie"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+22. Nxd5+ exd5 23. Rxc7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/6p1/2K5/4P2p/1P6/B4P2/8 b - - 0 42"]
+[LichessURL "https://lichess.org/18ea0fJv#83"]
+[PuzzleId "ETegz"]
+[Themes "advancedPawn advantage bishopEndgame endgame long promotion"]
+
+42... h3 43. b4 h2 44. Bd5 h1=Q *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4p2/p3b1p1/4P2p/3N4/1P2K3/3R2PP/8 w - - 4 36"]
+[LichessURL "https://lichess.org/UvzgBvWQ/black#70"]
+[PuzzleId "h6ncW"]
+[Themes "advantage endgame short"]
+
+36. Nxe6 Rxd2 37. Kxd2 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp1n1pbp/6p1/q3n3/8/1BN1BN1P/PPQ2PP1/R3R2K b - - 7 17"]
+[LichessURL "https://lichess.org/hnb7zPK4#33"]
+[PuzzleId "Wmc7o"]
+[Themes "advantage middlegame short"]
+
+17... Nxf3 18. Bxf7+ Kxf7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p7/2p4p/1p2Pkp1/8/P3R3/6KP/8 w - - 0 34"]
+[LichessURL "https://lichess.org/OTBYoqsu/black#66"]
+[PuzzleId "Xct3S"]
+[Themes "advantage endgame master rookEndgame short skewer"]
+
+34. Rf3+ Kxe5 35. Rxf8 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/2p2p1N/pp6/8/3P4/2P5/PPK3bP/8 b - - 0 26"]
+[LichessURL "https://lichess.org/xsNPLGD4#51"]
+[PuzzleId "HCePK"]
+[Themes "advantage endgame fork short"]
+
+26... Be4+ 27. Kd2 Bxh7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p7/8/pBk2p2/P6R/2p2P2/6n1/2K5 w - - 1 43"]
+[LichessURL "https://lichess.org/Jcw252MG/black#84"]
+[PuzzleId "jScWl"]
+[Themes "advantage endgame short skewer"]
+
+43. Rc4+ Kd6 44. Rxc8 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p2b1ppp/2q1p3/6PP/5Q2/1PpRR3/P1P2P2/1K6 b - - 1 28"]
+[LichessURL "https://lichess.org/A8siQ2ki#55"]
+[PuzzleId "0DJGQ"]
+[Themes "advantage endgame long queensideAttack"]
+
+28... Qh1+ 29. Re1 Qxe1+ 30. Qc1 Qxc1+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2r2k2/3pp3/2n2p2/1R1K3R/7P/8 w - - 0 39"]
+[LichessURL "https://lichess.org/ikowV4T7/black#76"]
+[PuzzleId "aLk6l"]
+[Themes "advantage endgame master short skewer"]
+
+39. Rh6+ Kf5 40. Rxc6 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/R5pp/1p3p2/3P4/8/2P1r3/PP1b1NPP/5R1K b - - 2 26"]
+[LichessURL "https://lichess.org/ng0q0ddG#51"]
+[PuzzleId "0UVZb"]
+[Themes "advantage endgame short"]
+
+26... Re1 27. g3 Rxf1+ *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n2k1/1p1b1p1p/p5p1/4p3/2P1N3/P4B1P/1P3PP1/6K1 w - - 2 23"]
+[LichessURL "https://lichess.org/DFflEzmZ/black#44"]
+[PuzzleId "Icqay"]
+[Themes "advantage endgame fork short"]
+
+23. Nf6+ Kg7 24. Nxd7 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/ppp1qk2/3p2p1/5b2/2PPBQP1/8/PP2PP2/R3K3 b Q - 0 20"]
+[LichessURL "https://lichess.org/bdDYQgez#39"]
+[PuzzleId "Fzs50"]
+[Themes "advantage endgame master short"]
+
+20... Qxe4 21. Qxe4 Bxe4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/r3n1p1/p1p1PqPp/5r1P/2BP1Q2/5R1K/5R2 w - - 0 39"]
+[LichessURL "https://lichess.org/QVgP5zFm/black#76"]
+[PuzzleId "5bjre"]
+[Themes "advantage master middlegame short"]
+
+39. Qxf4 Qxf4+ 40. Rxf4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/q4pp1/p3pn1p/2rp4/1P1N4/3P3P/P2Q1PP1/2R2RK1 b - - 0 23"]
+[LichessURL "https://lichess.org/boEKWHZF#45"]
+[PuzzleId "Xe7y6"]
+[Themes "advantage long middlegame"]
+
+23... Rxc1 24. Rxc1 Rxc1+ 25. Qxc1 Qxd4 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4p1/k1n1p3/2p1r3/P1R1N1P1/3r4/1R3K2/8 w - - 0 36"]
+[LichessURL "https://lichess.org/vtjBFgvD/black#70"]
+[PuzzleId "VZcon"]
+[Themes "advantage endgame fork master masterVsMaster short"]
+
+36. Nxc5+ Rxc5 37. Rxc5 *
+
+
+
+[Event "Advantage"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1n1/p1pn1p2/1p1pp2q/8/3P4/3QPNP1/PPP1BP2/R3K3 b Qq - 2 15"]
+[LichessURL "https://lichess.org/eGT3AbZf#29"]
+[PuzzleId "lR54G"]
+[Themes "advantage middlegame short skewer"]
+
+15... Qh1+ 16. Kd2 Qxa1 *
+
+
+

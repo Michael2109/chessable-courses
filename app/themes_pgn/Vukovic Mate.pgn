@@ -1,0 +1,187 @@
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pp6/2p4p/3p1r2/2nP1N1k/P1P1P2P/5K2/1R4R1 w - - 5 26"]
+[LichessURL "https://lichess.org/6jrDrYah/black#50"]
+[PuzzleId "IPumF"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+26. Rg4# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/4N3/5p2/P7/2R2nkP/1r6/3R1K2 b - - 4 38"]
+[LichessURL "https://lichess.org/EsENfZWx#75"]
+[PuzzleId "s8uN2"]
+[Themes "endgame master mate mateIn1 oneMove vukovicMate"]
+
+38... Rf2# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kn2/3n2R1/p3N3/2ppPp2/5P1B/Pq2P3/8/5K2 w - - 0 46"]
+[LichessURL "https://lichess.org/wPUwTSxT/black#90"]
+[PuzzleId "nYdZL"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+46. Re7# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/1p6/p4k1P/3pRn1K/3P4/8/P7/5R2 b - - 6 46"]
+[LichessURL "https://lichess.org/8vp6XP4i#91"]
+[PuzzleId "NFjoE"]
+[Themes "endgame master mate mateIn1 oneMove vukovicMate"]
+
+46... Rg5# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6qR/1n4NK/8/8/7P/4b3/8 w - - 0 45"]
+[LichessURL "https://lichess.org/XFRckrXu/black#88"]
+[PuzzleId "gdcFq"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+45. Rxg7# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/pp6/3R4/5k1P/3p1n1K/8/PP6/5R2 b - - 1 39"]
+[LichessURL "https://lichess.org/wJuXSoGO#77"]
+[PuzzleId "Oiv6i"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+39... Rg4# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1Nn2/pp3p2/2pR4/2P5/4pq1r/1P1Q3P/1P3P2/1K6 w - - 2 37"]
+[LichessURL "https://lichess.org/yR4y7yiv/black#72"]
+[PuzzleId "beOaW"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+37. Rd8# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/p4Rpp/4p3/2k5/K1n5/8/P5PP/2R5 b - - 1 32"]
+[LichessURL "https://lichess.org/Kmiu72T4#63"]
+[PuzzleId "DyGEf"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+32... Rb4# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr2/2b2p2/p7/2pb4/1p3N1k/3P3P/PPP2R1K/6R1 w - - 0 29"]
+[LichessURL "https://lichess.org/VcqRGZ0T/black#56"]
+[PuzzleId "28LfT"]
+[Themes "mate mateIn1 middlegame oneMove vukovicMate"]
+
+29. Rg4# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k3/R5R1/4N1p1/7p/4p3/1P2P1bP/3r4/6K1 w - - 5 35"]
+[LichessURL "https://lichess.org/Ysb5Oh3s/black#68"]
+[PuzzleId "w5rBz"]
+[Themes "endgame mate mateIn1 oneMove vukovicMate"]
+
+35. Rge7# *
+
+
+
+[Event "Vukovic Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5b2/7p/n2pb3/4BN1k/1r3P2/7K/2B3R1 w - - 0 39"]
+[LichessURL "https://lichess.org/9zoCwQdW/black#76"]
+[PuzzleId "6fpV7"]
+[Themes "master mate mateIn1 middlegame oneMove vukovicMate"]
+
+39. Rg4# *
+
+
+

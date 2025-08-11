@@ -1,0 +1,20 @@
+[project]
+name = "chessable-courses"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "python-chess>=1.999",
+    "zstandard>=0.22.0",
+]
+readme = "README.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+default-groups = ["dev"]

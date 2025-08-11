@@ -1,0 +1,850 @@
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2r2/6pk/p2p1p1p/1ppPpP1q/2P3N1/PP1P3P/6P1/R2Q1RK1 w - - 1 22"]
+[LichessURL "https://lichess.org/mtt3r6FE/black#42"]
+[PuzzleId "X62JF"]
+[Themes "crushing discoveredAttack middlegame short"]
+
+22. Nxf6+ Rxf6 23. Qxh5 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2pN3p/4r3/1p6/4b3/P7/1PP5/1K2R3 b - - 1 30"]
+[LichessURL "https://lichess.org/LClXlEQ0#59"]
+[PuzzleId "D0Q99"]
+[Themes "crushing discoveredAttack endgame short"]
+
+30... Bxc2+ 31. Kxc2 Rxe1 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/p3p2p/2n5/8/2q1PP1P/2B2P2/2Q3K1 w - - 0 28"]
+[LichessURL "https://lichess.org/NnDC3kcv/black#54"]
+[PuzzleId "Ku7TU"]
+[Themes "crushing discoveredAttack endgame short"]
+
+28. Bh7+ Kxh7 29. Qxc3 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4r3/1pp2pp1/p2Pn3/P4N2/2P4P/5PP1/3RR1K1 b - - 1 30"]
+[LichessURL "https://lichess.org/Vk4dO5qK#59"]
+[PuzzleId "3ZbWi"]
+[Themes "crushing discoveredAttack endgame long"]
+
+30... Nf3+ 31. gxf3 Rxe1+ 32. Rxe1 Rxe1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/b4p1p/pq4p1/1p6/2p1N3/P1P3P1/1P2RP1P/2Q1R1K1 w - - 4 29"]
+[LichessURL "https://lichess.org/8h4ToYd4/black#56"]
+[PuzzleId "jBv4O"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+
+29. Nf6+ Qxf6 30. Rxe8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/pp2k2p/2pr2p1/3np3/1P2B3/P3P2P/5PP1/2RR1K2 b - - 4 26"]
+[LichessURL "https://lichess.org/oxsjQjbH#51"]
+[PuzzleId "XeYA9"]
+[Themes "advantage discoveredAttack endgame long"]
+
+26... Nxe3+ 27. fxe3 Rxd1+ 28. Rxd1 Rxd1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/p3p3/np6/8/2PBPP2/P4P1P/3R2K1 w - - 3 21"]
+[LichessURL "https://lichess.org/5Ug1qHx7/black#40"]
+[PuzzleId "cmIwL"]
+[Themes "advantage discoveredAttack endgame short"]
+
+21. Bxh7+ Kxh7 22. Rxd8 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p1q1ppn/p2pr2p/3N4/6Q1/8/PPP2PPP/3R2K1 b - - 5 22"]
+[LichessURL "https://lichess.org/abMJ8IMU#43"]
+[PuzzleId "vwhSJ"]
+[Themes "advantage discoveredAttack endgame kingsideAttack short"]
+
+22... Re1+ 23. Rxe1 Qxg4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3r/p1k2ppp/B1p5/3npb2/1b6/2N2P2/PPPB2PP/R1K4R w - - 5 14"]
+[LichessURL "https://lichess.org/eHoaat96/black#26"]
+[PuzzleId "ylgfn"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+14. Nxd5+ cxd5 15. Bxb4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2kr3/p1p2p1p/5p2/4n3/2pP4/3b1N2/PP3PPP/R1B1R1K1 b - - 0 17"]
+[LichessURL "https://lichess.org/8tWWo0cX#33"]
+[PuzzleId "su6wf"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+
+17... Nxf3+ 18. gxf3 Rxe1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/ppn2p1p/6p1/3B4/2P5/8/P4PPP/3R2K1 w - - 1 31"]
+[LichessURL "https://lichess.org/633J2oMp/black#60"]
+[PuzzleId "2PhmU"]
+[Themes "advantage discoveredAttack endgame short"]
+
+31. Bxf7+ Kxf7 32. Rxd8 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1pp2ppp/p2b4/3Q4/P2P4/2P4P/5PP1/R1B2RK1 b - - 2 18"]
+[LichessURL "https://lichess.org/ESIjqfQN#35"]
+[PuzzleId "mpA6e"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+18... Bh2+ 19. Kxh2 Qxd5 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp3pp/2n2p2/8/2P1N3/3P2P1/P1P1R2P/4R1K1 w - - 1 21"]
+[LichessURL "https://lichess.org/FGOx37JF/black#40"]
+[PuzzleId "lTnRY"]
+[Themes "crushing discoveredAttack endgame kingsideAttack long"]
+
+21. Nxf6+ gxf6 22. Rxe8+ Rxe8 23. Rxe8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p3p1p/p4Pp1/3n2P1/6P1/P6K/1P5B/3R4 b - - 7 42"]
+[LichessURL "https://lichess.org/5RMfdBfH#83"]
+[PuzzleId "5UUQg"]
+[Themes "advantage discoveredAttack endgame short"]
+
+42... Nf4+ 43. Bxf4 Rxd1 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp1bppp/4pn2/8/2Pq4/P2B4/1P3PPP/R1BQ1RK1 w - - 0 12"]
+[LichessURL "https://lichess.org/qkha4Rm7/black#22"]
+[PuzzleId "S043r"]
+[Themes "advantage discoveredAttack kingsideAttack opening short"]
+
+12. Bxh7+ Nxh7 13. Qxd4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/pp2q1p1/2n5/2p1b2p/4Q2P/PPP1P1P1/1B3P2/R3K2R b KQ - 0 20"]
+[LichessURL "https://lichess.org/7wF4X69V#39"]
+[PuzzleId "6wpfS"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+20... Bxc3+ 21. Bxc3 Qxe4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1b3pp1/p3p2p/1p1q4/8/P2B3P/RP3PP1/1Q1R2K1 w - - 2 22"]
+[LichessURL "https://lichess.org/jHY1bBVw/black#42"]
+[PuzzleId "bTWUZ"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+22. Bh7+ Kh8 23. Rxd5 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/2prk1pp/p1Bb1p2/1p6/3RP3/5P2/PPP3PP/2KR4 b - - 4 21"]
+[LichessURL "https://lichess.org/Yfgdnofa#41"]
+[PuzzleId "cHO5P"]
+[Themes "crushing discoveredAttack endgame long queensideAttack"]
+
+21... Bf4+ 22. Kb1 Rxd4 23. Rxd4 Rxd4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/ppp2pbp/5np1/8/3qN3/3B4/PP2QPPP/R1B2RK1 w - - 0 13"]
+[LichessURL "https://lichess.org/WyCXyq55/black#24"]
+[PuzzleId "B2OeY"]
+[Themes "advantage discoveredAttack kingsideAttack opening short"]
+
+13. Nxf6+ Bxf6 14. Qxe8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3p1p/p1q3p1/3r2b1/4Q3/2B3P1/PP3P1P/1R4K1 b - - 4 27"]
+[LichessURL "https://lichess.org/EM9dOPxk#53"]
+[PuzzleId "tIp1g"]
+[Themes "advantage discoveredAttack endgame short"]
+
+27... Rd1+ 28. Rxd1 Qxe4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/p3p3/1k1p1p1p/3P1P1P/r1PR2P1/P7/2K5 w - - 0 36"]
+[LichessURL "https://lichess.org/NHiG7uvF/black#70"]
+[PuzzleId "q6nPr"]
+[Themes "crushing discoveredAttack endgame rookEndgame short"]
+
+36. c4+ Kxc4 37. Rxa3 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/ppp2pp1/3bp2p/8/2PQ4/5B1P/PP3PP1/R1B2RK1 b kq - 0 13"]
+[LichessURL "https://lichess.org/JddupsQE#25"]
+[PuzzleId "4Xrvn"]
+[Themes "advantage discoveredAttack middlegame short"]
+
+13... Bh2+ 14. Kxh2 Qxd4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/pp3ppp/2p5/3b4/4N3/4RP2/PPP3PP/4R1K1 w - - 3 21"]
+[LichessURL "https://lichess.org/REwRXy2m/black#40"]
+[PuzzleId "27tFM"]
+[Themes "advantage discoveredAttack endgame kingsideAttack long"]
+
+21. Nf6+ gxf6 22. Rxe8+ Rxe8 23. Rxe8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/ppp4k/3p1q1P/4p3/5p2/5PnQ/PPP4R/2K3R1 b - - 5 27"]
+[LichessURL "https://lichess.org/tEuEHGAP#53"]
+[PuzzleId "ZtwNo"]
+[Themes "advantage discoveredAttack endgame short"]
+
+27... Ne2+ 28. Rxe2 Rxg1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/r4pp1/1pP1p2p/pB1pb3/7B/1R6/5PPP/6K1 w k - 0 26"]
+[LichessURL "https://lichess.org/qKeeHL3X/black#50"]
+[PuzzleId "C5CDC"]
+[Themes "advancedPawn discoveredAttack endgame mate mateIn2 promotion short"]
+
+26. c7+ Kf8 27. c8=Q# *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp2qpkp/6p1/3pn3/8/2P4P/PP3PP1/RN2Q1K1 b - - 1 18"]
+[LichessURL "https://lichess.org/1h6q5nCp#35"]
+[PuzzleId "wI6bI"]
+[Themes "crushing discoveredAttack endgame kingsideAttack short"]
+
+18... Nf3+ 19. gxf3 Qxe1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p1r2pp/p3p2n/P3q3/1Pp1B1P1/2Pp3P/5PK1/4QR1R w - - 4 31"]
+[LichessURL "https://lichess.org/kv0HPLDR/black#60"]
+[PuzzleId "sAUV1"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+
+31. Bxh7+ Kxh7 32. Qxe5 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5r/p3ppk1/1p1p1qp1/4n2p/1PP5/P2P1NPb/1Q2PP1P/2R1R1KB b - - 3 24"]
+[LichessURL "https://lichess.org/CJf5kofV#47"]
+[PuzzleId "J5zKf"]
+[Themes "crushing discoveredAttack master middlegame short"]
+
+24... Nxf3+ 25. exf3 Qxb2 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/4p2p/p3r3/4B3/7P/4R1P1/7K w - - 0 39"]
+[LichessURL "https://lichess.org/j9s9bwgr/black#76"]
+[PuzzleId "yLsT2"]
+[Themes "advantage discoveredAttack endgame master short"]
+
+39. Bh7+ Kh8 40. Rxe5 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/p1p1rppp/2p5/4n3/5B2/7P/PPP2PP1/RN2R1K1 b k - 3 14"]
+[LichessURL "https://lichess.org/b3NfiliK#27"]
+[PuzzleId "aUjQ8"]
+[Themes "advantage discoveredAttack kingsideAttack middlegame short"]
+
+14... Nf3+ 15. gxf3 Rxe1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5pp1/2p3rp/8/PP1PNb2/4R2P/3B1P2/5K2 w - - 1 33"]
+[LichessURL "https://lichess.org/7EVdhgPS/black#64"]
+[PuzzleId "AdgDg"]
+[Themes "advantage discoveredAttack endgame short"]
+
+33. Nf6+ Rxf6 34. Rxe8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/5k1p/2p1bpp1/pp1p4/3P4/P2B2PP/1PP2PK1/4R3 b - - 3 27"]
+[LichessURL "https://lichess.org/xLDugUhf#53"]
+[PuzzleId "l3buw"]
+[Themes "crushing discoveredAttack endgame short"]
+
+27... Bxh3+ 28. Kxh3 Rxe1 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/np1r2pk/p1p5/3Np2p/P3P3/7P/3R1PP1/3R2K1 w - - 0 33"]
+[LichessURL "https://lichess.org/1wvwjdTY/black#64"]
+[PuzzleId "7J48m"]
+[Themes "crushing discoveredAttack endgame long"]
+
+33. Nf6+ gxf6 34. Rxd7+ Rxd7 35. Rxd7+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2N2pkp/p2r1p2/2p1b3/P1P5/1P1R1P1P/4K1P1/8 b - - 0 35"]
+[LichessURL "https://lichess.org/x9uQdThw#69"]
+[PuzzleId "jxRhx"]
+[Themes "advantage discoveredAttack endgame short"]
+
+35... Rxd3 36. Kxd3 Bxc7 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5p2/3q2pp/1pR5/1Q6/4P2P/5PP1/6K1 w - - 3 46"]
+[LichessURL "https://lichess.org/BZwmXq7K/black#90"]
+[PuzzleId "6Grx8"]
+[Themes "advantage discoveredAttack endgame short"]
+
+46. Rc8+ Rxc8 47. Qxd6 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/p1p1qp2/1pB4p/4P1r1/3P3Q/8/PP3P1P/3R2RK b - - 0 24"]
+[LichessURL "https://lichess.org/pRZO494m#47"]
+[PuzzleId "5ir76"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+
+24... Rxg1+ 25. Kxg1 Qxh4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3r1ppk/6b1/3N3p/3R3P/5PK1/6P1/8 w - - 3 47"]
+[LichessURL "https://lichess.org/6vwcKMnC/black#92"]
+[PuzzleId "EV6xB"]
+[Themes "advantage discoveredAttack endgame short"]
+
+47. Nf6+ gxf6 48. Rxd7 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3q1k1/pp3p1p/2p3p1/4n3/2PQ1N2/1P6/P4PPP/4R1K1 b - - 4 24"]
+[LichessURL "https://lichess.org/SypOT9Q4#47"]
+[PuzzleId "TN0Qb"]
+[Themes "advantage discoveredAttack endgame kingsideAttack short"]
+
+24... Nf3+ 25. gxf3 Qxe1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p5pp/1p6/2p2p2/2PpN1b1/1P6/P4PPP/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/NYYlsmwc/black#52"]
+[PuzzleId "Lb1dV"]
+[Themes "advantage discoveredAttack endgame short"]
+
+27. Nf6+ gxf6 28. Rxe8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/6pp/p1Nbpp2/1p6/8/1P5P/1PP2PP1/3R2K1 b - - 1 27"]
+[LichessURL "https://lichess.org/GGfRWjPg#53"]
+[PuzzleId "uqRbm"]
+[Themes "advantage discoveredAttack endgame short"]
+
+27... Bh2+ 28. Kxh2 Rxd1 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1k2pp/p1pP1p2/6n1/1P1r2P1/P2B4/5K2/3R4 w - - 10 39"]
+[LichessURL "https://lichess.org/SYpcaFSu/black#76"]
+[PuzzleId "wQhua"]
+[Themes "advantage discoveredAttack endgame short"]
+
+39. Bf5+ Kxd6 40. Rxd4+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1nr/ppq2pp1/4p1p1/2Ppn1B1/3Q4/5N2/PPP2PPP/R4RK1 b kq - 1 13"]
+[LichessURL "https://lichess.org/lbveNN6p#25"]
+[PuzzleId "GcFJC"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame short"]
+
+13... Nxf3+ 14. gxf3 Qxh2# *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r1k2/ppp2ppp/8/8/3NnP2/8/PPPR2PP/2KR4 w - - 7 21"]
+[LichessURL "https://lichess.org/IxtjOjqx/black#40"]
+[PuzzleId "WTMQ5"]
+[Themes "advantage discoveredAttack endgame long"]
+
+21. Ne6+ fxe6 22. Rxd8+ Rxd8 23. Rxd8+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr3/pp2qkp1/2p1p2p/5pn1/3P1B1Q/2P2P2/PP2R1PP/4R1K1 b - - 6 29"]
+[LichessURL "https://lichess.org/dWhU4pYa#57"]
+[PuzzleId "zpUIq"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame short"]
+
+29... Nxf3+ 30. gxf3 Qxh4 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3pp1/2prp2p/4n3/8/1P1BP1PP/P1PRKP2/3R4 w - - 0 22"]
+[LichessURL "https://lichess.org/pTaeFUNv/black#42"]
+[PuzzleId "WFwE6"]
+[Themes "advantage discoveredAttack endgame long"]
+
+22. Bh7+ Kf8 23. Rxd6 Rxd6 24. Rxd6 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q5/p4pk1/1p2p2p/1P1p2p1/P1nP2P1/4P2P/2Q1BPK1/8 b - - 2 34"]
+[LichessURL "https://lichess.org/gwIClHaM#67"]
+[PuzzleId "KMBlj"]
+[Themes "crushing discoveredAttack endgame pin short"]
+
+34... Nxe3+ 35. fxe3 Qxc2 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/4ppk1/1p2b1pp/8/2nN4/3R1PP1/r5BP/1R4K1 w - - 2 27"]
+[LichessURL "https://lichess.org/e24h1O53/black#52"]
+[PuzzleId "SnLwQ"]
+[Themes "advantage discoveredAttack master middlegame short"]
+
+27. Nxe6+ fxe6 28. Rxd8 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/1p4pk/p6p/2pRn3/5N2/7P/PPP2PP1/4R1K1 b - - 3 25"]
+[LichessURL "https://lichess.org/gQLL66ps#49"]
+[PuzzleId "mRnj4"]
+[Themes "advantage discoveredAttack endgame master short"]
+
+25... Nf3+ 26. gxf3 Rxe1+ *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/pp3p2/7p/2p3p1/1nP5/1PbB1PB1/P2R1P1P/3R2K1 w - - 3 22"]
+[LichessURL "https://lichess.org/RhXR9820/black#42"]
+[PuzzleId "p57gS"]
+[Themes "crushing discoveredAttack long master masterVsMaster middlegame"]
+
+22. Bh7+ Kxh7 23. Rxd8 Rxd8 24. Rxd8 *
+
+
+
+[Event "Discovered Attack"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1r1kp1/p4p1p/3n4/8/P4NP1/1P3PP1/3R1K2 b - - 4 29"]
+[LichessURL "https://lichess.org/MKdQrbbm#57"]
+[PuzzleId "OzNj0"]
+[Themes "advantage discoveredAttack endgame short"]
+
+29... Ne3+ 30. fxe3 Rxd1+ *
+
+
+

@@ -1,0 +1,850 @@
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/q4p2/5Qp1/p7/8/2P4R/bP4PP/7K w - - 4 32"]
+[LichessURL "https://lichess.org/5X7VjA5h/black#62"]
+[PuzzleId "NaAV2"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+32. Rh8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2Q2pp1/1p5p/3P4/8/2P2RPq/PP5P/4R1K1 b - - 0 30"]
+[LichessURL "https://lichess.org/rO9o8EiH#59"]
+[PuzzleId "27zl6"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+30... Rxe1+ 31. Rf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/pp2Rr1p/5ppQ/8/3P4/8/q4PPP/4R1K1 w - - 0 24"]
+[LichessURL "https://lichess.org/zf6PhjUd/black#46"]
+[PuzzleId "OoEk6"]
+[Themes "endgame killBoxMate long mate mateIn3"]
+
+24. Re8+ Rxe8 25. Rxe8+ Rf8 26. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/pp4pp/4p3/P4PP1/2p2Q2/1qP5/1P4BP/2KR4 b - - 0 32"]
+[LichessURL "https://lichess.org/Rr9nx5At#63"]
+[PuzzleId "saMOL"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove queensideAttack"]
+
+32... Rxd1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rkr2/pp3p1p/4pQp1/8/4P3/8/PPP3qP/1K1R4 w - - 0 27"]
+[LichessURL "https://lichess.org/gaVCkc7Q/black#52"]
+[PuzzleId "GcBe3"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+27. Rxd8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p4Pp/8/4p3/p4p2/PqB2P2/1P3QP1/2K2B1R b - - 2 27"]
+[LichessURL "https://lichess.org/pcxwRwXf#53"]
+[PuzzleId "Gy9BA"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+27... Rd1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4nk1r/p5p1/3r2Qp/2p5/8/8/q1P2PPP/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/YuaIFQLw/black#52"]
+[PuzzleId "XvYmy"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+27. Rxe8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2p1p1p/1p4p1/2p3Q1/2P5/3B1P1q/PPR2P1P/6K1 b - - 2 23"]
+[LichessURL "https://lichess.org/vG3IGP2E#45"]
+[PuzzleId "4nmTz"]
+[Themes "endgame killBoxMate kingsideAttack mate mateIn2 short"]
+
+23... Re1+ 24. Bf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pq3r1p/1p4pQ/2p1Pp2/8/2P5/PP4PP/3R3K w - - 0 27"]
+[LichessURL "https://lichess.org/2EGJtDOJ/black#52"]
+[PuzzleId "8TL7W"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+27. Rxd8+ Rf8 28. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/pp3ppp/2p5/3p4/P2P4/2P2QqP/1P4Pb/R1B1RK2 b - - 0 23"]
+[LichessURL "https://lichess.org/i0XE4sxH#45"]
+[PuzzleId "yGvRX"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+
+23... Rxe1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p1p2r1p/1p4pQ/5pP1/5n1P/2N5/PP3q2/3R3K w - - 0 28"]
+[LichessURL "https://lichess.org/Z6NhvOII/black#54"]
+[PuzzleId "b5Yxw"]
+[Themes "hangingPiece killBoxMate mate mateIn2 middlegame short"]
+
+28. Rxd8+ Rf8 29. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pnp2p2/1p2p2p/4P1p1/2P3P1/qPQ1R2P/P4P1B/1K1R4 b - - 0 29"]
+[LichessURL "https://lichess.org/q8XWZEF4#57"]
+[PuzzleId "x9kBb"]
+[Themes "killBoxMate mate mateIn2 middlegame queensideAttack short"]
+
+29... Rxd1+ 30. Qc1 Rxc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p4r1p/1p1Rp1pQ/2p1P3/P7/2q3P1/3R1P1P/6K1 w - - 0 30"]
+[LichessURL "https://lichess.org/Ap0dJGzC/black#58"]
+[PuzzleId "TgXtI"]
+[Themes "endgame killBoxMate long mate mateIn3"]
+
+30. Rd8+ Rxd8 31. Rxd8+ Rf8 32. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5pp1/7p/1p1R4/3P4/1P1Q1PBq/5P1P/6K1 b - - 0 31"]
+[LichessURL "https://lichess.org/tZauVAzY#61"]
+[PuzzleId "TZ2y2"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+31... Re1+ 32. Qf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1b3r1p/p3p1pQ/5p2/3R4/2N2P2/Pq4PP/3R2K1 w - - 0 29"]
+[LichessURL "https://lichess.org/EkorQRbx/black#56"]
+[PuzzleId "WHhzj"]
+[Themes "killBoxMate long mate mateIn3 middlegame"]
+
+29. Rd8+ Rxd8 30. Rxd8+ Rf8 31. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/4k3/1p3R2/p5Q1/8/q1P4P/P1P3P1/1K6 b - - 10 52"]
+[LichessURL "https://lichess.org/Sprrj6Y3#103"]
+[PuzzleId "u0g8N"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+52... Rd1+ 53. Qc1 Rxc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/ppp2r1p/6pQ/4R3/1P1p1n2/P2P1q2/7P/4R1K1 w - - 4 25"]
+[LichessURL "https://lichess.org/v97dHnLa/black#48"]
+[PuzzleId "cCOrF"]
+[Themes "killBoxMate long mate mateIn3 middlegame"]
+
+25. Re8+ Rxe8 26. Rxe8+ Rf8 27. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/2p3p1/p6p/4PQ2/2pP2P1/R3rPBq/5R1P/6K1 b - - 0 35"]
+[LichessURL "https://lichess.org/GxlOpaFX#69"]
+[PuzzleId "i5Qs0"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+35... Re1+ 36. Rf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/pppp1p2/2n1rQ2/4P3/2q5/7R/P4PPP/1R4K1 w - - 2 28"]
+[LichessURL "https://lichess.org/t8LMQCvG/black#54"]
+[PuzzleId "3GdPF"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+
+28. Rh8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5nk1/5p1p/3p1npP/3Pp3/Np2PP2/q1r3P1/P3Q1R1/1K3N1R b - - 0 29"]
+[LichessURL "https://lichess.org/DM5dpY4y#57"]
+[PuzzleId "leZbx"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+
+29... Rc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3p3p/b5pQ/pp6/P1q5/K1P1R3/1P3rPP/8 w - - 0 36"]
+[LichessURL "https://lichess.org/IBtD6sBf/black#70"]
+[PuzzleId "Xbvv0"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+36. Re8+ Rf8 37. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4pk/2pQ3p/3p4/P3r3/2P3Bq/1P3R1P/6K1 b - - 0 32"]
+[LichessURL "https://lichess.org/j4AljXGv#63"]
+[PuzzleId "BxtCT"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+32... Re1+ 33. Rf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p3R/1p1kpp2/PQ1pb2p/1P6/1r3rPK/8 w - - 0 44"]
+[LichessURL "https://lichess.org/hPOGctr6/black#86"]
+[PuzzleId "OqoHc"]
+[Themes "endgame killBoxMate master mate mateIn1 oneMove"]
+
+44. Rxd6# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6kr/5pp1/3p4/P7/3Q4/2P2qP1/5B2/R3R1K1 b - - 2 31"]
+[LichessURL "https://lichess.org/18ThGG4m#61"]
+[PuzzleId "sX7Xe"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+31... Rh1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/4r2p/p5pQ/1pp1pR1P/4Pn2/P3q3/1PP3P1/5R1K w - - 0 36"]
+[LichessURL "https://lichess.org/PIaHb8tu/black#70"]
+[PuzzleId "ewD4m"]
+[Themes "killBoxMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+36. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/p5pk/7p/3Q4/2PP4/4r1Pq/P4R1P/6K1 b - - 0 31"]
+[LichessURL "https://lichess.org/ouMM9bBz#61"]
+[PuzzleId "eyojR"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+31... Re1+ 32. Rf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/p3p1r1/1pn1Q3/2q2p2/5P2/4P2R/P5PP/b5K1 w - - 6 24"]
+[LichessURL "https://lichess.org/DzfzSVu4/black#46"]
+[PuzzleId "Bawoy"]
+[Themes "killBoxMate mate mateIn2 middlegame short"]
+
+24. Rh8+ Rg8 25. Rxg8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4ppp/2R2n2/5P2/4NQ2/qP5P/P1P2PP1/1K1R4 b - - 0 26"]
+[LichessURL "https://lichess.org/rtMRDhlr#51"]
+[PuzzleId "Gc3ZW"]
+[Themes "killBoxMate mate mateIn2 middlegame queensideAttack short"]
+
+26... Rxd1+ 27. Qc1 Rxc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/2q4p/p1p2rpQ/8/4R3/2P5/P1P3PP/R5K1 w - - 0 21"]
+[LichessURL "https://lichess.org/Y3yow2rr/black#40"]
+[PuzzleId "r8rjx"]
+[Themes "killBoxMate mate mateIn2 middlegame short"]
+
+21. Re8+ Rf8 22. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp4pp/3P1p2/2p5/P1P2PN1/1P3QPq/7P/4R1K1 b - - 0 31"]
+[LichessURL "https://lichess.org/RcUx8w4P#61"]
+[PuzzleId "ZYQoK"]
+[Themes "endgame killBoxMate kingsideAttack mate mateIn2 short"]
+
+31... Rxe1+ 32. Qf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/2q2p2/4pQp1/3p4/7R/6P1/5P1K/1q6 w - - 0 48"]
+[LichessURL "https://lichess.org/4GkwO9Tg/black#94"]
+[PuzzleId "2kGKS"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+48. Rh8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5pp1/p3r2p/7n/3Q4/1P3PPq/PB1P1R1P/R5K1 b - - 6 27"]
+[LichessURL "https://lichess.org/8tjtugQP#53"]
+[PuzzleId "AC2Af"]
+[Themes "killBoxMate kingsideAttack long mate mateIn3 middlegame"]
+
+27... Re1+ 28. Rxe1 Rxe1+ 29. Rf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rkq/1b2pR1p/p2p2pQ/2p3P1/1p2n3/4N2P/PP2B3/6K1 w - - 8 32"]
+[LichessURL "https://lichess.org/AUHRdr7V/black#62"]
+[PuzzleId "jORMm"]
+[Themes "killBoxMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+32. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p1p2ppp/8/4P3/5P2/qPQ2P2/P4R1P/1K6 b - - 0 25"]
+[LichessURL "https://lichess.org/6eUqkx76#49"]
+[PuzzleId "jtwzA"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+25... Rd1+ 26. Qc1 Rxc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5r1p/6pQ/3p4/p2q4/8/6P1/4R2K w - - 0 38"]
+[LichessURL "https://lichess.org/yh6MbFJV/black#74"]
+[PuzzleId "bQ5yf"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+38. Rxe8+ Rf8 39. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6b1/R3N2p/8/3pQ1p1/2pP2Pq/2P4P/6K1 b - - 5 40"]
+[LichessURL "https://lichess.org/jTyXCahy#79"]
+[PuzzleId "6mres"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+40... Rf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/p4p2/4pQp1/qp5R/8/P2B1P2/1PP2P1P/2K5 w - - 2 23"]
+[LichessURL "https://lichess.org/fNmZdFLD/black#44"]
+[PuzzleId "BcvFn"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+23. Rh8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/1ppr4/p7/8/4P2P/qP2PP2/P1R2Q2/1K6 b - - 6 46"]
+[LichessURL "https://lichess.org/BxwaLs3b#91"]
+[PuzzleId "4XMJ2"]
+[Themes "endgame killBoxMate master mate mateIn2 short"]
+
+46... Rd1+ 47. Rc1 Rxc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/7p/3p1rpQ/pp3b2/8/7P/q4PP1/4R1K1 w - - 0 32"]
+[LichessURL "https://lichess.org/f23YKOQE/black#62"]
+[PuzzleId "hd5x2"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+32. Re8+ Rf8 33. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/1k1n1pp1/1p1Q4/6p1/P2N4/2r2PPq/5R1P/1R4K1 b - - 4 32"]
+[LichessURL "https://lichess.org/XXSgvIKF#63"]
+[PuzzleId "ROkQS"]
+[Themes "killBoxMate long mate mateIn3 middlegame"]
+
+32... Rc1+ 33. Rxc1 Rxc1+ 34. Rf1 Rxf1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/b1p2pqp/p5pQ/1p1p1b2/1P6/P1P2P1P/6P1/4R2K w - - 3 35"]
+[LichessURL "https://lichess.org/cWhOiszU/black#68"]
+[PuzzleId "uLmdu"]
+[Themes "endgame killBoxMate kingsideAttack mate mateIn2 short"]
+
+35. Re8+ Qf8 36. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5pp1/p1b4p/1p3N2/2pQ4/2P3qP/PP4PR/4R1K1 b - - 0 38"]
+[LichessURL "https://lichess.org/GdJyewqf#75"]
+[PuzzleId "0jqSR"]
+[Themes "killBoxMate kingsideAttack master mate mateIn1 middlegame oneMove"]
+
+38... Rxe1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/ppp1r1p1/5bQ1/8/7P/2PR4/5qP1/2KR4 w - - 0 26"]
+[LichessURL "https://lichess.org/R22auKO8/black#50"]
+[PuzzleId "MrMas"]
+[Themes "killBoxMate long mate mateIn3 middlegame"]
+
+26. Rd8+ Rxd8 27. Rxd8+ Re8 28. Rxe8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k3p1P/pp3p2/3PpP2/2Pr4/qPQ4P/P6R/1K1R4 b - - 0 44"]
+[LichessURL "https://lichess.org/yomVCywj#87"]
+[PuzzleId "Fq0fz"]
+[Themes "endgame killBoxMate mate mateIn2 queensideAttack short"]
+
+44... Rxd1+ 45. Qc1 Rxc1# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5kr1/1p4p1/5pQ1/3P4/2P1R3/2q3P1/5PKP/1q6 w - - 0 45"]
+[LichessURL "https://lichess.org/JwOp4RCr/black#88"]
+[PuzzleId "uOocz"]
+[Themes "endgame killBoxMate mate mateIn1 oneMove"]
+
+45. Re8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/p4p2/b4Qp1/2pp1n2/4p3/2NP3R/PP4PP/R6K w - - 4 22"]
+[LichessURL "https://lichess.org/vMf47n75/black#42"]
+[PuzzleId "5lFNY"]
+[Themes "killBoxMate mate mateIn1 middlegame oneMove"]
+
+22. Rh8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5r1p/2p3pQ/8/4R3/1pq2PP1/4RK1P/8 w - - 0 36"]
+[LichessURL "https://lichess.org/OszqV8Mz/black#70"]
+[PuzzleId "NkqEo"]
+[Themes "endgame killBoxMate long mate mateIn3"]
+
+36. Re8+ Rxe8 37. Rxe8+ Rf8 38. Rxf8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k2r3/p1p2p2/Qp1p4/3P4/P4bq1/2r3P1/7P/4R1K1 w - - 0 31"]
+[LichessURL "https://lichess.org/djW9IE2r/black#60"]
+[PuzzleId "vDw9Z"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+31. Rxe8+ Qc8 32. Rxc8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/p1r5/Qp4q1/7p/7P/8/PPb3P1/2KR4 w - - 0 31"]
+[LichessURL "https://lichess.org/ZsaISEfZ/black#60"]
+[PuzzleId "uVTPc"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+31. Rd8+ Rc8 32. Rxc8# *
+
+
+
+[Event "Kill Box Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp5p/1n3qpQ/2p2p2/3p1P2/7P/P5P1/4R1K1 w - - 0 34"]
+[LichessURL "https://lichess.org/WjMy0Jjm/black#66"]
+[PuzzleId "PXbTD"]
+[Themes "endgame killBoxMate mate mateIn2 short"]
+
+34. Rxe8+ Qf8 35. Rxf8# *
+
+
+

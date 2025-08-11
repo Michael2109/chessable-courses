@@ -1,0 +1,850 @@
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p5/P1k2p2/4p3/5p1P/5K2/8/8 w - - 0 36"]
+[LichessURL "https://lichess.org/kWa6vbJJ/black#70"]
+[PuzzleId "O5hR4"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+36. h5 Kd5 37. h6 Ke6 38. h7 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K3k2/8/5p2/8/8/P1P5/8 b - - 1 62"]
+[LichessURL "https://lichess.org/rZclkAM6#123"]
+[PuzzleId "Cj5M4"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+62... f4 63. a4 f3 64. a5 f2 65. a6 f1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/PK6/5k2/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/6SPvsCQ4/black#94"]
+[PuzzleId "koBHj"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48. a5 g4 49. a6 g3 50. a7 g2 51. a8=Q+ *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5K2/p7/1k4P1/7P/8/8 b - - 1 42"]
+[LichessURL "https://lichess.org/ehPptLmB#83"]
+[PuzzleId "fnQG1"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+42... a4 43. Kf7 a3 44. g5 a2 45. g6 a1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/8/3K4/1P3k2/5P2/8 w - - 2 72"]
+[LichessURL "https://lichess.org/vLLbwhxi/black#142"]
+[PuzzleId "a5ywA"]
+[Themes "crushing defensiveMove endgame master masterVsMaster pawnEndgame quietMove short"]
+
+72. b4 Kxf2 73. b5 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/8/8/k6P/5PP1/5K2 b - - 1 38"]
+[LichessURL "https://lichess.org/zb17qH1o#75"]
+[PuzzleId "Lb5ON"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+38... c5 39. Ke2 c4 40. h4 c3 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/8/k5P1/q6K/Q7/8 w - - 2 58"]
+[LichessURL "https://lichess.org/m2cMGGKw/black#114"]
+[PuzzleId "jD3yo"]
+[Themes "advancedPawn crushing endgame promotion queenEndgame quietMove veryLong"]
+
+58. Qxa3+ Kxa3 59. g5 b5 60. g6 b4 61. g7 b3 62. g8=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/K4k1p/4p3/1P5P/8/8/8 b - - 0 49"]
+[LichessURL "https://lichess.org/fEvth0fB#97"]
+[PuzzleId "rDcEk"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+49... e4 50. b5 e3 51. b6 e2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p5p/p1p2Kp1/P3P3/3k4/1P6/8 w - - 0 43"]
+[LichessURL "https://lichess.org/t1f6zpcG/black#84"]
+[PuzzleId "Jre06"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+43. e5 Kc2 44. e6 c4 45. e7 Kxb2 46. e8=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/4K3/3p4/5P2/8/8/8 b - - 1 50"]
+[LichessURL "https://lichess.org/EuLWSyHH#99"]
+[PuzzleId "toEWx"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+50... d4 51. Ke5 d3 52. Kd4 d2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/Q4q2/2p4p/P2p4/3P4/1KP5/8 w - - 7 46"]
+[LichessURL "https://lichess.org/GFXmIOCf/black#90"]
+[PuzzleId "QfLQn"]
+[Themes "crushing endgame long queenEndgame quietMove"]
+
+46. Qxf6+ Kxf6 47. a5 Ke5 48. a6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K3p2/P7/6k1/8/8 b - - 1 51"]
+[LichessURL "https://lichess.org/L4b7tnfC#101"]
+[PuzzleId "Fjwmz"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+51... f4 52. a5 f3 53. a6 f2 54. a7 f1=Q+ *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/7p/6p1/8/P4K2/8/8 w - - 2 47"]
+[LichessURL "https://lichess.org/39fmnWGM/black#92"]
+[PuzzleId "0cve8"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+47. a4 Kf7 48. a5 Ke7 49. a6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3p3K/4k1PP/8/8/8 b - - 0 43"]
+[LichessURL "https://lichess.org/y7qWz3x6#85"]
+[PuzzleId "Pk1Ll"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+43... d4 44. Kh6 d3 45. g5 d2 46. g6 d1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/p1p3K1/k1P5/7P/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/MmeKwJO6/black#104"]
+[PuzzleId "U29cx"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+53. h4 Kb3 54. h5 a4 55. h6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k1K1p1/2Pp1p1p/1P3P1P/8/8/8 b - - 0 43"]
+[LichessURL "https://lichess.org/JNjVaWXR#85"]
+[PuzzleId "UpXBZ"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+43... d4 44. Ke5 d3 45. Kd4 d2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/p2K4/1k2P1P1/8/8/8 w - - 2 49"]
+[LichessURL "https://lichess.org/Fw88CHLL/black#96"]
+[PuzzleId "9oBWI"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+49. e5 a4 50. e6 a3 51. e7 a2 52. e8=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K3p2/1pP5/1P4k1/8/8 b - - 2 52"]
+[LichessURL "https://lichess.org/U9P8LS9U#103"]
+[PuzzleId "uYWFB"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+52... f4 53. Kb6 f3 54. c5 f2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7R/1K4p1/8/8/P7/6k1/7q w - - 0 53"]
+[LichessURL "https://lichess.org/hKgrGPsY/black#104"]
+[PuzzleId "Jq0Io"]
+[Themes "crushing endgame quietMove veryLong"]
+
+53. Rxh1 Kxh1 54. a4 g5 55. a5 g4 56. a6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/pK6/1R4p1/1P5k/8/8/8 b - - 0 55"]
+[LichessURL "https://lichess.org/jNLaBu1V#109"]
+[PuzzleId "pqerj"]
+[Themes "advancedPawn crushing endgame promotion quietMove veryLong"]
+
+55... axb5 56. Kxb5 g4 57. Ka6 g3 58. b5 g2 59. b6 g1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/k6r/2K3RP/8/8 w - - 6 44"]
+[LichessURL "https://lichess.org/VLw0Yi3k/black#86"]
+[PuzzleId "ETREn"]
+[Themes "advancedPawn crushing endgame quietMove rookEndgame veryLong"]
+
+44. Rg4+ Rxg4 45. hxg4 Kb5 46. g5 Kc6 47. g6 Kd6 48. g7 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5pKp/p6P/6P1/kR6/8/8 b - - 0 52"]
+[LichessURL "https://lichess.org/eSjAtnmh#103"]
+[PuzzleId "2mI7H"]
+[Themes "crushing endgame long quietMove"]
+
+52... Kxb3 53. Kxg7 a4 54. Kxh6 a3 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1rK2p2/5k2/8/2P5/8/8/8 w - - 0 52"]
+[LichessURL "https://lichess.org/LVYPVFP1/black#102"]
+[PuzzleId "u5FPu"]
+[Themes "advancedPawn crushing endgame quietMove veryLong"]
+
+52. Kxb7 Ke5 53. c5 f5 54. c6 f4 55. c7 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5K1/8/1k6/7P/6P1/8 b - - 0 55"]
+[LichessURL "https://lichess.org/xGtRC1zG#109"]
+[PuzzleId "c8awm"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+55... a5 56. g4 a4 57. g5 a3 58. Kh7 a2 59. g6 a1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6pk/7p/8/P5K1/5q2/8 w - - 0 52"]
+[LichessURL "https://lichess.org/Vlw6RKb3/black#102"]
+[PuzzleId "SRWxj"]
+[Themes "crushing endgame quietMove veryLong"]
+
+52. Kxf2 Kg5 53. a4 Kf4 54. a5 Ke4 55. a6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5Kp1/6Pp/1k6/8/P7/8 b - - 4 42"]
+[LichessURL "https://lichess.org/kZHPX1iR#83"]
+[PuzzleId "B2Acu"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+42... h4 43. Kxg6 h3 44. Kf7 h2 45. g6 h1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/4P1P1/7k/1pK5/b7 w - - 0 50"]
+[LichessURL "https://lichess.org/K3DaF4dC/black#98"]
+[PuzzleId "etwQt"]
+[Themes "bishopEndgame crushing endgame quietMove short"]
+
+50. g5 Kh4 51. g6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/4pK2/2PpP2p/8/8/7P/8 b - - 3 53"]
+[LichessURL "https://lichess.org/v2OYsvEQ#105"]
+[PuzzleId "DvmTd"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... d4 54. Kxe6 d3 55. Kf6 d2 56. e6 d1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/7p/4K3/5P2/1k6/8/8 w - - 0 47"]
+[LichessURL "https://lichess.org/TxjpoQMr/black#92"]
+[PuzzleId "AOtIK"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47. f5 a5 48. f6 a4 49. f7 a3 50. f8=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/5K1P/6p1/8/2P5/8/8 b - - 1 42"]
+[LichessURL "https://lichess.org/Wkj5MzgZ#83"]
+[PuzzleId "KDk1t"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+42... g4 43. c4 g3 44. c5 g2 45. c6 g1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/2p3K1/p7/1k5P/6P1/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/68NzvQVR/black#108"]
+[PuzzleId "4hlyk"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+55. h5 c5 56. h6 c4 57. h7 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K3p2/PP4k1/8/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/oH76LDPw#95"]
+[PuzzleId "oVbY4"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48... f4 49. Kc6 f3 50. b5 f2 51. b6 f1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pp5/p5K1/3pkp2/7P/2P5/PP6/8 w - - 0 36"]
+[LichessURL "https://lichess.org/m97QIkwS/black#70"]
+[PuzzleId "UUxAD"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+36. h5 f4 37. h6 Ke4 38. h7 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/8/p7/8/1k1K2P1/5P1P/8 b - - 1 40"]
+[LichessURL "https://lichess.org/xSHbz7LX#79"]
+[PuzzleId "DMgy1"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+40... a4 41. f4 a3 42. f5 a2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/5pP1/3kpP2/8/4K3 w - - 18 61"]
+[LichessURL "https://lichess.org/hB2Ujhkk/black#120"]
+[PuzzleId "65dnq"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+61. g5 e2 62. g6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5k1/8/2q1Q3/5PK1/7P/8 b - - 2 41"]
+[LichessURL "https://lichess.org/czriG3s3#81"]
+[PuzzleId "tqP1u"]
+[Themes "crushing defensiveMove endgame long queenEndgame quietMove"]
+
+41... Qxe4 42. fxe4 a5 43. Kf4 a4 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/7P/1r5k/P4K2/8 w - - 0 49"]
+[LichessURL "https://lichess.org/zdscBuHX/black#96"]
+[PuzzleId "7VSLF"]
+[Themes "crushing endgame quietMove veryLong"]
+
+49. axb3 Kxh4 50. b4 Kg5 51. b5 Kf4 52. b6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/8/6K1/8/1k6/7P/8 b - - 2 47"]
+[LichessURL "https://lichess.org/PWOnt8cZ#93"]
+[PuzzleId "8IAF3"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+
+47... c5 48. h4 c4 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1Kr5/P3k1p1/6P1/8/8 w - - 0 45"]
+[LichessURL "https://lichess.org/rUps0kbv/black#88"]
+[PuzzleId "5vDFj"]
+[Themes "advancedPawn crushing endgame promotion quietMove veryLong"]
+
+45. Kxc5 Kf3 46. a5 Kxg3 47. a6 Kf2 48. a7 g3 49. a8=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/R7/1PK3k1/r7/8 b - - 3 43"]
+[LichessURL "https://lichess.org/33NEEr6C#85"]
+[PuzzleId "EmGtd"]
+[Themes "advancedPawn crushing endgame quietMove rookEndgame veryLong"]
+
+43... Rxa4 44. bxa4 h4 45. a5 h3 46. a6 h2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/8/2p4p/3pP1pP/1PkP1pP1/2P5/5K2 w - - 2 49"]
+[LichessURL "https://lichess.org/zsjgr3w4/black#96"]
+[PuzzleId "7L7Gw"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+49. e5 Kxc2 50. e6 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4pK2/p2k2P1/8/P7/8 b - - 1 45"]
+[LichessURL "https://lichess.org/zQfBm4DZ#89"]
+[PuzzleId "PjB5h"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+45... e4 46. g5 e3 47. g6 e2 48. g7 e1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2K3p1/1P3k2/8/8/8 w - - 1 55"]
+[LichessURL "https://lichess.org/gJAZXLqk/black#108"]
+[PuzzleId "jai98"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+55. b5 g4 56. b6 g3 57. b7 g2 58. b8=Q+ *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/p3K3/5P2/1k4P1/7P/8 b - - 1 38"]
+[LichessURL "https://lichess.org/e0SmDz18#75"]
+[PuzzleId "Lictm"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+38... a4 39. Kd5 a3 40. f5 a2 41. f6 a1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/8/1K4p1/P7/5k2/8/8 w - - 1 56"]
+[LichessURL "https://lichess.org/Ww02gygj/black#110"]
+[PuzzleId "rUGv4"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+56. a5 g4 57. a6 g3 58. a7 g2 59. a8=Q+ *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/pk6/6P1/7P/8/8 b - - 1 52"]
+[LichessURL "https://lichess.org/aabdJgOu#103"]
+[PuzzleId "RvhTv"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+52... a4 53. g5 a3 54. Kh7 a2 55. g6 a1=Q *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/3K2p1/8/4P3/2p5/8/8 w - - 0 60"]
+[LichessURL "https://lichess.org/IuXHlzql/black#118"]
+[PuzzleId "iYtIh"]
+[Themes "advancedPawn endgame long mate mateIn3 pawnEndgame quietMove"]
+
+60. e5 c2 61. e6 g5 62. e7# *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K1k1/2p3P1/7P/8/8/8 b - - 0 51"]
+[LichessURL "https://lichess.org/Zy6oBr5G#101"]
+[PuzzleId "OUXHr"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+51... c4 52. Ke5 c3 53. Kf4 c2 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/K1k5/8/5p2/1P5p/7P/8/8 w - - 1 52"]
+[LichessURL "https://lichess.org/7awbIHKN/black#102"]
+[PuzzleId "eckYh"]
+[Themes "advancedPawn crushing endgame exposedKing long pawnEndgame quietMove"]
+
+52. b5 f4 53. b6+ Kc6 54. b7 *
+
+
+
+[Event "Quiet Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1K1k4/5p2/P7/8/8/8 b - - 1 52"]
+[LichessURL "https://lichess.org/nzyZXjmZ#103"]
+[PuzzleId "IdI3f"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+52... f4 53. a5 f3 54. a6 f2 55. a7 f1=Q *
+
+
+

@@ -1,0 +1,850 @@
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/1p3b2/1q2p3/3n4/3r2P1/5P1P/B1Q2RK1 w - - 2 31"]
+[LichessURL "https://lichess.org/JvGDz2Yb/black#60"]
+[PuzzleId "yrRmc"]
+[Themes "long mate mateIn3 middlegame"]
+
+31. Qc8+ Bd8 32. Qxd8+ Qe8 33. Qxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3r2/5ppk/8/2Q5/p1b5/P4N2/5RPP/6K1 b - - 0 24"]
+[LichessURL "https://lichess.org/w1LqpA5R#47"]
+[PuzzleId "Q6EeE"]
+[Themes "endgame long mate mateIn3"]
+
+24... Rb1+ 25. Ne1 Rxe1+ 26. Rf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/p2Q1ppp/4pq2/3Rb3/8/1P6/P1P2PPP/3R2K1 w - - 3 24"]
+[LichessURL "https://lichess.org/O4G6Yx9B/black#46"]
+[PuzzleId "JNTR6"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+24. Qxd8+ Rxd8 25. Rxd8+ Qxd8 26. Rxd8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/1pp1q1pp/p7/3Q2B1/8/3P4/PPP2RPP/R5K1 b - - 0 20"]
+[LichessURL "https://lichess.org/beDCYkhS#39"]
+[PuzzleId "3p3VP"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+20... Qe1+ 21. Rxe1 Rxe1+ 22. Rf1 Rexf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp3rpp/3p4/3Pp3/1q6/3PPQ2/6PP/5RK1 w - - 0 22"]
+[LichessURL "https://lichess.org/NgkxgB2l/black#42"]
+[PuzzleId "0Syx1"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+22. Qxf7+ Kh8 23. Qf8+ Rxf8 24. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3ppp/2p1q3/3p4/3PrN1P/6P1/PPP3Q1/1K3R1R b - - 4 25"]
+[LichessURL "https://lichess.org/ca17804q#49"]
+[PuzzleId "X84rC"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+25... Re1+ 26. Rxe1 Qxe1+ 27. Rxe1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/r4Bpp/p7/1p5Q/8/P2qPK2/1b6/5R1R w - - 2 27"]
+[LichessURL "https://lichess.org/GChrD3tV/black#52"]
+[PuzzleId "nq5sQ"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+
+27. Qxh7+ Qxh7 28. Rxh7+ Kxh7 29. Rh1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/1b1pRQbk/3P1Bp1/p4n2/1p6/1B6/PP3P1P/6K1 b - - 1 27"]
+[LichessURL "https://lichess.org/6YCCpbfB#53"]
+[PuzzleId "Uyg0A"]
+[Themes "long mate mateIn3 middlegame"]
+
+27... Rc1+ 28. Bd1 Rxd1+ 29. Re1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/p3bppp/2p5/3p1q2/2pP4/8/PP2QPPP/R3R1K1 w - - 0 17"]
+[LichessURL "https://lichess.org/F4CshiKh/black#32"]
+[PuzzleId "tuv2G"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+17. Qxe7+ Kg8 18. Qe8+ Rxe8 19. Rxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2Bk1/4bp1p/p3p1p1/3pP3/2pP2Q1/Pr2R3/R4PPP/6K1 b - - 0 24"]
+[LichessURL "https://lichess.org/V73sWO41#47"]
+[PuzzleId "kr8If"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+24... Rb1+ 25. Qd1 Rxd1+ 26. Re1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6pp/8/p3r3/P2P4/2q4P/6P1/1R5K w - - 0 34"]
+[LichessURL "https://lichess.org/L4Tsfrx8/black#66"]
+[PuzzleId "827s4"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
+
+34. Rb8+ Qc8 35. Rxc8+ Re8 36. Rxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppR3pp/2p4q/3pRb2/7B/2NP2Q1/PPP2PPP/6K1 b - - 0 25"]
+[LichessURL "https://lichess.org/qODBBBUa#49"]
+[PuzzleId "vhLSu"]
+[Themes "kingsideAttack long mate mateIn3 middlegame"]
+
+25... Qc1+ 26. Nd1 Qxd1+ 27. Re1 Qxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5ppp/r1p1p3/p1P1P3/3Pp3/P2qP2P/5QP1/2B2RK1 w - - 3 25"]
+[LichessURL "https://lichess.org/NQp0Md8k/black#48"]
+[PuzzleId "ayAeF"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+25. Qxf7+ Kh8 26. Qf8+ Rxf8 27. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5ppp/5b2/8/1p6/1P5P/K1P3P1/4QB1R b - - 0 28"]
+[LichessURL "https://lichess.org/2BRzviqG#55"]
+[PuzzleId "lS4As"]
+[Themes "endgame long mate mateIn3"]
+
+28... Ra8+ 29. Ba6 Rxa6+ 30. Kb1 Ra1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p4ppp/2p5/n3r3/2P5/5Q2/Pq4PP/RN3R1K w - - 0 21"]
+[LichessURL "https://lichess.org/O4fvexDd/black#40"]
+[PuzzleId "bP86V"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+21. Qxf7+ Kh8 22. Qf8+ Rxf8 23. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p2QR1q1/6p1/5p2/2P5/1P4R1/P4PPP/6K1 b - - 2 37"]
+[LichessURL "https://lichess.org/K9Ys6DS1#73"]
+[PuzzleId "xkwbR"]
+[Themes "endgame long mate mateIn3"]
+
+37... Qa1+ 38. Qd1 Qxd1+ 39. Re1 Qxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppb/3p1q1p/3PpP1r/RPr5/2P3P1/3B3P/5RK1 w - - 0 33"]
+[LichessURL "https://lichess.org/3pxXE9XV/black#64"]
+[PuzzleId "sgKuP"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+33. Ra8+ Rc8 34. Rxc8+ Qd8 35. Rxd8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2r1/p1p3pk/1p2Q2p/2n5/8/8/PP3RPP/R1B4K b - - 0 24"]
+[LichessURL "https://lichess.org/W1rcODXH#47"]
+[PuzzleId "W7io7"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+24... Rd1+ 25. Qe1 Rxe1+ 26. Rf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p4ppp/2R1r3/3p4/Q2P1q2/4b3/PP3PP1/2R4K w - - 1 22"]
+[LichessURL "https://lichess.org/HJQEJEVW/black#42"]
+[PuzzleId "nq4Pu"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+22. Rc8+ Rxc8 23. Rxc8+ Re8 24. Rxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pR4p1/3Qpq1p/8/8/8/PP3PPP/R5K1 b - - 0 19"]
+[LichessURL "https://lichess.org/h6AqpyXa#37"]
+[PuzzleId "m4ZFK"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+19... Qxf2+ 20. Kh1 Qf1+ 21. Rxf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/ppp2ppp/1b5q/8/2QP2b1/1P2r3/PB4PP/5RK1 w - - 2 20"]
+[LichessURL "https://lichess.org/wJybEnSi/black#38"]
+[PuzzleId "rIzAy"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+20. Qxf7+ Kh8 21. Qf8+ Rxf8 22. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/4Qp2/2k2Pp1/p2p4/1p1B2pr/8/PPP5/1K6 b - - 1 32"]
+[LichessURL "https://lichess.org/NyXU50zF#63"]
+[PuzzleId "PgkYn"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+32... Rh1+ 33. Bg1 Rxg1+ 34. Qe1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rr1/1pp3pk/1p5p/1P2Pp1P/P2q4/6R1/6Q1/6RK w - - 0 38"]
+[LichessURL "https://lichess.org/CzaZqqmn/black#74"]
+[PuzzleId "kLrgA"]
+[Themes "endgame long mate mateIn3"]
+
+38. Rxg7+ Kh8 39. Rxg8+ Rxg8 40. Qxg8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4Rpp/4p3/1P1pQ3/3N4/8/1P4PP/7K b - - 0 27"]
+[LichessURL "https://lichess.org/c63ztFzu#53"]
+[PuzzleId "NMn9L"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+27... Rc1+ 28. Qe1 Rxe1+ 29. Rf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/8/1r6/1p1P4/1p1R4/1Pr2PPP/R5K1 w - - 4 28"]
+[LichessURL "https://lichess.org/BxtWUBYY/black#54"]
+[PuzzleId "5YJPq"]
+[Themes "backRankMate endgame long mate mateIn3 rookEndgame"]
+
+28. Ra8+ Rb8 29. Rxb8+ Rc8 30. Rxc8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/4b2p/r3P3/1p3pp1/1P1NN3/1BP1R3/1P3PPP/6K1 b - - 0 31"]
+[LichessURL "https://lichess.org/VpUKtYoZ#61"]
+[PuzzleId "QEPvn"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+31... Ra1+ 32. Bd1 Rxd1+ 33. Re1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4p3/3pP1q1/b2P4/2r4P/P4QP1/R4RK1 w - - 0 28"]
+[LichessURL "https://lichess.org/PCJDXsfu/black#54"]
+[PuzzleId "TBAhb"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28. Qxf7+ Kh8 29. Qf8+ Rxf8 30. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3r1k/1p2R1pp/pB6/P4q2/3P4/1Q6/5PPP/3R2K1 b - - 0 27"]
+[LichessURL "https://lichess.org/Wfcvax2o#53"]
+[PuzzleId "CO1uJ"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+27... Qxf2+ 28. Kh1 Qf1+ 29. Rxf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p1rr1pp1/4p2p/8/1R2B1PP/K4P1b/8/8 w - - 2 32"]
+[LichessURL "https://lichess.org/IVD9SYW6/black#62"]
+[PuzzleId "O34If"]
+[Themes "endgame long mate mateIn3"]
+
+32. Rb8+ Rc8 33. Rxc8+ Rd8 34. Rxd8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/1pp2ppp/p7/n3p3/1QP5/2P1PN1b/1R3R1P/2BB2K1 b - - 0 18"]
+[LichessURL "https://lichess.org/n5OESBXm#35"]
+[PuzzleId "tbs27"]
+[Themes "fork long mate mateIn3 middlegame"]
+
+18... Rxd1+ 19. Ne1 Rxe1+ 20. Rf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/p3p3/1p2Pn2/3q1P2/P1r2Q1P/2P2RPK/8 w - - 4 30"]
+[LichessURL "https://lichess.org/O4aRyuuC/black#58"]
+[PuzzleId "XAlCr"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+30. Qa8+ Rc8 31. Qxc8+ Qd8 32. Qxd8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/pk6/1p6/2R1P2p/8/5N2/r4PPP/6K1 b - - 0 34"]
+[LichessURL "https://lichess.org/YcWP0mUp#67"]
+[PuzzleId "4D8GL"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+34... Ra1+ 35. Rc1 Rxc1+ 36. Ne1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/R4rpp/8/8/8/5P2/1r4PK/8 w - - 0 42"]
+[LichessURL "https://lichess.org/bT8zZsMS/black#82"]
+[PuzzleId "L0bsC"]
+[Themes "backRankMate endgame long mate mateIn3 rookEndgame"]
+
+42. Ra8+ Rb8 43. Rxb8+ Rf8 44. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5p2/5Q1p/p7/3P4/1B6/PP4PP/7K b - - 0 31"]
+[LichessURL "https://lichess.org/BKhLRVhs#61"]
+[PuzzleId "FjdnS"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+31... Rc1+ 32. Bd1 Rxd1+ 33. Qf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/4b3/1p6/2pr4/5B2/5PPP/R5K1 w - - 0 28"]
+[LichessURL "https://lichess.org/wqXWkGwr/black#54"]
+[PuzzleId "yLlAH"]
+[Themes "backRankMate endgame long mate mateIn3"]
+
+28. Ra8+ Bc8 29. Rxc8+ Rd8 30. Rxd8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b1q4/3r2k1/6pp/p1P5/1p6/1P3Q2/2B1RPPP/6K1 b - - 6 42"]
+[LichessURL "https://lichess.org/OaRJvbgg#83"]
+[PuzzleId "68kXB"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+
+42... Rd1+ 43. Bxd1 Qxd1+ 44. Re1 Qxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3ppp/8/8/3P2Pb/1P2r2q/P7/2R2RK1 w - - 2 41"]
+[LichessURL "https://lichess.org/HRJe9e9k/black#80"]
+[PuzzleId "R2VgZ"]
+[Themes "endgame long mate mateIn3"]
+
+41. Rc8+ Bd8 42. Rxd8+ Re8 43. Rxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/pppk1ppp/3b4/8/P2P4/2P2N1P/1Nr2PP1/6K1 b - - 0 27"]
+[LichessURL "https://lichess.org/WYaQw7NH#53"]
+[PuzzleId "oLwc5"]
+[Themes "endgame long mate mateIn3"]
+
+27... Rc1+ 28. Nd1 Rxd1+ 29. Ne1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/3p1ppp/8/p7/1r2P3/q5P1/P4Q1P/K4R2 w - - 3 32"]
+[LichessURL "https://lichess.org/FSGHgUIy/black#62"]
+[PuzzleId "uWNf7"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+32. Qxf7+ Kh8 33. Qf8+ Rxf8 34. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/ppp1qppp/8/1bB5/4r3/2P2N2/PPQ2PPP/R3R1K1 b - - 0 17"]
+[LichessURL "https://lichess.org/UG2855cA#33"]
+[PuzzleId "FPQVk"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+
+17... Rxe1+ 18. Nxe1 Qxe1+ 19. Rxe1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Qq3k1/5ppp/p3pn2/3p4/2r5/4PP2/6PP/2R3K1 w - - 2 34"]
+[LichessURL "https://lichess.org/kATbtLC5/black#66"]
+[PuzzleId "XaOn7"]
+[Themes "backRankMate endgame long mate mateIn3 xRayAttack"]
+
+34. Qxc8+ Rxc8 35. Rxc8+ Ne8 36. Rxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/8/1p3p1p/p2brPpB/3q4/P5Q1/1P3RPP/3R3K b - - 1 32"]
+[LichessURL "https://lichess.org/scJH5POG#63"]
+[PuzzleId "19VbA"]
+[Themes "fork long mate mateIn3 middlegame sacrifice"]
+
+32... Qxd1+ 33. Bxd1 Re1+ 34. Rf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/ppp2ppp/8/6q1/2P3n1/4P3/PP3QPP/5RK1 w - - 5 26"]
+[LichessURL "https://lichess.org/UVUDmbuB/black#50"]
+[PuzzleId "45g95"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+26. Qxf7+ Kh8 27. Qf8+ Rxf8 28. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R1p1Q/p3p3/2q1krp1/8/1BP5/PP3PPP/3R2K1 b - - 0 34"]
+[LichessURL "https://lichess.org/EdySCFIK#67"]
+[PuzzleId "GWD2I"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+34... Qxf2+ 35. Kh1 Qf1+ 36. Rxf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp3p2/1qb1p3/2b1PpBp/7P/2pQ4/PP1R1PP1/3R2K1 w kq - 0 19"]
+[LichessURL "https://lichess.org/c5RruRY6/black#36"]
+[PuzzleId "4vRp3"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+
+19. Qd8+ Rxd8 20. Rxd8+ Qxd8 21. Rxd8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p3qp1/7p/8/PQ1Pp3/4P3/5PPP/R5K1 b - - 2 32"]
+[LichessURL "https://lichess.org/W1SlpHoZ#63"]
+[PuzzleId "pJKhk"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+32... Qxf2+ 33. Kh1 Qf1+ 34. Rxf1 Rxf1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p3ppp/p3p3/3n4/q7/5Q2/6PP/1N3RK1 w - - 2 24"]
+[LichessURL "https://lichess.org/4C6ehaj8/black#46"]
+[PuzzleId "nX8VJ"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+24. Qxf7+ Kh8 25. Qf8+ Rxf8 26. Rxf8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/pp6/5kp1/4r1q1/6P1/4P3/PPP3P1/2K4R b - - 0 28"]
+[LichessURL "https://lichess.org/Sj8JV9wy#55"]
+[PuzzleId "qJoJr"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+28... Qxe3+ 29. Kb1 Qe1+ 30. Rxe1 Rxe1# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5pp1/Q2prb2/p5p1/Np6/5q2/1PP5/1K5R w - - 0 38"]
+[LichessURL "https://lichess.org/l6mREsjP/black#74"]
+[PuzzleId "BKPMX"]
+[Themes "hangingPiece long mate mateIn3 middlegame"]
+
+38. Qxc8+ Bd8 39. Qxd8+ Re8 40. Qxe8# *
+
+
+
+[Event "Mate In 3"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pkp/3qp1n1/8/8/1B2Q3/P2r1PPP/3R2K1 b - - 3 30"]
+[LichessURL "https://lichess.org/Uha8gDrA#59"]
+[PuzzleId "7O5rb"]
+[Themes "endgame long mate mateIn3"]
+
+30... Rxd1+ 31. Bxd1 Qxd1+ 32. Qe1 Qxe1# *
+
+
+

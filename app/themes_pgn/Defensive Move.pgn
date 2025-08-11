@@ -1,0 +1,850 @@
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2R1rk2/1p4p1/1P4Pp/5K1P/8/8 w - - 5 46"]
+[LichessURL "https://lichess.org/psTGfsnD/black#90"]
+[PuzzleId "FGfwX"]
+[Themes "crushing defensiveMove endgame master rookEndgame short zugzwang"]
+
+46. Rxe6+ Kxe6 47. Ke4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/1pPp2Pk/1P1P4/6K1/8/8 b - - 0 46"]
+[LichessURL "https://lichess.org/fdgNWwzF#91"]
+[PuzzleId "M8lz8"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+
+46... Kxg5 47. Kf3 Kf5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k2p3/1p2P3/1P6/1Kr5/8/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/NZTkEcLQ/black#108"]
+[PuzzleId "b9qJ1"]
+[Themes "crushing defensiveMove endgame master short"]
+
+55. Kxc4 Kc7 56. Kd5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1R1/8/3p2N1/6r1/7p/8/7K b - - 3 51"]
+[LichessURL "https://lichess.org/65JdZwcu#101"]
+[PuzzleId "5YS3t"]
+[Themes "advantage defensiveMove endgame master short"]
+
+51... Kf6 52. Rf7+ Kxg5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7k/7p/7P/6rK/6P1/8 w - - 0 59"]
+[LichessURL "https://lichess.org/mhOtLHed/black#116"]
+[PuzzleId "oqYLQ"]
+[Themes "crushing defensiveMove endgame short"]
+
+59. Kxg3 Kg6 60. Kf4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/4k1Q1/p1p2p2/4pP2/2p1P1N1/7R/P1q3PP/1r3R1K b - - 0 36"]
+[LichessURL "https://lichess.org/6U5K9p0R#71"]
+[PuzzleId "zSrJS"]
+[Themes "crushing defensiveMove middlegame short"]
+
+36... Rf7 37. Qxf7+ Kxf7 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/7p/3p2kP/3P4/2PK4/8/8 w - - 2 57"]
+[LichessURL "https://lichess.org/KwWQjT1p/black#112"]
+[PuzzleId "CYOq7"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+
+57. c4 dxc4+ 58. Kxc4 Kxh5 59. d5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p7/5P1p/8/1P6/2r5/1k1Q1KP1/8 b - - 6 52"]
+[LichessURL "https://lichess.org/n8JOLG8b#103"]
+[PuzzleId "yJJnD"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+52... Rc2 53. Qxc2+ Kxc2 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1p1/1k4r1/1P5P/1K6/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/nf75huzl/black#104"]
+[PuzzleId "XNR7I"]
+[Themes "crushing defensiveMove endgame master short"]
+
+53. hxg5 e5 54. Kc3 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/r2R1kp1/3K4/8/P1P5/8 b - - 0 47"]
+[LichessURL "https://lichess.org/8XuVBHQ3#93"]
+[PuzzleId "lInES"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+
+47... Rxd5+ 48. Kxd5 g4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/5p2/2r4R/3k3P/6K1/6P1/8 w - - 1 51"]
+[LichessURL "https://lichess.org/FHBSoDod/black#100"]
+[PuzzleId "0DWW4"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+
+51. Rxc5 Kxc5 52. h5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/5r2/3KQ1k1/P6p/8 b - - 3 53"]
+[LichessURL "https://lichess.org/oKT1b5im#105"]
+[PuzzleId "xmPOv"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+53... Rf3 54. Qxf3+ Kxf3 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/4K3/8/2k5/7P/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/4oQYHNCm/black#100"]
+[PuzzleId "9h4aW"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+51. h4 a5 52. h5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2N4/5k1p/1P2pprP/PB1p4/3K1P2/8 b - - 6 52"]
+[LichessURL "https://lichess.org/MBtAhL8c#103"]
+[PuzzleId "9T59M"]
+[Themes "crushing defensiveMove endgame short"]
+
+52... Ke5 53. Nxe4 Kxe4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/1r3p2/1K4pp/2P5/6P1/7P/8 w - - 0 39"]
+[LichessURL "https://lichess.org/d2pw2TvB/black#76"]
+[PuzzleId "nJY6X"]
+[Themes "crushing defensiveMove endgame short"]
+
+39. Kxb6 Ke7 40. c5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5k1/8/2q1Q3/5PK1/7P/8 b - - 2 41"]
+[LichessURL "https://lichess.org/czriG3s3#81"]
+[PuzzleId "tqP1u"]
+[Themes "crushing defensiveMove endgame long queenEndgame quietMove"]
+
+41... Qxe4 42. fxe4 a5 43. Kf4 a4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3k2/pp3pbQ/4p1pn/2ppPP2/3P2Pq/2N1B3/PPP5/R3KB2 w Q - 1 15"]
+[LichessURL "https://lichess.org/frCHQoX0/black#28"]
+[PuzzleId "ld9nY"]
+[Themes "crushing defensiveMove master middlegame short"]
+
+15. Bf2 Qxf2+ 16. Kxf2 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q7/Q3k3/K5p1/8/8/P7/8/8 b - - 4 48"]
+[LichessURL "https://lichess.org/wyoGekIa#95"]
+[PuzzleId "D0Ir1"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
+
+48... Qxa7+ 49. Kxa7 g5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/pp3p2/2p2B2/P3P3/1Pk1q1K1/2P2R2/8 w - - 6 66"]
+[LichessURL "https://lichess.org/Jm2g0zDh/black#130"]
+[PuzzleId "nk590"]
+[Themes "crushing defensiveMove endgame pin short"]
+
+66. Rf3 Qxf3+ 67. Kxf3 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K1Q1k2/P4p1p/7P/8/8/3pr3/8 b - - 2 60"]
+[LichessURL "https://lichess.org/E3a4Bhzp#119"]
+[PuzzleId "2k5ik"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+60... Re7 61. Qxe7+ Kxe7 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/7p/3p4/2p3p1/3p2P1/r6P/PPP2K2/8 w - - 0 34"]
+[LichessURL "https://lichess.org/OdZOodRV/black#66"]
+[PuzzleId "24QJ5"]
+[Themes "crushing defensiveMove endgame short"]
+
+34. bxa3 Kg8 35. a4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2b5/2P5/1K1k3p/5p2/2N1pP1P/6P1/8 b - - 4 41"]
+[LichessURL "https://lichess.org/i7kBNekj#81"]
+[PuzzleId "lkXr8"]
+[Themes "crushing defensiveMove endgame master short"]
+
+41... Kd4 42. Ne2+ Kd3 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp3pk1/5p2/5P1p/6P1/8/PP4P1/6K1 w - - 0 32"]
+[LichessURL "https://lichess.org/J32PPYrP/black#62"]
+[PuzzleId "V0I7N"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+
+32. gxh5 Kh6 33. g4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2R1k3/6K1/6P1/8/2Pr3p/8 b - - 7 44"]
+[LichessURL "https://lichess.org/2URZ8PDX#87"]
+[PuzzleId "0iZf1"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+
+44... Rd6 45. Rxd6+ Kxd6 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2K5/2p3p1/6Pp/1k5P/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/90eM43x1/black#104"]
+[PuzzleId "TdicX"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+
+53. Kxc5 Kc3 54. Kd5 Kd3 55. Ke5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2r2/p3Q1kp/1q3pp1/8/1r1p4/1P3P2/P3BKPP/R6R b - - 1 21"]
+[LichessURL "https://lichess.org/VtZ4xAsy#41"]
+[PuzzleId "1sY0W"]
+[Themes "advantage defensiveMove master middlegame short"]
+
+21... Rf7 22. Qxf7+ Kxf7 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/p2R4/1p2P3/2pP3r/4KP2/PPP3n1/8 w - - 2 44"]
+[LichessURL "https://lichess.org/feGzh5T0/black#86"]
+[PuzzleId "nFI9v"]
+[Themes "advantage defensiveMove endgame short"]
+
+44. Kf2 Ne1 45. Kxe1 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/7p/K5R1/P7/8/8/8 b - - 0 51"]
+[LichessURL "https://lichess.org/BmVpJ8Jl#101"]
+[PuzzleId "punRO"]
+[Themes "crushing defensiveMove endgame short"]
+
+51... hxg5 52. Kb4 g4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5p1p/p4Qp1/3pp3/3q4/5P2/3B1K2/6R1 w - - 4 29"]
+[LichessURL "https://lichess.org/TUIQHaap/black#56"]
+[PuzzleId "1rDYd"]
+[Themes "crushing defensiveMove endgame short"]
+
+29. Be3 Qxe3+ 30. Kxe3 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/8/5r2/5k1p/4p2P/4P3/6K1/8 b - - 0 50"]
+[LichessURL "https://lichess.org/ChTDOaa1#99"]
+[PuzzleId "im1Iz"]
+[Themes "crushing defensiveMove endgame long rookEndgame"]
+
+50... Rg6+ 51. Rxg6 Kxg6 52. Kg3 Kf5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p7/P5QK/k6P/8/8/3q4 w - - 4 51"]
+[LichessURL "https://lichess.org/IfsiiO2D/black#100"]
+[PuzzleId "qLObf"]
+[Themes "crushing defensiveMove endgame long queenEndgame"]
+
+51. Qg4+ Qxg4+ 52. Kxg4 Kxa5 53. h5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4R3/2pk1p2/5P2/2K5/8 b - - 0 65"]
+[LichessURL "https://lichess.org/5TtVYZKy#129"]
+[PuzzleId "ydZDc"]
+[Themes "crushing defensiveMove endgame hangingPiece short"]
+
+65... Kxe5 66. Kc3 Kd5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1R3p2/3N1p1p/1PP4r/4p3/1N1p1n1K/1b1P1P1P/8 w - - 5 32"]
+[LichessURL "https://lichess.org/9XmQ4uS4/black#62"]
+[PuzzleId "uQMv1"]
+[Themes "advantage defensiveMove endgame short"]
+
+32. Kg4 Rg5+ 33. Kf4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/3Q2kp/5pp1/8/p2P4/P1q3P1/3R1PP1/6K1 b - - 2 38"]
+[LichessURL "https://lichess.org/uK8oVILk#75"]
+[PuzzleId "p3Bl0"]
+[Themes "crushing defensiveMove endgame short"]
+
+38... Rf7 39. Qxf7+ Kxf7 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5p2/2KP2pp/8/p5P1/8/6bP/8 w - - 2 44"]
+[LichessURL "https://lichess.org/dVlDdqaa/black#86"]
+[PuzzleId "6M1fP"]
+[Themes "advancedPawn bishopEndgame crushing defensiveMove endgame long promotion"]
+
+44. Kc7 Kg7 45. d7 a3 46. d8=Q *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p2pp2/7R/5kp1/PP6/4K3 b - - 2 49"]
+[LichessURL "https://lichess.org/8Ox71GC0#97"]
+[PuzzleId "FPDEh"]
+[Themes "advancedPawn crushing defensiveMove endgame rookEndgame short"]
+
+49... g2 50. Rh3+ Kg4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/5q1p/8/3Q4/1PK5/8/8 w - - 8 73"]
+[LichessURL "https://lichess.org/dJe6EHqB/black#144"]
+[PuzzleId "gAnuz"]
+[Themes "crushing defensiveMove endgame master queenEndgame short"]
+
+73. Qxf6 gxf6 74. b4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5p1/K6p/2N4k/8/P7/8 b - - 1 39"]
+[LichessURL "https://lichess.org/YnVMXu7E#77"]
+[PuzzleId "3ppwl"]
+[Themes "crushing defensiveMove endgame knightEndgame quietMove short"]
+
+39... g5 40. Kxa6 g4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/8/3K4/1P3k2/5P2/8 w - - 2 72"]
+[LichessURL "https://lichess.org/vLLbwhxi/black#142"]
+[PuzzleId "a5ywA"]
+[Themes "crushing defensiveMove endgame master masterVsMaster pawnEndgame quietMove short"]
+
+72. b4 Kxf2 73. b5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k2R/7P/4K1P1/8/p4r2/8 b - - 1 42"]
+[LichessURL "https://lichess.org/IsnQqbK0#83"]
+[PuzzleId "BRmLf"]
+[Themes "crushing defensiveMove endgame master rookEndgame short"]
+
+42... Rf6 43. Rxf6+ Kxf6 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5p1/PkPK4/1r2R3/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/bllHijBb/black#110"]
+[PuzzleId "q4WFx"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+
+56. Rxb3+ Kxb3 57. c5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1kb5/p1p1p1p1/P1PpP1P1/3P4/2K5/3B4/8 b - - 10 53"]
+[LichessURL "https://lichess.org/Y0UMtQhh#105"]
+[PuzzleId "UPYjw"]
+[Themes "bishopEndgame crushing defensiveMove endgame long master"]
+
+53... Bxa5+ 54. Kc2 Bxd2 55. Kxd2 a5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1p6/1r5R/1k4K1/7P/8/8 w - - 0 75"]
+[LichessURL "https://lichess.org/IjM4wGjh/black#148"]
+[PuzzleId "1aJEF"]
+[Themes "crushing defensiveMove endgame long quietMove rookEndgame"]
+
+75. Rxb5+ Kxb5 76. h4 a5 77. h5 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2Q5/2k5/p7/6P1/5P2/6K1/8 b - - 0 61"]
+[LichessURL "https://lichess.org/1stvnXdI#121"]
+[PuzzleId "9RwA2"]
+[Themes "crushing defensiveMove endgame master short"]
+
+61... Kxc7 62. Kf2 a4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4R1Rp/p4P2/1pprK1p1/6P1/8/P6P/3r4 w - - 13 37"]
+[LichessURL "https://lichess.org/BGt67rvT/black#72"]
+[PuzzleId "Xlf2g"]
+[Themes "crushing defensiveMove endgame master rookEndgame short"]
+
+37. Ke6 Rd6+ 38. Kf7 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1Q2k1pp/4p3/p7/1p6/1P5P/PqP2PP1/2R3K1 b - - 6 35"]
+[LichessURL "https://lichess.org/Jpk2V2xZ#69"]
+[PuzzleId "assSC"]
+[Themes "crushing defensiveMove endgame short"]
+
+35... Rd7 36. Qxd7+ Kxd7 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/p5pp/2k5/2P5/P3p1P1/6QP/1q2K3/3R4 w - - 1 34"]
+[LichessURL "https://lichess.org/Je7fuS1U/black#66"]
+[PuzzleId "26W5q"]
+[Themes "crushing defensiveMove endgame short"]
+
+34. Rd2 Qxd2+ 35. Kxd2 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/8/6K1/8/1k6/7P/8 b - - 2 47"]
+[LichessURL "https://lichess.org/PWOnt8cZ#93"]
+[PuzzleId "8IAF3"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+
+47... c5 48. h4 c4 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/2p2n1p/5p2/1Pq5/8/K2p4/3B2Q1 w - - 0 49"]
+[LichessURL "https://lichess.org/LBgkPuc2/black#96"]
+[PuzzleId "fhYkQ"]
+[Themes "crushing defensiveMove endgame master pin short"]
+
+49. Bb3 Qxb3+ 50. Kxb3 *
+
+
+
+[Event "Defensive Move"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/1K3p1p/5P1P/5P2/8/8/8 b - - 7 52"]
+[LichessURL "https://lichess.org/qRSKbqHQ#103"]
+[PuzzleId "4j3Io"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
+
+52... Kd6 53. Kb5 Kd5 *
+
+
+

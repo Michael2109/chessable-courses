@@ -1,0 +1,34 @@
+[Event "En Passant"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/p4pp1/4p1p1/1pPpq1B1/Q7/8/P2N1PPP/R4RK1 w kq b6 0 14"]
+[LichessURL "https://lichess.org/vWYs9lgI/black#26"]
+[PuzzleId "p3D6j"]
+[Themes "discoveredAttack enPassant mate mateIn1 middlegame oneMove"]
+
+14. cxb6# *
+
+
+
+[Event "En Passant"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pk3p1p/1p2b1pP/1P1pPpP1/P2P1P2/2rK4/2N5/8 w - - 0 43"]
+[LichessURL "https://lichess.org/qk6uxUvF/black#84"]
+[PuzzleId "kFOSh"]
+[Themes "crushing enPassant endgame short"]
+
+43. Kxc3 a5 44. bxa6+ *
+
+
+

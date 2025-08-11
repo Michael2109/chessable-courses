@@ -1,0 +1,850 @@
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r1b2/pp3p2/2p5/3pP1Q1/3P4/2N2K2/PPq5/5R2 w - - 0 24"]
+[LichessURL "https://lichess.org/tc4vnqxV/black#46"]
+[PuzzleId "xufrt"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+24. Qxd8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5qkp/p5p1/2Q5/1p6/8/PPP2PPP/1K1Rr3 b - - 2 29"]
+[LichessURL "https://lichess.org/qYqfHOdv#57"]
+[PuzzleId "no1gX"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+29... Rxd1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q2r1k1/5pp1/7p/6q1/2P5/3B2PP/r1P3PK/5R2 w - - 2 30"]
+[LichessURL "https://lichess.org/G19vRSpA/black#58"]
+[PuzzleId "t8UlB"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+30. Qxe8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/pp3ppp/1q6/3p4/6n1/2N1BN2/PPP3PP/R2Q1BKR b kq - 4 10"]
+[LichessURL "https://lichess.org/UD0LRJT6#19"]
+[PuzzleId "a9co9"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+
+10... Qxe3# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/prp2ppp/5b2/2pqp3/Q7/2PP1N2/PP3PPP/3RR1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/H77WEbvJ/black#34"]
+[PuzzleId "zGSFM"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18. Qxe8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2knp1p/2r1p3/3pQ3/8/8/PP3PPP/2R3K1 b - - 0 29"]
+[LichessURL "https://lichess.org/zLmVzegi#57"]
+[PuzzleId "7u9Nq"]
+[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
+
+29... Rxc1+ 30. Qe1 Rxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/6p1/6p1/5nN1/8/2p2P2/r5PP/1R5K w - - 0 42"]
+[LichessURL "https://lichess.org/tgEJnH3c/black#82"]
+[PuzzleId "hsbhV"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+42. Rxb8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr2k/R5p1/5bQp/2p5/2N5/2P2p2/P4PPP/4R1K1 b - - 0 31"]
+[LichessURL "https://lichess.org/t5MzVxuv#61"]
+[PuzzleId "7QfVW"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+31... Rxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/4np2/8/2B1P3/3P4/5Kp1/8 w - - 2 58"]
+[LichessURL "https://lichess.org/FKRajpkc/black#114"]
+[PuzzleId "u4EHA"]
+[Themes "crushing endgame hangingPiece master short"]
+
+58. Bxe6 g1=Q+ 59. Kxg1 *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr5/1pp4Q/p4p2/P2Rp3/1b1B4/8/2P1qPPP/3R2K1 b - - 0 28"]
+[LichessURL "https://lichess.org/bhbRsmXd#55"]
+[PuzzleId "mI33M"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+28... Qxd1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b1k/1bq2p1p/2n1pP1Q/pp1nP2P/8/2pP4/P1P2PK1/R3R3 w - - 1 30"]
+[LichessURL "https://lichess.org/759uwqFw/black#58"]
+[PuzzleId "IQDp7"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+30. Qxf8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/1Q4pq/p1p2p1p/P2p4/1P1P4/2P4P/5PP1/4R1K1 b - - 0 33"]
+[LichessURL "https://lichess.org/D6Wuy1OO#65"]
+[PuzzleId "GK6c2"]
+[Themes "crushing endgame hangingPiece long"]
+
+33... Rxb7 34. Re8+ Qg8 35. Rxg8+ Kxg8 *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/p2b3p/2p3p1/2B1b3/N1P2R1Q/1P5P/P5rK/5R2 w - - 1 35"]
+[LichessURL "https://lichess.org/uO8BRpmM/black#68"]
+[PuzzleId "jn7i7"]
+[Themes "advantage hangingPiece middlegame short"]
+
+35. Kxg2 Qxh4 36. Rxh4 *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Qn2k2r/p4p1p/2pbp3/3p2p1/3P1P2/1BP4q/P1P4P/R1B2R1K b k - 1 18"]
+[LichessURL "https://lichess.org/mRxzJ8A9#35"]
+[PuzzleId "3FalB"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18... Qxf1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4N1pk/1p6/nR5r/3pp3/8/5PP1/6K1 w - - 0 45"]
+[LichessURL "https://lichess.org/jMwOpvor/black#88"]
+[PuzzleId "LnoYs"]
+[Themes "anastasiaMate endgame hangingPiece mate mateIn1 oneMove"]
+
+45. Rxh5# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1nppp/2n5/8/5bb1/2Q2N2/PPP1PPPP/1K1R1B1R b - - 3 12"]
+[LichessURL "https://lichess.org/3bxpBtIz#23"]
+[PuzzleId "eMdAq"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+12... Rxd1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3p1ppp/bp6/p1pP4/2P2PP1/8/Pb4K1/R1B1rB2 w - - 0 28"]
+[LichessURL "https://lichess.org/skqJk709/black#54"]
+[PuzzleId "tFQfs"]
+[Themes "advantage endgame hangingPiece short"]
+
+28. Bxb2 Rxa1 29. Bxa1 *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/pp4p1/2Rb3p/8/4R3/1P2P3/P5PP/4qQ1K b - - 2 28"]
+[LichessURL "https://lichess.org/KNOdqm9N#55"]
+[PuzzleId "e5c8g"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+28... Qxf1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1p1qpp1p/6p1/p2P4/1b1QP3/8/P4PPP/2R2KNR w kq - 0 16"]
+[LichessURL "https://lichess.org/dEGicMvL/black#30"]
+[PuzzleId "5b2vZ"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+16. Qxh8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/p1p2ppp/1p6/R7/Q1q5/5B2/P5PP/5R1K b - - 0 23"]
+[LichessURL "https://lichess.org/DWWrThOb#45"]
+[PuzzleId "SBXmA"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+23... Qxf1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3ppp/5b2/3q1P2/3p2Pn/3N4/PP1N1B1P/R2QR1K1 w - - 6 18"]
+[LichessURL "https://lichess.org/l554jxgG/black#34"]
+[PuzzleId "CrlG3"]
+[Themes "backRankMate hangingPiece mate mateIn1 oneMove opening"]
+
+18. Rxe8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/2Q2p1k/5P2/1P2B2p/P5qP/6P1/3r1R1K b - - 2 48"]
+[LichessURL "https://lichess.org/FROpyy6l#95"]
+[PuzzleId "uVuBH"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+48... Rxf1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p1npk1/2N5/5KP1/8/8 w - - 2 49"]
+[LichessURL "https://lichess.org/8J06BdOD/black#96"]
+[PuzzleId "GatFx"]
+[Themes "crushing endgame hangingPiece knightEndgame master short"]
+
+49. Nxe5 c4 50. Nxc4 *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r3/pQ6/3p1B1p/5k1q/3R2p1/8/PP3PPP/4R1K1 b - - 0 26"]
+[LichessURL "https://lichess.org/viw7I0eG#51"]
+[PuzzleId "8EHIJ"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+26... Rxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/pp5R/2p1R3/5n2/3Pp3/1KN5/P7/6r1 w - - 0 31"]
+[LichessURL "https://lichess.org/bk9b5AwJ/black#60"]
+[PuzzleId "fGzCJ"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+31. Rxe8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p2r1ppp/2Q2n2/8/3Pp3/P1P5/P4PPP/R1BqR1K1 b - - 2 18"]
+[LichessURL "https://lichess.org/795PO0HL#35"]
+[PuzzleId "07lbv"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18... Qxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5p1p/5Pp1/3B3P/3n2P1/P3r3/2p3K1/1R6 w - - 0 45"]
+[LichessURL "https://lichess.org/24XZa1AX/black#88"]
+[PuzzleId "HmLMh"]
+[Themes "endgame hangingPiece mate mateIn2 short"]
+
+45. Rxb8+ Re8 46. Rxe8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1N2k1/4p3/2p3p1/2qpP2p/8/1B5Q/PPP5/1K4R1 b - - 0 29"]
+[LichessURL "https://lichess.org/uuS36Asy#57"]
+[PuzzleId "KmHrx"]
+[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
+
+29... Qxg1+ 30. Qf1 Qxf1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1k1r/p1p2ppp/4b3/6Q1/8/8/PPP2PPP/5RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/ai3f8HTY/black#34"]
+[PuzzleId "bgL8d"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+18. Qxd8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3bk1/1p3pp1/p1Pp3p/8/Pq6/1B5P/2Q2PPB/4R1K1 b - - 0 25"]
+[LichessURL "https://lichess.org/gEcegnAM#49"]
+[PuzzleId "FvlBk"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+25... Qxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppb/p3p2p/np1pN3/3P4/1P2rP1P/PN4P1/2R2RK1 w - - 0 31"]
+[LichessURL "https://lichess.org/GKzeHYht/black#60"]
+[PuzzleId "a3ioY"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+31. Rxc8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kb1r/R4ppp/2Ppp3/8/1q6/1P3Q2/1B3PPP/4R1K1 b k - 1 21"]
+[LichessURL "https://lichess.org/7H50Lif0#41"]
+[PuzzleId "lHcQj"]
+[Themes "hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove"]
+
+21... Qxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q2q2k1/p4ppp/np6/8/8/2N4P/PP3PP1/6K1 w - - 0 23"]
+[LichessURL "https://lichess.org/8DbQ9bVE/black#44"]
+[PuzzleId "nn7dn"]
+[Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove"]
+
+23. Qxd8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kpr1/7R/4R2K/7P/8/4r3/8 b - - 12 51"]
+[LichessURL "https://lichess.org/V3s7VGKv#101"]
+[PuzzleId "ketJo"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
+
+51... Rxe5# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/pp4pp/1b2p1q1/5pB1/1Q4nP/2N3P1/PP2PPB1/R2R2K1 w - - 1 18"]
+[LichessURL "https://lichess.org/REo8YduC/black#34"]
+[PuzzleId "8XC6y"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18. Qxf8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p2Nbppp/b4n2/3p4/8/P3B3/1PrN1PPP/2R1K2R b K - 0 18"]
+[LichessURL "https://lichess.org/YzR5OkSJ#35"]
+[PuzzleId "uGTrp"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+18... Rxc1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b4k/2R4p/5r1P/4pP2/3pP3/3PnP2/P7/7K w - - 0 43"]
+[LichessURL "https://lichess.org/dZHtuC6Y/black#84"]
+[PuzzleId "kDOmy"]
+[Themes "endgame hangingPiece mate mateIn2 short"]
+
+43. Rxc8+ Rf8 44. Rxf8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kbr1/4pp1p/p2pbp2/Rq1N4/4PP2/5B2/P1PQ2PP/5R1K b - - 16 21"]
+[LichessURL "https://lichess.org/BNiVudiA#41"]
+[PuzzleId "OXNpQ"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+21... Qxf1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbr2k1/5ppp/6q1/1pp5/1p5Q/1P2P3/3N1PPP/2B2RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/95hkNx1f/black#36"]
+[PuzzleId "V2j65"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+19. Qxd8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/ppp2ppp/3p4/8/3BN3/1P1pP3/P1PP1P2/R2QK1Rq b Q - 2 16"]
+[LichessURL "https://lichess.org/5OwZQuPT#31"]
+[PuzzleId "YfquM"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+16... Qxg1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2knr/pQp2ppp/3p2q1/1B4B1/3bP3/5b2/PP3PPP/R4RK1 w - - 0 15"]
+[LichessURL "https://lichess.org/ECeWDnDQ/black#28"]
+[PuzzleId "RR8g1"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+15. Qxc8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6b1/3k2P1/1p3P2/2B5/8/P3K3/8 b - - 0 43"]
+[LichessURL "https://lichess.org/k0Qp7HUh#85"]
+[PuzzleId "YgiAw"]
+[Themes "bishopEndgame crushing endgame hangingPiece master short"]
+
+43... bxc4 44. f6 Bxf6 *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/1pr2ppp/4p3/pR4Q1/3p4/P7/2q2PPP/4R1K1 w - - 2 28"]
+[LichessURL "https://lichess.org/oi36AYDf/black#54"]
+[PuzzleId "ZqC1e"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+28. Qxd8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p1B3pp/2p2p2/8/2bP4/2P5/P4PPP/4R1K1 b - - 2 22"]
+[LichessURL "https://lichess.org/kV7bVYq0#43"]
+[PuzzleId "ael8O"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+
+22... Rxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6pp/2p3p1/4R3/p1Pq2P1/Q5BP/5PK1/1r6 w - - 0 33"]
+[LichessURL "https://lichess.org/VRmO8QD0/black#64"]
+[PuzzleId "gIfv2"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+33. Qxf8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/6R1/5pBn/p4N1Q/2P5/1P6/P4qPP/4R2K b - - 0 30"]
+[LichessURL "https://lichess.org/gRhmepAJ#59"]
+[PuzzleId "MM1Bx"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+30... Qxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/pp1ppp1p/8/3p3p/3Q4/2N1P3/PPP2PPP/R3K1NR w KQkq - 0 11"]
+[LichessURL "https://lichess.org/sS97yloZ/black#20"]
+[PuzzleId "hAlIG"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+11. Qxh8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/p4r2/3b4/7R/6P1/PP5P/2r1R1K1 b - - 2 36"]
+[LichessURL "https://lichess.org/R159SZGg#71"]
+[PuzzleId "uP39G"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+36... Rxe1# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k1q2/2p3Q1/pp2P3/3p2P1/1P1P4/P5bP/8/R5K1 w - - 0 38"]
+[LichessURL "https://lichess.org/SPDTZWdk/black#74"]
+[PuzzleId "YYrXo"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+38. Qxf8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p4pp/p3p1r1/5p2/2qR3B/4Qp2/PP3P1P/5R1K b - - 1 27"]
+[LichessURL "https://lichess.org/EkCZYsST#53"]
+[PuzzleId "S5cXh"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+27... Qxf1# *
+
+
+

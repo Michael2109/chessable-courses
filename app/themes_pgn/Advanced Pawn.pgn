@@ -1,0 +1,850 @@
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3K4/3p1P2/2kP4/8/b4P2/8 w - - 1 56"]
+[LichessURL "https://lichess.org/B4MtP6W5/black#110"]
+[PuzzleId "gNfGf"]
+[Themes "advancedPawn bishopEndgame crushing endgame short"]
+
+56. f6 Bb1 57. f7 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/6P1/pk3P2/8/8/8 b - - 0 65"]
+[LichessURL "https://lichess.org/0aNiVwWS#129"]
+[PuzzleId "laoEA"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+65... a3 66. f5 a2 67. f6 a1=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/6P1/5Pk1/8/8/b7/8 w - - 5 54"]
+[LichessURL "https://lichess.org/Jzeq6mea/black#106"]
+[PuzzleId "CQKR9"]
+[Themes "advancedPawn bishopEndgame crushing endgame long promotion"]
+
+54. f6 Bb1 55. f7 Bxg6 56. f8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K1k1/2p3P1/7P/8/8/8 b - - 0 51"]
+[LichessURL "https://lichess.org/Zy6oBr5G#101"]
+[PuzzleId "OUXHr"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+51... c4 52. Ke5 c3 53. Kf4 c2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/1K6/1P4k1/2n5/8/3R2p1/8/8 w - - 1 54"]
+[LichessURL "https://lichess.org/g85D0nks/black#106"]
+[PuzzleId "vWkds"]
+[Themes "advancedPawn crushing endgame long promotion"]
+
+54. Kxa8 Nxd3 55. b7 Kf5 56. b8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6pp/p7/P7/8/2p4P/2r1RK2/1N6 b - - 1 39"]
+[LichessURL "https://lichess.org/8GfYI1wA#77"]
+[PuzzleId "eWeUm"]
+[Themes "advancedPawn crushing endgame short"]
+
+39... Rxe2+ 40. Kxe2 c2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4P1pp/6b1/6P1/8/BP6/P1r5/1K3R2 w - - 0 45"]
+[LichessURL "https://lichess.org/tyRoYPgA/black#88"]
+[PuzzleId "ETv2X"]
+[Themes "advancedPawn endgame master mate mateIn2 promotion short"]
+
+45. Rf8+ Rxf8 46. exf8=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/8/8/5p1p/5P1P/6K1/3pk3/8 b - - 6 64"]
+[LichessURL "https://lichess.org/n50qJ5QM#127"]
+[PuzzleId "3EoAR"]
+[Themes "advancedPawn crushing endgame master promotion short"]
+
+64... d1=Q 65. Rxd1 Kxd1 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2r4/1k1K4/7P/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/kknz3OPX/black#86"]
+[PuzzleId "dZVLH"]
+[Themes "advancedPawn crushing endgame promotion quietMove veryLong"]
+
+44. Kxd6 a5 45. h5 a4 46. h6 a3 47. h7 a2 48. h8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/4r3/p5B1/P6P/5P2/2R1pKP1/8 b - - 0 46"]
+[LichessURL "https://lichess.org/Mnxzc701#91"]
+[PuzzleId "JFUei"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+
+46... e1=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/2K2P2/3P4/8/2n5/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/BrCGbBvT/black#104"]
+[PuzzleId "MvLSD"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+53. d6 Ne4 54. d7 Nxf6 55. d8=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1N2k3/1P4p1/2pP1bP1/5K2/8/8 b - - 0 61"]
+[LichessURL "https://lichess.org/YxfAHEZ4#121"]
+[PuzzleId "R38U7"]
+[Themes "advancedPawn crushing endgame short"]
+
+61... c3 62. Na4 c2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/P1R5/K1p5/2p5/2P5/1r6/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/5CDirkgd/black#104"]
+[PuzzleId "meJmh"]
+[Themes "advancedPawn endgame mate mateIn2 promotion rookEndgame short"]
+
+53. Rc8+ Rb8 54. axb8=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/2p2K2/2r3R1/6P1/8 b - - 0 51"]
+[LichessURL "https://lichess.org/6YxdJmv1#101"]
+[PuzzleId "at5EA"]
+[Themes "advancedPawn crushing endgame long master rookEndgame"]
+
+51... Rxg3 52. Kxg3 c3 53. Kf2 c2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7K/6qP/8/1p6/2k5/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/SuIxXnRm/black#110"]
+[PuzzleId "ym3R0"]
+[Themes "advancedPawn crushing endgame long master promotion"]
+
+56. Kxg6 b3 57. h7 b2 58. h8=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p5pp/8/5P2/8/5B2/PP1p1PPP/3R2K1 b - - 1 28"]
+[LichessURL "https://lichess.org/0PVt1K3Y#55"]
+[PuzzleId "4LToV"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+
+28... Re1+ 29. Rxe1 dxe1=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/pKP3p1/P5Pp/8/6k1/8 w - - 1 40"]
+[LichessURL "https://lichess.org/1JTyP4R2/black#78"]
+[PuzzleId "tVnwI"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+40. c6 h3 41. c7 h2 42. c8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/k1K5/pp2P3/8/R7 b - - 1 46"]
+[LichessURL "https://lichess.org/pmkyJd4c#91"]
+[PuzzleId "Xy4t1"]
+[Themes "advancedPawn crushing endgame long promotion rookEndgame"]
+
+46... b2 47. Rb1 a2 48. Rxb2 a1=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/3PK1k1/P7/7p/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/e57SVgg3/black#104"]
+[PuzzleId "at6nW"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+53. d6 h2 54. d7 h1=Q 55. d8=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4Np2/5K2/3p1P2/4kP2/8/8 b - - 1 64"]
+[LichessURL "https://lichess.org/tZuF8HpX#127"]
+[PuzzleId "HxtBE"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+64... d3 65. Kxf6 d2 66. Ke7 d1=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pkp/6p1/pP6/P3p3/4P1PP/1n3P2/5K2 w - - 0 39"]
+[LichessURL "https://lichess.org/TjydT5i6/black#76"]
+[PuzzleId "ttgtp"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+39. b6 Nxa4 40. b7 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4pp1p/3p2p1/3P4/4P3/3p4/R4PPP/2b3K1 b - - 1 29"]
+[LichessURL "https://lichess.org/mb21fxQU#57"]
+[PuzzleId "W2cGB"]
+[Themes "advancedPawn advantage endgame master short"]
+
+29... d2 30. Rxd2 Bxd2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4k2/3P1P2/1p4Kp/8/1p5P/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/lQNl9oud/black#106"]
+[PuzzleId "Rhihg"]
+[Themes "advancedPawn crushing endgame master pawnEndgame promotion short"]
+
+54. d7 b2 55. d8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/P4Br1/6P1/R2p3P/2k2K2 b - - 1 39"]
+[LichessURL "https://lichess.org/Jq1zAviS#77"]
+[PuzzleId "1M1PP"]
+[Themes "advancedPawn crushing endgame promotion short"]
+
+39... Rxf4+ 40. gxf4 d1=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp2P1nr/2pp2pp/1B6/6P1/8/PP3P1P/6K1 w - - 0 27"]
+[LichessURL "https://lichess.org/LqTQml7H/black#52"]
+[PuzzleId "r9MEX"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+
+27. exf8=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/p3K3/5P2/1k4P1/7P/8 b - - 1 38"]
+[LichessURL "https://lichess.org/e0SmDz18#75"]
+[PuzzleId "Lictm"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+38... a4 39. Kd5 a3 40. f5 a2 41. f6 a1=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/r4pp1/1pP1p2p/pB1pb3/7B/1R6/5PPP/6K1 w k - 0 26"]
+[LichessURL "https://lichess.org/qKeeHL3X/black#50"]
+[PuzzleId "C5CDC"]
+[Themes "advancedPawn discoveredAttack endgame mate mateIn2 promotion short"]
+
+26. c7+ Kf8 27. c8=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p3bR2/4P3/5P2/4K3/1p6/8/8 b - - 0 51"]
+[LichessURL "https://lichess.org/21yznnEY#101"]
+[PuzzleId "MOSIL"]
+[Themes "advancedPawn advantage endgame master promotion short"]
+
+51... b2 52. Rxe7 b1=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5P1p/p6P/1k1K4/8/8 w - - 1 50"]
+[LichessURL "https://lichess.org/ECg2ffL0/black#98"]
+[PuzzleId "jxKbJ"]
+[Themes "advancedPawn crushing endgame pawnEndgame short"]
+
+50. f6 a3 51. f7 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3N4/2p5/p6P/Ppk5/8/8/6K1 b - - 1 76"]
+[LichessURL "https://lichess.org/NlSe1jIX#151"]
+[PuzzleId "WFbmh"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+76... b3 77. Kf2 b2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/3K2p1/8/4P3/2p5/8/8 w - - 0 60"]
+[LichessURL "https://lichess.org/IuXHlzql/black#118"]
+[PuzzleId "iYtIh"]
+[Themes "advancedPawn endgame long mate mateIn3 pawnEndgame quietMove"]
+
+60. e5 c2 61. e6 g5 62. e7# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5Rb1/6K1 b - - 2 57"]
+[LichessURL "https://lichess.org/XI15rtFe#113"]
+[PuzzleId "yBF47"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove"]
+
+57... h2# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p2P1ppp/8/2p1R3/2r1P1P1/7P/8/6K1 w - - 1 37"]
+[LichessURL "https://lichess.org/btjFNQiL/black#72"]
+[PuzzleId "jyjKD"]
+[Themes "advancedPawn endgame mate mateIn2 promotion rookEndgame short"]
+
+37. Re8+ Rxe8 38. dxe8=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3kP1/8/1P2pN2/p3Kp2/2P2P2/8/8 b - - 0 44"]
+[LichessURL "https://lichess.org/swoa93rx#87"]
+[PuzzleId "2uss0"]
+[Themes "advancedPawn advantage endgame knightEndgame master short"]
+
+44... a3 45. Kxe5 a2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/1p4P1/2p2K2/2k5/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/eCrsgQUx/black#100"]
+[PuzzleId "dWYjc"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+51. g6 b4 52. g7 b3 53. g8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6KP/5Pp1/5k2/8/8 b - - 0 59"]
+[LichessURL "https://lichess.org/V1oYWylt#117"]
+[PuzzleId "AlnGr"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+59... g3 60. f5 g2 61. f6 g1=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/7p/P4p2/4pP2/n7/6PP/1q1R2K1 w - - 0 45"]
+[LichessURL "https://lichess.org/5U3X2bOn/black#88"]
+[PuzzleId "5UdJQ"]
+[Themes "advancedPawn crushing endgame long"]
+
+45. Rxb1 Nxb1 46. a6 Nc3 47. a7 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4K1/8/2k3pP/1p4P1/5P2/8/8 b - - 1 48"]
+[LichessURL "https://lichess.org/eMQaDM1d#95"]
+[PuzzleId "c52Q6"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+48... b3 49. h6 b2 50. h7 b1=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/p1P4p/1p4pr/8/8/5PK1/P5P1/3R4 w - - 0 34"]
+[LichessURL "https://lichess.org/aYgQJwmF/black#66"]
+[PuzzleId "gmQCH"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame short"]
+
+34. Rd8+ Rxd8 35. cxd8=Q+ *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/8/8/8/8/2n2kp1/5p2/5K2 b - - 0 71"]
+[LichessURL "https://lichess.org/mFtbPV4p#141"]
+[PuzzleId "emNXR"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove"]
+
+71... g2# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3rKP/3k4/1P6/3pp3/8/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/gTVehhBV/black#106"]
+[PuzzleId "eAund"]
+[Themes "advancedPawn crushing endgame promotion short"]
+
+54. Kxf7 e3 55. h8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6pp/8/1P1p1N2/6Q1/5P2/4p1PP/3R3K b - - 0 36"]
+[LichessURL "https://lichess.org/Lv07kdNV#71"]
+[PuzzleId "5i4NK"]
+[Themes "advancedPawn backRankMate endgame mate mateIn1 oneMove promotion"]
+
+36... exd1=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/4P2P/4KPN1/8/8/8/8/6q1 w - - 0 64"]
+[LichessURL "https://lichess.org/QWLOhE6D/black#126"]
+[PuzzleId "Rc3SU"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove"]
+
+64. f7# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp4pp/8/2pN4/2B1R3/2P4b/PP4pP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/A5JcHaAs#51"]
+[PuzzleId "0jSSw"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+
+26... Rf1+ 27. Bxf1 gxf1=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/2p2P1k/p3P2p/2p5/1p3p2/3P4/P1P3P1/6K1 w - - 1 37"]
+[LichessURL "https://lichess.org/Z1o1Iqm5/black#72"]
+[PuzzleId "hwHYt"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame short"]
+
+37. e7 Rxf7 38. e8=Q *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/K4k1p/4p3/1P5P/8/8/8 b - - 0 49"]
+[LichessURL "https://lichess.org/fEvth0fB#97"]
+[PuzzleId "rDcEk"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+49... e4 50. b5 e3 51. b6 e2 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/1r1P1ppp/8/8/Bp2RP2/1P4PP/7K/8 w - - 7 44"]
+[LichessURL "https://lichess.org/SLY6faci/black#86"]
+[PuzzleId "PBkpR"]
+[Themes "advancedPawn endgame mate mateIn2 promotion short"]
+
+44. Re8+ Rxe8 45. dxe8=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/2p3p1/2P5/8/2R2bkp/8/6K1 b - - 0 56"]
+[LichessURL "https://lichess.org/s9YV4lgj#111"]
+[PuzzleId "8Bct5"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion short"]
+
+56... h2+ 57. Kf1 h1=Q# *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/7p/8/PK6/5k1P/8 w - - 0 42"]
+[LichessURL "https://lichess.org/GOuY7WVB/black#82"]
+[PuzzleId "YAXtv"]
+[Themes "advancedPawn crushing endgame pawnEndgame quietMove veryLong"]
+
+42. a4 g5 43. a5 g4 44. a6 h4 45. a7 *
+
+
+
+[Event "Advanced Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5K2/p7/1k4P1/7P/8/8 b - - 1 42"]
+[LichessURL "https://lichess.org/ehPptLmB#83"]
+[PuzzleId "fnQG1"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+42... a4 43. Kf7 a3 44. g5 a2 45. g6 a1=Q *
+
+
+

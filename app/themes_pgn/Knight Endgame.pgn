@@ -1,0 +1,850 @@
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5n2/1K1k4/P7/8/8/8/8 w - - 1 49"]
+[LichessURL "https://lichess.org/x5wmxFLO/black#96"]
+[PuzzleId "IO753"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+49. a6 Ng5 50. a7 Ne6 51. a8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/pk1K1P1P/8/3N1P2/8 b - - 0 51"]
+[LichessURL "https://lichess.org/xi1ERks4#101"]
+[PuzzleId "PwEYc"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+51... a3 52. Ne4 a2 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6K1/8/4n2P/3k4/8/8/8/8 w - - 3 59"]
+[LichessURL "https://lichess.org/KoFTUpfO/black#116"]
+[PuzzleId "lmwyQ"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+
+59. h7 Ke4 60. h8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3kP1/8/1P2pN2/p3Kp2/2P2P2/8/8 b - - 0 44"]
+[LichessURL "https://lichess.org/swoa93rx#87"]
+[PuzzleId "2uss0"]
+[Themes "advancedPawn advantage endgame knightEndgame master short"]
+
+44... a3 45. Kxe5 a2 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/4n3/PKNk2p1/8/8/8/8 w - - 1 54"]
+[LichessURL "https://lichess.org/i6x7qrR8/black#106"]
+[PuzzleId "hUAbK"]
+[Themes "crushing endgame knightEndgame master short"]
+
+54. Nxe6 Kxe6 55. a6 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/1k6/p4N2/Kp3p1p/3Pp2P/PP2P3/5P2/8 b - - 2 45"]
+[LichessURL "https://lichess.org/1YRMWZxC#89"]
+[PuzzleId "W9Lr1"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+45... Nc6# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4n2p/1k4p1/1p2p3/1N2P1P1/1P2K3/7P/8 w - - 2 39"]
+[LichessURL "https://lichess.org/vLIpKfWN/black#76"]
+[PuzzleId "4ojLE"]
+[Themes "crushing endgame knightEndgame master short"]
+
+39. Nd5+ Kc5 40. Nxe7 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/n1k2pp1/2P1p1p1/N7/1K3P2/7P/6P1/8 b - - 0 49"]
+[LichessURL "https://lichess.org/CWuoJFVQ#97"]
+[PuzzleId "xW78P"]
+[Themes "advantage endgame knightEndgame short"]
+
+49... Nxc6+ 50. Nxc6 Kxc6 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4pp/2p5/5P2/3N2Pk/1P1n3P/1P4K1/8 w - - 5 29"]
+[LichessURL "https://lichess.org/wfsnNOY8/black#56"]
+[PuzzleId "slAdQ"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+29. Nf3# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/N1P5/8/3kpKp1/6P1/8 b - - 0 54"]
+[LichessURL "https://lichess.org/EF3rTlBc#107"]
+[PuzzleId "ijMow"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+
+54... e2 55. Nb3 e1=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3n1kp1/7p/4PK1P/5P2/4P3/8 w - - 4 60"]
+[LichessURL "https://lichess.org/SSnR4XIC/black#118"]
+[PuzzleId "K4R8r"]
+[Themes "crushing endgame fork knightEndgame master short"]
+
+60. e5+ Ke7 61. exd6+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k1p2/8/2PpPP2/3P1n1P/8/8/6K1 b - - 0 48"]
+[LichessURL "https://lichess.org/Kktb19RD#95"]
+[PuzzleId "ztCs4"]
+[Themes "crushing endgame knightEndgame short"]
+
+48... Ne2+ 49. Kf2 Nxd4 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K6/8/P3n3/2k5/8/8/8 w - - 14 57"]
+[LichessURL "https://lichess.org/BBgtP3mi/black#112"]
+[PuzzleId "kN0OU"]
+[Themes "advancedPawn crushing endgame knightEndgame master short"]
+
+57. a6 Kc5 58. a7 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7P/8/4N1P1/pk6/3K4/8 b - - 0 57"]
+[LichessURL "https://lichess.org/1uAtGpaX#113"]
+[PuzzleId "uJITt"]
+[Themes "advancedPawn advantage endgame knightEndgame master promotion short"]
+
+57... a2 58. h7 a1=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p1n2p1/pPkp1p1p/P2N1P1P/2K1P1P1/8/8 w - - 5 46"]
+[LichessURL "https://lichess.org/hXKs59Z0/black#90"]
+[PuzzleId "7f1Vn"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+46. Nb3# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/K7/P6p/5p2/1pk2PpP/6P1/4N3/8 b - - 0 59"]
+[LichessURL "https://lichess.org/LctHO5ew#117"]
+[PuzzleId "3tu4J"]
+[Themes "advancedPawn crushing endgame knightEndgame master short"]
+
+59... b3 60. Kb7 b2 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1ppn4/2k5/2P5/2K5/PP6/8 w - - 8 54"]
+[LichessURL "https://lichess.org/6E6B63lX/black#106"]
+[PuzzleId "YVp3Q"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+54. b4# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k3pp/8/NKPp4/3Pp3/P6P/6P1/8 b - - 0 41"]
+[LichessURL "https://lichess.org/DgUqiMQM#81"]
+[PuzzleId "6cGVT"]
+[Themes "advancedPawn advantage endgame knightEndgame long promotion"]
+
+41... e3 42. Nc6 e2 43. Nb4 e1=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4p1/4K2p/3P1p2/3k4/4nPP1/7P/8 w - - 1 44"]
+[LichessURL "https://lichess.org/k1TbgnvA/black#86"]
+[PuzzleId "G5cn6"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+44. d6 Kd3 45. d7 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4Np2/5K2/3p1P2/4kP2/8/8 b - - 1 64"]
+[LichessURL "https://lichess.org/tZuF8HpX#127"]
+[PuzzleId "HxtBE"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+64... d3 65. Kxf6 d2 66. Ke7 d1=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pkp/6p1/pP6/P3p3/4P1PP/1n3P2/5K2 w - - 0 39"]
+[LichessURL "https://lichess.org/TjydT5i6/black#76"]
+[PuzzleId "ttgtp"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+39. b6 Nxa4 40. b7 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/2n3k1/4N3/4K1P1/8/8/8 b - - 0 45"]
+[LichessURL "https://lichess.org/J0FWAYZo#89"]
+[PuzzleId "p3Os7"]
+[Themes "crushing endgame knightEndgame long"]
+
+45... Nxe5 46. Kxe5 Kg5 47. Ke4 Kxg4 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k2P/7n/8/8/7K/8 w - - 0 55"]
+[LichessURL "https://lichess.org/tLOjlmvf/black#108"]
+[PuzzleId "ziU8b"]
+[Themes "advancedPawn crushing endgame knightEndgame promotion short"]
+
+55. h7 Nf4 56. h8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/5kp1/8/5K1N/8 b - - 1 63"]
+[LichessURL "https://lichess.org/neCGv2LT#125"]
+[PuzzleId "CvcgL"]
+[Themes "advancedPawn crushing endgame fork knightEndgame short"]
+
+63... g3+ 64. Kg1 gxh2+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pp1/2n1p2p/p1pkP3/2N2P2/3K4/PP4PP/8 w - - 4 31"]
+[LichessURL "https://lichess.org/cwoikdPD/black#60"]
+[PuzzleId "Se5Nl"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+31. Nb6# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n3p/3k2p1/3N2P1/1p2K2P/1P6/8/8 b - - 11 46"]
+[LichessURL "https://lichess.org/GvRuGpLV#91"]
+[PuzzleId "p7CIA"]
+[Themes "crushing endgame knightEndgame short"]
+
+46... Nc5+ 47. Kd4 Nxb3+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5pp1/1pN1p2p/nP6/8/4P2P/5PPK/8 w - - 4 32"]
+[LichessURL "https://lichess.org/yOh8VLpy/black#62"]
+[PuzzleId "aEWAz"]
+[Themes "advancedPawn crushing endgame knightEndgame long"]
+
+32. Nxa5 bxa5 33. b6 Ke7 34. b7 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3kP3/1K6/p2N4/8/8 b - - 0 47"]
+[LichessURL "https://lichess.org/i45KncGb#93"]
+[PuzzleId "DWTSc"]
+[Themes "advancedPawn crushing endgame knightEndgame promotion short"]
+
+47... a2 48. Kc3 a1=Q+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k1K3/8/pp1P4/n1p5/P1P5/8/8 w - - 2 56"]
+[LichessURL "https://lichess.org/06Xoqybu/black#110"]
+[PuzzleId "RkjaO"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+56. d6+ Kc6 57. d7 Nb6 58. d8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "N2k4/6pp/4p3/2p5/8/P6P/5PP1/7K b - - 0 43"]
+[LichessURL "https://lichess.org/WkVmJVFu#85"]
+[PuzzleId "QMRAY"]
+[Themes "advancedPawn crushing endgame knightEndgame long quietMove"]
+
+43... c4 44. Nb6 c3 45. Nc4 c2 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/P7/K7/1N6/2n5/5p2/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/ArgtGOC1/black#106"]
+[PuzzleId "3ogRx"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+54. Nc7# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7N/8/8/1p6/8/2k5/5PP1/6K1 b - - 0 55"]
+[LichessURL "https://lichess.org/Go100Phw#109"]
+[PuzzleId "vQtJF"]
+[Themes "advantage endgame knightEndgame quietMove short"]
+
+55... b4 56. Kh2 b3 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/8/3n1K1P/2p5/8/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/xDyI19FS/black#108"]
+[PuzzleId "8AEoI"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+55. h6 Kc7 56. h7 c3 57. h8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1N2n3/p5k1/4p2p/PP2p2K/4P2P/8/8 b - - 0 42"]
+[LichessURL "https://lichess.org/MSXO2fDa#83"]
+[PuzzleId "708bg"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+42... Nf5# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/2K2P2/3P4/8/2n5/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/BrCGbBvT/black#104"]
+[PuzzleId "MvLSD"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+53. d6 Ne4 54. d7 Nxf6 55. d8=Q+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/1Pkp1p2/3Np2P/2K1PnP1/8/8 b - - 4 52"]
+[LichessURL "https://lichess.org/rMnS5CHi#103"]
+[PuzzleId "lQ54q"]
+[Themes "crushing endgame knightEndgame master short"]
+
+52... Nxd4 53. exd4+ Kxb5 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3pp1/1P2p2p/2P2k1K/8/1n5P/5P2/8 w - - 1 42"]
+[LichessURL "https://lichess.org/RdifX6Ux/black#82"]
+[PuzzleId "tEpyZ"]
+[Themes "advancedPawn advantage endgame knightEndgame long promotion"]
+
+42. c6 bxc6 43. b7 Nc5 44. b8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2N2k2/6p1/1p6/pP6/8/8/8/6K1 b - - 0 47"]
+[LichessURL "https://lichess.org/jCxD2zF3#93"]
+[PuzzleId "y0esc"]
+[Themes "crushing endgame knightEndgame master quietMove short"]
+
+47... a4 48. Nxb6 a3 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p1pNk3/P1Pp2p1/1P1PnpP1/3K3P/8/8 w - - 4 38"]
+[LichessURL "https://lichess.org/WjiarBYT/black#74"]
+[PuzzleId "2w1pm"]
+[Themes "advantage endgame knightEndgame short"]
+
+38. Nxe4 dxe4+ 39. Kxe4 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3kpppp/8/3K1N2/6P1/7P/8 b - - 1 39"]
+[LichessURL "https://lichess.org/gZHn7byR#77"]
+[PuzzleId "Z01iz"]
+[Themes "crushing endgame fork knightEndgame short"]
+
+39... e5+ 40. Kc4 exf4 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/1K5p/2P5/1p3p2/4p3/7P/6n1/8 w - - 1 38"]
+[LichessURL "https://lichess.org/sgRonpXv/black#74"]
+[PuzzleId "gYuJ6"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame promotion short"]
+
+38. c7+ Ke7 39. c8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/5p1P/5K2/4nNP1/8/8 b - - 2 53"]
+[LichessURL "https://lichess.org/kaKqNz7z#105"]
+[PuzzleId "qU2OM"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+
+53... Nd5# *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p1npk1/2N5/5KP1/8/8 w - - 2 49"]
+[LichessURL "https://lichess.org/8J06BdOD/black#96"]
+[PuzzleId "GatFx"]
+[Themes "crushing endgame hangingPiece knightEndgame master short"]
+
+49. Nxe5 c4 50. Nxc4 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/7p/2pk4/8/1N1K2PP/5P2/8 b - - 0 47"]
+[LichessURL "https://lichess.org/eDGqStNJ#93"]
+[PuzzleId "7vFni"]
+[Themes "crushing endgame fork knightEndgame short"]
+
+47... c4+ 48. Kc3 cxb3 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/Kn6/1P6/P7/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/9umcZ3Ch/black#118"]
+[PuzzleId "2Ryac"]
+[Themes "advancedPawn crushing endgame knightEndgame master short"]
+
+60. a6 Nc5 61. b7+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3N4/2p5/p6P/Ppk5/8/8/6K1 b - - 1 76"]
+[LichessURL "https://lichess.org/NlSe1jIX#151"]
+[PuzzleId "WFbmh"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+76... b3 77. Kf2 b2 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5K1/Pp5P/2k1n3/8/8/8 w - - 1 76"]
+[LichessURL "https://lichess.org/brsYzKJl/black#150"]
+[PuzzleId "kjlmo"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+76. h6 b4 77. h7 Nc3 78. h8=Q *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/7p/3N4/5p2/2p5/6P1/7P/6K1 b - - 1 41"]
+[LichessURL "https://lichess.org/sCjonuuw#81"]
+[PuzzleId "EjQjV"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+
+41... c3 42. Nxf5 c2 43. Nd4 c1=Q+ *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/n7/P1pK4/5P2/2k3P1/8/8 w - - 1 53"]
+[LichessURL "https://lichess.org/zCF8J0XL/black#104"]
+[PuzzleId "Jqt42"]
+[Themes "advancedPawn crushing endgame knightEndgame long quietMove"]
+
+53. f5 Kb3 54. f6 c4 55. f7 *
+
+
+
+[Event "Knight Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p1kpp3/2p5/P1N1K3/8/8 b - - 1 46"]
+[LichessURL "https://lichess.org/Ei46AIwj#91"]
+[PuzzleId "3QHkO"]
+[Themes "crushing endgame fork knightEndgame short"]
+
+46... d4+ 47. Kd2 dxc3+ *
+
+
+
