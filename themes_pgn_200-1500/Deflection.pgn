@@ -1,0 +1,1715 @@
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+27. Bxf5+ Kb8 28. Rxd8+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+62... h2+ 63. Kh1 Kxf2 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+27. Nf6+ Rxf6 28. Rxe8+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short"]
+
+28... Nc5+ 29. Ke2 Nxe4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
+[PuzzleId "xcSSX"]
+[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+
+51. d6 g3 52. d7+ Kb7 53. d8=Q *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q7/8/7p/8/4p2B/1p1p4/1P2k3/2K5 b - - 0 52"]
+[LichessURL "https://lichess.org/Yy5aaR44#103"]
+[PuzzleId "0wbR0"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion short"]
+
+52... d2+ 53. Kb1 d1=Q# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4K2p/4pP1P/3pP3/3P2b1/8/8/7q w - - 4 49"]
+[LichessURL "https://lichess.org/x1i09rAK/black#96"]
+[PuzzleId "8S3dU"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion short"]
+
+49. f7+ Kh8 50. f8=Q# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p5/8/3k4/2R5/P2K1p2/3N1P2/3r4 b - - 2 46"]
+[LichessURL "https://lichess.org/JdfcCNYx#91"]
+[PuzzleId "fme3d"]
+[Themes "crushing deflection endgame master short"]
+
+46... Rxd2+ 47. Kxd2 Kxc4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/p4p1p/6p1/2p1q3/2Qp4/1B3P1P/PPP3P1/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/rae7zzht/black#56"]
+[PuzzleId "J4Ezx"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+29. Qxf7+ Kh8 30. Qxf8# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4R3/8/8/7P/4pp2/4k3/6K1 b - - 0 50"]
+[LichessURL "https://lichess.org/AGnSB6B1#99"]
+[PuzzleId "AQ0EL"]
+[Themes "advancedPawn crushing deflection endgame master promotion rookEndgame short"]
+
+50... f2+ 51. Kh2 f1=Q *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kb1Q1R1/2p5/pp1p4/8/3P4/1P6/PKP5/5q1r w - - 0 35"]
+[LichessURL "https://lichess.org/TSUSRQbZ/black#68"]
+[PuzzleId "1FCVQ"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+35. Qxc8+ Ka7 36. Qxc7# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pQ2R1p1/4pq1p/4N3/1P1PP3/6P1/5P1P/5BK1 b - - 0 32"]
+[LichessURL "https://lichess.org/u9kARR5o#63"]
+[PuzzleId "nZk15"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+32... Qxf2+ 33. Kh1 Qxf1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4kb1/2p4p/4P1p1/2p2p2/P1B5/1P2K1PP/8 w - - 1 37"]
+[LichessURL "https://lichess.org/B5bGStMP/black#72"]
+[PuzzleId "SoLDX"]
+[Themes "bishopEndgame crushing deflection discoveredAttack endgame master short"]
+
+37. e6+ Kxe6 38. Bxg7 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/6p1/R7/3pp1N1/3k2PP/5K2 b - - 1 51"]
+[LichessURL "https://lichess.org/Ro1vbZSS#101"]
+[PuzzleId "kDzil"]
+[Themes "advancedPawn advantage deflection endgame promotion short"]
+
+51... e2+ 52. Kg1 e1=Q+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2pk4/p1p1pPp1/PpP1K1P1/1P6/8/8 w - - 4 43"]
+[LichessURL "https://lichess.org/nqchReP6/black#84"]
+[PuzzleId "FGNzX"]
+[Themes "advancedPawn crushing deflection endgame long pawnEndgame"]
+
+43. f6 Ke6 44. f7 Kxf7 45. Kxe5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p7/P2p4/8/3pK3/2kB4 b - - 9 61"]
+[LichessURL "https://lichess.org/SpYMmbWH#121"]
+[PuzzleId "CVJXn"]
+[Themes "bishopEndgame crushing deflection endgame master short"]
+
+61... d3+ 62. Kxd3 Kxd1 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/p1K2p2/1p1P1Pp1/6P1/8/1P6/P7/7q w - - 0 46"]
+[LichessURL "https://lichess.org/ijBFGKSa/black#90"]
+[PuzzleId "tAbEZ"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion queenEndgame short"]
+
+46. d7+ Kf8 47. d8=Q# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/1p3ppp/3bb3/1B2p3/4P3/1P3N1P/P1P2RP1/2KR4 b - - 0 18"]
+[LichessURL "https://lichess.org/QnkcaWxS#35"]
+[PuzzleId "J6p8N"]
+[Themes "deflection discoveredAttack mate mateIn2 middlegame queensideAttack short"]
+
+18... Ba3+ 19. Kb1 Rxd1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K1k1/1b1p3p/p1q1pPp1/1p6/P7/8/1n6/8 w - - 0 45"]
+[LichessURL "https://lichess.org/Ao0XKx4T/black#88"]
+[PuzzleId "TYgsp"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion short"]
+
+45. f7+ Kh8 46. f8=Q# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/P7/8/4B1p1/5p2/2P5/4K1k1 b - - 0 54"]
+[LichessURL "https://lichess.org/6d8ATJ99#107"]
+[PuzzleId "ApoTX"]
+[Themes "advancedPawn bishopEndgame crushing deflection endgame promotion short"]
+
+54... f2+ 55. Kd2 f1=Q *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/5b2/p2R1Pk1/pp4p1/6N1/KPP5/8 w - - 0 39"]
+[LichessURL "https://lichess.org/64v3POd2/black#76"]
+[PuzzleId "9dcCP"]
+[Themes "advantage deflection endgame master short"]
+
+39. Ne4+ Kf4 40. Nxf6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1P5p/5pp1/P1b1p3/3qP3/6P1/2QB1P1P/5BK1 b - - 0 38"]
+[LichessURL "https://lichess.org/XqIdJOxw#75"]
+[PuzzleId "HryA2"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+38... Qxf2+ 39. Kh1 Qxf1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p2r2p1/1p1N1n2/1Pp1p1p1/2P5/8/P4PPP/3RR1K1 w - - 4 23"]
+[LichessURL "https://lichess.org/r4BuJp71/black#44"]
+[PuzzleId "zjdgw"]
+[Themes "advantage deflection discoveredAttack endgame kingsideAttack short"]
+
+23. Nf7+ Rxf7 24. Rxd8+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6B1/8/8/p7/1p6/2p4R/1k3P2/3K4 b - - 1 54"]
+[LichessURL "https://lichess.org/X8k5rssi#107"]
+[PuzzleId "4cLD9"]
+[Themes "advancedPawn advantage deflection endgame master promotion short"]
+
+54... c2+ 55. Ke2 c1=Q *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/5rp1/4K3/4P1b1/8/8/R7/8 w - - 1 54"]
+[LichessURL "https://lichess.org/UP1GhLyx/black#106"]
+[PuzzleId "WjrR2"]
+[Themes "crushing deflection endgame exposedKing long"]
+
+54. Ra8+ Bd8 55. Rxd8+ Kxd8 56. Kxf7 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/p3R2p/4K1p1/1B6/1PP2r1P/1P6/8 b - - 2 44"]
+[LichessURL "https://lichess.org/rtAKrS1Z#87"]
+[PuzzleId "fHQ1Z"]
+[Themes "advantage deflection endgame short skewer"]
+
+44... Re3+ 45. Kd4 Rxe6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3kbp/p5p1/4P3/2p1p3/P1B5/1P2K1PP/8 w - - 2 31"]
+[LichessURL "https://lichess.org/0mrlhjWX/black#60"]
+[PuzzleId "lNnP9"]
+[Themes "advantage bishopEndgame deflection discoveredAttack endgame short"]
+
+31. e6+ Kxe6 32. Bxg7 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/4k3/5p1p/1p2b1p1/1P6/1BP3P1/2K1R2P/8 b - - 0 45"]
+[LichessURL "https://lichess.org/tqkAcKap#89"]
+[PuzzleId "vvEsR"]
+[Themes "crushing deflection endgame master short"]
+
+45... Rxc3+ 46. Kd2 Rxb3 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5b2/2R2pk1/5p2/3Bp1rP/7K/p4P2/8 w - - 8 68"]
+[LichessURL "https://lichess.org/xSzYQkKD/black#134"]
+[PuzzleId "b68Wa"]
+[Themes "crushing deflection endgame short"]
+
+68. Rxf6+ Kh7 69. Rxf7+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/2p3p1/2P5/8/2R2bkp/8/6K1 b - - 0 56"]
+[LichessURL "https://lichess.org/s9YV4lgj#111"]
+[PuzzleId "8Bct5"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion short"]
+
+56... h2+ 57. Kf1 h1=Q# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1ppn4/p3k3/P1B1pbPN/1P6/5K2/8 w - - 9 42"]
+[LichessURL "https://lichess.org/atua9IOa/black#82"]
+[PuzzleId "6Vn45"]
+[Themes "advantage deflection endgame master masterVsMaster short"]
+
+42. Ng6+ Kd4 43. Nxf4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b2q1pk/1p2p1np/p3P3/3P2P1/P1PQ2KP/1P1B1R2/1B6 b - - 6 36"]
+[LichessURL "https://lichess.org/BTDMaMbW#71"]
+[PuzzleId "JzeGh"]
+[Themes "deflection mate mateIn2 middlegame short"]
+
+36... Qh4+ 37. Kh2 Qxf2# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/KP6/7r/8/4B3/6p1/8 w - - 5 61"]
+[LichessURL "https://lichess.org/YUXrxR4t/black#120"]
+[PuzzleId "3JVbw"]
+[Themes "advancedPawn crushing deflection endgame promotion short"]
+
+61. b7+ Kd7 62. b8=Q *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5Rp/1p3k1K/1P5P/P7/7r/8 b - - 10 46"]
+[LichessURL "https://lichess.org/XA9rfozx#91"]
+[PuzzleId "Jd9kt"]
+[Themes "crushing deflection endgame rookEndgame short"]
+
+46... Rxh4+ 47. Kxh4 Kxg6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/3k4/1ppPbBN1/4P2P/rP1K4/8/8 w - - 1 43"]
+[LichessURL "https://lichess.org/nbVJVTKj/black#84"]
+[PuzzleId "rKPzk"]
+[Themes "advantage deflection endgame short"]
+
+43. Nxf7+ Ke7 44. Nxe5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1ppn3r/3p3P/pP2pk1K/P1P5/3P2B1/5P2/6R1 b - - 2 41"]
+[LichessURL "https://lichess.org/Hzh5hJhh#81"]
+[PuzzleId "RN0BA"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+41... Nf6+ 42. Kh4 Rxh6# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p2kq1/1p1pr3/4Pp1p/1P3Q2/6PP/7K/4R3 w - - 3 33"]
+[LichessURL "https://lichess.org/KrVABDOU/black#64"]
+[PuzzleId "UuspZ"]
+[Themes "crushing deflection endgame short"]
+
+33. Qxf5+ Kg8 34. Qxe6+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/5p2/p1PBp1p1/P1K4p/1P6/2n3PP/5P2/8 b - - 0 46"]
+[LichessURL "https://lichess.org/AN2PHz23#91"]
+[PuzzleId "EfoIo"]
+[Themes "advantage deflection endgame short"]
+
+46... Ne4+ 47. Kb6 Nxd6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5p1p/1NPK4/1b1N1p2/8/3r3P/8/8 w - - 0 46"]
+[LichessURL "https://lichess.org/kNalTq7J/black#90"]
+[PuzzleId "SmB0H"]
+[Themes "advancedPawn deflection endgame mate mateIn2 promotion short"]
+
+46. c7+ Ke8 47. c8=Q# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1pp2pp1/3p3Q/p7/P1Bqp3/6RP/1P3P1K/R7 b - - 1 25"]
+[LichessURL "https://lichess.org/FiGTUGOj#49"]
+[PuzzleId "NKx5C"]
+[Themes "crushing deflection middlegame short"]
+
+25... Qxf2+ 26. Kh1 Qxg3 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/3p1k2/3PbP2/4K3/4N3/8 w - - 8 46"]
+[LichessURL "https://lichess.org/lzF4XZOt/black#90"]
+[PuzzleId "ChqTM"]
+[Themes "crushing deflection endgame short"]
+
+46. Ng3+ Ke6 47. Nxe4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1n4k1/2p2pp1/p3p2p/P1N1P3/1P1n1BPP/5PK1/8 b - - 1 39"]
+[LichessURL "https://lichess.org/XVMDl3px#77"]
+[PuzzleId "iHtVf"]
+[Themes "advantage deflection endgame master short"]
+
+39... Ne1+ 40. Kf1 Nxf3 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/pp4pp/2p5/8/2P4P/P1n3PB/5PK1/8 w - - 9 34"]
+[LichessURL "https://lichess.org/TRJyyMaJ/black#66"]
+[PuzzleId "GePNs"]
+[Themes "backRankMate deflection endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+34. Be6+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Kh8 35. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/4p3/4nk2/3KR3 b - - 1 80"]
+[LichessURL "https://lichess.org/RSr5rKCN#159"]
+[PuzzleId "OWb4S"]
+[Themes "crushing deflection endgame short"]
+
+80... Nc3+ 81. Kc2 Kxe1 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R3b3/1r1k4/1p5p/1Pb1p2P/2PpPp1B/3P1P2/4K3/8 w - - 6 49"]
+[LichessURL "https://lichess.org/81mBV8L4/black#96"]
+[PuzzleId "GoNMq"]
+[Themes "advantage deflection endgame master short"]
+
+49. Rd8+ Ke6 50. Rxe8+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p1p2qp1/1p2Q2p/8/3P4/2P5/P1P2rPP/4R1K1 b - - 0 25"]
+[LichessURL "https://lichess.org/lS7VLxcI#49"]
+[PuzzleId "R7xOK"]
+[Themes "crushing deflection endgame master short"]
+
+25... Rf1+ 26. Rxf1 Qxe6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/R4N2/6p1/2pr4/8/P4R2/1n6/6K1 w - - 1 39"]
+[LichessURL "https://lichess.org/ax3gJmge/black#76"]
+[PuzzleId "oizom"]
+[Themes "deflection discoveredAttack endgame mate mateIn2 short"]
+
+39. Nh6+ Kh8 40. Rxf8# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4bkp/4r3/2Q5/8/N4qPP/PPP1n2K/3R1R2 b - - 0 27"]
+[LichessURL "https://lichess.org/dwGyCBKc#53"]
+[PuzzleId "02BD5"]
+[Themes "deflection mate mateIn2 middlegame short"]
+
+27... Qxg3+ 28. Kh1 Qxh3# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p1r1n1pp/1p2b3/1P2P3/6P1/P4N1P/5P2/3R2K1 w - - 2 29"]
+[LichessURL "https://lichess.org/3LgvLX7s/black#56"]
+[PuzzleId "kB9GO"]
+[Themes "advantage deflection endgame long"]
+
+29. Rd8+ Kf7 30. Ng5+ Kg6 31. Nxe6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/5ppp/1pQ5/1Pb5/5P2/2B1P3/6PP/3r1BK1 b - - 6 28"]
+[LichessURL "https://lichess.org/lNxhwBYM#55"]
+[PuzzleId "cr37C"]
+[Themes "backRankMate deflection endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28... Bxe3+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kh1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2b2/3p2k1/1p4r1/pP1P2PK/2P5/1P6/8 w - - 0 63"]
+[LichessURL "https://lichess.org/xET6O74c/black#124"]
+[PuzzleId "k3Kxh"]
+[Themes "crushing deflection endgame master short"]
+
+63. Rxf7 Kxf7 64. Kxg5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2r3k1/5RP1/5K2/8/8/8 b - - 34 72"]
+[LichessURL "https://lichess.org/WIGeYjUx#143"]
+[PuzzleId "Fv81r"]
+[Themes "crushing deflection endgame long rookEndgame skewer"]
+
+72... Rc4+ 73. Ke5 Rc5+ 74. Kd4 Rxf5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/2p3pb/1p1p3p/3P2q1/2P2pB1/P4R1P/5PPN/2n3K1 w - - 0 28"]
+[LichessURL "https://lichess.org/Do5dYXuV/black#54"]
+[PuzzleId "8BVNM"]
+[Themes "advantage deflection kingsideAttack middlegame short"]
+
+28. Be6+ Kh8 29. Rxf8+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5nk1/ppq2r2/2p5/3P2p1/1BR1pbQ1/P3p2P/1P4P1/5RK1 b - - 0 25"]
+[LichessURL "https://lichess.org/CDNOwbWP#49"]
+[PuzzleId "d8RQX"]
+[Themes "deflection discoveredAttack kingsideAttack mate mateIn2 middlegame short"]
+
+25... Bh2+ 26. Kh1 Rxf1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p3R2/2bNp1Bp/3nP3/p7/6P1/1P5P/6K1 w - - 1 35"]
+[LichessURL "https://lichess.org/qe6kPjCZ/black#68"]
+[PuzzleId "DqTWP"]
+[Themes "advantage deflection endgame short"]
+
+35. Bh7+ Kh8 36. Rxf8+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/3p4/2pP4/2P1P1n1/2Q4R/PP4PP/RN2qNK1 b - - 5 20"]
+[LichessURL "https://lichess.org/rvv0c3IC#39"]
+[PuzzleId "rzrLm"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame short"]
+
+20... Qf2+ 21. Kh1 Qxf1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/pp3p1k/2p1p1pp/3pP3/3P2Pq/1P1QP2P/P1P5/R4RK1 w - - 1 22"]
+[LichessURL "https://lichess.org/hSMQ36Y8/black#42"]
+[PuzzleId "u86aC"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+22. Rxf7+ Kg8 23. Qxg6# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k1nB/pp3p1p/2p1p1p1/q2p1bP1/1b1P3P/2N5/PPP1PP2/R2QKBNR b KQq - 0 8"]
+[LichessURL "https://lichess.org/T7Ji4sjG#15"]
+[PuzzleId "roWY7"]
+[Themes "advantage deflection long opening"]
+
+8... Bxc3+ 9. bxc3 Qxc3+ 10. Qd2 Qxa1+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p4r1/p7/1p2n3/1P1k2PP/P3nQ1K/8 w - - 3 74"]
+[LichessURL "https://lichess.org/9FxU23ya/black#146"]
+[PuzzleId "gq3rW"]
+[Themes "advantage deflection endgame short"]
+
+74. Qf3+ Kd4 75. Qxe2 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/7R/8/4b1p1/4B1P1/4P2P/1r6/3r1RK1 b - - 8 36"]
+[LichessURL "https://lichess.org/UHNfifMx#71"]
+[PuzzleId "zLrXU"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+36... Bh2+ 37. Kh1 Rxf1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/5rp1/1q6/2p5/1pQ2P2/6K1/R7 w - - 1 50"]
+[LichessURL "https://lichess.org/bHHkn0Hi/black#98"]
+[PuzzleId "bJs83"]
+[Themes "crushing deflection endgame long"]
+
+50. Ra7+ Kh6 51. Qxf6 Qg5+ 52. Qxg5+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp2bNq1/2p3B1/5K1p/8/3PQ3/P7/8 b - - 0 48"]
+[LichessURL "https://lichess.org/eiZKJ5AZ#95"]
+[PuzzleId "2W5Nn"]
+[Themes "crushing deflection endgame short"]
+
+48... Qf6+ 49. Ke4 Qxg6+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/1ppq1pp1/2n2n2/1pb1p2p/Q6P/P3PNPb/1P1P1P2/R1B1R1KB w - - 0 17"]
+[LichessURL "https://lichess.org/5htOqLSr/black#32"]
+[PuzzleId "YhlZO"]
+[Themes "advantage deflection middlegame short"]
+
+17. Qa8+ Nb8 18. Nxe5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3b2pp/2pr1p2/1Pq5/p2pPPP1/P2Q3P/1P1RB3/K7 b - - 0 28"]
+[LichessURL "https://lichess.org/t4kTNGTA#55"]
+[PuzzleId "Kvob0"]
+[Themes "advantage deflection endgame short"]
+
+28... Qc1+ 29. Qb1 Qxd2 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p2pp1/2p1r2p/p1q5/1nP5/1P6/P1BQ1PPP/R5K1 w - - 1 24"]
+[LichessURL "https://lichess.org/5OgD2jO7/black#46"]
+[PuzzleId "8Pp9J"]
+[Themes "crushing deflection endgame kingsideAttack long"]
+
+24. Qd8+ Qf8 25. Bh7+ Kxh7 26. Qxf8 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2r2/1pp3p1/3p4/3P2p1/4p1Nr/6K1/PPP2P2/R6R b - - 1 24"]
+[LichessURL "https://lichess.org/JPGItCAS#47"]
+[PuzzleId "5WUvn"]
+[Themes "advantage deflection endgame short"]
+
+24... Rf3+ 25. Kg2 Rxg4+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p5pp/8/3Np3/2Pn4/P7/2r4P/3R1R1K w - - 0 26"]
+[LichessURL "https://lichess.org/XXSumcqK/black#50"]
+[PuzzleId "tnwdn"]
+[Themes "backRankMate deflection endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+26. Ne7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Kh8 27. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/8/8/8/8/4np2/B3k3/6K1 b - - 1 78"]
+[LichessURL "https://lichess.org/oLbau97W#155"]
+[PuzzleId "nEbwq"]
+[Themes "advancedPawn crushing deflection endgame long promotion"]
+
+78... f2+ 79. Kh2 f1=Q 80. Bc4+ Nxc4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R6p/6pk/4pp2/4b1PP/2n1N2K/5r2/8 w - - 0 56"]
+[LichessURL "https://lichess.org/K7EkAowb/black#110"]
+[PuzzleId "VcGo1"]
+[Themes "deflection endgame mate mateIn2 short"]
+
+56. g5+ Kh5 57. Rxh7# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/5p1p/p4Qp1/4B3/1p1Pp3/2p1P3/q1P4P/3K1R1R b - - 1 30"]
+[LichessURL "https://lichess.org/iK5qplT4#59"]
+[PuzzleId "DkWEB"]
+[Themes "deflection long mate mateIn3 middlegame"]
+
+30... Qb1+ 31. Ke2 Qxc2+ 32. Ke1 Qd2# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/1p1p4/1PpP1p2/2P2k2/5r2/4K3/8 w - - 2 57"]
+[LichessURL "https://lichess.org/n0Q0ijFh/black#112"]
+[PuzzleId "HILVd"]
+[Themes "crushing deflection endgame master rookEndgame veryLong"]
+
+57. Rh4+ Kg3 58. Rh3+ Kxh3 59. Kxf3 f4 60. Kxf4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/pppk4/5p2/3p4/P2P1pP1/2P4r/1P3PK1/R6R b - - 1 29"]
+[LichessURL "https://lichess.org/NXnPpVIf#57"]
+[PuzzleId "PjY6F"]
+[Themes "deflection endgame mate mateIn2 rookEndgame short"]
+
+29... f3+ 30. Kf1 Rxh1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2N5/5k2/1p3r2/4R1Kp/1P6/P7/8/7r w - - 4 42"]
+[LichessURL "https://lichess.org/x19UMa3f/black#82"]
+[PuzzleId "2GAAq"]
+[Themes "advantage deflection endgame short"]
+
+42. Re7+ Kf8 43. Kxf6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b5k/6p1/1p2q2p/3N4/1P6/2PQ3P/6P1/6K1 b - - 0 33"]
+[LichessURL "https://lichess.org/jcgGPPKu#65"]
+[PuzzleId "EnSdc"]
+[Themes "crushing deflection endgame long"]
+
+33... Qe1+ 34. Qf1 Bh2+ 35. Kxh2 Qxf1 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q2rk1/6pp/5b2/p4B2/6P1/2P1Bb1P/PP3P1q/2K5 w - - 2 27"]
+[LichessURL "https://lichess.org/6NDsb440/black#52"]
+[PuzzleId "GTeFW"]
+[Themes "deflection mate mateIn2 middlegame short"]
+
+27. Be6+ Kh8 28. Qxf8# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1RR5/pp4pk/5r1p/5q2/3P1P2/4P3/PP3PQP/6K1 b - - 8 30"]
+[LichessURL "https://lichess.org/EcyYcjAE#59"]
+[PuzzleId "VtlbR"]
+[Themes "deflection endgame mate mateIn4 veryLong"]
+
+30... Qb1+ 31. Rc1 Qxc1+ 32. Qf1 Rg6+ 33. Kh1 Qxf1# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbq3r/pp4bQ/2p1pkB1/3n4/3PP3/1P3N2/PB3PP1/RN2K3 w Q - 1 19"]
+[LichessURL "https://lichess.org/Xf3OtAsM/black#36"]
+[PuzzleId "myxhq"]
+[Themes "deflection mate mateIn2 middlegame short"]
+
+19. e5+ Ke7 20. Qxg7# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1bp/Q1p1n1p1/2Pq1p2/NB2p3/P3P2P/5PP1/6K1 b - - 0 33"]
+[LichessURL "https://lichess.org/9sTd0ZMe#65"]
+[PuzzleId "mUBoW"]
+[Themes "advantage deflection endgame master masterVsMaster short"]
+
+33... Qd1+ 34. Qf1 Qxa4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/1p1p1ppp/3q4/8/8/r2B1P2/2P1Q1PP/5R1K w - - 0 26"]
+[LichessURL "https://lichess.org/tomWA6mO/black#50"]
+[PuzzleId "lSTwf"]
+[Themes "advantage deflection long middlegame"]
+
+26. Qe8+ Qf8 27. Bxh7+ Kxh7 28. Qxf8 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/2pk1pp1/3p4/2P2nPp/1Q5P/1P4q1/1KP5/3R3R b - - 0 29"]
+[LichessURL "https://lichess.org/QosV9R05#57"]
+[PuzzleId "EBgzY"]
+[Themes "advantage deflection endgame long"]
+
+29... Qe5+ 30. Qc3 Ra2+ 31. Kxa2 Qxc3 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/pp3p2/7p/3p2B1/3n2b1/3B2b1/PPP5/2K1R3 w - - 0 24"]
+[LichessURL "https://lichess.org/dRsAGrzU/black#46"]
+[PuzzleId "R4BnL"]
+[Themes "deflection mate mateIn2 middlegame short"]
+
+24. Bxh6+ Kg8 25. Rxe8# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2k3/p3q3/5Rp1/4PpP1/PQ6/KP6/3r4 b - - 4 35"]
+[LichessURL "https://lichess.org/mT8RPSrd#69"]
+[PuzzleId "w3nnx"]
+[Themes "crushing deflection endgame pin short"]
+
+35... Ra1+ 36. Kxa1 Qxb3 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1N/pppp2pp/2n5/4p3/3q4/1P3Q2/P1PP1P1P/RNB1K2n w Qq - 1 10"]
+[LichessURL "https://lichess.org/awxYidQD/black#18"]
+[PuzzleId "r9ABM"]
+[Themes "deflection mate mateIn2 opening short"]
+
+10. Qf7+ Kd8 11. Qxf8# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/pp4pp/5p2/8/P5Q1/1P2PPqP/3PK3/R4R2 b - - 4 26"]
+[LichessURL "https://lichess.org/zzf0IQZR#51"]
+[PuzzleId "yR0Fw"]
+[Themes "attraction crushing deflection endgame long"]
+
+26... Qh2+ 27. Rf2 Rxd2+ 28. Kxd2 Qxf2+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp6/b1p5/2N1nk2/2PK1p1p/5P2/P1P3B1/8 w - - 2 40"]
+[LichessURL "https://lichess.org/L8hdbIEl/black#78"]
+[PuzzleId "afNft"]
+[Themes "advantage deflection endgame long"]
+
+40. Bh3+ Kf6 41. Ne4+ Ke7 42. Kxe5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4p1p/1qR3p1/8/8/5QPP/Pr3PK1/7R b - - 0 26"]
+[LichessURL "https://lichess.org/dx5NkhgP#51"]
+[PuzzleId "WEj20"]
+[Themes "advantage deflection endgame fork master short"]
+
+26... Rxf2+ 27. Qxf2 Qxc6+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/1Q4p1/p1q2p1p/1p6/1P6/P6P/5PP1/3R2K1 w - - 5 37"]
+[LichessURL "https://lichess.org/hoLaGSpn/black#72"]
+[PuzzleId "J0EBz"]
+[Themes "crushing deflection endgame short"]
+
+37. Rd8+ Rxd8 38. Qxc6 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1r2p1p/5k2/4Rp2/5K2/5B2/6P1/8 b - - 0 38"]
+[LichessURL "https://lichess.org/mfDBuDF1#75"]
+[PuzzleId "pBAIR"]
+[Themes "crushing deflection endgame short"]
+
+38... Rc4+ 39. Ke3 Kxe5 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3nkr/1q5N/p5pQ/2p1p3/2b1P1P1/5P2/PP5R/1K1R4 w - - 1 29"]
+[LichessURL "https://lichess.org/3R5TBX8U/black#56"]
+[PuzzleId "iubBQ"]
+[Themes "crushing deflection discoveredAttack kingsideAttack master middlegame short"]
+
+29. Nf6+ Kf7 30. Qxh8 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5pkp/7R/r4BK1/8/8 b - - 3 50"]
+[LichessURL "https://lichess.org/ID7rfQHz#99"]
+[PuzzleId "dldeR"]
+[Themes "crushing deflection endgame short"]
+
+50... Rxf3+ 51. Kxf3 Kxh4 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/1p3kpB/pqp1p2p/1n5P/3P2pN/P3P3/1PQ1KP2/7R w - - 2 23"]
+[LichessURL "https://lichess.org/YkHqUNgh/black#44"]
+[PuzzleId "JQ9vl"]
+[Themes "advantage deflection middlegame short"]
+
+23. Qg6+ Ke7 24. Qxg7+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/5p1k/4rPpp/4pq2/2PbN3/3P1Q1P/R4PK1/1r6 b - - 6 37"]
+[LichessURL "https://lichess.org/2vJClDhs#73"]
+[PuzzleId "etRvw"]
+[Themes "advantage deflection master masterVsMaster middlegame short"]
+
+37... Rg1+ 38. Kxg1 Qxf3 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/p2Qrkq1/b1p5/6p1/8/2P5/P1P3PP/7K w - - 1 27"]
+[LichessURL "https://lichess.org/e9Go9MLr/black#52"]
+[PuzzleId "VmJCv"]
+[Themes "advantage attraction deflection endgame exposedKing long pin"]
+
+27. Qf5+ Qf6 28. Rf8+ Kxf8 29. Qxf6+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/p1p1b1pp/2p3b1/3n4/3B4/P6P/1PP2KP1/RN2R3 b - - 6 20"]
+[LichessURL "https://lichess.org/hGhzZsKt#39"]
+[PuzzleId "qd6Jt"]
+[Themes "advantage deflection long middlegame"]
+
+20... Bh4+ 21. g3 Bxg3+ 22. Kxg3 Rxe1 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1qr4/p4p2/Ppn3pp/2pQ4/8/2P4P/1P3PP1/3R2K1 w - - 1 30"]
+[LichessURL "https://lichess.org/xuFDX09N/black#58"]
+[PuzzleId "aiwxO"]
+[Themes "deflection discoveredAttack endgame long mate mateIn3 queensideAttack"]
+
+30. Qxc6+ Qxc6 31. Rxd8+ Qc8 32. Rxc8# *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p1pq2pp/3p4/8/3QPb2/2N5/PPP3PP/5RK1 b - - 4 20"]
+[LichessURL "https://lichess.org/iICT8E92#39"]
+[PuzzleId "hQ7O1"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+20... Bxh2+ 21. Kxh2 Rxf1 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1q1/3Q1Rbk/b5pp/4p3/4P3/1P4NP/5PP1/6K1 w - - 3 46"]
+[LichessURL "https://lichess.org/7U1YEuli/black#90"]
+[PuzzleId "J3fo6"]
+[Themes "advantage deflection fork middlegame short"]
+
+46. Rxg7+ Qxg7 47. Qxe8 *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p5p1/4pq1p/8/4Qn2/1B4P1/PPP4P/5RK1 b - - 0 23"]
+[LichessURL "https://lichess.org/et2H6nmw#45"]
+[PuzzleId "LPLCa"]
+[Themes "crushing deflection endgame long"]
+
+23... Nh3+ 24. Kg2 Rd2+ 25. Kxh3 Qxf1+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/p5rk/b5q1/5Q2/8/1P4P1/P4PK1/2r5 w - - 3 35"]
+[LichessURL "https://lichess.org/pOrt1ykn/black#68"]
+[PuzzleId "G02RG"]
+[Themes "advantage attraction deflection endgame exposedKing long"]
+
+35. Qh3+ Qh6 36. Rh8+ Kxh8 37. Qxh6+ *
+
+
+
+[Event "Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/R4p1p/2b3p1/6q1/2rN1P2/4P3/P2Q2PP/6K1 b - - 0 24"]
+[LichessURL "https://lichess.org/AMLP4DG9#47"]
+[PuzzleId "BmCyQ"]
+[Themes "deflection endgame mate mateIn2 sacrifice short"]
+
+24... Rc1+ 25. Qxc1 Qxg2# *
+
+
+

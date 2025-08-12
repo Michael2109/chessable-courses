@@ -1,0 +1,1700 @@
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1qkb1r/p4ppp/4p3/2pp4/3P4/2N1PQ2/PPP3PP/R4RK1 w k - 2 14"]
+[LichessURL "https://lichess.org/gLm9TyC2/black#26"]
+[PuzzleId "gpX2k"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p4ppp/1qp5/3pP3/4n3/1P3N2/P1PB1PPP/RN1QK2R b KQkq - 0 12"]
+[LichessURL "https://lichess.org/6ZChXbck#23"]
+[PuzzleId "U5dWk"]
+[Themes "attackingF2F7 master mate mateIn1 oneMove opening"]
+
+12... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp3ppp/3bp3/3nN3/5Q2/7P/PPnB1PP1/5RK1 w kq - 0 16"]
+[LichessURL "https://lichess.org/MI9jof9U/black#30"]
+[PuzzleId "EGoHa"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+16. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp3pp/3ppq2/8/2PPp3/4P3/PP3PPP/R1NQKB1R b KQ - 0 11"]
+[LichessURL "https://lichess.org/c6fzigN6#21"]
+[PuzzleId "6blAp"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+11... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk1r1/p1p2p2/1pn1p3/3pP3/3P1Q1b/2N4P/PPP3P1/R4RK1 w q - 0 19"]
+[LichessURL "https://lichess.org/3wKZ8Jbv/black#36"]
+[PuzzleId "1WZSy"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+19. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1Rp3p1/3ppq1p/p3p3/1B2P3/3P3P/2P2PP1/3QK2R b K - 0 17"]
+[LichessURL "https://lichess.org/jiyCwDnO#33"]
+[PuzzleId "2EEgk"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+17... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1n1ppp/3bp3/3p4/B2P4/P3BQ1P/1PP3P1/R4RK1 w kq - 4 15"]
+[LichessURL "https://lichess.org/kE9q2bwf/black#28"]
+[PuzzleId "ckx7w"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/1p1p1ppp/4pq2/P1b5/8/2N5/P1PBPPPP/R2QKBNR b KQkq - 3 6"]
+[LichessURL "https://lichess.org/20WRfokf#11"]
+[PuzzleId "ISWp4"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+6... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/5ppp/p3p3/1p1nN3/2pPb3/5Q2/PP3PPP/R1B1K2R w KQkq - 0 15"]
+[LichessURL "https://lichess.org/GtOfkvvs/black#28"]
+[PuzzleId "VrC7n"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+15. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3pp/3ppq2/n3p3/1P1NP3/P2P3P/2P2PP1/R1BQK2R b KQ - 0 12"]
+[LichessURL "https://lichess.org/IBYWMnEZ#23"]
+[PuzzleId "eDBcX"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp3ppp/8/2p1PbN1/2Qp1n2/8/PPP1BPPP/R3K2R w KQkq - 0 14"]
+[LichessURL "https://lichess.org/hj4ExQwR/black#26"]
+[PuzzleId "156hJ"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp1nb3/1qppp2p/P3p3/1PP1P1n1/3P1N2/3BNPP1/R2QK2R b KQkq - 0 15"]
+[LichessURL "https://lichess.org/NE74WWmG#29"]
+[PuzzleId "GFyjg"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/ppp2ppp/2bbp3/3pN3/3Pn1P1/4PQ2/PPP2P1P/RNB1K2R w KQkq - 1 9"]
+[LichessURL "https://lichess.org/GehpfBTW/black#16"]
+[PuzzleId "lXbaJ"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2kbnr/ppp2ppp/4b3/3p4/3P2Pq/2P1pN1P/PP2PPB1/RNBQK2R b KQkq - 1 8"]
+[LichessURL "https://lichess.org/d6dlvf1M#15"]
+[PuzzleId "hfaD2"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/5ppp/p1p3n1/1p6/1b2P3/1B3Q2/PP3PPP/R1B2KNR w kq - 0 13"]
+[LichessURL "https://lichess.org/ngVzwCJo/black#24"]
+[PuzzleId "laWZJ"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+13. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3ppp/2n5/1B1pP3/1B1Nn2q/8/PP3PPP/RN1QK2R b KQkq - 0 11"]
+[LichessURL "https://lichess.org/JG62KrOm#21"]
+[PuzzleId "gPv1B"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+11... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp3pp1/1n1p1n1p/2p1p1NQ/4PP2/1PPPB3/2P3PP/R4RK1 w kq - 2 14"]
+[LichessURL "https://lichess.org/3i6Alktr/black#26"]
+[PuzzleId "AvYYk"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/1p2pppp/pq1p4/5N2/4P1n1/2N5/PPPB1PPP/R2QKB1R b KQkq - 7 8"]
+[LichessURL "https://lichess.org/mVm7pp2G#15"]
+[PuzzleId "QJCjQ"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/4pppp/p1p5/1p2Nb2/3PPn2/1QN5/PP3PPP/R3KB1R w KQkq - 0 10"]
+[LichessURL "https://lichess.org/BgzDOlvQ/black#18"]
+[PuzzleId "5KgLl"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+10. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3p2/1qpp1n2/3Pp1Bp/2P1P1n1/2N2BP1/PP3P2/R2QKN1R b KQkq - 0 14"]
+[LichessURL "https://lichess.org/e8rydqRQ#27"]
+[PuzzleId "9hXQa"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/1ppb1ppp/p2p4/6N1/5Q2/8/PP1KBPPP/n6R w kq - 0 14"]
+[LichessURL "https://lichess.org/yqeB9xNs/black#26"]
+[PuzzleId "Mym0y"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/p1pn1ppp/1p2p3/2Pp4/1P1Pn2q/P3PN2/1B3PPP/R2QKB1R b KQ - 4 11"]
+[LichessURL "https://lichess.org/sb77rtCf#21"]
+[PuzzleId "GOPlb"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+11... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "bn1qk2r/5p2/2p1p2p/1p1nN1p1/1bpP3P/2N1PQB1/1P3PP1/4KB1R w Kk - 1 15"]
+[LichessURL "https://lichess.org/AC0Ld1IX/black#28"]
+[PuzzleId "xHn3c"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp3pp/4pq2/3pN3/2PP4/3B4/PP3PPP/R2QK2R b KQ - 1 11"]
+[LichessURL "https://lichess.org/n2kHHzOO#21"]
+[PuzzleId "KGQoL"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+11... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/p1pbbppp/5n2/2p1N3/8/1Q6/PPP2PPP/RNB1K2R w KQkq - 1 11"]
+[LichessURL "https://lichess.org/IzFClFOP/black#20"]
+[PuzzleId "fueg5"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+11. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp1p1ppp/2nPpq2/2P5/1P2n3/P7/3BPPPP/2RQKBNR b Kkq - 2 12"]
+[LichessURL "https://lichess.org/0yV53LjY#23"]
+[PuzzleId "x3ePr"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+12... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/ppp2ppp/2np4/3Qq1B1/2B1P3/5P2/PPP2P1P/RN2K2R w KQkq - 5 9"]
+[LichessURL "https://lichess.org/cyro03zX/black#16"]
+[PuzzleId "9Xaqi"]
+[Themes "attackingF2F7 master mate mateIn1 middlegame oneMove"]
+
+9. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppppqppp/8/2b1P3/1PP3n1/P4N2/3BPPPP/RN1QKB1R b KQkq - 0 7"]
+[LichessURL "https://lichess.org/SFfKagC6#13"]
+[PuzzleId "Dk1Lt"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+7... Bxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/3p1ppp/p1n2n2/1p1QN3/2p1P3/P1N5/1PP2PPP/R1B1KB1R w KQkq - 3 9"]
+[LichessURL "https://lichess.org/JKWMefEE/black#16"]
+[PuzzleId "JyxpD"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/p4ppp/1qp1p3/3pP3/4n3/B7/PPP2PPP/R2QKB1R b KQkq - 4 12"]
+[LichessURL "https://lichess.org/Ssg2XzuD#23"]
+[PuzzleId "3dzdJ"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/ppp2p2/2n1p3/6pp/3P4/4PQ2/PPP3PP/RNB2RK1 w kq - 0 12"]
+[LichessURL "https://lichess.org/oug3W6uD/black#22"]
+[PuzzleId "k0SNF"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1nppp/2p5/2b5/3qP3/5N1P/PPPP1PP1/RNBQK2R b KQkq - 2 7"]
+[LichessURL "https://lichess.org/oLKY0X3Z#13"]
+[PuzzleId "H6iwZ"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+7... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/2pppbpp/ppn5/6N1/P7/5Q2/1PPP1PPP/RNB1K2R w KQkq - 0 8"]
+[LichessURL "https://lichess.org/R8demNZC/black#14"]
+[PuzzleId "D9YSL"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4r/pp1pkppp/1q2p3/4P3/6n1/2PB1N2/5PPP/R2QK2R b KQ - 0 14"]
+[LichessURL "https://lichess.org/sDDEzU8a#27"]
+[PuzzleId "z7DqJ"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1qk2r/1ppn1ppb/p4n1p/4N3/3PpBP1/1QP2P1P/P7/R3KB1R w KQk - 0 15"]
+[LichessURL "https://lichess.org/G84wKDbb/black#28"]
+[PuzzleId "nlN14"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/pppp1ppp/5q2/8/3Pn3/3BN3/PPP2PPP/RN1QK2R b KQkq - 0 8"]
+[LichessURL "https://lichess.org/e3uIVtwh#15"]
+[PuzzleId "reECf"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kbnr/ppqp1ppp/8/4p1PQ/2B1P3/8/PP1P1P1P/n1BK2NR w kq - 0 11"]
+[LichessURL "https://lichess.org/iQnJO7wK/black#20"]
+[PuzzleId "8dSUm"]
+[Themes "attackingF2F7 deflection mate mateIn2 opening short"]
+
+11. Qxf7+ Kd8 12. Qxf8# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb2rk1/pppp2pp/5q2/2b5/8/2P1P3/PP3PPP/RN1QKBNR b KQ - 0 7"]
+[LichessURL "https://lichess.org/IfAvzY5d#13"]
+[PuzzleId "tKhv2"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+7... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pppp1ppp/8/8/2B1P3/5Q2/PqP2PPP/RN2K2R w KQkq - 0 9"]
+[LichessURL "https://lichess.org/hk89W4US/black#16"]
+[PuzzleId "Ky31X"]
+[Themes "attackingF2F7 mate mateIn2 middlegame short"]
+
+9. Qxf7+ Kd8 10. Qf8# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B1b1k2r/2p2p2/3p1q1p/p1b3p1/4P3/3P2P1/PPP2PP1/R2QK2R b KQk - 0 14"]
+[LichessURL "https://lichess.org/3NUoD3ze#27"]
+[PuzzleId "1KpZp"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk3/ppQ2p2/7p/3p4/3b3P/3qP3/PP4r1/2R1KR2 w - - 3 38"]
+[LichessURL "https://lichess.org/kLZorZnq/black#74"]
+[PuzzleId "cdpQb"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+38. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pp2b1pp/nq6/3pN2P/4P3/1BP5/PP3P2/R1BQK2R b KQ - 0 18"]
+[LichessURL "https://lichess.org/Ezkbc2HV#35"]
+[PuzzleId "8KK0l"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+18... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2kb1r/3p1pp1/p3p3/1p2N1qp/2pPn3/2P2Q2/PP3PPP/R4RK1 w k - 0 17"]
+[LichessURL "https://lichess.org/iq3NSniT/black#32"]
+[PuzzleId "7zptF"]
+[Themes "attackingF2F7 mate mateIn2 middlegame short"]
+
+17. Qxf7+ Kd8 18. Qxd7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pppp1ppp/5q2/6B1/3bP3/8/PPP2PPP/RN1QKB1R b KQkq - 1 7"]
+[LichessURL "https://lichess.org/8aeShOSv#13"]
+[PuzzleId "hlxu6"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+7... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkbnr/pp2pppp/2p5/4N3/2BP4/2N5/PPP2PPP/R1BbK2R w KQkq - 0 8"]
+[LichessURL "https://lichess.org/mRfMXkLl/black#14"]
+[PuzzleId "TMJp5"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp3pp1/8/3p3p/3Pp1nq/1QN1P2P/PP1N1PP1/R1B1K2R b KQkq - 2 11"]
+[LichessURL "https://lichess.org/Ba7vARTa#21"]
+[PuzzleId "d6o6q"]
+[Themes "attackingF2F7 mate mateIn2 opening short"]
+
+11... Qxf2+ 12. Kd1 Nxe3# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/ppp2p1p/2np1n2/6p1/2BPPp2/1QP2b2/PP4PP/RNB2RK1 w kq - 0 9"]
+[LichessURL "https://lichess.org/CY243onb/black#16"]
+[PuzzleId "hnJVx"]
+[Themes "attackingF2F7 mate mateIn2 middlegame short"]
+
+9. Bxf7+ Kd7 10. Qe6# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp1p1p1p/1qn2Bp1/2b1p3/4P3/2N3N1/PPP2PPP/R2QKB1R b KQkq - 0 9"]
+[LichessURL "https://lichess.org/zQDXY0XT#17"]
+[PuzzleId "PdSCs"]
+[Themes "attackingF2F7 mate mateIn2 middlegame short"]
+
+9... Bxf2+ 10. Kd2 Qe3# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppp1pp1/8/4p3/4P1P1/2NPbQ2/PPP2RB1/R5K1 w kq - 0 13"]
+[LichessURL "https://lichess.org/szjLlxNy/black#24"]
+[PuzzleId "JKzGM"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+13. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp2n1b1/1qn1p2p/3Pp1pP/8/P1NP2P1/1P3PB1/R1BQK2R b KQ - 0 19"]
+[LichessURL "https://lichess.org/fgWwZnYS#37"]
+[PuzzleId "7ZJ6k"]
+[Themes "attackingF2F7 master masterVsMaster mate mateIn1 middlegame oneMove"]
+
+19... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/p1p2ppp/2p2n2/2bpN2Q/4P3/3P4/PPP2qPP/RNBK3R w kq - 2 9"]
+[LichessURL "https://lichess.org/qHNsuvW6/black#16"]
+[PuzzleId "tPeEU"]
+[Themes "attackingF2F7 mate mateIn2 opening short"]
+
+9. Qxf7+ Kd8 10. Nxc6# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1p1ppp/1qn5/4P3/4nB2/1PP2N2/P4PPP/RN1QKB1R b KQkq - 0 8"]
+[LichessURL "https://lichess.org/sNytWHmA#15"]
+[PuzzleId "byqwg"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1nbqkbnr/r1p2ppp/p3p3/4N3/2pP4/4PQ2/PP3PPP/RNB1K2R w KQk - 2 8"]
+[LichessURL "https://lichess.org/2DEFQRpX/black#14"]
+[PuzzleId "afuNx"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/p4ppp/2p2q2/3p4/1P2n3/1P2P3/3N1PPP/R1BQKB1R b KQ - 0 13"]
+[LichessURL "https://lichess.org/2ALGGODz#25"]
+[PuzzleId "EqSQa"]
+[Themes "attackingF2F7 master mate mateIn1 oneMove opening"]
+
+13... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/p3nppp/2pp4/4N1B1/2B1P3/7P/PPP2PP1/RN1bK2R w KQkq - 0 10"]
+[LichessURL "https://lichess.org/TCwEvDLu/black#18"]
+[PuzzleId "iy22P"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+10. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1N1k1/pp3ppp/8/8/4n3/4P3/Pq3PPP/2RQKB1R b K - 0 14"]
+[LichessURL "https://lichess.org/JkhNQ7H2#27"]
+[PuzzleId "eynoB"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp2pp2/2p2p2/4n2p/8/qB3Q2/P1PB1PPP/1R2K2R w Kkq - 6 16"]
+[LichessURL "https://lichess.org/rh4JYVqu/black#30"]
+[PuzzleId "pxSnT"]
+[Themes "advantage attackingF2F7 discoveredAttack middlegame short"]
+
+16. Bxf7+ Kxf7 17. Qxa3 *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1N2rk1/2p2p2/p2p1q1p/Pp4p1/1P2P3/1BPP3P/5PP1/RN1QK2n b Q - 0 17"]
+[LichessURL "https://lichess.org/buGDzHGN#33"]
+[PuzzleId "kbNxg"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+17... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/2p1npp1/p1np3p/1p1BN3/4P3/3P4/PPPN1PPP/R1Bb1RK1 w kq - 0 10"]
+[LichessURL "https://lichess.org/5kxPIH7o/black#18"]
+[PuzzleId "2QCDn"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+10. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn4nr/pp1Bkppp/1b1N4/3Pp3/P6q/8/1PP2PPP/R1BQK1NR b KQ - 0 10"]
+[LichessURL "https://lichess.org/HwQteYK6#19"]
+[PuzzleId "P4VuA"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+10... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/ppp1pppp/8/4N3/2B5/2P4P/P1PP1PP1/R1BbK2R w KQkq - 0 9"]
+[LichessURL "https://lichess.org/VSKGFGOU/black#16"]
+[PuzzleId "3Jo8o"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+9. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/3b1ppp/pp2p3/3pB3/3Pn3/P1P1PN2/2P2PqP/R2QK1R1 b Qkq - 1 14"]
+[LichessURL "https://lichess.org/DxGCactu#27"]
+[PuzzleId "y1puJ"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2pp1/3p3p/4p3/2B1P1n1/2NP1Q2/PPP3PP/R1B1b2K w kq - 0 12"]
+[LichessURL "https://lichess.org/b4m0NeM3/black#22"]
+[PuzzleId "CPmyI"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3ppp/1qn5/2b5/N4Pn1/P2P1N2/1PPBB1PP/R2QKR2 b Q - 4 14"]
+[LichessURL "https://lichess.org/SQQ0pML5#27"]
+[PuzzleId "8S2xg"]
+[Themes "attackingF2F7 mate mateIn2 opening short"]
+
+14... Bf2+ 15. Rxf2 Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkbnr/pp2pp1p/2p3p1/4N3/2B5/2N5/PPPP1PPP/R1Bb1RK1 w kq - 0 8"]
+[LichessURL "https://lichess.org/sln7jPRX/black#14"]
+[PuzzleId "h1ZHd"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Qn1k1b1r/p3pppp/8/1B1P4/3qn1b1/2N5/PP3PPP/R1B1K1NR b KQ - 0 10"]
+[LichessURL "https://lichess.org/XnG6didy#19"]
+[PuzzleId "QAQ9p"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+10... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbqkb1r/5ppp/p2p2n1/1p1Qp3/4P3/P1N5/BPP2PPP/R1B1R1K1 w k - 2 13"]
+[LichessURL "https://lichess.org/P7DsdC0Q/black#24"]
+[PuzzleId "Ae4Et"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+13. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bBk2r/ppp2ppp/8/2b1p3/4n3/2PP4/PP3PPP/RN1QKB1R b KQkq - 0 9"]
+[LichessURL "https://lichess.org/X3yqfWaD#17"]
+[PuzzleId "seyCJ"]
+[Themes "attackingF2F7 mate mateIn2 opening short"]
+
+9... Bxf2+ 10. Ke2 Bg4# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppqp1pp1/2p4p/7n/2B1PR2/2NP2Q1/PPP3PP/R6K w kq - 1 14"]
+[LichessURL "https://lichess.org/0cN4snk9/black#26"]
+[PuzzleId "AUjX3"]
+[Themes "attackingF2F7 crushing fork middlegame short"]
+
+14. Bxf7+ Kd8 15. Bxh5 *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bB1rk1/pp1p1ppp/2n5/2bNp3/2P1n3/5N2/PP2PPPP/R2QKB1R b KQ - 0 9"]
+[LichessURL "https://lichess.org/srJDHQCS#17"]
+[PuzzleId "HviQI"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9... Bxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1b1n1ppp/p3p3/1pb1q3/3N2n1/2NBB3/PPP2QPP/R4R1K w kq - 4 15"]
+[LichessURL "https://lichess.org/4DyUqYqN/black#28"]
+[PuzzleId "qk9wz"]
+[Themes "advantage attackingF2F7 middlegame short"]
+
+15. Qxf7+ Kd8 16. Nxe6+ *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp1B1pp/3p4/2bN4/4n3/5N2/PPP1PPPP/R2QKB1R b KQkq - 0 8"]
+[LichessURL "https://lichess.org/Ls1ikDKi#15"]
+[PuzzleId "O9UT1"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+8... Bxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/4bpp1/4n3/p3N2p/P1n5/5QPP/1P3PK1/R4R2 w kq - 0 20"]
+[LichessURL "https://lichess.org/Ust2bSNa/black#38"]
+[PuzzleId "gv1n6"]
+[Themes "attackingF2F7 master mate mateIn1 middlegame oneMove"]
+
+20. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbr2k1/ppp2Npp/1b6/8/2B1n3/2P5/PP3PPP/RNB1K2R b KQ - 0 10"]
+[LichessURL "https://lichess.org/A970gFck#19"]
+[PuzzleId "7PJnp"]
+[Themes "attackingF2F7 long mate mateIn3 opening"]
+
+10... Bxf2+ 11. Ke2 Bg4+ 12. Kf1 Rd1# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b1k2r/p3nppp/2pR1q2/4p3/2B1P3/1r6/PPP2PPP/R1B3K1 w k - 0 15"]
+[LichessURL "https://lichess.org/NSunJfKb/black#28"]
+[PuzzleId "JNIjG"]
+[Themes "advantage attackingF2F7 middlegame short"]
+
+15. Rxf6 Rb4 16. Bxf7+ *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1bpp1ppp/p1N2q2/1pb5/4P3/1B6/PPP2PPP/RN1QK2R b KQkq - 0 10"]
+[LichessURL "https://lichess.org/M7Pa8VSN#19"]
+[PuzzleId "A8M7i"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+10... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqk2r/1p2bppp/p2p1n2/4N1B1/2Q1b3/2N5/PPP2PPP/2KR3R w k - 0 13"]
+[LichessURL "https://lichess.org/T1mTDRjx/black#24"]
+[PuzzleId "269Y3"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+13. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rkr2/1bpp2pp/pp2pq1n/4N3/1PP5/P3P2P/5PP1/R1NQKB1R b KQ - 0 18"]
+[LichessURL "https://lichess.org/urNC2PHh#35"]
+[PuzzleId "Gg9g1"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+18... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2pp1/8/6N1/4q3/1Q2b1P1/PP2P1PP/n2K1B1R w kq - 0 16"]
+[LichessURL "https://lichess.org/VqVLNwhU/black#30"]
+[PuzzleId "Hon7J"]
+[Themes "advantage attackingF2F7 middlegame short"]
+
+16. Qxf7+ Kd8 17. Nxe4 *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/1pppnppp/pbN2q2/1N6/4P3/1P6/PBP2PPP/1R1QKB1R b K - 0 10"]
+[LichessURL "https://lichess.org/pATtPdC3#19"]
+[PuzzleId "UKguP"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+10... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp2npb1/1q6/4pQp1/8/2P2BP1/PP4PP/R4R1K w kq - 3 26"]
+[LichessURL "https://lichess.org/4zzpINaH/black#50"]
+[PuzzleId "xEwir"]
+[Themes "advantage attackingF2F7 master middlegame sacrifice short"]
+
+26. Bc6+ Qxc6 27. Qxf7+ *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2k1n1/p3np1p/8/q1b1Qb2/8/2N3P1/PP2PPBP/R1B1K1NR b KQ - 4 13"]
+[LichessURL "https://lichess.org/gwbBYCFG#25"]
+[PuzzleId "vVjkU"]
+[Themes "attackingF2F7 discoveredAttack equality middlegame short"]
+
+13... Bxf2+ 14. Kxf2 Qxe5 *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp3ppp/2n5/8/2BpnQ2/8/PPP2PPP/2KR2NR w kq - 0 11"]
+[LichessURL "https://lichess.org/TGW1meBc/black#20"]
+[PuzzleId "dVO49"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+11. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/pp4pp/2pb1q2/3p4/6B1/1QP1P3/PP1N1PPP/R3K2R b KQ - 0 15"]
+[LichessURL "https://lichess.org/WA5pmllJ#29"]
+[PuzzleId "4ErUH"]
+[Themes "advantage attackingF2F7 fork long middlegame"]
+
+15... Qxf2+ 16. Kd1 Qxg2 17. Kc2 Qxg4 *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/4ppp1/p7/1p1BN2p/3n4/2N5/PPPP1P2/R1BbK1R1 w Qkq - 0 15"]
+[LichessURL "https://lichess.org/GNmRmIKQ/black#28"]
+[PuzzleId "hfU7f"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p4pp/pQp5/P2p4/1P1PpP2/4Pq2/5B1r/2R1KR2 b - - 7 29"]
+[LichessURL "https://lichess.org/kMPjo8yM#57"]
+[PuzzleId "h04Kx"]
+[Themes "advantage attackingF2F7 capturingDefender master middlegame short"]
+
+29... Rxf2 30. Rxf2 Qxe3+ *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbqkb1r/p3ppnp/6p1/3BP3/5P2/8/PPP3PP/R1BQK2R w KQk - 1 13"]
+[LichessURL "https://lichess.org/tTcPvTtX/black#24"]
+[PuzzleId "nMecR"]
+[Themes "advantage attackingF2F7 deflection discoveredAttack master opening short"]
+
+13. Bxf7+ Kxf7 14. Qxd8 *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pppn2pp/2b2q2/3p4/3Pp2P/1PN1P3/P1P2P2/R2QK1NR b KQ - 2 14"]
+[LichessURL "https://lichess.org/LzrID5Vw#27"]
+[PuzzleId "W92RE"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pbpp1p1p/1p2p1p1/8/2P1PQ1P/2Nn4/PP4P1/R4R1K w kq - 0 17"]
+[LichessURL "https://lichess.org/Apz35qnk/black#32"]
+[PuzzleId "802zM"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+17. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2p2/2Np1q1p/2b3p1/2B1P3/2NP2P1/PPP2PP1/R2QK2R b KQkq - 0 11"]
+[LichessURL "https://lichess.org/Y52l6qc5#21"]
+[PuzzleId "u0b5E"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+11... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/pb3ppp/2pbp3/1p2N3/3P1Q2/2NB4/PPP2PPP/R4RK1 w kq - 3 12"]
+[LichessURL "https://lichess.org/a1yWgK3m/black#22"]
+[PuzzleId "knROw"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kN1b2/pp2n2p/1qn5/3pP3/1P3p2/P1N5/3B1PrP/R2QK2R b KQ - 0 18"]
+[LichessURL "https://lichess.org/5iMNBHMq#35"]
+[PuzzleId "5XH7O"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+18... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/ppp2pb1/3p3p/4P3/2BP1QpP/2P5/PP2n1PR/RNB1K3 w Qkq - 0 12"]
+[LichessURL "https://lichess.org/AYr9aMUp/black#22"]
+[PuzzleId "jEdUR"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+12. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/5ppp/1pN2q2/1P1p4/4n3/4P3/2PB1PPP/1R1QKB1R b K - 0 19"]
+[LichessURL "https://lichess.org/ltdPwkpT#37"]
+[PuzzleId "07yJ4"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+19... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkbnr/pp1bpp2/2p3B1/6pQ/8/8/PPP2PPP/RNB1K2R w KQkq - 0 9"]
+[LichessURL "https://lichess.org/oI4CDvcR/black#16"]
+[PuzzleId "XBO99"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9. Bxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/ppp2pp1/1b1p1q1p/4N3/1PB1P3/2P5/PB3PPP/RN1QK2R b KQkq - 0 9"]
+[LichessURL "https://lichess.org/j5ief3Ph#17"]
+[PuzzleId "4KPSD"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1p1ppp/2n5/4p3/2B5/2n2Q2/PPP2PPP/R3K1NR w KQkq - 0 10"]
+[LichessURL "https://lichess.org/NDZmGmAh/black#18"]
+[PuzzleId "7jQbM"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+10. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pppp1ppp/2N2q2/2b5/2B1P3/8/PPP2PPP/RNBQK2R b KQkq - 0 6"]
+[LichessURL "https://lichess.org/Umba6ZVy#11"]
+[PuzzleId "279Gy"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+6... Qxf2# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/ppp2pp1/6p1/6b1/4q3/4N3/PPP2Q1P/3R1RK1 w kq - 0 20"]
+[LichessURL "https://lichess.org/KL4jTRv3/black#38"]
+[PuzzleId "IoOTf"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+20. Qxf7# *
+
+
+
+[Event "Attacking F2F7"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/p1p2ppp/2Np4/2b3Qn/4P1bq/3P4/PPP2PPP/RNB1K2R b KQkq - 4 10"]
+[LichessURL "https://lichess.org/bsTVw6OK#19"]
+[PuzzleId "VPBzl"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+10... Qxf2# *
+
+
+

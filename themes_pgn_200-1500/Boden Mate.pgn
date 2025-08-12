@@ -1,0 +1,1700 @@
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1bp3/1nnpp1p1/8/3P4/3B4/PP3PPP/RNB1K1NR w KQkq - 0 12"]
+[LichessURL "https://lichess.org/X87P7Gcg/black#22"]
+[PuzzleId "fyPyp"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+12. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/pppp2Pp/3b4/8/8/6P1/PPPPP3/RNBQKBNR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/09yc0409#11"]
+[PuzzleId "LLvTV"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+6... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pppbp3/3p2p1/P7/1nPp4/2N5/2BP1PPP/R1B1K2R w KQkq - 0 17"]
+[LichessURL "https://lichess.org/2HXL2mG6/black#32"]
+[PuzzleId "NyKyR"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+17. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/ppp2ppp/3b4/8/8/1P4P1/P1PPP3/RNBQKBNR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/Cspaxc9r#11"]
+[PuzzleId "WpjvG"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+6... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/3pp2P/p7/2p4n/8/2P5/PPBP1PbP/RNB1K1NR w KQkq - 0 10"]
+[LichessURL "https://lichess.org/gU2B5I8D/black#18"]
+[PuzzleId "aUVnE"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+10. Bg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/ppp3p1/3p3p/b2Bp3/4P1bP/P2P1N2/1PP5/R1BK3R b - - 0 17"]
+[LichessURL "https://lichess.org/T0r1XVAd#33"]
+[PuzzleId "Xq2O9"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+17... Bxf3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/1p1np3/p1p1p1p1/P2p4/3P4/2NB4/1PP2PPP/R1B1K1NR w KQkq - 0 11"]
+[LichessURL "https://lichess.org/YubXOdcZ/black#20"]
+[PuzzleId "0mxNE"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+11. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/1p1n1ppb/1pnbp3/3p2B1/2pP4/P1P1PN1P/3N1PB1/2KR3R b k - 0 16"]
+[LichessURL "https://lichess.org/B4QwKrUW#31"]
+[PuzzleId "in015"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove queensideAttack"]
+
+16... Bxa3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp1np3/2p2pp1/3pP3/5P2/3B4/PPPP2PP/RNB1K1NR w KQkq - 0 7"]
+[LichessURL "https://lichess.org/pCETsMIk/black#12"]
+[PuzzleId "HRMNs"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+7. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/pppp3p/4p3/4Pp2/3P3b/5NP1/PPPNP3/R2QKB1R b KQkq - 0 10"]
+[LichessURL "https://lichess.org/ax4PSmSh#19"]
+[PuzzleId "j7Klp"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+10... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkbnr/p1ppp3/1p4p1/8/5P2/3B4/PPP3PP/RNB1K1NR w KQkq - 0 7"]
+[LichessURL "https://lichess.org/uAowXp1z/black#12"]
+[PuzzleId "Xcjbi"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+7. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pppp1ppp/2Nb4/8/8/1P2P1P1/PBPPP3/RN1QKB1R b KQkq - 0 8"]
+[LichessURL "https://lichess.org/d1ued6Jz#15"]
+[PuzzleId "5jkMT"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+8... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/pbpnp3/1p3pp1/3Pp3/2P5/1P1B4/PB3PPP/RN2K1NR w KQkq - 0 11"]
+[LichessURL "https://lichess.org/NpRxHSX2/black#20"]
+[PuzzleId "mRRfz"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+11. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k1bnr/pp4pp/2n5/8/5Nb1/8/PP3PPP/R3KB1R b KQ - 0 15"]
+[LichessURL "https://lichess.org/mTQu8F04#29"]
+[PuzzleId "5GDYl"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15... Bb4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/ppppp3/5np1/7B/4p3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 6"]
+[LichessURL "https://lichess.org/rc8si5Vs/black#10"]
+[PuzzleId "mKKQp"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+6. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/p1p2ppp/1n6/4N3/2pPP1b1/8/PP3PPP/R3KB1R b KQk - 1 15"]
+[LichessURL "https://lichess.org/QnF2dm8V#29"]
+[PuzzleId "GFQyf"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15... Bb4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3pp1/4p2p/3n4/7B/4P3/PP3PPP/R3KB1R w KQkq - 0 13"]
+[LichessURL "https://lichess.org/sJM6tcbj/black#24"]
+[PuzzleId "xWGiv"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+13. Bb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nB/ppppbp1p/4p1p1/8/5P2/1P6/P1PPP2P/RN1QKBNR b KQq - 0 6"]
+[LichessURL "https://lichess.org/I8j1s1B6#11"]
+[PuzzleId "HTJMa"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+6... Bh4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3pp1/4p1bp/3pP1B1/6P1/7P/PPP1BP2/R2K3R w kq - 0 15"]
+[LichessURL "https://lichess.org/LRJOci7l/black#28"]
+[PuzzleId "IkiKu"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15. Bb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/6pp/B3b3/1p1p4/1P1bPP1P/3N4/3BK3 b - - 0 41"]
+[LichessURL "https://lichess.org/9KkrrLSw#81"]
+[PuzzleId "ie741"]
+[Themes "bodenMate endgame master mate mateIn1 oneMove"]
+
+41... Bg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/1bpnp2p/p3p3/1p1P3p/2p5/P1N5/1P2BPPP/R1B1K1NR w KQkq - 0 12"]
+[LichessURL "https://lichess.org/mHJEJVSb/black#22"]
+[PuzzleId "FYAWS"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+12. Bxh5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kn1r/1p2bppp/p1p3b1/3pP3/3P2P1/1PP1B3/P2N1P1N/2KR2R1 b kq - 2 18"]
+[LichessURL "https://lichess.org/humKLN36#35"]
+[PuzzleId "WqCJ8"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+18... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kqr1/5p2/bpp1pB2/p3P3/3PB3/2P5/P1P2RPP/5RK1 w q - 3 22"]
+[LichessURL "https://lichess.org/INIinBd3/black#42"]
+[PuzzleId "esLNy"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+22. Bxc6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2kb1r/p4pp1/1p2p3/3pN2p/3P1Bb1/4P3/PP3PPP/R3KB1R b KQkq - 0 11"]
+[LichessURL "https://lichess.org/p4u2HDsJ#21"]
+[PuzzleId "g6nyC"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+11... Bb4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk1nr/3p3p/p3p3/1pB1P2p/8/2N5/PPP1BPPP/R3K2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/ifAIIqhR/black#22"]
+[PuzzleId "qpwCe"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+12. Bxh5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/p3bppb/2p1p2p/7P/2PP2P1/1P3P2/3BN3/2KR3R b - - 0 24"]
+[LichessURL "https://lichess.org/mNIfXLeL#47"]
+[PuzzleId "O1yOD"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+24... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbqk2r/p2n2p1/1p2pn2/3p3p/1B1P4/P2BP3/1P1N1PPP/2R1K2R w Kk - 0 18"]
+[LichessURL "https://lichess.org/WOJjCOYZ/black#34"]
+[PuzzleId "8YYwB"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+18. Bg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k1nr/p4ppp/8/2b4b/2p5/4P3/PB3PPP/R3KB1R b KQk - 0 16"]
+[LichessURL "https://lichess.org/hovOlFyb#31"]
+[PuzzleId "mT5rF"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+16... Bb4+ 17. Bc3 Bxc3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/p2n3p/1ppB1p2/2P2np1/6b1/P4N2/2P1BPPP/R3R1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/abJFBzRG/black#34"]
+[PuzzleId "UgyRd"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+18. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pppn1ppb/1n2p2p/4P3/2P2P2/1PN1N3/P2B2PP/2KR1B1R b kq - 1 14"]
+[LichessURL "https://lichess.org/1abpC0NA#27"]
+[PuzzleId "iHe4n"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+14... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp1pp3/2n3p1/4p3/5P2/3B4/PB4PP/RN2K1NR w KQkq - 0 10"]
+[LichessURL "https://lichess.org/sXM1RIzI/black#18"]
+[PuzzleId "23VIj"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+10. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3n1p/2p2p2/3p1bp1/3P4/P1P1PN1P/P2NBQP1/2KRR3 b kq - 0 16"]
+[LichessURL "https://lichess.org/iBNvmVK1#31"]
+[PuzzleId "oq2F4"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove queensideAttack"]
+
+16... Bxa3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/4p3/3pP3/3qb2B/1PN5/P3BPPP/R4RK1 w kq - 0 15"]
+[LichessURL "https://lichess.org/XFgBzUxP/black#28"]
+[PuzzleId "IKFgT"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15. Bb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4Bk1/pp3p1p/1n4p1/8/8/5b2/Pb3PPP/1R2KB1R b K - 1 17"]
+[LichessURL "https://lichess.org/29Frb0mT#33"]
+[PuzzleId "6Iv4W"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+17... Bc3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/p2b2pp/1pn2p2/2pn4/8/1NP2NB1/PP2BPPP/R4RK1 w - - 0 15"]
+[LichessURL "https://lichess.org/bHGjsjkz/black#28"]
+[PuzzleId "guDOB"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k2r1/ppp2p1p/1b1p1Np1/4P3/3P2b1/8/PP3PPP/R3KB1R b KQ - 1 15"]
+[LichessURL "https://lichess.org/rk3vvt86#29"]
+[PuzzleId "DeKWU"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+15... Ba5+ 16. b4 Bxb4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/p2n1pp1/2p1p3/3p1b1P/3P1B2/7R/PPP5/1K1R1BN1 w - - 0 21"]
+[LichessURL "https://lichess.org/gBiIzZyd/black#40"]
+[PuzzleId "LD8eV"]
+[Themes "bodenMate master mate mateIn1 middlegame oneMove"]
+
+21. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/2pq1ppp/p2b1n2/1p1p4/1P1P4/P1RbP1PP/3N2B1/B2QK2R b K - 0 19"]
+[LichessURL "https://lichess.org/0gTsBjXv#37"]
+[PuzzleId "rKOew"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+19... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/1p1np3/2p2pp1/p2pP3/3P4/3B3P/PPP2PP1/RNB1K2R w KQkq - 0 10"]
+[LichessURL "https://lichess.org/OEjxNW4N/black#18"]
+[PuzzleId "34ZEP"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+10. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b1r/3k1ppp/4pn2/1N1P4/3P2b1/4P3/P4PPP/R3KB1R b KQ - 0 18"]
+[LichessURL "https://lichess.org/M54MxLlP#35"]
+[PuzzleId "ubduN"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+18... Bb4+ 19. Nc3 Bxc3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krn2r/p2n1p2/1pp1b2p/3p2p1/P2P2P1/2NB1PB1/1PP4P/2KR3R w - - 0 20"]
+[LichessURL "https://lichess.org/tMgUpPlB/black#38"]
+[PuzzleId "dODHn"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+20. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/ppp1bp2/5np1/4Bb1r/3P2P1/1BP2N1P/P2N4/2KRR3 b - - 0 19"]
+[LichessURL "https://lichess.org/pAh2UK58#37"]
+[PuzzleId "jSCjy"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+19... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2br2kb/3rp2p/p1p1p1pB/1p5n/8/1BN2P2/PPP3PP/R3R1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/anpoArJp/black#34"]
+[PuzzleId "t0sMK"]
+[Themes "bodenMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18. Bxe6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/p1q2ppp/1p1bp3/3p4/3Pb3/2Q1P1B1/PP1N1PPP/2KR1B1R b - - 3 13"]
+[LichessURL "https://lichess.org/mJaOKby5#25"]
+[PuzzleId "WR2Fr"]
+[Themes "bodenMate mate mateIn2 opening queensideAttack short"]
+
+13... Qxc3+ 14. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/1p3ppp/4p3/1b1p2B1/p5nP/P2B4/1R3PP1/R5K1 w kq - 0 19"]
+[LichessURL "https://lichess.org/hNSaslsn/black#36"]
+[PuzzleId "oY7rN"]
+[Themes "bodenMate hangingPiece mate mateIn1 middlegame oneMove"]
+
+19. Bxb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/5ppp/p3pk2/1p3n2/1bp5/2Pb1Q2/P2N1P1P/2KR2R1 b - - 0 23"]
+[LichessURL "https://lichess.org/1CIbxCLl#45"]
+[PuzzleId "tq25v"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+23... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/pp3ppp/4p1b1/3pP1B1/3q2P1/7P/PP3P2/RNQ1KB1R w KQkq - 0 13"]
+[LichessURL "https://lichess.org/0QE3QKau/black#24"]
+[PuzzleId "4EpNC"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+13. Bb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1q1rk1/p2n1p1p/2p2p2/5b2/1bPP3N/1P6/P2NQPPP/2KR1B1R b - - 6 18"]
+[LichessURL "https://lichess.org/Pr6ohOOG#35"]
+[PuzzleId "UqmXh"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+18... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/4p3/3p4/7B/7P/P1bKQPP1/1q3B1R w kq - 0 17"]
+[LichessURL "https://lichess.org/TXwkrcjD/black#32"]
+[PuzzleId "euIQJ"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+17. Qb5+ Qxb5 18. Bxb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1Br1k1/ppp2pb1/3p2p1/8/6b1/4P1Q1/PpP2PP1/1R2KBNR b K - 1 13"]
+[LichessURL "https://lichess.org/iC2zleCg#25"]
+[PuzzleId "ghoKL"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+13... Bc3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1p4/2n1p1pp/8/3N4/B1nB4/P1P2PPP/R4RK1 w kq - 0 13"]
+[LichessURL "https://lichess.org/GyzvySPC/black#24"]
+[PuzzleId "VAbOO"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+13. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/pp2bpp1/2pq3p/4N2b/Q2PP3/4N3/PP3PPP/R3KB1R b KQkq - 2 12"]
+[LichessURL "https://lichess.org/eNSFkK5W#23"]
+[PuzzleId "PEfZj"]
+[Themes "bodenMate mate mateIn2 opening short"]
+
+12... Qb4+ 13. Qxb4 Bxb4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pp1n1p2/2p1pn2/5qpp/1PB2B2/P1NP1Q1P/2P2PP1/R4RK1 w - - 0 15"]
+[LichessURL "https://lichess.org/OT8FuYdg/black#28"]
+[PuzzleId "2Pb99"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+15. Qxc6+ bxc6 16. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/pp2bpp1/4p2p/3p4/3PbBP1/2P4P/PP1N1P2/2KRR3 b k - 2 17"]
+[LichessURL "https://lichess.org/jmvEmH0G#33"]
+[PuzzleId "fbPTi"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+17... Rxc3+ 18. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/1b1p4/p1nBp3/1p3pp1/1P1bP3/P1N2QP1/2P1B1KP/R4R2 w kq - 0 20"]
+[LichessURL "https://lichess.org/oSBPWHEo/black#38"]
+[PuzzleId "mC5wt"]
+[Themes "bodenMate mate mateIn2 middlegame sacrifice short"]
+
+20. Qh5+ Rxh5 21. Bxh5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/pp2bppp/2p5/3Np3/6P1/5P2/PP1PP2P/R1BQKBNR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/9OeqWuIV#11"]
+[PuzzleId "AdaIF"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+6... Bh4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr2nr/p2p2pp/1p6/1B1p4/5B2/8/PPP2PPP/2K4R w - - 0 16"]
+[LichessURL "https://lichess.org/wwJouKxh/black#30"]
+[PuzzleId "SGDAK"]
+[Themes "bodenMate endgame mate mateIn1 oneMove"]
+
+16. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/pp3pp1/3b1qb1/3Q4/8/2P2PN1/PP1N2PP/2KR3R b - - 0 18"]
+[LichessURL "https://lichess.org/nZR2rA28#35"]
+[PuzzleId "Vs10n"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+18... Qxc3+ 19. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pp1n1ppb/2p1p2p/8/2BP1Bnq/3N1QN1/PPP2PP1/R3RK2 w - - 10 16"]
+[LichessURL "https://lichess.org/ml4dVNGB/black#30"]
+[PuzzleId "GIlUJ"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+16. Qxc6+ bxc6 17. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/r1pn1p1r/3p1p2/1P1Bp3/2P3q1/2bP2Nb/4PP1N/1R1Q2KR b - - 5 25"]
+[LichessURL "https://lichess.org/6UZNPhVD#49"]
+[PuzzleId "gcu2t"]
+[Themes "bodenMate kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+25... Qxg3+ 26. fxg3 Bd4+ 27. e3 Bxe3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1n1ppp/2b1p3/4B3/8/8/PP2BPPP/2R2RK1 w - - 3 17"]
+[LichessURL "https://lichess.org/p663nPc4/black#32"]
+[PuzzleId "8CCVY"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+17. Rxc6+ bxc6 18. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k3r/pp4pp/1n3p2/4pb2/1bP3P1/1P3N1P/P2N1P2/2KR1B1R b - - 0 15"]
+[LichessURL "https://lichess.org/ZUmwl2xH#29"]
+[PuzzleId "iff7w"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15... Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3kr/ppp1b2p/2n4B/5p1p/4B3/2PR4/P1P2PPP/5RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/geQpODAO/black#34"]
+[PuzzleId "bjaZu"]
+[Themes "bodenMate kingsideAttack mate mateIn2 middlegame short"]
+
+18. Bd5+ Be6 19. Bxe6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk1nr/pppp1p1p/3b4/6p1/3P4/2P1PN1P/PP1BP1P1/RN1QKB1R b KQkq - 2 8"]
+[LichessURL "https://lichess.org/DdmaD1sB#15"]
+[PuzzleId "qTc4R"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+8... Bg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1nqpp1/2p3p1/2b5/Q1BpPB2/5P2/PP4PP/3R1R1K w - - 2 18"]
+[LichessURL "https://lichess.org/XvyNuPue/black#34"]
+[PuzzleId "RnMXW"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+18. Qxc6+ bxc6 19. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/ppp3pp/3b1p2/8/8/3P1N2/PPPBP1PR/RN1QKB2 b Qkq - 0 8"]
+[LichessURL "https://lichess.org/yCH7Fhc5#15"]
+[PuzzleId "1hAIa"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+8... Bg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/p2n1p1p/1p2qp2/2p5/3P4/P3PPB1/1P1K1P1P/2R2B1R w - - 0 17"]
+[LichessURL "https://lichess.org/ckVf18yn/black#32"]
+[PuzzleId "Xpjqo"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+17. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/ppp2k2/2n3p1/8/1b4b1/1PP1B3/P4P1P/R3KB1R b KQ - 0 22"]
+[LichessURL "https://lichess.org/yqLWX1iw#43"]
+[PuzzleId "Zsc3f"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+22... Bxc3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2kbb1r/np2ppp1/3p1n1p/6N1/8/P3B1PB/1PP1PP1P/2KR3R w - - 0 15"]
+[LichessURL "https://lichess.org/9lujgKMD/black#28"]
+[PuzzleId "9l19l"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+15. Bb6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/p2p1ppp/1pn1p3/8/3P1P2/P1N1PNb1/1P1BK3/R2Q1B1R b kq - 1 12"]
+[LichessURL "https://lichess.org/bP9AL6zw#23"]
+[PuzzleId "KbYFK"]
+[Themes "bodenMate mate mateIn2 opening short"]
+
+12... Ba6+ 13. Nb5 Bxb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1n1ppp/2pRp1n1/8/8/6B1/PPP1BPPP/R5K1 w - - 1 17"]
+[LichessURL "https://lichess.org/x3kmRd16/black#32"]
+[PuzzleId "7ukRq"]
+[Themes "bodenMate master mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+17. Rxc6+ bxc6 18. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1nrr2k1/1p2bppb/1p2p2p/1B1p3P/3P2P1/2P2PB1/PP1N4/2KR3R b - - 2 22"]
+[LichessURL "https://lichess.org/VuQCeqzB#43"]
+[PuzzleId "5PUJu"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+22... Rxc3+ 23. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pp1n1pp1/2p1p1p1/8/3P1B2/8/PP2BPPP/2R1R1K1 w - - 0 15"]
+[LichessURL "https://lichess.org/ECLvfBJT/black#28"]
+[PuzzleId "sudyH"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+15. Rxc6+ bxc6 16. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/p6p/3b1kpP/4p3/4B1P1/2Pb4/PP1N1P2/2KR3R b - - 5 24"]
+[LichessURL "https://lichess.org/UAgNnTiC#47"]
+[PuzzleId "U0CvB"]
+[Themes "bodenMate master mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+24... Rxc3+ 25. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pbpnp3/1p1p1n1p/3P1B2/2P5/2N1Pp2/PP1B1PPP/R2QK2R w KQkq - 0 11"]
+[LichessURL "https://lichess.org/BvYvTI8i/black#20"]
+[PuzzleId "kGkpk"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+11. Bg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4r/p2k1p2/1p1bp3/3p1bp1/3P2P1/2P5/PP1NB1P1/2KR3R b - - 0 22"]
+[LichessURL "https://lichess.org/Hpul7YAx#43"]
+[PuzzleId "VI1RR"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+22... Rxc3+ 23. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rk2/1bp1n1pp/1pp2p2/4p1B1/2B1P3/2P2R2/PP3PPP/R5K1 w - - 2 19"]
+[LichessURL "https://lichess.org/tZqLPND9/black#36"]
+[PuzzleId "mE1ih"]
+[Themes "bodenMate mate mateIn2 middlegame sacrifice short"]
+
+19. Rxf6+ gxf6 20. Bh6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/Q7/7R/2p1bp2/2P5/P1nP2Pb/3NP2P/6KB b - - 0 28"]
+[LichessURL "https://lichess.org/B77V2YfN#55"]
+[PuzzleId "gI1Eq"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+28... Bd4+ 29. e3 Bxe3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pp1np2p/2p1Rnp1/3p4/3q1B2/3B1Q1P/PPP3P1/1K1R4 w - - 0 18"]
+[LichessURL "https://lichess.org/eTPdTMfx/black#34"]
+[PuzzleId "CSS6G"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+18. Rxc6+ bxc6 19. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/pQp2ppp/8/8/P3Pb2/3b1NPP/1P1N4/3RK2R b K - 0 21"]
+[LichessURL "https://lichess.org/RNxpWX7R#41"]
+[PuzzleId "Mvpvz"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove"]
+
+21... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1k4r/p3ppbp/1pp1bnp1/8/4P1P1/2N1BP2/PPP1B2P/2KR3R w - - 1 15"]
+[LichessURL "https://lichess.org/vLMcUJfg/black#28"]
+[PuzzleId "hfJPp"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+15. Ba6+ Kb8 16. Bf4# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3nr/1p3kp1/pB1bpp2/5b1p/5P2/2P3PP/PP1N2B1/2KR3R b - - 12 19"]
+[LichessURL "https://lichess.org/UgAReFrH#37"]
+[PuzzleId "VUz2O"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+19... Rxc3+ 20. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1n1pp1/2p1pnp1/5q2/2B2B2/2bP1Q2/1PP2PPP/R3R1K1 w - - 0 19"]
+[LichessURL "https://lichess.org/QwtOAYQX/black#36"]
+[PuzzleId "wNaQm"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+19. Qxc6+ bxc6 20. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp2ppp/3b4/4q3/8/1PP2NP1/P2PP2P/R1BQKB1R b KQkq - 2 9"]
+[LichessURL "https://lichess.org/DGeE2JLk#17"]
+[PuzzleId "8qHo5"]
+[Themes "bodenMate mate mateIn2 opening sacrifice short"]
+
+9... Qxg3+ 10. hxg3 Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p1p2pp1/1p1pp2p/6Bn/1PB5/P2P1P2/2P2P1P/R3R1K1 w kq - 0 18"]
+[LichessURL "https://lichess.org/KTNZJ7Xm/black#34"]
+[PuzzleId "eQ7Tk"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+18. Bb5+ c6 19. Bxc6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/p1p2ppp/1pn1p3/2Pp4/1P1P1P2/4PNb1/P2BK3/RN1Q1B1R b kq - 0 11"]
+[LichessURL "https://lichess.org/tilotBSo#21"]
+[PuzzleId "79wyO"]
+[Themes "bodenMate mate mateIn2 middlegame short"]
+
+11... Ba6+ 12. b5 Bxb5# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1n1ppp/2pBpnb1/5q2/2B5/P1N2Q2/1P1R1PPP/4R1K1 w - - 1 17"]
+[LichessURL "https://lichess.org/YXRHYP8R/black#32"]
+[PuzzleId "u5nbC"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+17. Qxc6+ bxc6 18. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b2/5pp1/p1q2np1/1p3b1r/3P4/1BP1BP2/PP1NQ1PP/2KR3R b - - 0 17"]
+[LichessURL "https://lichess.org/amIBjX5u#33"]
+[PuzzleId "XFXlz"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+17... Qxc3+ 18. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pp1n4/2p2p1n/3p1bpp/P2P1B2/1NR2N2/4BPPP/R5K1 w - - 0 19"]
+[LichessURL "https://lichess.org/0KcgWZ8y/black#36"]
+[PuzzleId "sUjO2"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+19. Rxc6+ bxc6 20. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/p3bppp/1p2pn2/3pN3/3P2PB/2Pb4/PP1N1P1P/2KRQ2R b - - 1 17"]
+[LichessURL "https://lichess.org/GAJfj2OU#33"]
+[PuzzleId "tv2vB"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+17... Rxc3+ 18. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/1p1n1pp1/2pBpn2/p6p/P1Bq4/5Q1P/1PP2PP1/R3R1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/jSbmwX7G/black#34"]
+[PuzzleId "oMXP0"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+18. Qxc6+ bxc6 19. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rN1r2/p5k1/8/6p1/1b2p3/2Qb2P1/PP1N1PP1/2KR3R b - - 2 25"]
+[LichessURL "https://lichess.org/2YjVMRx8#49"]
+[PuzzleId "1FHZ6"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack short"]
+
+25... Rxc3+ 26. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/3pnp1p/2p3p1/4P3/2B5/4B3/PPP3PP/R4RK1 w kq - 0 18"]
+[LichessURL "https://lichess.org/FxAVNQ7Z/black#34"]
+[PuzzleId "XBtNb"]
+[Themes "attackingF2F7 bodenMate mate mateIn2 middlegame short"]
+
+18. Bxf7+ Kd8 19. Bb6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4r/pp1n2pk/3b1n1p/4pb2/8/2P1B1QP/PP1N1PP1/2KR3R b - - 0 15"]
+[LichessURL "https://lichess.org/pDB0nTdh#29"]
+[PuzzleId "nQaAz"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+15... Rxc3+ 16. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1r2/pp1n2qp/2p1b1p1/3p1nP1/5B1P/3B4/PPQ1N3/2K2R1R w - - 2 23"]
+[LichessURL "https://lichess.org/9hLgrbPb/black#44"]
+[PuzzleId "FIB2n"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+23. Qxc6+ bxc6 24. Ba6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp3pk1/3b2b1/n5Q1/P1pP3r/2P4r/1P1NBP2/2KR2R1 b - - 0 25"]
+[LichessURL "https://lichess.org/3bMh7yyM#49"]
+[PuzzleId "sPsLS"]
+[Themes "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+25... Rxc3+ 26. bxc3 Ba3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppnp3/4p1p1/P2p4/2P5/3B4/1P1P1PPP/RNB1K1NR w KQkq - 0 10"]
+[LichessURL "https://lichess.org/EOi00wF4/black#18"]
+[PuzzleId "rmJHw"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+10. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/ppp2ppp/3b4/8/2P5/6P1/PP1PP3/RNBQKBNR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/dCZkkH6z#11"]
+[PuzzleId "71IPI"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+6... Bxg3# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp1pp3/5pp1/2p1P3/3n4/3B4/PPP2PPP/RNB1K1NR w KQkq - 0 7"]
+[LichessURL "https://lichess.org/Y0hh9kqs/black#12"]
+[PuzzleId "LQAe9"]
+[Themes "bodenMate mate mateIn1 oneMove opening"]
+
+7. Bxg6# *
+
+
+
+[Event "Boden Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5p2/1ppbpp1p/3p4/3P4/P1Pb1N2/3N1PPP/2KR3R b - - 0 17"]
+[LichessURL "https://lichess.org/5bXBkyBW#33"]
+[PuzzleId "SYyTc"]
+[Themes "bodenMate mate mateIn1 middlegame oneMove queensideAttack"]
+
+17... Bxa3# *
+
+
+

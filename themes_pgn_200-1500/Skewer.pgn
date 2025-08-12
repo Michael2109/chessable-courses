@@ -1,0 +1,1700 @@
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k1r1/p1R2p1p/1p4b1/3p4/P7/4P3/3N2PP/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/dqrvs0hm/black#56"]
+[PuzzleId "jrLJC"]
+[Themes "crushing endgame short skewer"]
+
+29. Rc8+ Kd7 30. Rxg8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/pp4p1/2p4r/2P5/3PKP2/2P5/P7/4R3 b - - 4 43"]
+[LichessURL "https://lichess.org/lQxgsBwT#85"]
+[PuzzleId "id6aE"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+43... Re6+ 44. Kd3 Rxe1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/1p1p4/p2Pk1p1/2P5/1P4K1/P3r3/8 w - - 1 45"]
+[LichessURL "https://lichess.org/0Ac55JWk/black#88"]
+[PuzzleId "X4tUT"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+45. Re7+ Kd4 46. Rxe2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/4b3/4p3/4Pp2/5P1p/4K2P/8/6R1 b - - 5 50"]
+[LichessURL "https://lichess.org/aaJdDquf#99"]
+[PuzzleId "jfacq"]
+[Themes "crushing endgame short skewer"]
+
+50... Bc5+ 51. Kf3 Bxg1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1R6/3p4/1p1k2r1/1P6/8/2K5 w - - 2 46"]
+[LichessURL "https://lichess.org/uHAfQJrY/black#90"]
+[PuzzleId "ZA3Tc"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+46. Rxb4+ Kd3 47. Rxg4 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p4r1/p2Bp3/2P5/8/8/5P2/1R2K3 b - - 5 37"]
+[LichessURL "https://lichess.org/sSYzZPo2#73"]
+[PuzzleId "pCQqC"]
+[Themes "crushing endgame short skewer"]
+
+37... Rg1+ 38. Ke2 Rxb1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/2pkP3/8/pp1r4/8/P1K5/1P6/8 w - - 1 47"]
+[LichessURL "https://lichess.org/1ODzXZIn/black#92"]
+[PuzzleId "8f9Ig"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+47. Rd8+ Kxe7 48. Rxd5 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p1b1p2/p3pp1p/8/3P4/3BP3/PP3PPP/4K2R b K - 2 20"]
+[LichessURL "https://lichess.org/1rAvocNa#39"]
+[PuzzleId "Ps0BX"]
+[Themes "crushing endgame short skewer"]
+
+20... Rc1+ 21. Ke2 Rxh1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/5r2/pp1P3R/8/2P5/1P4PK/P7/8 w - - 0 42"]
+[LichessURL "https://lichess.org/uzyFmRn4/black#82"]
+[PuzzleId "bVT82"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+42. Rh8+ Kg7 43. Rxd8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3b2p1/5pPp/4pP2/1p1pP1BP/1P1P4/r1P5/2K2R2 b - - 3 32"]
+[LichessURL "https://lichess.org/lS45pKeF#63"]
+[PuzzleId "UQesU"]
+[Themes "crushing endgame short skewer"]
+
+32... Ra1+ 33. Kd2 Rxf1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/p6p/1p5P/2p1k1p1/5pP1/7K/PPP1p3/4R3 w - - 2 40"]
+[LichessURL "https://lichess.org/2QmVnOgn/black#78"]
+[PuzzleId "TIveC"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+40. Rxe2+ Kf6 41. Rxe8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p2p3/3p2p1/3P3p/3NPP2/6P1/7r/2R2K2 b - - 0 37"]
+[LichessURL "https://lichess.org/19sXTxKa#73"]
+[PuzzleId "nkPOy"]
+[Themes "advantage endgame short skewer"]
+
+37... Rh1+ 38. Ke2 Rxc1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/8/2P1RP2/8/Pqk3K1/5P2/8 w - - 1 42"]
+[LichessURL "https://lichess.org/dUyWdGnN/black#82"]
+[PuzzleId "c9P4B"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+
+42. Re3+ Kc4 43. Rxb3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/1P4p1/1PP4p/4p2P/4r3/R1K3P1/8 b - - 0 43"]
+[LichessURL "https://lichess.org/XEmdVpzo#85"]
+[PuzzleId "f1Gng"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+43... Re2+ 44. Kd1 Rxa2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4n3/p5p1/P1k1p1P1/3p4/1K3P2/3B4/8 w - - 1 77"]
+[LichessURL "https://lichess.org/A62rMHx1/black#152"]
+[PuzzleId "2QY9X"]
+[Themes "crushing endgame short skewer"]
+
+77. Bb4+ Kb5 78. Bxe7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/4k1p1/8/2P1Pp2/5P2/7r/2R2K2 b - - 2 47"]
+[LichessURL "https://lichess.org/CBVb4lIZ#93"]
+[PuzzleId "lPVnr"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+47... Rh1+ 48. Ke2 Rxc1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/8/1r2k1K1/5R2 w - - 1 69"]
+[LichessURL "https://lichess.org/S3KVck8G/black#136"]
+[PuzzleId "sTe5v"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+69. Rf2+ Ke3 70. Rxb2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/kr6/2K2R2/8/8 b - - 4 64"]
+[LichessURL "https://lichess.org/kvMFOkRd#127"]
+[PuzzleId "Z32Jp"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+64... Rb3+ 65. Kd4 Rxf3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/8/p1p5/1p1p2kp/4p3/P1P1K1b1/1P6/3B2R1 w - - 0 38"]
+[LichessURL "https://lichess.org/9jBbMtiO/black#74"]
+[PuzzleId "RuvcB"]
+[Themes "crushing endgame hangingPiece short skewer"]
+
+38. Rxg3+ Kf6 39. Rxg8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1RQ5/5pkp/2K3p1/4p3/4r3/6b1/8/8 b - - 1 56"]
+[LichessURL "https://lichess.org/72OUEonN#111"]
+[PuzzleId "n1Feo"]
+[Themes "crushing endgame short skewer"]
+
+56... Rc4+ 57. Kd5 Rxc8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pppb3p/3p2p1/3P1k2/2P1pP2/P1P3K1/8/3B4 w - - 5 33"]
+[LichessURL "https://lichess.org/jKSqEE9W/black#64"]
+[PuzzleId "xHFZQ"]
+[Themes "advantage bishopEndgame endgame short skewer"]
+
+33. Bg4+ Kf6 34. Bxd7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "N5R1/1k6/2p5/1p6/5PK1/7P/PP1r4/8 b - - 5 39"]
+[LichessURL "https://lichess.org/FFJF3ijh#77"]
+[PuzzleId "hyBRs"]
+[Themes "crushing endgame short skewer"]
+
+39... Rg2+ 40. Kf5 Rxg8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppp5/7p/8/2P1R1K1/r1k2P2/7P/8 w - - 0 40"]
+[LichessURL "https://lichess.org/pBhIeAkq/black#78"]
+[PuzzleId "nK4bO"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+40. Re3+ Kxc4 41. Rxa3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/p3R2p/4K1p1/1B6/1PP2r1P/1P6/8 b - - 2 44"]
+[LichessURL "https://lichess.org/rtAKrS1Z#87"]
+[PuzzleId "fHQ1Z"]
+[Themes "advantage deflection endgame short skewer"]
+
+44... Re3+ 45. Kd4 Rxe6 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/4p1p1/7p/r3k2P/6K1/8/8 w - - 4 49"]
+[LichessURL "https://lichess.org/w30FJRQt/black#96"]
+[PuzzleId "l3gm0"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+49. Rf4+ Kd5 50. Rxa4 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/7p/8/r4PPP/3p4/8/2K2R2 b - - 0 50"]
+[LichessURL "https://lichess.org/n1N4fPBG#99"]
+[PuzzleId "Owngz"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+50... Ra1+ 51. Kd2 Rxf1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/1p4pp/p3pkp1/8/6P1/5q1P/1P3P2/6K1 w - - 11 35"]
+[LichessURL "https://lichess.org/v1I4BHAh/black#68"]
+[PuzzleId "750X7"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+
+35. Rf8+ Kg5 36. Rxf3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/6b1/5pP1/5P1p/1p3K1P/8/3R4 b - - 0 40"]
+[LichessURL "https://lichess.org/0UYVcQfv#79"]
+[PuzzleId "IC3qG"]
+[Themes "crushing endgame short skewer"]
+
+40... Bh5+ 41. Ke3 Bxd1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/1p6/P3pk1p/8/6PK/5r2/8 w - - 0 41"]
+[LichessURL "https://lichess.org/cLJtej25/black#80"]
+[PuzzleId "eb6af"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+41. Rf7+ Ke4 42. Rxf2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/3R1p1p/p3pp2/8/3K4/P1P5/1r3PPP/6NR b - - 0 22"]
+[LichessURL "https://lichess.org/rUjzULwx#43"]
+[PuzzleId "H8FLq"]
+[Themes "advantage endgame short skewer"]
+
+22... Rd2+ 23. Ke3 Rxd7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/1Rp3p1/p2p1p2/3Pp1p1/B1P1Pn2/8/P2K1P2/8 w - - 5 37"]
+[LichessURL "https://lichess.org/Xc7924E6/black#72"]
+[PuzzleId "PLf9i"]
+[Themes "crushing endgame short skewer"]
+
+37. Rb8+ Ke7 38. Rxh8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/3Q2pp/1P2p3/7P/4BbP1/3K1P2/7q b - - 6 37"]
+[LichessURL "https://lichess.org/4f8qJajw#73"]
+[PuzzleId "tEbEo"]
+[Themes "crushing endgame master short skewer"]
+
+37... Qd1+ 38. Kc3 Qxd6 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/1r2k3/8/8/4K1p1/7p/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/6pAHuqgG/black#110"]
+[PuzzleId "HsEvF"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+56. Rh7+ Ke6 57. Rxb7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2rBnpk1/p1P3p1/8/3R1PKp/P1R4P/1r6/8 b - - 2 34"]
+[LichessURL "https://lichess.org/zxbjfXiI#67"]
+[PuzzleId "yDMeL"]
+[Themes "crushing endgame long skewer"]
+
+34... Rg2+ 35. Kf3 Rg3+ 36. Kf2 Rxc3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/8/p4p2/2p1p1k1/2P5/8/P6K/4R3 w - - 1 56"]
+[LichessURL "https://lichess.org/RBkLFlRr/black#110"]
+[PuzzleId "1w3HA"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+56. Rg1+ Kf4 57. Rxg8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb2/pp2pp2/2p2p2/7B/3P3P/2P4R/PP3Pr1/R1BQK3 b Qq - 0 11"]
+[LichessURL "https://lichess.org/ngc6UJ7A#21"]
+[PuzzleId "MSNfs"]
+[Themes "advantage master middlegame short skewer"]
+
+11... Rg1+ 12. Ke2 Rxd1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/r3k3/5p1p/p5pP/5pP1/pP6/4K3/8 w - - 0 49"]
+[LichessURL "https://lichess.org/VGfWv6m7/black#96"]
+[PuzzleId "thh08"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+49. Rh7+ Kd6 50. Rxa7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/2k1P3/1p1p4/p5Kp/P6P/1P6/5r2/8 b - - 2 40"]
+[LichessURL "https://lichess.org/igRx6TYy#79"]
+[PuzzleId "Hhydf"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+40... Rg2+ 41. Kf6 Rxg8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K3/1p6/1P5R/pr3k2/8/8 w - - 0 50"]
+[LichessURL "https://lichess.org/Wbcmg1BX/black#98"]
+[PuzzleId "i0dRo"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+50. Rh3+ Kf2 51. Rxb3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2r5/4bpk1/1Bp5/P6K/1PR5/5P2/8 b - - 0 40"]
+[LichessURL "https://lichess.org/qUQlP7xP#79"]
+[PuzzleId "Aohvk"]
+[Themes "crushing endgame long skewer"]
+
+40... Rh7+ 41. Kg3 Rh3+ 42. Kf4 Rxc3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/5p2/4p1k1/4P3/5P1K/8/6r1 w - - 6 53"]
+[LichessURL "https://lichess.org/Z8oeQYl7/black#104"]
+[PuzzleId "46xjk"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+53. Rg8+ Kh6 54. Rxg1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2N3p1/3p4/1P4kp/2PP4/r7/2K4R b - - 1 37"]
+[LichessURL "https://lichess.org/dDqiSuR0#73"]
+[PuzzleId "dSFky"]
+[Themes "crushing endgame short skewer"]
+
+37... Ra1+ 38. Kd2 Rxh1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r3k2/7R/1p3p2/1P3K1P/8/P7/1b6 w - - 3 54"]
+[LichessURL "https://lichess.org/GtcOlnkg/black#106"]
+[PuzzleId "8GXQ7"]
+[Themes "crushing endgame master short skewer"]
+
+54. Rh7+ Kg6 55. Rxb7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/4kppp/5p2/3K4/P7/6P1/3R1P1P/8 b - - 6 30"]
+[LichessURL "https://lichess.org/qXhsEHMn#59"]
+[PuzzleId "RMM3b"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+30... Rd8+ 31. Kc5 Rxd2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2p2/4p3/5kp1/4b2p/7P/5rPK/4N3 w - - 6 42"]
+[LichessURL "https://lichess.org/rJmc7Aq1/black#82"]
+[PuzzleId "psr5V"]
+[Themes "advantage endgame short skewer"]
+
+42. Rxf7+ Kg6 43. Rxf2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/2p2kp1/2P1r3/1P1K4/6P1/5P2/3R4 b - - 0 41"]
+[LichessURL "https://lichess.org/ob2neGSU#81"]
+[PuzzleId "yCyxO"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+41... Rd5+ 42. Kc3 Rxd1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b6/p6p/1p1k4/2p3B1/4K2P/PP6/8 w - - 6 44"]
+[LichessURL "https://lichess.org/cmGHTNAd/black#86"]
+[PuzzleId "QhrsR"]
+[Themes "bishopEndgame crushing endgame master short skewer"]
+
+44. Bf3+ Kc5 45. Bxb7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/8/1p2k3/1K5R/P1P1P3/1P6/8 b - - 6 42"]
+[LichessURL "https://lichess.org/E2037R7d#83"]
+[PuzzleId "P9Ouq"]
+[Themes "advantage endgame rookEndgame short skewer"]
+
+42... Ra4+ 43. Kxb5 Rxh4 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/2q1k2p/p2N1R2/N1Pp4/1P6/P6b/2P5/6K1 w - - 1 30"]
+[LichessURL "https://lichess.org/vBufXvnc/black#58"]
+[PuzzleId "dDZv4"]
+[Themes "advantage endgame master short skewer"]
+
+30. Rf7+ Ke6 31. Rxc7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/p3p2Q/4k3/6P1/7K/8/P3q3/8 b - - 3 37"]
+[LichessURL "https://lichess.org/YUihp87P#73"]
+[PuzzleId "ixPJv"]
+[Themes "crushing endgame short skewer"]
+
+37... Qh2+ 38. Kg4 Qxh7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br1k2/pp3Pp1/4p3/3p1q1Q/8/4PK2/P4PP1/R6R w - - 1 21"]
+[LichessURL "https://lichess.org/yqX97aK9/black#40"]
+[PuzzleId "9zTaz"]
+[Themes "advantage clearance long middlegame skewer"]
+
+21. Qxf5 exf5 22. Rh8+ Kxf7 23. Rxd8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/7R/p5K1/8/3Bp1bp/1P3r2/P4P2/8 b - - 1 51"]
+[LichessURL "https://lichess.org/3yrnpfKM#101"]
+[PuzzleId "E04Ag"]
+[Themes "crushing endgame short skewer"]
+
+51... Bf5+ 52. Kh5 Bxh7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/pp4pp/5p2/3k4/1P6/2R5/4KPPP/8 w - - 0 28"]
+[LichessURL "https://lichess.org/ZTRQaRcw/black#54"]
+[PuzzleId "QwYH0"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+28. Rd3+ Kc4 29. Rxd8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3kB1/1Pp2P2/3p3p/1P1P4/2P4r/R4K2/8 b - - 5 41"]
+[LichessURL "https://lichess.org/UW0soixw#81"]
+[PuzzleId "xquyl"]
+[Themes "crushing endgame short skewer"]
+
+41... Rh2+ 42. Kg3 Rxa2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/6K1/1r2kqR1/7B/8 w - - 2 55"]
+[LichessURL "https://lichess.org/D2ZiXiWH/black#108"]
+[PuzzleId "bjqC7"]
+[Themes "crushing endgame short skewer"]
+
+55. Rxf3+ Kd4 56. Rxb3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5b1/1p1k4/7P/2P2p2/5B2/r5P1/2K2R2 b - - 2 36"]
+[LichessURL "https://lichess.org/KliwKVqn#71"]
+[PuzzleId "ZGC70"]
+[Themes "crushing endgame short skewer"]
+
+36... Ra1+ 37. Kd2 Rxf1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/8/1p6/p1pP4/P1P5/K3k3/4q3 w - - 5 61"]
+[LichessURL "https://lichess.org/5CLRm2Sk/black#120"]
+[PuzzleId "5cCaw"]
+[Themes "crushing endgame master queenRookEndgame short skewer"]
+
+61. Re8+ Kd1 62. Rxe1+ *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/p7/8/5K1R/8/r6P/8 b - - 0 47"]
+[LichessURL "https://lichess.org/3r7dZj6I#93"]
+[PuzzleId "niy2z"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+47... Ra4+ 48. Kf3 Rxh4 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3b3p/3P4/3Kpkp1/8/1B3P2/7P/8 w - - 0 48"]
+[LichessURL "https://lichess.org/JgLxZMo2/black#94"]
+[PuzzleId "U32vl"]
+[Themes "bishopEndgame crushing endgame short skewer"]
+
+48. Bc2+ Kf4 49. Bxh7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4R1p1/4p2k/3p3P/3P4/1rP5/2R2K2/7r b - - 4 39"]
+[LichessURL "https://lichess.org/2W20ToMP#77"]
+[PuzzleId "cezFA"]
+[Themes "crushing endgame pin rookEndgame short skewer"]
+
+39... Rh2+ 40. Kf3 Rxc2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/6p1/5k1p/7P/5PK1/8/4r3 w - - 10 48"]
+[LichessURL "https://lichess.org/6NNTeHRn/black#94"]
+[PuzzleId "V4qnk"]
+[Themes "crushing endgame long rookEndgame skewer"]
+
+48. Rf8+ Ke6 49. Re8+ Kd5 50. Rxe1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p4p2/P6p/2pQ4/2PbPR2/3P1K2/8/1r6 b - - 0 38"]
+[LichessURL "https://lichess.org/j3plVjPt#75"]
+[PuzzleId "DxBic"]
+[Themes "crushing deflection endgame long skewer"]
+
+38... Rf1+ 39. Ke2 Rxf4 40. Qd6 Rf2+ *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/p1r2k2/4p1p1/3p1q2/3P1p1p/5P2/PP1K3Q/8 w - - 8 44"]
+[LichessURL "https://lichess.org/cSY59fMS/black#86"]
+[PuzzleId "rWIQh"]
+[Themes "crushing endgame short skewer"]
+
+44. Rh7+ Ke8 45. Rxc7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7R/6p1/1R3rk1/P7/1P5K/2P5/6r1 b - - 10 48"]
+[LichessURL "https://lichess.org/RGU5LxSg#95"]
+[PuzzleId "P3UjI"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+48... Rh1+ 49. Kg3 Rxh7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/4k3/8/PB4p1/5p2/2p2P2/6PK/4q3 w - - 1 46"]
+[LichessURL "https://lichess.org/CQB9ljgG/black#90"]
+[PuzzleId "VVEjx"]
+[Themes "crushing endgame master short skewer"]
+
+46. Re8+ Kd6 47. Rxe1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K5k/5q2/8/1Q6/8 b - - 19 70"]
+[LichessURL "https://lichess.org/bZmHmFCc#139"]
+[PuzzleId "FfvPN"]
+[Themes "crushing endgame queenEndgame short skewer"]
+
+70... Qb8+ 71. Kc6 Qxb2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/7p/3p4/8/k7/2K5/q7 w - - 0 62"]
+[LichessURL "https://lichess.org/o9kq8Tw0/black#122"]
+[PuzzleId "JgXrt"]
+[Themes "crushing endgame master queenRookEndgame short skewer"]
+
+62. Ra8+ Kb4 63. Rxa1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P1Q1/1kb5/1p1r4/8/8/1P3P2/6K1 b - - 0 40"]
+[LichessURL "https://lichess.org/D9tNQftv#79"]
+[PuzzleId "wa8uc"]
+[Themes "crushing endgame skewer veryLong"]
+
+40... Rd1+ 41. Kh2 Rh1+ 42. Kg3 Rg1+ 43. Kf4 Rxg7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k4/pp1n1R1p/6p1/2q5/5P2/2Q5/P1P3PP/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/6DAqM1D8/black#56"]
+[PuzzleId "An2Je"]
+[Themes "advantage endgame exposedKing long skewer"]
+
+29. Qxc5 Nxc5 30. Rf8+ Ke7 31. Rxa8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5p1p/p2p2pQ/1p1B4/3PP3/4K1R1/P4P2/3q4 b - - 1 34"]
+[LichessURL "https://lichess.org/1Y5paerI#67"]
+[PuzzleId "HoY0U"]
+[Themes "crushing endgame short skewer"]
+
+34... Qc1+ 35. Kf3 Qxh6 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1r5p/2kp4/P4R2/3KP2r/8/4R3 w - - 2 38"]
+[LichessURL "https://lichess.org/lyrMweer/black#74"]
+[PuzzleId "rMTHo"]
+[Themes "crushing endgame long master rookEndgame skewer"]
+
+38. Rc1+ Kd6 39. Rf6+ Ke5 40. Rxb6 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p1B3/8/1k6/1P5p/5Rb1/r5P1/5K2 b - - 4 43"]
+[LichessURL "https://lichess.org/QRcX7axx#85"]
+[PuzzleId "cpG4h"]
+[Themes "crushing endgame long skewer"]
+
+43... Ra1+ 44. Ke2 Re1+ 45. Kd3 Rxe7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p4pp/p3p3/2q5/4p3/3Q1P2/PPP3PP/2KR3R w kq - 0 16"]
+[LichessURL "https://lichess.org/gCQvL74b/black#30"]
+[PuzzleId "IgZKt"]
+[Themes "advantage middlegame short skewer"]
+
+16. Qd8+ Kf7 17. Qxh8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/p2n1ppp/pbQP4/4p3/1P6/P1N1P3/5PPP/R1B2RK1 b kq - 0 15"]
+[LichessURL "https://lichess.org/BAKEa2EE#29"]
+[PuzzleId "VAKJE"]
+[Themes "advantage middlegame short skewer"]
+
+15... Rc8 16. Qa4 Rxc3 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3p2/1qpQ3p/8/4P3/1nP2P2/P1P2P1P/R4RK1 w kq - 0 17"]
+[LichessURL "https://lichess.org/FillN92V/black#32"]
+[PuzzleId "g9Ikc"]
+[Themes "advantage fork long middlegame skewer"]
+
+17. Qe5+ Be6 18. Qxh8+ Ke7 19. Qxa8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/8/pp2N2p/2bpPp1q/5P1n/P5P1/1BQ5/3R1R1K b - - 0 32"]
+[LichessURL "https://lichess.org/am6pS9xy#63"]
+[PuzzleId "Z20Pj"]
+[Themes "crushing discoveredAttack exposedKing long middlegame skewer"]
+
+32... Nf3+ 33. Kg2 Qh2+ 34. Kxf3 Qxc2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b1r2k/2p3p1/1p4qp/p1pP1p2/7Q/2P2B2/PP3PPP/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/lEYTT6QZ/black#46"]
+[PuzzleId "p1lc5"]
+[Themes "crushing endgame short skewer"]
+
+24. Bh5 Qd6 25. Bxe8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/1p3q2/pP2b3/4P3/6P1/2pQ2KP/4R3 b - - 1 46"]
+[LichessURL "https://lichess.org/cidAD4mr#91"]
+[PuzzleId "plURX"]
+[Themes "advantage endgame short skewer"]
+
+46... Bc3 47. Qxc2 Bxe1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pq1/3bpk2/7p/1p2QP2/pP1B2P1/P5K1/8 w - - 0 48"]
+[LichessURL "https://lichess.org/YCLZJwH9/black#94"]
+[PuzzleId "p0r8H"]
+[Themes "crushing deflection endgame fork short skewer"]
+
+48. Qd4+ Ke7 49. Qxg7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R4p1/1p2p2p/1P1pP2r/2pP1p2/2P2Pq1/2Q1K1P1/5R2 b - - 0 37"]
+[LichessURL "https://lichess.org/yqt9B3bB#73"]
+[PuzzleId "LOEZ8"]
+[Themes "advantage attraction endgame sacrifice skewer veryLong"]
+
+37... Qxg2+ 38. Rf2 Qxf2+ 39. Kxf2 Rh2+ 40. Ke1 Rxc2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b3p2/p4p1p/P2k1Kp1/6P1/3B3P/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/eDG8QARp/black#86"]
+[PuzzleId "7ytYI"]
+[Themes "bishopEndgame crushing endgame short skewer"]
+
+44. Be4+ Kd4 45. Bxb7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/8/8/6Kp/1r5P/6Pk/8 b - - 3 60"]
+[LichessURL "https://lichess.org/Av3hKtzs#119"]
+[PuzzleId "wwisX"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+60... Rg3+ 61. Kxh4 Rxg7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/pp5p/2p1ppbQ/3p4/3P4/4P1P1/PPPK1PP1/R4B1R w kq - 0 13"]
+[LichessURL "https://lichess.org/csIbaf5N/black#24"]
+[PuzzleId "VXt7l"]
+[Themes "advantage discoveredAttack exposedKing long middlegame skewer"]
+
+13. Qxg6+ hxg6 14. Rxh8+ Ke7 15. Rxd8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1R3n1p/6p1/5p2/2B2P2/1K4PP/8/6r1 b - - 2 32"]
+[LichessURL "https://lichess.org/xYVTsqJu#63"]
+[PuzzleId "jpoX1"]
+[Themes "crushing endgame master short skewer"]
+
+32... Rb1+ 33. Kc2 Rxb7 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/r4p2/4p1p1/3pP1P1/p1p5/2P2K2/1P5R/R7 w - - 2 36"]
+[LichessURL "https://lichess.org/KkFeiw8w/black#70"]
+[PuzzleId "al02W"]
+[Themes "crushing endgame long quietMove rookEndgame skewer"]
+
+36. Rah1 Kf8 37. Rh8+ Ke7 38. Rxb8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/4b1pp/p1q5/2p5/7r/3PQN2/PPP2PK1/R7 b - - 0 31"]
+[LichessURL "https://lichess.org/2ynlikxb#61"]
+[PuzzleId "dSRtT"]
+[Themes "advantage endgame long skewer"]
+
+31... Qg6+ 32. Kf1 Rh1+ 33. Ke2 Rxa1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/Q3p3/2p1q2p/8/2k1PP2/5K2/8 w - - 10 46"]
+[LichessURL "https://lichess.org/dHz37eoI/black#90"]
+[PuzzleId "WqHm0"]
+[Themes "crushing endgame master queenEndgame short skewer"]
+
+46. Qa1+ Kc4 47. Qxe5 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/4Rp2/2r3pP/8/5KP1/8/8/5R2 b - - 1 46"]
+[LichessURL "https://lichess.org/1PXoEaVn#91"]
+[PuzzleId "0hsJS"]
+[Themes "crushing endgame rookEndgame short skewer"]
+
+46... Rf6+ 47. Kg3 Rxf1 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b2/8/3kp1p1/7p/4K3/2B4P/5PP1/8 w - - 12 42"]
+[LichessURL "https://lichess.org/xowFyuTZ/black#82"]
+[PuzzleId "21GyY"]
+[Themes "bishopEndgame crushing endgame master short skewer"]
+
+42. Bb4+ Kc6 43. Bxf8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3pp1/8/4PRp1/1P1P4/3B4/b3K1PP/3r4 b - - 3 24"]
+[LichessURL "https://lichess.org/UmMZWTeV#47"]
+[PuzzleId "aETuf"]
+[Themes "attraction crushing endgame exposedKing long sacrifice skewer"]
+
+24... Rxd3 25. Kxd3 Bb1+ 26. Kc4 Bxf5 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rk2/p4p2/8/3pq1Q1/8/3B3R/P1P3PK/8 w - - 1 29"]
+[LichessURL "https://lichess.org/FsWiejqP/black#56"]
+[PuzzleId "qEOXa"]
+[Themes "crushing endgame long skewer"]
+
+29. Qxe5 Rxe5 30. Rh8+ Kg7 31. Rxa8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b3pp1/2p1k2p/2P1p3/1PK5/6P1/4BPP1/8 b - - 4 32"]
+[LichessURL "https://lichess.org/1kXzeSd6#63"]
+[PuzzleId "1ORkx"]
+[Themes "bishopEndgame crushing endgame long skewer"]
+
+32... Ba6+ 33. b5 Bxb5+ 34. Kb4 Bxe2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/2p2ppp/p2b1q2/1p6/4R3/1bP2N1P/1P2QPP1/R1B3K1 w - - 0 18"]
+[LichessURL "https://lichess.org/efNV6Rng/black#34"]
+[PuzzleId "BfRv5"]
+[Themes "advantage middlegame short skewer"]
+
+18. Bg5 Qg6 19. Bxd8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k4r2/8/1pp3Q1/8/3P4/4P1K1/5r1P/8 b - - 2 33"]
+[LichessURL "https://lichess.org/6vN4CMLI#65"]
+[PuzzleId "Ou5Gw"]
+[Themes "crushing endgame exposedKing long queenRookEndgame skewer"]
+
+33... R8f3+ 34. Kg4 Rg2+ 35. Kxf3 Rxg6 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p2R2p/1pp3pB/8/8/2P4P/rP3rPK/8 w - - 0 27"]
+[LichessURL "https://lichess.org/SC5BX6un/black#52"]
+[PuzzleId "nceKG"]
+[Themes "advantage endgame long skewer"]
+
+27. Re8+ Kf7 28. Rf8+ Ke6 29. Rxf2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R1Qrk1/5ppp/p2p4/1p1P4/1q3b2/8/P4PPP/4R1K1 b - - 0 23"]
+[LichessURL "https://lichess.org/kugWLOtQ#45"]
+[PuzzleId "HOIfc"]
+[Themes "crushing endgame master short skewer"]
+
+23... Qxe1+ 24. Qxe1 Rxc8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p2p2R1/bp1kp3/8/2P2P2/P1B4P/5K2/8 w - - 1 30"]
+[LichessURL "https://lichess.org/DNaeNlks/black#58"]
+[PuzzleId "haLDM"]
+[Themes "crushing endgame master short skewer"]
+
+30. Bb4+ Kc6 31. Bxf8 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p6p/2p2Q2/6pK/2PPr3/6P1/P1P1r3/8 b - - 4 32"]
+[LichessURL "https://lichess.org/eCTbg5wn#63"]
+[PuzzleId "fJeGu"]
+[Themes "crushing endgame queenRookEndgame skewer veryLong"]
+
+32... Rh2+ 33. Kxg5 h6+ 34. Kf5 Rf2+ 35. Kxe4 Rxf6 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2Q3pp/4pk2/p4p2/5P1q/4PRrP/6r1/5K2 w - - 0 41"]
+[LichessURL "https://lichess.org/qacaM8o8/black#80"]
+[PuzzleId "4S3eS"]
+[Themes "advantage endgame long skewer"]
+
+41. Qd8+ Kf7 42. Qxh4 Rxf3+ 43. Kxg2 *
+
+
+
+[Event "Skewer"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P7/1K3k2/1P5p/4Bb1P/2p3p1/8/8 b - - 0 60"]
+[LichessURL "https://lichess.org/Dmm2LVTo#119"]
+[PuzzleId "RSOPK"]
+[Themes "bishopEndgame crushing deflection endgame master short skewer"]
+
+60... Be3+ 61. Kc7 Bxa7 *
+
+
+

@@ -1,0 +1,1821 @@
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/4p3/3p4/8/P4P1P/2r1q1P1/1R5K w - - 3 33"]
+[LichessURL "https://lichess.org/q7IKFLKu/black#64"]
+[PuzzleId "HFJBz"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+33. Rb8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33... Rc8 34. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5pp1/4p2p/3pP3/1Q6/8/1P3PPP/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/9s52JE92#55"]
+[PuzzleId "hNsLK"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28... Rc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Qe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q1ppp/8/R7/1p1p4/1Ppr1PP1/2P2K1P/8 w - - 0 36"]
+[LichessURL "https://lichess.org/dywUsXgb/black#70"]
+[PuzzleId "Zorgh"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+36. Ra8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+36... Qc8 37. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pp3p2/4p3/3r4/8/2P3P1/PP3Q1P/K2RR3 b - - 0 27"]
+[LichessURL "https://lichess.org/hyEGXOeO#53"]
+[PuzzleId "udJzS"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+27... Rxd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p6/p5KP/8/8/2PR4/P7/4q3 w - - 0 47"]
+[LichessURL "https://lichess.org/Au3IhPh4/black#92"]
+[PuzzleId "aJUPf"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+47. Rd8+ Qe8+ 48. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/k4P2/7Q/7p/3Pp3/5p2/5PPP/6K1 b - - 0 37"]
+[LichessURL "https://lichess.org/ydtErbky#73"]
+[PuzzleId "EpPvY"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+37... Rb1+ 38. Qc1 Rxc1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/5p1k/3qpPp1/1p6/2p1R3/3p2P1/1P3P1P/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/YTzmimZd/black#56"]
+[PuzzleId "iY1ct"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+29. Rh4# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2Q2ppp/8/8/P1Pp4/3P4/2P1rPPP/R3R1K1 b - - 0 20"]
+[LichessURL "https://lichess.org/ZrW94MT8#39"]
+[PuzzleId "0BtyY"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+20... Rxe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/R4p1p/5P2/6K1/1q4P1/p6P/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/mEiKc7Hz/black#94"]
+[PuzzleId "DixEs"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+48. Ra8+ Qb8 49. Rxb8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp2ppp/8/8/2P5/5Q2/P4PPP/4R1KR b - - 0 18"]
+[LichessURL "https://lichess.org/aayTFlIJ#35"]
+[PuzzleId "326OK"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+18... Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3R2pp/8/5r2/3pp3/4P2P/3q1PP1/5RK1 w - - 0 34"]
+[LichessURL "https://lichess.org/wUdrPRfl/black#66"]
+[PuzzleId "Ld7xd"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+34. Rd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Rf8 35. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3rpp/p1p5/3p4/1Q6/6R1/P1P3PP/5R1K b - - 0 32"]
+[LichessURL "https://lichess.org/bGSbNljz#63"]
+[PuzzleId "rWM0R"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+32... Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
+[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
+[PuzzleId "fImTO"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+39. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pQ4pp/2p5/3p4/8/2P2P2/4r1PP/R6K b - - 0 28"]
+[LichessURL "https://lichess.org/tYNH1cBz#55"]
+[PuzzleId "O8NlJ"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28... Re1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6R/8/8/8/k1K5/r7/1q6 w - - 2 71"]
+[LichessURL "https://lichess.org/PZ8cyLv0/black#140"]
+[PuzzleId "GBS4m"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+71. Rxa7# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr5/1p3p2/pQ1p3r/4p3/4Pp2/3R4/PP3P2/K1R5 b - - 0 32"]
+[LichessURL "https://lichess.org/kd7ASgaS#63"]
+[PuzzleId "9ukvE"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+32... Rxc1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/p4ppp/8/3P2q1/4R3/7P/P4PP1/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/i1I6zCwD/black#50"]
+[PuzzleId "2Ymrf"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+26. Re8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxe8 27. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/6p1/p5R1/3p1p2/5P2/P7/4r1PP/2Q4K b - - 0 39"]
+[LichessURL "https://lichess.org/AI2LW5iq#77"]
+[PuzzleId "gxDwX"]
+[Themes "backRankMate endgame fork master mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+39... Re1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+40. Qxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/1q2p3/R2pP3/5P2/2r4P/6PK/8 w - - 0 33"]
+[LichessURL "https://lichess.org/Lo532jEn/black#64"]
+[PuzzleId "o7Pyg"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+33. Ra8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33... Rc8 34. Rxc8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Qd8 35. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p3Rp/ppp5/6P1/Pq4Pk/1P3P2/3R2K1 b - - 2 36"]
+[LichessURL "https://lichess.org/qKjCf1e8#71"]
+[PuzzleId "TbSap"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove queenRookEndgame"]
+
+36... Qxd1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/r5r1/8/4q3/6P1/5P1P/RR4K1 w - - 0 29"]
+[LichessURL "https://lichess.org/GpewcOdJ/black#56"]
+[PuzzleId "u8TWi"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+29. Rb8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Qe8 30. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3pp1/4p2p/5Q2/8/P1P1R3/1P3PPP/6K1 b - - 0 27"]
+[LichessURL "https://lichess.org/tm1DzfRu#53"]
+[PuzzleId "veq2L"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+27... Rd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Re1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p4pp/2p5/4r3/1p6/1P4P1/P3q2P/3R1R1K w - - 0 24"]
+[LichessURL "https://lichess.org/mhlIar5k/black#46"]
+[PuzzleId "kxMNz"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+24. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3rpp/p7/8/8/P1Q5/1P4PP/3r1RK1 b - - 2 26"]
+[LichessURL "https://lichess.org/A0g3mA6V#51"]
+[PuzzleId "SIumJ"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+26... Rdxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p2R2pp/8/2q2pr1/P6P/5K2/1P3P2/8 w - - 0 35"]
+[LichessURL "https://lichess.org/8uqhaOyK/black#68"]
+[PuzzleId "gDWXr"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+35. Rd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35... Qf8 36. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pQ6/3p1p1p/2p2Pp1/4r3/8/PPP2RPP/7K b - - 0 28"]
+[LichessURL "https://lichess.org/PoCFRZOY#55"]
+[PuzzleId "B0035"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28... Re1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/3R1ppp/8/1pP5/1q6/7P/5PP1/3R2K1 w - - 0 32"]
+[LichessURL "https://lichess.org/6FlqxohU/black#62"]
+[PuzzleId "sZVDj"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+32. Rd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+32... Rxd8 33. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/2Q5/P2p4/8/2P1p3/6PP/5R1K b - - 0 28"]
+[LichessURL "https://lichess.org/aKgsOLZV#55"]
+[PuzzleId "JxzbB"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28... Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/8/7q/8/6P1/P4P1P/4R1K1 w - - 0 28"]
+[LichessURL "https://lichess.org/Gczji28q/black#54"]
+[PuzzleId "oonPQ"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/pQp3pp/8/8/1PP5/P7/5RPP/6K1 b - - 0 23"]
+[LichessURL "https://lichess.org/ko7qaXz8#45"]
+[PuzzleId "ddVFT"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+23... Re1+ 24. Rf1 Rexf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/pp6/q6p/3P4/8/1P5P/P5P1/2R1R1K1 w - - 0 36"]
+[LichessURL "https://lichess.org/AU5fujTD/black#70"]
+[PuzzleId "SIJaV"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+36. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6P1/5r1P/6k1/8/P4pP1/5Q1K b - - 3 44"]
+[LichessURL "https://lichess.org/vKDvHADE#87"]
+[PuzzleId "oIimo"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+44... Rxh5# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp3rpp/6p1/8/4R1P1/2P4P/PP1q1PK1/5R2 w - - 0 25"]
+[LichessURL "https://lichess.org/y0mASIJg/black#48"]
+[PuzzleId "ZI4cv"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+25. Re8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1k/6p1/7r/8/5P2/2Q2K2/8 b - - 7 56"]
+[LichessURL "https://lichess.org/PgAMhvuy#111"]
+[PuzzleId "8QZYd"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+
+56... Rh2+ 57. Ke3 Rxc2 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R2R2pk/1p4rp/2p5/7q/1P4P1/P4P2/6K1 w - - 0 40"]
+[LichessURL "https://lichess.org/FMDdnFpB/black#78"]
+[PuzzleId "uDWBQ"]
+[Themes "crushing endgame long queenRookEndgame"]
+
+40. Rxg7+ Rxg7 41. Rxg7+ Kxg7 42. gxh4 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/8/3Qp3/P7/8/1P3PPP/3rR1K1 b - - 0 27"]
+[LichessURL "https://lichess.org/RAwIfKwK#53"]
+[PuzzleId "IBrS3"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenRookEndgame"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+27... Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5rp1/5p2/3Q4/8/8/5PK1/1r6 w - - 6 58"]
+[LichessURL "https://lichess.org/xoNcxkAZ/black#114"]
+[PuzzleId "fcXdh"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+58. Qd8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1p3r2/p2Q4/P1p3rP/2PpP3/3P4/P6P/7K b - - 2 35"]
+[LichessURL "https://lichess.org/Z0noGMD4#69"]
+[PuzzleId "M5BTL"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+35... Rf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rpp/4p3/r3q3/P7/8/6PP/3R1R1K w - - 0 25"]
+[LichessURL "https://lichess.org/ASrgAy14/black#48"]
+[PuzzleId "htExz"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+25. Rd8+ Rf8 26. Rfxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/1p4pk/4Q2p/p2pP2K/6P1/Pr5P/7P/8 b - - 0 35"]
+[LichessURL "https://lichess.org/G3ULv00g#69"]
+[PuzzleId "IfDPE"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+35... Rxh3# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/ppp1R3/5R1p/8/8/3P3P/P1q2PP1/6K1 w - - 0 26"]
+[LichessURL "https://lichess.org/BzX2hao5/black#50"]
+[PuzzleId "zfy7u"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+26. Rxh6# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/6p1/1p6/p1pPp3/P1P3P1/1r6/2QK1R1r b - - 2 35"]
+[LichessURL "https://lichess.org/NSQN7WaG#69"]
+[PuzzleId "IBXF3"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove queenRookEndgame"]
+
+35... Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r3k2/2p3pQ/p5P1/3p4/P1r5/8/3K4 w - - 0 41"]
+[LichessURL "https://lichess.org/xXWLr3iT/black#80"]
+[PuzzleId "BUPAI"]
+[Themes "advantage endgame queenRookEndgame short skewer"]
+
+41. Qh7+ Ke6 42. Qxb7 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6Q1/8/7P/8/6P1/1Pkp3r/P4R2/3K4 b - - 0 56"]
+[LichessURL "https://lichess.org/eHfUw3w6#111"]
+[PuzzleId "R4o6I"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+56... Rh1+ 57. Rf1 Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp4p1/5pp1/8/8/6R1/Pq4PP/4R2K w - - 0 28"]
+[LichessURL "https://lichess.org/ZeeZQIKw/black#54"]
+[PuzzleId "tygpR"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+28. Rxe8+ Kh7 29. Rh3# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4Rp1/7p/2pP4/8/7Q/2r3PP/7K b - - 0 33"]
+[LichessURL "https://lichess.org/VOAv5rX8#65"]
+[PuzzleId "nljju"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+33... Rc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34. Rf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/7p/6pP/4Q3/5rP1/6K1/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/MEei051U/black#112"]
+[PuzzleId "J73Qb"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+57. Qg7# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/8/1p1p2p1/pPpPp3/P1P3QP/4R1P1/5r2/7K b - - 1 39"]
+[LichessURL "https://lichess.org/xaRAQUjW#77"]
+[PuzzleId "exS85"]
+[Themes "endgame exposedKing long mate mateIn3 queenRookEndgame"]
+
+39... Rf1+ 40. Kh2 R8f2+ 41. Kh3 Rh1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/5RKP/8/5p2/4qP2/8/8 w - - 3 58"]
+[LichessURL "https://lichess.org/7WIVr0ph/black#114"]
+[PuzzleId "usGil"]
+[Themes "advancedPawn endgame mate mateIn2 queenRookEndgame short"]
+
+58. h7+ Kh8 59. Rf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4p1/5r1p/8/4Q3/1P5P/1PP1p1P1/7K b - - 1 31"]
+[LichessURL "https://lichess.org/c9BdYB9G#61"]
+[PuzzleId "M3nuR"]
+[Themes "advancedPawn crushing endgame long promotion queenRookEndgame"]
+
+31... Rf1+ 32. Kh2 e1=Q 33. Qxe1 Rxe1 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/R7/6K1/8/6kq w - - 0 80"]
+[LichessURL "https://lichess.org/2Ssi13k7/black#158"]
+[PuzzleId "IdqdA"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+80. Ra1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3Rkp2/p3q3/1p2Pp2/8/P7/1PP5/1K1R4 b - - 0 39"]
+[LichessURL "https://lichess.org/Oc06MMfx#77"]
+[PuzzleId "zhxEo"]
+[Themes "crushing endgame queenRookEndgame short"]
+
+39... Qxd7 40. Rxd7+ Kxd7 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/3P2p1/1p5p/pPp5/3q4/6PP/5R1K/8 w - - 0 38"]
+[LichessURL "https://lichess.org/jHdu1pc7/black#74"]
+[PuzzleId "v6JTg"]
+[Themes "advancedPawn crushing endgame long promotion queenRookEndgame"]
+
+38. Rxf8+ Kh7 39. d8=Q Qxd8 40. Rxd8 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/2Q2K2/6pk/5p2/8/8/8/8 b - - 7 65"]
+[LichessURL "https://lichess.org/TcxCWuSk#129"]
+[PuzzleId "xiIVc"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+
+65... Rh7+ 66. Ke6 Rxc7 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1q6/8/8/7R/5pPP/5P2/6K1 w - - 0 45"]
+[LichessURL "https://lichess.org/P8CSGW11/black#88"]
+[PuzzleId "jvP8H"]
+[Themes "crushing endgame exposedKing long queenRookEndgame skewer"]
+
+45. Rh8+ Kd7 46. Rh7+ Kc6 47. Rxb7 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p1p1Qr2/1p5p/6p1/8/2P3P1/PP4PP/3r1RK1 b - - 0 23"]
+[LichessURL "https://lichess.org/xgmfHwQC#45"]
+[PuzzleId "GY4hy"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+23... Rdxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k1r2/4RP2/7p/8/q1P5/7P/4R2K/8 w - - 3 48"]
+[LichessURL "https://lichess.org/LRgxTwFB/black#94"]
+[PuzzleId "xsG4O"]
+[Themes "crushing endgame queenRookEndgame short"]
+
+48. Re8+ Kc7 49. Rxf8 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pkp/5p2/3q4/3p4/3R1P2/P4P1P/2R3K1 b - - 2 29"]
+[LichessURL "https://lichess.org/pSa8GZ8s#57"]
+[PuzzleId "CDKGe"]
+[Themes "crushing endgame fork master queenRookEndgame short"]
+
+29... Qg5+ 30. Kf1 Qxc1+ *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/4R1R1/p1q4p/8/3r3P/P5P1/1P3P1K/8 w - - 0 39"]
+[LichessURL "https://lichess.org/ZKsXUKL7/black#76"]
+[PuzzleId "cbpaJ"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+39. Rh7# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p1k2/8/1P2R2K/4P2R/8/6q1 b - - 5 81"]
+[LichessURL "https://lichess.org/8bbr3z3o#161"]
+[PuzzleId "FhCdn"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+81... Qg5# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1k4/2p1R3/2P2P2/P2q2PK/7P/8/8 w - - 3 47"]
+[LichessURL "https://lichess.org/4f8XRZDy/black#92"]
+[PuzzleId "hRbNZ"]
+[Themes "crushing endgame fork queenRookEndgame short"]
+
+47. Rd6+ Qxd6 48. cxd6 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5ppk/7p/P3q3/8/8/6P1/R5RK b - - 2 32"]
+[LichessURL "https://lichess.org/7TkFuPdK#63"]
+[PuzzleId "HwuBi"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+32... Qh5# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rpp/p7/8/2r1p3/P6P/1PP3q1/1K1R1R2 w - - 0 28"]
+[LichessURL "https://lichess.org/oYuFSVhI/black#54"]
+[PuzzleId "Y0KVr"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+28. Rd8+ Rf8 29. Rfxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/p6R/1p2p3/2p1P1p1/6P1/4Q3/PPP5/2K5 b - - 0 23"]
+[LichessURL "https://lichess.org/08peJRyU#45"]
+[PuzzleId "lK5Hm"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+23... Rf1+ 24. Qe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/P7/7p/2Rp2p1/5p2/7P/6PK/q7 w - - 2 39"]
+[LichessURL "https://lichess.org/C2IOejh2/black#76"]
+[PuzzleId "uHV0i"]
+[Themes "advancedPawn crushing endgame long promotion queenRookEndgame"]
+
+39. Rc8+ Kf7 40. a8=Q Qxa8 41. Rxa8 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1QK5/7r/2k5/8/8/8/8/8 b - - 0 65"]
+[LichessURL "https://lichess.org/MaQQPabP#129"]
+[PuzzleId "QDFqy"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+65... Rh8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/6pp/8/8/P5P1/8/1Kr3Q1/8 w - - 0 41"]
+[LichessURL "https://lichess.org/gzBckyfP/black#80"]
+[PuzzleId "eLcqs"]
+[Themes "crushing defensiveMove endgame long queenRookEndgame"]
+
+41. Qxc2 Rxc2+ 42. Kxc2 Kf7 43. a5 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp5p/2P4r/8/P2Pp3/8/1P2RP2/4Q1K1 b - - 0 36"]
+[LichessURL "https://lichess.org/XDcnOHQO#71"]
+[PuzzleId "05bZx"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+36... Rg8+ 37. Kf1 Rh1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3Rp3/8/k1K5/8/1q6 w - - 0 68"]
+[LichessURL "https://lichess.org/3U9taGOP/black#134"]
+[PuzzleId "tZz8t"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+68. Ra5# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4pQ/4p3/4k3/4r1P1/5R2/PP1r3P/7K b - - 0 43"]
+[LichessURL "https://lichess.org/deg7ivhn#85"]
+[PuzzleId "oV8wy"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+43... Re1+ 44. Rf1 Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4R3/3pPk2/p2P4/5qPK/8/8 w - - 1 41"]
+[LichessURL "https://lichess.org/d83MS0Vh/black#80"]
+[PuzzleId "oPZaS"]
+[Themes "advancedPawn advantage endgame promotion queenRookEndgame skewer veryLong"]
+
+41. Rf6+ Ke4 42. Rxf3 Kxf3 43. e6 a3 44. e7 a2 45. e8=Q *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pp/5p2/2p2P2/P5k1/7r/2Q2K2/8 b - - 0 35"]
+[LichessURL "https://lichess.org/mf1jFhgn#69"]
+[PuzzleId "4kNdC"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+
+35... Rh2+ 36. Ke3 Rxc2 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/8/8/8/4K2P/1R6/4kq2 w - - 0 50"]
+[LichessURL "https://lichess.org/nHK76ObQ/black#98"]
+[PuzzleId "2WYTF"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+50. Rb1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/1R3p1p/4p1p1/8/1rQ5/8/5PPP/1R5K b - - 0 28"]
+[LichessURL "https://lichess.org/u39qQD1B#55"]
+[PuzzleId "cZaqY"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame xRayAttack"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28... Rxb1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxb1 Rxb1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Qc1 Rxc1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5Rrp/p7/2p1p3/8/P2P1R1P/2P2qPK/2r5 w - - 0 39"]
+[LichessURL "https://lichess.org/x0OcUdax/black#76"]
+[PuzzleId "n1KNk"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+39. Rf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7R/p5k1/4p1p1/2P3K1/1q3P1R/8 b - - 0 47"]
+[LichessURL "https://lichess.org/zCpgqtJE#93"]
+[PuzzleId "XqtVp"]
+[Themes "crushing endgame queenRookEndgame short"]
+
+47... Qxc3+ 48. Kg2 Qf3+ *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq3k/5p2/p3p3/1p1pP2p/2r2P1R/P1P2P1P/1P4RK/8 w - - 0 35"]
+[LichessURL "https://lichess.org/WLUJILpG/black#68"]
+[PuzzleId "K5JyL"]
+[Themes "endgame kingsideAttack mate mateIn1 oneMove queenRookEndgame"]
+
+35. Rxh5# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q6/K6R/2k5/8/8/8/1r6/8 b - - 0 68"]
+[LichessURL "https://lichess.org/BXVRE88O#135"]
+[PuzzleId "i7nbW"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+68... Ra2# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2Q5/4pp2/3r4/4k2P/3r2PK/8 w - - 4 64"]
+[LichessURL "https://lichess.org/hzxpVsKD/black#126"]
+[PuzzleId "CN1m0"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+64. Qf3# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2R5/4R1pp/p7/1p5P/6PK/P4q2/8 b - - 2 43"]
+[LichessURL "https://lichess.org/boIx3JTa#85"]
+[PuzzleId "UIqrR"]
+[Themes "crushing endgame fork master queenRookEndgame short"]
+
+43... Qf5+ 44. Kh2 Qxe6 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5p1p/2p2pq1/p2R4/7R/3p3P/P5P1/6K1 w - - 0 39"]
+[LichessURL "https://lichess.org/YXZVofjE/black#76"]
+[PuzzleId "5nvMZ"]
+[Themes "crushing endgame long pin queenRookEndgame"]
+
+39. Rd8+ Kg7 40. Rg4 Qxg4 41. hxg4 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/1p6/p2p2R1/8/5P2/2PP2pp/PP1Q2P1/7K b - - 0 29"]
+[LichessURL "https://lichess.org/guXqYioT#57"]
+[PuzzleId "NVaro"]
+[Themes "advancedPawn advantage doubleCheck endgame queenRookEndgame skewer veryLong"]
+
+29... hxg2+ 30. Kg1 Rh1+ 31. Kxg2 Rh2+ 32. Kxg3 Rxd2 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p1R3/2p2k2/5p2/2Pp4/3P2qp/PP6/4R2K w - - 4 42"]
+[LichessURL "https://lichess.org/g4B2mYLk/black#82"]
+[PuzzleId "XTLQn"]
+[Themes "crushing endgame long queenRookEndgame skewer"]
+
+42. R1e6+ Kg5 43. Rg7+ Kf4 44. Rxg3 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k3rr/1p6/p7/3p4/4P3/2P4p/PPQ2RPK/R7 b - - 0 29"]
+[LichessURL "https://lichess.org/3Os1wILH#57"]
+[PuzzleId "Zq993"]
+[Themes "advancedPawn discoveredAttack endgame mate mateIn2 queenRookEndgame short"]
+
+29... hxg2+ 30. Kg1 Rh1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4R2p/2p2k2/p4p2/6q1/1P1P4/2P3p1/4R1K1 w - - 6 47"]
+[LichessURL "https://lichess.org/Vr4hfxUS/black#92"]
+[PuzzleId "OubEj"]
+[Themes "crushing endgame long queenRookEndgame skewer"]
+
+47. R1e6+ Kg5 48. Rg7+ Kf4 49. Rxg4+ *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q3R1/p4p1k/P4p1p/8/5P2/6P1/2r4r/5K2 b - - 0 48"]
+[LichessURL "https://lichess.org/YUimYu9l#95"]
+[PuzzleId "o76wj"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+48... Rh1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/1p6/2p5/8/q2k4/4RR2/1K6 w - - 4 62"]
+[LichessURL "https://lichess.org/UAKdya4c/black#122"]
+[PuzzleId "nWEAO"]
+[Themes "crushing endgame master queenRookEndgame short skewer"]
+
+62. Rf3+ Kxe2 63. Rxa3 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/ppp5/5p2/4pQ2/1PP5/5Pp1/P2R2Pr/6K1 b - - 0 32"]
+[LichessURL "https://lichess.org/5yf0mMCB#63"]
+[PuzzleId "OnPGv"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+32... Rh1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p4p1/p7/8/2p4q/5R2/6K1/5R2 w - - 0 43"]
+[LichessURL "https://lichess.org/2dWncKLM/black#84"]
+[PuzzleId "Iibap"]
+[Themes "advantage endgame long pin queenRookEndgame"]
+
+43. Rf8+ Kh7 44. Rh1 Qxh1+ 45. Kxh1 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4ppp/1Qr5/R7/3p4/1P1P2P1/P3PP1P/2R3K1 b - - 0 29"]
+[LichessURL "https://lichess.org/TydHJQRi#57"]
+[PuzzleId "THEB6"]
+[Themes "advantage endgame hangingPiece intermezzo queenRookEndgame short"]
+
+29... Rxc1+ 30. Kg2 axb6 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3R2/3p1R2/1k1q4/1P2p3/6K1/8/8 w - - 0 45"]
+[LichessURL "https://lichess.org/BaBlYG1u/black#88"]
+[PuzzleId "OU6pF"]
+[Themes "crushing endgame master pin queenRookEndgame short"]
+
+45. Rf5 Qxf5 46. Rxf5+ *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R5pk/1p2p2p/8/P2P4/4q2P/1P6/6RK b - - 0 35"]
+[LichessURL "https://lichess.org/NMR3F1A0#69"]
+[PuzzleId "Bg46O"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+35... Qxh3# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/Q4p1p/6p1/P7/8/7P/2r2PPK/r7 w - - 1 33"]
+[LichessURL "https://lichess.org/OFxtubT4/black#64"]
+[PuzzleId "Hni4h"]
+[Themes "crushing endgame fork long queenRookEndgame"]
+
+33. Qb8+ Kg7 34. Qe5+ f6 35. Qxa1 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/3R4/6p1/6K1/5P2/3R3P/4q3 b - - 11 46"]
+[LichessURL "https://lichess.org/mbaBVWUp#91"]
+[PuzzleId "tMQA3"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+46... Qh4+ 47. Kf5 Qf4# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4kp1/1p3q2/2pP4/2P5/1P2R1p1/P4PKP/8 w - - 0 35"]
+[LichessURL "https://lichess.org/3Ca3pyud/black#68"]
+[PuzzleId "X9ZFb"]
+[Themes "crushing endgame pin queenRookEndgame veryLong"]
+
+35. Rf3 Qxf3+ 36. Kxf3 gxh2 37. Kg2 h1=Q+ 38. Kxh1 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5ppk/q6p/2PK4/3R2P1/3R4/8/8 b - - 4 50"]
+[LichessURL "https://lichess.org/NAcg7VAg#99"]
+[PuzzleId "sO3My"]
+[Themes "dovetailMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+50... Qe6# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rr2k/p5qp/6pR/1p3p2/7r/7P/PP4PK/8 w - - 0 37"]
+[LichessURL "https://lichess.org/GkkfgjZF/black#72"]
+[PuzzleId "9Jcjh"]
+[Themes "crushing endgame hangingPiece long queenRookEndgame"]
+
+37. Rxe8+ Qg8 38. Rxg8+ Kxg8 39. Rxh4 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1kp5/p4P2/2p1P3/P4K1Q/8/1r4rP/8 b - - 0 38"]
+[LichessURL "https://lichess.org/eQBuDwKg#75"]
+[PuzzleId "nuc0b"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
+
+38... Rb4+ 39. Kf3 Rxh4 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4p2p/5ppk/8/R7/1P4K1/P4P2/7q w - - 0 41"]
+[LichessURL "https://lichess.org/LGeZXxgR/black#80"]
+[PuzzleId "JhmwN"]
+[Themes "crushing defensiveMove endgame fork long queenRookEndgame"]
+
+41. Rh4+ Qxh4+ 42. Kxh4 Kg7 43. a4 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6Q1/7K/5k2/8/8/8/8/6r1 b - - 0 62"]
+[LichessURL "https://lichess.org/a6olKKGH#123"]
+[PuzzleId "yRs72"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+62... Rh1# *
+
+
+

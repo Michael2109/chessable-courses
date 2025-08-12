@@ -1,0 +1,1700 @@
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5k1/Pp2p1p1/1P2Pp2/5P1K/5P2/8 w - - 12 48"]
+[LichessURL "https://lichess.org/FXkRUfvQ/black#94"]
+[PuzzleId "vds58"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+48. Kg4 Kf6 49. Kh5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/pPp1k1p1/P1P2pP1/3P1P2/3K4/8 b - - 1 39"]
+[LichessURL "https://lichess.org/kC18IC5o#77"]
+[PuzzleId "fLH5m"]
+[Themes "advantage endgame pawnEndgame short zugzwang"]
+
+39... Kd4 40. Kc2 Ke3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/5k2/pPp3p1/P1P2Pp1/5K2/8 w - - 0 46"]
+[LichessURL "https://lichess.org/5jOGDcOU/black#90"]
+[PuzzleId "rflh3"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+46. Kxg3 gxf3 47. Kxf3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k1p1/1p1p2Pp/1P1P3P/5K2/8/8 b - - 6 67"]
+[LichessURL "https://lichess.org/aQBIXVdz#133"]
+[PuzzleId "zLO0T"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+67... Kf5 68. Kg3 Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1k6/p2p2p1/pP1Pp1Pp/1K2P2P/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/fE2q0oW5/black#86"]
+[PuzzleId "3JJpa"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+44. Kxa4 axb4 45. Kxb4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1k1/3pP2p/3P3P/5K2/8/8 b - - 8 49"]
+[LichessURL "https://lichess.org/3l53MH4X#97"]
+[PuzzleId "fnnv6"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+49... Kf5 50. Ke3 Kg4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/4p3/4P1Kp/8/8/8/8 w - - 1 50"]
+[LichessURL "https://lichess.org/45udRw5n/black#98"]
+[PuzzleId "yGOYs"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+
+50. Kxh5 Kg7 51. Kg5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4kp2/3p1N2/3P1P2/5K2/8/8 b - - 0 55"]
+[LichessURL "https://lichess.org/Nf6jYhU2#109"]
+[PuzzleId "GegfI"]
+[Themes "crushing endgame short zugzwang"]
+
+55... Kxf5 56. Ke3 Kg4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2k2p1/Pp3p1p/1P3P1P/2K2P2/8/8 w - - 4 49"]
+[LichessURL "https://lichess.org/M1dqgU2c/black#96"]
+[PuzzleId "GjGv4"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+49. Kd4 Kc6 50. Ke5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/5p2/5Pk1/6Pp/7P/2r2RK1/8 b - - 17 47"]
+[LichessURL "https://lichess.org/PJcRQA7V#93"]
+[PuzzleId "mwWBF"]
+[Themes "crushing endgame master rookEndgame short zugzwang"]
+
+47... Rxf2+ 48. Kxf2 Kf4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/7p/6rR/6PK/8/8 w - - 9 70"]
+[LichessURL "https://lichess.org/wex4GbyJ/black#138"]
+[PuzzleId "Ib11N"]
+[Themes "crushing endgame rookEndgame short zugzwang"]
+
+70. Rxg4+ hxg4+ 71. Kxg4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/1p3p2/pP3P2/P2K4/8/8/8 b - - 6 50"]
+[LichessURL "https://lichess.org/dsP2zZCA#99"]
+[PuzzleId "l45l1"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+50... Kd6 51. Ke4 Kc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p2k1/3P1pPp/7P/5K2/8/8 w - - 1 58"]
+[LichessURL "https://lichess.org/Xc4rHSfM/black#114"]
+[PuzzleId "AozTu"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+58. Kf4 Kg7 59. Kxf5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2k4p/1p3p1P/1P3P2/3K4/8 b - - 4 62"]
+[LichessURL "https://lichess.org/epQyWpaB#123"]
+[PuzzleId "aJWsz"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+62... Kd4 63. Ke2 Kc3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/4p3/2p3p1/2P1K1P1/8/8/8 w - - 6 45"]
+[LichessURL "https://lichess.org/Fyrb6927/black#88"]
+[PuzzleId "PiTMb"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+45. Ke5 Kf7 46. Kd6 Kf6 47. Kxc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1p1/3kP1P1/p1p1p1K1/P1P1P3/1P6/8 b - - 6 66"]
+[LichessURL "https://lichess.org/XUTeHk8Y#131"]
+[PuzzleId "7Tjvx"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+66... Kxe5 67. Kg3 Kf5 68. Kh3 Kxg5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/1p2p1p1/1P3p1p/1P1K1P1P/5P2/8/8 w - - 1 44"]
+[LichessURL "https://lichess.org/9jFkG8hi/black#86"]
+[PuzzleId "ZfuvE"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+44. Ke5 Kd7 45. Kf6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/4k1p1/6Pp/5P1P/5K2/8/8 b - - 1 48"]
+[LichessURL "https://lichess.org/6I6B57El#95"]
+[PuzzleId "jg7Og"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+48... Kf5 49. Ke3 Kg4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/2p3p1/2P2pP1/3K1P2/8/8/8 w - - 2 62"]
+[LichessURL "https://lichess.org/VFKb4yIh/black#122"]
+[PuzzleId "ud7OP"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+62. Ke5 Kf7 63. Kd6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/k5Pp/1Pp2p1P/1P3P2/2K5/8/8 b - - 0 46"]
+[LichessURL "https://lichess.org/J6DyciKb#91"]
+[PuzzleId "nrPWR"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+46... Kxb5 47. bxc5 Kxc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1k1/4P1Pp/8/7K/8/8 w - - 7 70"]
+[LichessURL "https://lichess.org/l6FpNgLO/black#138"]
+[PuzzleId "toRrp"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+70. Kh4 Kh7 71. Kxh5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/3p2p1/Pp1P2P1/1K6/8/8/8 b - - 1 60"]
+[LichessURL "https://lichess.org/CVtIzNIY#119"]
+[PuzzleId "eDPMf"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+60... Ka6 61. Kb3 Kxa5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/p1p1p1P1/P1p3K1/3P4/8/8 w - - 0 43"]
+[LichessURL "https://lichess.org/vVrjSHz7/black#84"]
+[PuzzleId "fC8Rk"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+43. dxc4 e4 44. Kf4 e3 45. Kxe3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p2k3/1P3p2/1K2pPp1/4P1P1/8/8 b - - 4 56"]
+[LichessURL "https://lichess.org/1LduhhyY#111"]
+[PuzzleId "0bzbM"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+56... Kd5 57. Kc3 Kc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k2p1/1p3p2/1P2pP1p/2K1P2P/4P3/8/8 w - - 7 36"]
+[LichessURL "https://lichess.org/IdGgCf0i/black#70"]
+[PuzzleId "48mXx"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+36. Kd5 Kc7 37. Ke6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K1p1/6P1/6kP/8/8/8 b - - 11 60"]
+[LichessURL "https://lichess.org/6iwZJqSd#119"]
+[PuzzleId "3XMZC"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+60... Kxh4 61. Kf6 Kh5 62. Kf7 Kxg5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/p7/Pp2K3/1P6/8/8/8 w - - 5 69"]
+[LichessURL "https://lichess.org/oS2bDgSs/black#136"]
+[PuzzleId "Mx7kj"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+69. Kd5 Kc7 70. Kc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/3k2Pp/7P/4K3/8 b - - 7 52"]
+[LichessURL "https://lichess.org/0xaBVjtX#103"]
+[PuzzleId "EW4A9"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+52... Ke4 53. Kf2 Kf4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1k6/1P1p1p1p/1K3p1P/4P3/8/8 w - - 0 49"]
+[LichessURL "https://lichess.org/oaM5cs1X/black#96"]
+[PuzzleId "ByfSg"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+49. exf4 d4 50. Kc4 d3 51. Kxd3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/2P1k1p1/p2p2P1/P2P1K2/8/8 b - - 5 45"]
+[LichessURL "https://lichess.org/DbsCQJhn#89"]
+[PuzzleId "FjDzK"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+45... Kd5 46. Kf2 Kxc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/kp4p1/P3p1P1/K3Pp1p/5P1P/8 w - - 0 45"]
+[LichessURL "https://lichess.org/oJ7f7HHK/black#88"]
+[PuzzleId "YjmWE"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+45. axb5 Kxb5 46. Kb3 Kc5 47. Kc3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K3/1p6/1Pk5/P7/8/8 b - - 6 56"]
+[LichessURL "https://lichess.org/LlSzFqbC#111"]
+[PuzzleId "lZnDH"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+56... Kb3 57. Kd6 Kxa3 58. Kc5 Ka4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/3p4/p1pP4/2P5/1K6/8/8 w - - 3 61"]
+[LichessURL "https://lichess.org/8uAoIuPT/black#120"]
+[PuzzleId "kcA98"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+61. Ka4 Kc7 62. Kxa5 Kb7 63. Kb5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2Kp4/3P4/5k2/8/8 b - - 3 52"]
+[LichessURL "https://lichess.org/VMZ5qSrX#103"]
+[PuzzleId "ogUet"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+52... Ke4 53. Kd6 Kxd4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3P4/2k5/4p2p/1p2P2p/1p5P/K7/8 w - - 0 50"]
+[LichessURL "https://lichess.org/xZ7q4ZLL/black#98"]
+[PuzzleId "LOOLS"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+50. Kxb3 Kxd7 51. Kxb4 Kc6 52. Kc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/3k1p1p/1p3P1P/1P2P1P1/4K3/8 b - - 4 45"]
+[LichessURL "https://lichess.org/0Cv9cdjJ#89"]
+[PuzzleId "rUS4g"]
+[Themes "advantage endgame pawnEndgame short zugzwang"]
+
+45... Ke4 46. Kf2 Kd3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp6/3k4/2pP4/K1P5/3P4/8/8 w - - 4 53"]
+[LichessURL "https://lichess.org/UKlwMZJb/black#104"]
+[PuzzleId "etpvC"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+53. Kb5 Kc7 54. Kxc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k5/5p1p/1pP1p1pP/1K2P1P1/5P2/8 b - - 3 47"]
+[LichessURL "https://lichess.org/qS4J3deZ#93"]
+[PuzzleId "TaFn3"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+47... Kc5 48. Kc2 Kxc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2K5/4p3/4Pk2/8/8/8 w - - 5 71"]
+[LichessURL "https://lichess.org/DYjGjfkD/black#140"]
+[PuzzleId "Fx0zM"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+71. Kd5 Kf3 72. Kxe5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p2N4/2pK4/1kP5/8/8 b - - 3 63"]
+[LichessURL "https://lichess.org/3Nl3SlI8#125"]
+[PuzzleId "3hera"]
+[Themes "advancedPawn crushing endgame knightEndgame long master quietMove zugzwang"]
+
+63... a4 64. Nb6 a3 65. Nxc4 a2 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p4p2/1p2kPK1/1P6/P7/8 w - - 0 44"]
+[LichessURL "https://lichess.org/YytpvwmO/black#86"]
+[PuzzleId "BB7L3"]
+[Themes "crushing defensiveMove endgame master pawnEndgame short zugzwang"]
+
+44. Kg5 Ke3 45. Kxf5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1k1p4/2P1p2p/1K2P2P/4P3/8/8 b - - 0 51"]
+[LichessURL "https://lichess.org/xBfETKRM#101"]
+[PuzzleId "RCfnQ"]
+[Themes "crushing defensiveMove endgame master pawnEndgame short zugzwang"]
+
+51... dxc5+ 52. Kc4 Kc6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/1pK5/1P6/4k3/8/8 w - - 3 49"]
+[LichessURL "https://lichess.org/9iPR0D65/black#96"]
+[PuzzleId "LQ23A"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+49. Kb6 Kd3 50. Kxa6 Kc4 51. Ka5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pK/6P1/5k2/8/8/8/8 b - - 0 59"]
+[LichessURL "https://lichess.org/kjjrrU6o#117"]
+[PuzzleId "RjVoi"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+59... Kf6 60. Kg8 Kxg6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p1k3p/1P4pP/2K2pP1/5P2/8/8 w - - 1 44"]
+[LichessURL "https://lichess.org/9CNCl6Aa/black#86"]
+[PuzzleId "2Lwxl"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+44. Kd4 Ke6 45. Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p2p3/pP3k2/P4P2/4K3/8 b - - 0 54"]
+[LichessURL "https://lichess.org/cOy2PpsC#107"]
+[PuzzleId "Vzggd"]
+[Themes "crushing endgame pawnEndgame veryLong zugzwang"]
+
+54... e4 55. fxe4 Kxe4 56. Kd2 Kd4 57. Kc2 Kc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k5/p3p1p1/PpK1P1p1/1P5P/8/8 w - - 0 36"]
+[LichessURL "https://lichess.org/O8enQSoP/black#70"]
+[PuzzleId "KwNct"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+36. hxg4 Kb6 37. Kd5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/p1p3p1/2Pk1pP1/P2P1P2/3K4/8 b - - 0 68"]
+[LichessURL "https://lichess.org/53h6UiEI#135"]
+[PuzzleId "k82iq"]
+[Themes "crushing endgame master pawnEndgame quietMove short zugzwang"]
+
+68... a4 69. Kc2 Ke3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/2k1p1pP/1p2P1P1/ppP5/P1K5/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/e5Bbzide/black#86"]
+[PuzzleId "YBA6A"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+44. Kxb4 bxc4 45. Kxc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5p1/P2k2P1/1P1B1K2/8/8 b - - 0 50"]
+[LichessURL "https://lichess.org/alqIOrYl#99"]
+[PuzzleId "1IGWC"]
+[Themes "crushing endgame hangingPiece long zugzwang"]
+
+50... Kxd3 51. Kf2 Kc3 52. Ke3 Kxb3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5p2/2k2P1P/2p1K3/2p5/1P6/8 w - - 0 41"]
+[LichessURL "https://lichess.org/6nht8XNm/black#80"]
+[PuzzleId "hI2R2"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+41. bxc3 Kc6 42. Kd4 Kd6 43. Kxc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4kp2/3R2p1/6P1/8/5K2 b - - 0 63"]
+[LichessURL "https://lichess.org/cgxaMQsd#125"]
+[PuzzleId "Zhapa"]
+[Themes "crushing defensiveMove endgame short zugzwang"]
+
+63... Kxd4 64. Ke2 Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4r3/4kBp1/6P1/3K4/8/8/8 w - - 4 48"]
+[LichessURL "https://lichess.org/bD5uL3M2/black#94"]
+[PuzzleId "gL2NC"]
+[Themes "crushing defensiveMove endgame short zugzwang"]
+
+48. Bxe7 Kxe7 49. Ke5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/7k/6Rp/7P/5PK1/8/7r b - - 0 44"]
+[LichessURL "https://lichess.org/ImRzFfeh#87"]
+[PuzzleId "80JLV"]
+[Themes "crushing endgame long rookEndgame zugzwang"]
+
+44... Rg1+ 45. Kf4 Rxg5 46. hxg5+ Kg6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/1pk1p1p1/p2rP2p/P1KR1P1P/1P4P1/8/8 w - - 0 33"]
+[LichessURL "https://lichess.org/QQuufS9z/black#64"]
+[PuzzleId "kNqzF"]
+[Themes "crushing endgame long rookEndgame zugzwang"]
+
+33. Rxd5 exd5+ 34. Kd4 Kc7 35. Kxd5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/1p1k4/pP3p1p/P1P2P1P/2K5/8/8 b - - 1 40"]
+[LichessURL "https://lichess.org/9Msd5cHI#79"]
+[PuzzleId "OylXo"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+40... Kc5 41. Kd3 Kb4 42. Kd4 Kxa4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p1p/2p2Pp1/6P1/1kP4P/3K4/8 w - - 4 67"]
+[LichessURL "https://lichess.org/VRuMr0pP/black#132"]
+[PuzzleId "AvOA7"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+67. Kd3 c4+ 68. Kd4 Kc2 69. Kxc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/3p2k1/P2P1p2/2P2K2/8/8/8 b - - 0 49"]
+[LichessURL "https://lichess.org/nhIiILk8#97"]
+[PuzzleId "MW8M6"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+49... Kf6 50. Ke3 Ke5 51. Kd3 f4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/p1p5/P7/1P1K4/8/8/8 w - - 5 73"]
+[LichessURL "https://lichess.org/eL4ynTIT/black#144"]
+[PuzzleId "E82lO"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+73. Kc5 Kd7 74. Kb6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/Kpk1p3/1P2Pp1p/5P1P/6P1/8 b - - 0 45"]
+[LichessURL "https://lichess.org/0ZZR7AYm#89"]
+[PuzzleId "n5RkA"]
+[Themes "crushing defensiveMove endgame master pawnEndgame short zugzwang"]
+
+45... Kc4 46. Kb6 Kxb4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p1p2p1/1P1P4/6Pk/5K2/8 w - - 4 55"]
+[LichessURL "https://lichess.org/DIHlWmvz/black#108"]
+[PuzzleId "D6MeG"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+55. Kf3 g4+ 56. Kf4 Kh2 57. Kxg4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k2p1p/1p2pPp1/1P4P1/3K1P1P/8/8 b - - 10 44"]
+[LichessURL "https://lichess.org/RJGVukve#87"]
+[PuzzleId "Ieubq"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+44... Kd5 45. Kc3 e4 46. fxe4+ Kxe4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4kpp1/p1p4p/P1P1KP1P/5P2/8/8 w - - 0 37"]
+[LichessURL "https://lichess.org/oXZSRWsL/black#72"]
+[PuzzleId "bpJfz"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+37. f5+ gxf5+ 38. Kf4 Ke7 39. Kxf5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/1p1k2p1/pPp1p1P1/P1P1K2P/2P5/8/8 b - - 0 38"]
+[LichessURL "https://lichess.org/i578OIEw#75"]
+[PuzzleId "TJxkk"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+38... Ke6 39. Ke3 Kf5 40. Kf3 e4+ *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k1ppp/p3p3/P1PK1PPP/8/8/8 w - - 0 40"]
+[LichessURL "https://lichess.org/Gp6izIDB/black#78"]
+[PuzzleId "q5uId"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+40. fxe5+ fxe5+ 41. Ke4 Ke6 42. c5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2k2p1/1p3p2/1P1P1P2/P2K4/8/8 b - - 1 40"]
+[LichessURL "https://lichess.org/5ec5AxCT#79"]
+[PuzzleId "3t05c"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+40... Kd5 41. Ke3 Kc4 42. d5 Kxd5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/1p1k4/pP3p2/P1PK1P2/8/8 w - - 0 36"]
+[LichessURL "https://lichess.org/GYoRjjfj/black#70"]
+[PuzzleId "cBx4O"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+36. c4+ bxc4+ 37. Kc3 c5 38. b5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3p4/1K1P4/8/4k3/8 b - - 2 59"]
+[LichessURL "https://lichess.org/1W0ffvWI#117"]
+[PuzzleId "fVhlR"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+59... Kd3 60. Kc5 Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/3p1k2/3P3P/5KP1/8/8/8 w - - 1 42"]
+[LichessURL "https://lichess.org/kWBjRdMa/black#82"]
+[PuzzleId "KTH8I"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+
+42. g5+ Ke7 43. Kf5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/8/p5p1/P3K1P1/6kP/1P6/8 b - - 4 51"]
+[LichessURL "https://lichess.org/9oADDEYS#101"]
+[PuzzleId "9TOik"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+51... Kxh3 52. Kf5 Kh4 53. b3 b6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/1p1p1k2/p2P1P1p/P4KpP/2P3P1/8/8 w - - 0 35"]
+[LichessURL "https://lichess.org/9Coypn2G/black#68"]
+[PuzzleId "BjU2e"]
+[Themes "crushing endgame long pawnEndgame quietMove zugzwang"]
+
+35. c4 Kg7 36. Kg5 f6+ 37. Kxh5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/7p/2p1P1p1/2P1Kp2/1pP2P1P/8/2P5/8 b - - 2 41"]
+[LichessURL "https://lichess.org/d3NSiIu7#81"]
+[PuzzleId "gBgbG"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+41... Ke7 42. h5 gxh5 43. Kxf5 h4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/6p1/3nK1P1/5P2/8/8 w - - 0 63"]
+[LichessURL "https://lichess.org/kityloy3/black#124"]
+[PuzzleId "YLhos"]
+[Themes "crushing defensiveMove endgame short zugzwang"]
+
+63. Kxd4 Ke6 64. Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k1p1/6p1/2p1P1P1/2PpK2P/8/8 b - - 1 45"]
+[LichessURL "https://lichess.org/k1O95isB#89"]
+[PuzzleId "iGuKA"]
+[Themes "advancedPawn crushing endgame long pawnEndgame zugzwang"]
+
+45... Ke5 46. Kf3 d2 47. Ke2 Kxe4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7k/4p2p/1p2P3/1P4PK/8/8 w - - 12 43"]
+[LichessURL "https://lichess.org/eJVwTgDk/black#84"]
+[PuzzleId "40asr"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+43. Kh4 Kg6 44. g4 hxg4 45. Kxg4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3kp1p1/1p4P1/p1pP1K2/P1P5/1P6/8 b - - 1 53"]
+[LichessURL "https://lichess.org/u6QXNJMw#105"]
+[PuzzleId "PatG4"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+53... Kd5 54. Ke3 e5 55. dxe5 Kxe5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/2Pk1p2/3Pr3/4RK2/8/8 w - - 3 43"]
+[LichessURL "https://lichess.org/Cnbui4lW/black#84"]
+[PuzzleId "Pl4Nd"]
+[Themes "crushing endgame long rookEndgame zugzwang"]
+
+43. Rxe4 fxe4+ 44. Ke3 Ke6 45. Kxe4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/kp2p1p1/3pPp1p/P2P1P1P/K5P1/8/8 b - - 3 41"]
+[LichessURL "https://lichess.org/LRLsATyb#81"]
+[PuzzleId "IAzyc"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+41... Ka5 42. Kb3 b5 43. axb5 Kxb5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1p1/p1p2p2/1pP3pP/1P1K2P1/P4P2/8/8 w - - 2 46"]
+[LichessURL "https://lichess.org/5cXWg6AT/black#90"]
+[PuzzleId "QDsxX"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+46. Ke4 Ke6 47. f4 gxf4 48. Kxf4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/4p1p1/p1P3P1/PpK2P1p/7P/8/8 b - - 2 38"]
+[LichessURL "https://lichess.org/7RKVe2bp#75"]
+[PuzzleId "gLSDz"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+38... Kc6 39. Kd4 b3 40. Kc3 Kxc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p1R/p6p/1p3rkP/1P2K3/P7/8 w - - 0 43"]
+[LichessURL "https://lichess.org/W8rh1irN/black#84"]
+[PuzzleId "LPWHr"]
+[Themes "crushing deflection endgame long rookEndgame zugzwang"]
+
+43. Rg6+ Kf5 44. Rxf6+ Kxf6 45. Kxf4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/2p1p3/1p1pPk2/pP1P2pP/P1P3P1/5K2/8 b - - 1 30"]
+[LichessURL "https://lichess.org/Qg66MQKy#59"]
+[PuzzleId "ix0wm"]
+[Themes "crushing endgame long pawnEndgame quietMove zugzwang"]
+
+30... Ke4 31. Ke2 h5 32. Kd2 Kf3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/Kp6/1P1r4/3k4/8/2R5 w - - 14 67"]
+[LichessURL "https://lichess.org/beqYXv1e/black#132"]
+[PuzzleId "mRCh9"]
+[Themes "crushing endgame rookEndgame veryLong zugzwang"]
+
+67. Rd1+ Kc4 68. Rxd4+ Kxd4 69. Kxa6 Kc4 70. Ka5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/7k/p4P1p/P4K2/6P1/8/8 b - - 3 46"]
+[LichessURL "https://lichess.org/3cAT71Js#91"]
+[PuzzleId "Hmy4u"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short zugzwang"]
+
+46... f6 47. g4 h4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/pb5p/P2k1p2/1K6/5P2/5P1P/8 w - - 0 33"]
+[LichessURL "https://lichess.org/Mm9iN0Wo/black#64"]
+[PuzzleId "5zDGN"]
+[Themes "crushing defensiveMove endgame long zugzwang"]
+
+33. axb6 Kc6 34. Ka5 Kb7 35. f4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k1p1/7p/5P1P/5K2/8/8 b - - 3 47"]
+[LichessURL "https://lichess.org/RO8YNAga#93"]
+[PuzzleId "xShmG"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+47... Kf5 48. Kg3 Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/4k3/3p2P1/3P1K2/8/8/8 w - - 1 44"]
+[LichessURL "https://lichess.org/gdnEWWEM/black#86"]
+[PuzzleId "XOFlx"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+44. Kg4 f6 45. g6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p3/3k1p1p/4PK1P/5P2/8/8 b - - 0 54"]
+[LichessURL "https://lichess.org/aVCdgLX9#107"]
+[PuzzleId "ArgcZ"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+54... fxe4 55. fxe4+ Kd4 56. e5 Kd5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/5p1p/7P/5KP1/8/8/8 w - - 4 66"]
+[LichessURL "https://lichess.org/srSd1Coe/black#130"]
+[PuzzleId "mTLvj"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+66. Kf5 Kg7 67. Ke6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3p4/2pK4/1kP5/1P2Q3/7q b - - 9 53"]
+[LichessURL "https://lichess.org/F1o70ZxA#105"]
+[PuzzleId "9XfzA"]
+[Themes "crushing endgame queenEndgame veryLong zugzwang"]
+
+53... Qe4+ 54. Qxe4 dxe4 55. Kxe4 Kxb2 56. Kd4 Kb3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2pk2p1/p3p1Pp/p3P2P/1P1K4/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/FeZND9tV/black#86"]
+[PuzzleId "0emZl"]
+[Themes "defensiveMove endgame equality pawnEndgame short zugzwang"]
+
+44. bxa4 Kc5 45. Kc3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2kpp1p1/1p2PpP1/pP1P1P1p/P2K3P/8/8 b - - 4 47"]
+[LichessURL "https://lichess.org/krmHYaLH#93"]
+[PuzzleId "Kl7oN"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+47... dxe5 48. dxe5 Kd5 49. Ke3 Kc4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kp1/1p6/1P2K1RP/8/8/8/5r2 w - - 7 45"]
+[LichessURL "https://lichess.org/f9kaOE97/black#88"]
+[PuzzleId "YYrvS"]
+[Themes "crushing defensiveMove endgame long rookEndgame zugzwang"]
+
+45. Rf5+ Rxf5+ 46. Kxf5 Ke7 47. Ke5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p3p1/k1p2pP1/2Pp1P2/1P1P4/1K6/8 b - - 10 47"]
+[LichessURL "https://lichess.org/5LGRwMvH#93"]
+[PuzzleId "oEmZ9"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+47... Kb4 48. Ka2 Kc3 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3p2/1P1k1Pp1/K1p1p1Pp/2PpP2P/3P4/8/8 w - - 5 48"]
+[LichessURL "https://lichess.org/ApisThsa/black#94"]
+[PuzzleId "LtgEt"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+48. Kb5 Kd7 49. Kxc5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/1p1r1p2/1P3P2/3RK3/8/8/8 b - - 2 45"]
+[LichessURL "https://lichess.org/rjTI3ASg#89"]
+[PuzzleId "PglNQ"]
+[Themes "crushing endgame long rookEndgame zugzwang"]
+
+45... Rxd4+ 46. Kxd4 Kd6 47. Kc4 Ke5 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/5p1p/6pP/4K1P1/6P1/8/8 w - - 3 52"]
+[LichessURL "https://lichess.org/pt69d0RG/black#102"]
+[PuzzleId "IVk0x"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+52. Kf5 Ke7 53. Kg6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/2p1k2p/2P2p1P/1P3Pp1/3K2P1/8/8 b - - 0 43"]
+[LichessURL "https://lichess.org/oVksgUUg#85"]
+[PuzzleId "UZY22"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+43... Kd5 44. Kc3 Ke4 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/3p3p/3P3P/5K2/8/8/8 w - - 1 59"]
+[LichessURL "https://lichess.org/CUQNGbjF/black#116"]
+[PuzzleId "IZ48h"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+59. Kf5 Ke7 60. Kg6 *
+
+
+
+[Event "Zugzwang"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k2p2/1p3p1p/1P3P1P/3K2P1/8/8 b - - 6 44"]
+[LichessURL "https://lichess.org/1SC6smMG#87"]
+[PuzzleId "N2Esq"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+44... Kd5 45. Kc3 Ke4 *
+
+
+

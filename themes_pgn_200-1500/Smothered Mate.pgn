@@ -1,0 +1,1700 @@
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
+[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
+[PuzzleId "5sWvq"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+34. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
+[LichessURL "https://lichess.org/ng2ueKxW#41"]
+[PuzzleId "N0S5f"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+
+21... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pb1pnp1p/1pn1p1p1/2p1P3/4NP2/3P1N2/PPP3PP/R1BQKB1R w KQkq - 1 8"]
+[LichessURL "https://lichess.org/HLTnd2Nu/black#14"]
+[PuzzleId "Ce9yv"]
+[Themes "master mate mateIn1 oneMove opening smotheredMate"]
+
+8. Nd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2k5/B2pP2p/3P2p1/b2n4/P4PPP/1R4NK b - - 0 32"]
+[LichessURL "https://lichess.org/Suwj1uz0#63"]
+[PuzzleId "qT0qy"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+32... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/q2p1pbp/p2N4/1pr1P3/4R3/5PBP/PP3P2/4R1K1 w - - 7 28"]
+[LichessURL "https://lichess.org/rOsQvgvL/black#54"]
+[PuzzleId "2eF9I"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+28. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p2r2k1/1p5p/4pppP/8/3n1P2/6PQ/1R4NK b - - 0 37"]
+[LichessURL "https://lichess.org/JznEtHRk#73"]
+[PuzzleId "ojsIc"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+37... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/6bp/1q1p4/p1pP1pN1/P1P1p3/7P/1P3PP1/4R2K w - - 0 33"]
+[LichessURL "https://lichess.org/HWdfs0is/black#64"]
+[PuzzleId "MrTWO"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+33. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/p5pp/2b2p2/2p2P2/4P3/2Pn4/P2N2BP/R5RK b - - 1 26"]
+[LichessURL "https://lichess.org/VtdZCPDu#51"]
+[PuzzleId "8tf8N"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+26... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p4qpp/1p4p1/6Nn/P2P4/2P5/1P1K1P2/8 w - - 0 40"]
+[LichessURL "https://lichess.org/OJpv8ZLD/black#78"]
+[PuzzleId "DQ0Gg"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove smotheredMate"]
+
+40. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/5ppp/p1n1b3/1p1p4/6n1/1PN5/PBQNB1PP/3R2RK b - - 0 18"]
+[LichessURL "https://lichess.org/28DmwX1z#35"]
+[PuzzleId "hY5dg"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1rk/5ppp/p2p4/1pp3N1/7P/P2q4/1P3PP1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/6h57DMKa/black#56"]
+[PuzzleId "YgcF6"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+29. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/ppp2pp1/3p3p/3P1P2/Q1B3n1/N1P5/PP4PP/4R1RK b - - 0 19"]
+[LichessURL "https://lichess.org/b23afalM#37"]
+[PuzzleId "wLGMx"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+19... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3rk/1p1p1qpp/p2N4/2P1p3/8/8/PP3PPP/R3K2R w KQ - 0 25"]
+[LichessURL "https://lichess.org/xqYrXmNR/black#48"]
+[PuzzleId "r4SCM"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+25. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/4ppbp/6p1/1B2P3/P1N3n1/1R6/1P3QPP/2B3RK b - - 0 28"]
+[LichessURL "https://lichess.org/OTfaCX7v#55"]
+[PuzzleId "M0gq1"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+28... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/1pp2ppp/pb6/4P1N1/P7/3bpPQP/1PP3R1/R6K w - - 0 23"]
+[LichessURL "https://lichess.org/wbOpWjBX/black#44"]
+[PuzzleId "OrniL"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove smotheredMate"]
+
+23. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1qbb1p1/2np4/1pp1p1N1/4P1n1/2PP4/PP3PBN/R1BQ2RK b - - 3 19"]
+[LichessURL "https://lichess.org/d0K26y3A#37"]
+[PuzzleId "L8Cvg"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+19... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1nk/p1p2pbp/1p1p2p1/3Pp1N1/2P1P3/1PNQ4/P4PPP/R1B2RK1 w - - 3 14"]
+[LichessURL "https://lichess.org/bGuLkx7R/black#26"]
+[PuzzleId "V7lhK"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+14. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1pq4p/p2p2p1/5p2/2PQp3/1P1nP1P1/P4PBP/3R2RK b - - 3 25"]
+[LichessURL "https://lichess.org/QbHaqwzr#49"]
+[PuzzleId "eooEZ"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+25... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq2rk/1p2bppn/p2p1n2/3Pp1Np/1P2P3/PQ1BB2P/4NPP1/5RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/KzdImipW/black#36"]
+[PuzzleId "Q8U5I"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+19. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp2ppp/8/8/6n1/1BP5/PP3QPP/RNB3RK b - - 0 17"]
+[LichessURL "https://lichess.org/ecSxDSOy#33"]
+[PuzzleId "ttqKQ"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+17... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/6pp/3N4/p6r/P3p2P/1P2PpP1/5P2/3R3K w - - 0 34"]
+[LichessURL "https://lichess.org/pKFMd2eV/black#66"]
+[PuzzleId "FYHgd"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+34. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3pp1/3p1n1p/8/2B1PPn1/2N2N2/PPP3PP/R2Q2RK b - - 0 15"]
+[LichessURL "https://lichess.org/2edgGYrE#29"]
+[PuzzleId "vpm2d"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+15... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/pp1qp1bp/2np4/6Np/2p2P1P/2Pb4/PP3QPN/R1B1K2R w KQ - 2 20"]
+[LichessURL "https://lichess.org/3lrsyZ6s/black#38"]
+[PuzzleId "LPY6v"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+20. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1nbppp/2p1p3/2Pp1b2/3Pn3/2N1PN2/PP2BPPP/R1BQ2RK b - - 6 10"]
+[LichessURL "https://lichess.org/brun4LEZ#19"]
+[PuzzleId "zRHha"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening smotheredMate"]
+
+10... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/6pp/3N4/p1P1p3/1p6/1P2B2P/P3KPq1/8 w - - 0 33"]
+[LichessURL "https://lichess.org/lYxJ6QO6/black#64"]
+[PuzzleId "mF2xK"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+33. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/pppp1pp1/7p/2P5/2B1P1n1/8/PP4PP/RNBQ2RK b kq - 0 12"]
+[LichessURL "https://lichess.org/Fjdo5yVL#23"]
+[PuzzleId "KMlgF"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+12... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/1p1pnpp1/p1n1p2p/8/2N1P3/2PB1NB1/PP3PPP/R2Q1RK1 w kq - 4 12"]
+[LichessURL "https://lichess.org/EHqgLVdm/black#22"]
+[PuzzleId "NtTtb"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+12. Nd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k3r1/1pp2r2/8/p2pPp2/P7/1PPn3P/5PPB/1R4RK b - - 4 39"]
+[LichessURL "https://lichess.org/ebv6tgg3#77"]
+[PuzzleId "o8VmL"]
+[Themes "endgame kingsideAttack mate mateIn1 oneMove smotheredMate"]
+
+39... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnq1r1nk/3b1ppp/2pb4/pp1pN3/3P1PP1/P1N4P/1PPB2B1/R2Q1RK1 w - - 3 18"]
+[LichessURL "https://lichess.org/R4peYyll/black#34"]
+[PuzzleId "iQheb"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening smotheredMate"]
+
+18. Nxf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1B2k/1p4bp/p5p1/6N1/5Nnn/P1P5/1P4PP/R2Q2RK b - - 0 21"]
+[LichessURL "https://lichess.org/r9Ht9jjj#41"]
+[PuzzleId "vT8Jx"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+21... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp1pnppp/5n2/2pP4/2N5/5P2/PPP3PP/RNBQKB1R w KQkq - 1 8"]
+[LichessURL "https://lichess.org/V7nQk8v5/black#14"]
+[PuzzleId "B9eTY"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+8. Nd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1pp4p/3p2np/p2Pp1bN/2P1N3/n4PQ1/PP4P1/KR6 b - - 0 36"]
+[LichessURL "https://lichess.org/Ji5gaeYn#71"]
+[PuzzleId "gjsj3"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+36... Nc2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp1pnp1p/2n1p1p1/2p1P3/4N3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 0 6"]
+[LichessURL "https://lichess.org/Ct24qVYB/black#10"]
+[PuzzleId "xoEpY"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+6. Nf6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pppq4/3p2pQ/3p1b2/3Pn3/2P2N2/PP3PPP/R3R1NK b - - 0 19"]
+[LichessURL "https://lichess.org/0NWRoegT#37"]
+[PuzzleId "rATAH"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+
+19... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/6bp/1p1Nn1r1/p4p1p/P2Pp1b1/4P1B1/1P1N1PPK/R1R5 w - - 2 33"]
+[LichessURL "https://lichess.org/doaUbIWB/black#64"]
+[PuzzleId "JEIao"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+
+33. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/4b2p/n1p1Q3/1p6/p4P2/P4N1n/1PPN2PP/R5RK b kq - 0 22"]
+[LichessURL "https://lichess.org/kal0MKZf#43"]
+[PuzzleId "0K3fp"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+22... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/ppnnp1bp/2p3pN/8/2PP4/P1N5/1P4PP/R1B2RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/nBkgrZwD/black#36"]
+[PuzzleId "f6cOw"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+19. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp4p1/8/1P1p2NQ/3b1Pn1/P7/4B1PP/6RK b - - 0 40"]
+[LichessURL "https://lichess.org/txCntg7v#79"]
+[PuzzleId "mImiP"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+40... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5nk/p2n2pp/2q4N/8/3P4/8/P4PPK/5R2 w - - 0 27"]
+[LichessURL "https://lichess.org/Cb9KkRpB/black#52"]
+[PuzzleId "Cc1ns"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove smotheredMate"]
+
+27. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2r1k1/1pp2pp1/p2q3p/3p1b2/3PnP2/1QN1PN2/PP3PBP/R5RK b - - 8 15"]
+[LichessURL "https://lichess.org/Sx1qz1q2#29"]
+[PuzzleId "EwhU1"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove smotheredMate"]
+
+15... Nxf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q2rk/pp1bb1pp/8/4p1N1/2B5/8/PP3PPP/R1B1R1K1 w - - 0 17"]
+[LichessURL "https://lichess.org/IhX5oREz/black#32"]
+[PuzzleId "ozJIM"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+17. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/2n2p2/4pP1Q/8/1N1B3n/PBP3PP/6RK b - - 0 24"]
+[LichessURL "https://lichess.org/Zq2ORw28#47"]
+[PuzzleId "5TCm5"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+24... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6nk/6pp/2p4N/8/3qP3/P5P1/1P3P1P/4R1K1 w - - 0 38"]
+[LichessURL "https://lichess.org/I9WpVKYp/black#74"]
+[PuzzleId "VbBXe"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+38. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/1p2p3/p3Q3/2P5/1P5n/P5PP/4R1NK b - - 0 27"]
+[LichessURL "https://lichess.org/2Hgso7AN#53"]
+[PuzzleId "0FrOV"]
+[Themes "endgame master mate mateIn1 oneMove smotheredMate"]
+
+27... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rnnk/1p1bp1bp/1q4p1/1N4N1/2Bp4/2B5/5PPP/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/PtRX2Fqr/black#50"]
+[PuzzleId "WLLhc"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+
+26. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/4Q1bk/p2p2pp/1p1Pp3/2p1P3/2P3Nn/PPBB2PN/R5RK b - - 0 25"]
+[LichessURL "https://lichess.org/XG2hztE2#49"]
+[PuzzleId "cu7h7"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+25... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bkr3/ppqnb2p/3Npp2/3n4/3PNP2/8/PP1B2PP/R3KB1R w KQ - 0 20"]
+[LichessURL "https://lichess.org/3IuFURUH/black#38"]
+[PuzzleId "eHMtq"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+20. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k4n1/1pp5/p7/3p4/8/n1P3Q1/PP2r1P1/KN1R4 b - - 0 29"]
+[LichessURL "https://lichess.org/jfkQG8E4#57"]
+[PuzzleId "XhenP"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+29... Nc2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkb1r/1b1nnppp/pp1p4/1N2p3/4P3/2P4P/PPQNBPP1/R1B2RK1 w k - 0 12"]
+[LichessURL "https://lichess.org/bZ0Fy9wo/black#22"]
+[PuzzleId "a0Bb0"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+12. Nxd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3pbp/6p1/3Q4/8/1BN2P1n/PPP3PP/R1B3RK b - - 0 17"]
+[LichessURL "https://lichess.org/qMNhm2PZ#33"]
+[PuzzleId "AGmL3"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+17... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/1p4bp/6pN/p1B5/2P5/1q5P/5PP1/5RK1 w - - 0 28"]
+[LichessURL "https://lichess.org/qgfMS1Qy/black#54"]
+[PuzzleId "GtGHu"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+28. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3ppp/8/8/1nP1n3/P7/P2NQPPP/3RKB1R b K - 0 14"]
+[LichessURL "https://lichess.org/PBsts6tE#27"]
+[PuzzleId "7IVfv"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+14... Nc2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/3n2bp/4B1p1/pq1pP1N1/3P4/8/P5PP/4B1K1 w - - 0 30"]
+[LichessURL "https://lichess.org/5ZpmAkDQ/black#58"]
+[PuzzleId "TVNH8"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+30. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/5pp1/p2b3p/1pp3N1/3p3P/nP2PQP1/PB1P4/KR5R b - - 0 25"]
+[LichessURL "https://lichess.org/8KX1BK0V#49"]
+[PuzzleId "oRkPY"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+25... Nc2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/1bp3pp/p1p2b1N/8/3P4/2N5/PPP3PP/R1B3K1 w - - 0 18"]
+[LichessURL "https://lichess.org/hvrw74R5/black#34"]
+[PuzzleId "SDMkH"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k3/pp3n2/4p3/3p1p1Q/8/2NP3n/PPP3PP/R5RK b q - 0 24"]
+[LichessURL "https://lichess.org/2h6jNxom#47"]
+[PuzzleId "NMu5b"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+24... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p5pp/5p1N/2p5/8/1P2P2P/P4K2/3r4 w - - 0 33"]
+[LichessURL "https://lichess.org/fQg9I1Ah/black#64"]
+[PuzzleId "ohlfo"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+33. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k2r4/1pQ4p/p7/P7/2P5/3n4/3q2PP/R5RK b - - 5 34"]
+[LichessURL "https://lichess.org/U6gJ017d#67"]
+[PuzzleId "lm3MU"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+34... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2rk/6pp/p6N/4p1q1/1P2P3/P7/2P2RPP/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/MwuKnL1L/black#46"]
+[PuzzleId "MZ1ef"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+24. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p5bp/6p1/8/2Q5/6Nn/PP4PP/6RK b - - 0 33"]
+[LichessURL "https://lichess.org/Tt2g2qQo#65"]
+[PuzzleId "7lRAm"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove smotheredMate"]
+
+33... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3rk/6pp/3N4/8/3b1p1P/6P1/5PK1/2q5 w - - 0 45"]
+[LichessURL "https://lichess.org/JhHu22NF/black#88"]
+[PuzzleId "xE1zY"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+45. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1nBppp/2bpp3/8/8/2NP3n/PPPQB1PP/1R2R1NK b - - 0 15"]
+[LichessURL "https://lichess.org/iTkmS5uq#29"]
+[PuzzleId "KnDnb"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+15... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/1bq1b1pp/2p2n1N/pp1n4/3P4/2PB3P/PP3PP1/R1B1R1K1 w - - 0 21"]
+[LichessURL "https://lichess.org/86WYPDAo/black#40"]
+[PuzzleId "AesC3"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+
+21. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/pp3pbp/2n3p1/4p1N1/N1P1P3/1P5n/P1QB2PP/3R2RK b - - 0 23"]
+[LichessURL "https://lichess.org/OIEPMPf5#45"]
+[PuzzleId "yzDqN"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+23... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p5bp/2p3pN/8/5P2/8/P1P3PP/6K1 w - - 0 39"]
+[LichessURL "https://lichess.org/IdVofcBH/black#76"]
+[PuzzleId "Wl7fT"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+39. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R1r3k1/5ppp/4p3/2Bp4/1Q1P4/7n/6PP/6RK b - - 0 32"]
+[LichessURL "https://lichess.org/4XTSwHcA#63"]
+[PuzzleId "tGGTl"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+32... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp1pnp2/2n4p/2pNp1p1/2B1P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 2 7"]
+[LichessURL "https://lichess.org/dheBYhlY/black#12"]
+[PuzzleId "8xMXf"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+7. Nf6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5ppp/4pb2/1p1p3Q/8/1B3P1n/1PP3PP/6RK b - - 0 25"]
+[LichessURL "https://lichess.org/ZwB5s9rP#49"]
+[PuzzleId "HTTz7"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+25... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3rk/pp1nb1pp/2p4N/q4p2/3P4/3B4/PPP2PPP/R1B1R1K1 w - - 0 17"]
+[LichessURL "https://lichess.org/JgYYxMoU/black#32"]
+[PuzzleId "FacgF"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+17. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3pp/2n5/8/2P5/2P2p1n/P5PP/2RQ2RK b - - 0 22"]
+[LichessURL "https://lichess.org/NB8css55#43"]
+[PuzzleId "pecKw"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+22... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q1qk/p5br/1p1N3p/4P1p1/3p4/8/6PP/3R3K w - - 1 35"]
+[LichessURL "https://lichess.org/rxqewBgP/black#68"]
+[PuzzleId "N6pr0"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+35. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/2p3pp/p1N1pp2/R4P2/Q2P4/PpP4n/1P4PP/6RK b - - 0 37"]
+[LichessURL "https://lichess.org/RZMBPbNO#73"]
+[PuzzleId "og6ZW"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+37... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3rk/pp4bp/3B1npN/q7/4P3/2N5/PP3PPP/3RK2R w K - 0 18"]
+[LichessURL "https://lichess.org/q51zeuuP/black#34"]
+[PuzzleId "H6F5S"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b7/p3k1q1/1p1ppp2/8/2P1PPn1/2PB4/P5PQ/R5RK b - - 0 29"]
+[LichessURL "https://lichess.org/apxGglVd#57"]
+[PuzzleId "VSv2p"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+29... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kr3b1r/pp2pppp/N4n2/8/8/8/PP1q1PPP/2R2RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/kGNC9qcq/black#36"]
+[PuzzleId "z8Xfz"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+19. Nc7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Bk1/pp1Q2pp/4p3/8/2n1p3/7n/PPP3PP/6RK b - - 0 22"]
+[LichessURL "https://lichess.org/ghQnM7Nt#43"]
+[PuzzleId "2LGJH"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+22... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p1qn2bp/6pN/p1p1P3/3P4/4P3/1P4PP/3R1RK1 w - - 0 25"]
+[LichessURL "https://lichess.org/OVh52bRN/black#48"]
+[PuzzleId "FKakH"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+25. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2r2k/7p/p2N2p1/2n2p2/5P2/Q6n/PPP3PP/R1B3RK b - - 0 28"]
+[LichessURL "https://lichess.org/siaURkxa#55"]
+[PuzzleId "QzXz9"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+28... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pp4bp/1q4pN/8/P3P3/8/1n3PPP/1R3RK1 w - - 0 28"]
+[LichessURL "https://lichess.org/OGnFpCtr/black#54"]
+[PuzzleId "I2KC0"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+28. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/2qbbppp/3p1n2/pBn1pN2/Pp2P1P1/4BP2/1PPQ3P/1NKR3R b kq - 3 16"]
+[LichessURL "https://lichess.org/BV6FMAjW#31"]
+[PuzzleId "fuDET"]
+[Themes "mate mateIn1 middlegame oneMove pin smotheredMate"]
+
+16... Nb3# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Qnkr3r/1ppb4/p6p/3pPN2/8/2P1PP2/qPB5/2KR3R w - - 0 28"]
+[LichessURL "https://lichess.org/H5mQOhpn/black#54"]
+[PuzzleId "aqhkW"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+28. Ne7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1r/3pb1pp/p3Pp2/3Q4/5P2/7n/PPr3PP/R1B3RK b - - 0 23"]
+[LichessURL "https://lichess.org/E1cka6la#45"]
+[PuzzleId "I6z3H"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+23... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1bnp1p/6p1/3Np3/Q1B1P3/8/PP3PPP/R1B1K2R w KQkq - 3 12"]
+[LichessURL "https://lichess.org/vACP3dfV/black#22"]
+[PuzzleId "wBYsq"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+12. Nf6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/p4pp1/2p4p/Q1b5/4p3/1B5n/PPPP2PP/RNB3RK b kq - 0 17"]
+[LichessURL "https://lichess.org/Fq5qpqw6#33"]
+[PuzzleId "7HtHT"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+17... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1rk/pR4pp/8/5pNP/3n4/1P1K2P1/P3p3/5R2 w - - 0 31"]
+[LichessURL "https://lichess.org/nb83VY1r/black#60"]
+[PuzzleId "7vVHc"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+31. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/pbpp1pp1/1p6/4p1q1/1nP4p/PPN1P3/1B1PNPPP/R2QKB1R b KQkq - 0 9"]
+[LichessURL "https://lichess.org/UIQFoszj#17"]
+[PuzzleId "hflXL"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+9... Nd3# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb2/pp1nnpp1/2p5/4pPPQ/4N3/8/PP1PN3/R1B1K3 w Qq - 1 16"]
+[LichessURL "https://lichess.org/Wa9rjwHY/black#30"]
+[PuzzleId "DuNjw"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+16. Nd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/p5pp/4pp2/3p4/5B2/2Q4n/PP4PP/R5NK b - - 0 25"]
+[LichessURL "https://lichess.org/zeqzSmPV#49"]
+[PuzzleId "OTbYh"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+25... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/ppp3pp/2nb1p1N/5p2/3P1Pn1/4P1B1/PPPN2PP/R3K2R w KQ - 0 16"]
+[LichessURL "https://lichess.org/EroQzR0H/black#30"]
+[PuzzleId "HE7bb"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+16. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p1N2pp/8/p2p1n1Q/8/P1P4n/1P4PP/6RK b - - 0 39"]
+[LichessURL "https://lichess.org/Qu0ZzdPb#77"]
+[PuzzleId "xZHOu"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+39... Nf2# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/2Q2ppp/4pn2/4NP2/P4P2/8/5KPP/1rq5 w - - 0 28"]
+[LichessURL "https://lichess.org/ypuTZaTG/black#54"]
+[PuzzleId "eVPoC"]
+[Themes "deflection endgame long mate mateIn3 smotheredMate"]
+
+28. Qxf7+ Kh8 29. Qxf8+ Ng8 30. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/pp3pp1/1q1ppnp1/3p4/2nP4/2PBP2P/PPQ2PP1/NKR4R b - - 6 18"]
+[LichessURL "https://lichess.org/YbWUlGNs#35"]
+[PuzzleId "cJi8j"]
+[Themes "mate mateIn1 middlegame oneMove pin smotheredMate"]
+
+18... Na3# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkbnr/1p1bpppp/p7/8/Q1N5/2n5/PP3PPP/R1B1R1K1 w k - 0 13"]
+[LichessURL "https://lichess.org/p0bAYZri/black#24"]
+[PuzzleId "gktJk"]
+[Themes "mate mateIn1 oneMove opening pin smotheredMate"]
+
+13. Nd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1qppp/5n2/2Ppn3/1P6/P4N2/3NPPPP/R2QKB1R b KQkq - 1 10"]
+[LichessURL "https://lichess.org/xWCj7O8L#19"]
+[PuzzleId "Wsign"]
+[Themes "mate mateIn1 oneMove opening pin smotheredMate"]
+
+10... Nd3# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2rk/pb4pp/1p2n2N/3N4/2q1P3/b2n2P1/1B4BP/R4R1K w - - 0 29"]
+[LichessURL "https://lichess.org/NDRiGvS5/black#56"]
+[PuzzleId "rodqI"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+29. Nf7# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/5ppp/pb5q/4N3/3pnP2/8/PP1N2PP/R2Q1RBK b - - 3 19"]
+[LichessURL "https://lichess.org/SudFV1ej#37"]
+[PuzzleId "u9WKW"]
+[Themes "mate mateIn1 middlegame oneMove pin smotheredMate"]
+
+19... Ng3# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkb1r/3bpppp/8/3n4/pp1PN3/5N2/PP2QPPP/R1B1K2R w KQk - 0 15"]
+[LichessURL "https://lichess.org/yJleLc7m/black#28"]
+[PuzzleId "h3HnY"]
+[Themes "mate mateIn1 oneMove opening pin smotheredMate"]
+
+15. Nd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/8/2bP4/3npn2/P4P1P/1P1PNP2/R1BQKB1R b KQ - 0 15"]
+[LichessURL "https://lichess.org/LmYDQ8Pw#29"]
+[PuzzleId "qRFQB"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+15... Nd3# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/1p1bnppp/p2p4/1N1P4/Q7/8/PP3PPP/R1B1KBNR w KQkq - 2 10"]
+[LichessURL "https://lichess.org/Vob3EYki/black#18"]
+[PuzzleId "DJ5QV"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+
+10. Nxd6# *
+
+
+
+[Event "Smothered Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/p2n1pp1/2p1b3/1p2p1Bp/1P6/P1NP1NPn/2Q1P1BP/6RK b - - 0 18"]
+[LichessURL "https://lichess.org/TqszsRoo#35"]
+[PuzzleId "mtfes"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18... Nf2# *
+
+
+

@@ -1,0 +1,1700 @@
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 w - - 2 48"]
+[LichessURL "https://lichess.org/nceY4y01/black#94"]
+[PuzzleId "GNtc9"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48. h5 Ka2 49. h6 Kb1 50. h7 a4 51. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3K4/8/7p/P7/6k1/8/8 w - - 1 59"]
+[LichessURL "https://lichess.org/T3yrMMbC/black#116"]
+[PuzzleId "VLgzD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+59. a5 h4 60. a6 Kf2 61. a7 h3 62. a8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1K6/7p/P5k1/8/8/8 b - - 2 48"]
+[LichessURL "https://lichess.org/cU8Kg62e#95"]
+[PuzzleId "HGQWD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48... h4 49. a5 h3 50. Kc7 h2 51. Kb8 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/1p4K1/7P/2k5/8/8 w - - 1 49"]
+[LichessURL "https://lichess.org/p8ypLh30/black#96"]
+[PuzzleId "oIjzZ"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+49. h5 Kc2 50. h6 b4 51. h7 b3 52. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/3K4/7p/P7/8/8/8 b - - 0 54"]
+[LichessURL "https://lichess.org/HltJcU7B#107"]
+[PuzzleId "HYrir"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+54... h4 55. Kc7 h3 56. a5 h2 57. Kb8 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K6/6p1/7p/P6k/8/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/11upt0Hi/black#110"]
+[PuzzleId "WaGjF"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+56. a5 g5 57. a6 g4 58. a7 g3 59. a8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3K2k1/7p/P7/8/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/ZDZMCX5C#95"]
+[PuzzleId "qDdAT"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48... h4 49. Kc7 h3 50. a5 h2 51. a6 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/PK6/6k1/8/8 w - - 1 57"]
+[LichessURL "https://lichess.org/uNkDPNzR/black#112"]
+[PuzzleId "iQ6Qk"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. a5 h4 58. a6 h3 59. a7 Kg2 60. a8=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/2K5/7p/1P6/8/8/8 b - - 1 53"]
+[LichessURL "https://lichess.org/aECkMrFX#105"]
+[PuzzleId "qPHAw"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... h4 54. Kc7 h3 55. b5 h2 56. b6 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/1p6/7P/2k5/8/8 w - - 2 51"]
+[LichessURL "https://lichess.org/XtWz6pGW/black#100"]
+[PuzzleId "GT9Zy"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+51. h5 b4 52. h6 Kc2 53. h7 b3 54. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p3K1/7P/3k4/8/8 b - - 2 62"]
+[LichessURL "https://lichess.org/QijLzKQ9#123"]
+[PuzzleId "Sut5a"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+62... c4 63. h5 c3 64. h6 c2 65. h7 c1=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2pp4/6P1/2k4K/2P5/8 w - - 0 49"]
+[LichessURL "https://lichess.org/KJHepVi3/black#96"]
+[PuzzleId "rvFW3"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+49. g5 Kxc2 50. g6 d4 51. g7 d3 52. g8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K3k1p/PP6/8/8/8 b - - 0 68"]
+[LichessURL "https://lichess.org/2zR59bn7#135"]
+[PuzzleId "OFtsR"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+68... h4 69. Ka5 h3 70. b5 h2 71. b6 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/1K5p/8/8/P5k1/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/Amjc8mEN/black#100"]
+[PuzzleId "XtZgK"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+51. a4 g5 52. a5 g4 53. a6 Kh2 54. a7 g3 55. a8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1K6/6p1/5k2/2P5/8/8 b - - 2 54"]
+[LichessURL "https://lichess.org/1RAxy7UB#107"]
+[PuzzleId "Su7Y7"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+54... g4 55. c4 g3 56. c5 g2 57. Kb7 g1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/p3K3/1k3P2/1P6/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/shVS8pO4/black#104"]
+[PuzzleId "PuoiX"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53. f5 Kxb3 54. f6 a4 55. f7 a3 56. f8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5K1/8/8/1k6/6PP/8 b - - 0 47"]
+[LichessURL "https://lichess.org/EBgThFi3#93"]
+[PuzzleId "fbRB7"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a5 48. Kf7 a4 49. g4 a3 50. g5 a2 51. g6 a1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/pp6/1k5P/8/8/8 w - - 0 69"]
+[LichessURL "https://lichess.org/6oLKoZha/black#136"]
+[PuzzleId "hUNs1"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+69. h5 Ka4 70. h6 b4 71. h7 b3 72. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K3/1p6/3k4/8/5P2/8 b - - 1 54"]
+[LichessURL "https://lichess.org/kjwcJWuc#107"]
+[PuzzleId "g8Rfu"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+54... b4 55. f4 b3 56. f5 b2 57. f6 b1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/ppP3K1/1k5P/8/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/LwEHIKpg/black#104"]
+[PuzzleId "XG2nq"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53. h5 Ka4 54. h6 b4 55. h7 b3 56. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/k5K1/1p6/7P/8/7P/8 b - - 1 43"]
+[LichessURL "https://lichess.org/gFxDkQIl#85"]
+[PuzzleId "DCbu0"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+43... b4 44. h5 b3 45. h6 b2 46. h7 b1=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/PK6/5k2/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/6SPvsCQ4/black#94"]
+[PuzzleId "koBHj"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48. a5 g4 49. a6 g3 50. a7 g2 51. a8=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5K2/p7/1k4P1/7P/8/8 b - - 1 42"]
+[LichessURL "https://lichess.org/ehPptLmB#83"]
+[PuzzleId "fnQG1"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+42... a4 43. Kf7 a3 44. g5 a2 45. g6 a1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6P1/1p6/k5q1/P6K/8 w - - 0 56"]
+[LichessURL "https://lichess.org/d12tw6NF/black#110"]
+[PuzzleId "1hfX7"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+
+56. Kxg3 Kxa2 57. g6 b3 58. g7 b2 59. g8=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/1k5P/8/8/8 b - - 1 46"]
+[LichessURL "https://lichess.org/FHRDJOLm#91"]
+[PuzzleId "DSqEd"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+46... a4 47. h5 a3 48. Kg7 a2 49. Kg8 a1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p5p/p1p2Kp1/P3P3/3k4/1P6/8 w - - 0 43"]
+[LichessURL "https://lichess.org/t1f6zpcG/black#84"]
+[PuzzleId "Jre06"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+43. e5 Kc2 44. e6 c4 45. e7 Kxb2 46. e8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7K/1p5P/8/1k6/Q7 b - - 0 57"]
+[LichessURL "https://lichess.org/IkB9ttSD#113"]
+[PuzzleId "4JioP"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+
+57... Kxa1 58. Kg6 b3 59. h5 b2 60. Kg7 b1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/P7/K7/2k5/8 w - - 1 57"]
+[LichessURL "https://lichess.org/TmfUOYTz/black#112"]
+[PuzzleId "wImCK"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. a5 c4 58. a6 c3 59. a7 Kd2 60. a8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K3p2/P7/6k1/8/8 b - - 1 51"]
+[LichessURL "https://lichess.org/L4b7tnfC#101"]
+[PuzzleId "Fjwmz"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+51... f4 52. a5 f3 53. a6 f2 54. a7 f1=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/5p2/K5P1/5k2/8/8 w - - 0 46"]
+[LichessURL "https://lichess.org/sZPSKff5/black#90"]
+[PuzzleId "qx8tK"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+46. gxf5 h5 47. f6 h4 48. f7 h3 49. f8=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3p3K/4k1PP/8/8/8 b - - 0 43"]
+[LichessURL "https://lichess.org/y7qWz3x6#85"]
+[PuzzleId "Pk1Ll"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+43... d4 44. Kh6 d3 45. g5 d2 46. g6 d1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1K6/pp6/kP6/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/rrLsbsKQ/black#112"]
+[PuzzleId "BRyn9"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+57. bxa5 b4 58. a6 b3 59. a7 b2 60. a8=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3p4/8/KP6/P7/5k2 b - - 0 62"]
+[LichessURL "https://lichess.org/b748N65V#123"]
+[PuzzleId "pn5dv"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+62... d4 63. b4 d3 64. b5 d2 65. b6 d1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/p2K4/1k2P1P1/8/8/8 w - - 2 49"]
+[LichessURL "https://lichess.org/Fw88CHLL/black#96"]
+[PuzzleId "9oBWI"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+49. e5 a4 50. e6 a3 51. e7 a2 52. e8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/R7/1PK3k1/r7/8 b - - 3 43"]
+[LichessURL "https://lichess.org/33NEEr6C#85"]
+[PuzzleId "EmGtd"]
+[Themes "advancedPawn crushing endgame quietMove rookEndgame veryLong"]
+
+43... Rxa4 44. bxa4 h4 45. a5 h3 46. a6 h2 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4KB2/5P2/p1kb4/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/CwiihxoN/black#86"]
+[PuzzleId "DnEZp"]
+[Themes "advancedPawn bishopEndgame crushing endgame master promotion veryLong"]
+
+44. Bxd4 Kxd4 45. f6 a3 46. f7 a2 47. f8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P2/8/p2K3B/1p6/1Pp5/2P5/8 b - - 0 46"]
+[LichessURL "https://lichess.org/D4Ddlc9F#91"]
+[PuzzleId "w4Kcs"]
+[Themes "advancedPawn bishopEndgame crushing endgame promotion sacrifice veryLong"]
+
+46... a4 47. bxa4 b3 48. cxb3 c2 49. Bg6 c1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/7p/8/PK6/5k1P/8 w - - 0 42"]
+[LichessURL "https://lichess.org/GOuY7WVB/black#82"]
+[PuzzleId "YAXtv"]
+[Themes "advancedPawn crushing endgame pawnEndgame quietMove veryLong"]
+
+42. a4 g5 43. a5 g4 44. a6 h4 45. a7 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6Rk/1p4p1/pP4K1/P1P5/8/8 b - - 0 47"]
+[LichessURL "https://lichess.org/dngPhdn0#93"]
+[PuzzleId "gEfV3"]
+[Themes "advancedPawn crushing endgame promotion veryLong"]
+
+47... Kxg6 48. c4 bxc4 49. b5 c3 50. b6 c2 51. b7 c1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1rK2p2/5k2/8/2P5/8/8/8 w - - 0 52"]
+[LichessURL "https://lichess.org/LVYPVFP1/black#102"]
+[PuzzleId "u5FPu"]
+[Themes "advancedPawn crushing endgame quietMove veryLong"]
+
+52. Kxb7 Ke5 53. c5 f5 54. c6 f4 55. c7 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p5K1/8/1k6/7P/6P1/8 b - - 0 55"]
+[LichessURL "https://lichess.org/xGtRC1zG#109"]
+[PuzzleId "c8awm"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+55... a5 56. g4 a4 57. g5 a3 58. Kh7 a2 59. g6 a1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/6p1/1PK5/6kP/8/8 w - - 1 47"]
+[LichessURL "https://lichess.org/JspRl8Ap/black#92"]
+[PuzzleId "67p5K"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47. b5 Kxh3 48. b6 g4 49. b7 g3 50. b8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/2k1p1P1/p2pP3/Pp1KP3/1P6/8/8 b - - 0 39"]
+[LichessURL "https://lichess.org/Ylfu7rqs#77"]
+[PuzzleId "Lmfcq"]
+[Themes "crushing endgame pawnEndgame veryLong zugzwang"]
+
+39... dxe4 40. Kxe4 Kc5 41. Ke3 Kd5 42. Kd3 Kxe5 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6R1/p4K1p/6rP/6Pk/8/8 w - - 6 75"]
+[LichessURL "https://lichess.org/mA05Fu6L/black#148"]
+[PuzzleId "PKloS"]
+[Themes "advancedPawn crushing endgame promotion quietMove rookEndgame veryLong"]
+
+75. Rxg4 hxg4 76. h5 Kxg3 77. h6 Kf3 78. h7 g3 79. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3KPk2/5R1p/7P/8/8/8/4r3 b - - 2 64"]
+[LichessURL "https://lichess.org/km4QbiZr#127"]
+[PuzzleId "PQx9a"]
+[Themes "crushing endgame hangingPiece rookEndgame veryLong"]
+
+64... Kxf6 65. e8=Q Rxe8 66. Kxe8 Kg5 67. Ke7 Kxh5 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pn3p1p/1p2pqpQ/1P6/2p4R/5PP1/P3P1KP/8 w - - 5 29"]
+[LichessURL "https://lichess.org/Z2kcJtre/black#56"]
+[PuzzleId "3RbnC"]
+[Themes "advantage endgame kingsideAttack skewer veryLong"]
+
+29. Qxh7+ Kf8 30. Qh8+ Qxh8 31. Rxh8+ Ke7 32. Rxc8 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/K7/1Q6/6p1/8/P4k2/8/6q1 b - - 2 50"]
+[LichessURL "https://lichess.org/KP0Uupe1#99"]
+[PuzzleId "sBOxx"]
+[Themes "advancedPawn crushing endgame promotion queenEndgame quietMove veryLong"]
+
+50... Qxb6+ 51. Kxb6 g4 52. a4 g3 53. a5 g2 54. a6 g1=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5pp1/1PK5/6k1/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/Glc1meOO/black#108"]
+[PuzzleId "QKPFr"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+55. b5 Kg2 56. b6 f4 57. b7 f3 58. b8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3pk1K1/1p2p3/1P2P3/7P/8/8 b - - 1 54"]
+[LichessURL "https://lichess.org/3Ux3xRzH#107"]
+[PuzzleId "fBwKk"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+54... d5 55. exd5+ Kxd5 56. h4 e4 57. h5 e3 58. h6 e2 59. h7 e1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/p7/P7/3K4/1k6 w - - 14 63"]
+[LichessURL "https://lichess.org/6titGZ3o/black#124"]
+[PuzzleId "kzCvf"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+63. Kc3 Kc1 64. Kb4 Kb2 65. Kxa4 Kc3 66. Kb5 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/K7/3k4/p7/P7/8 b - - 0 49"]
+[LichessURL "https://lichess.org/FRjESPia#97"]
+[PuzzleId "mZJaR"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+49... Kc3 50. Ka4 Kb2 51. Kb4 Kxa2 52. Kc3 Kb1 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/p2p2kp/P2P2P1/6K1/8/8 w - - 0 50"]
+[LichessURL "https://lichess.org/Qqh8Rh7p/black#98"]
+[PuzzleId "o7iNc"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+50. gxh5 Kxh5 51. Kf4 Kg6 52. Ke5 Kg5 53. Kd6 Kf5 54. Kxc6 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/kb1R1Q2/8/p1p3p1/2P1r3/1Pb4P/5PP1/6K1 b - - 2 40"]
+[LichessURL "https://lichess.org/inr9P1JM#79"]
+[PuzzleId "r7LuM"]
+[Themes "advantage endgame veryLong"]
+
+40... Re1+ 41. Kh2 Be5+ 42. f4 Bxf4+ 43. Qxf4 gxf4 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/ppK5/1P6/k7/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/ln680INX/black#112"]
+[PuzzleId "XyZ6R"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+57. bxa5 b4 58. a6 b3 59. a7 b2 60. a8=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/P1K3k1/8/1P6/8 b - - 0 79"]
+[LichessURL "https://lichess.org/bXGDT2eA#157"]
+[PuzzleId "5aWuB"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+79... h4 80. a5 h3 81. a6 h2 82. a7 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/1pP1K3/pPk5/P7/8/8 w - - 0 52"]
+[LichessURL "https://lichess.org/qMUuQdv2/black#102"]
+[PuzzleId "jJGGc"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+52. Kd6 Kb3 53. Kxc6 Kxa3 54. Kxb5 Kb3 55. c6 a3 56. c7 a2 57. c8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/1p3P2/5Kpk/8/PP6/8 b - - 1 41"]
+[LichessURL "https://lichess.org/YKNVPCjN#81"]
+[PuzzleId "aLUja"]
+[Themes "advancedPawn crushing defensiveMove endgame pawnEndgame veryLong"]
+
+41... g3 42. Kf3 Kh3 43. f6 g2 44. Kf2 Kh2 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p5/4p3/1pk1K3/5P2/P7/8/8 w - - 0 38"]
+[LichessURL "https://lichess.org/BNotJoyB/black#74"]
+[PuzzleId "5d2C7"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+38. Kxe6 Kd4 39. f5 c5 40. f6 c4 41. f7 c3 42. f8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/5Kbp/7k/5P1B/8 b - - 1 58"]
+[LichessURL "https://lichess.org/sBKn3p19#115"]
+[PuzzleId "EIf6f"]
+[Themes "advancedPawn bishopEndgame crushing endgame promotion veryLong"]
+
+58... Kxh2 59. Kxg4 h3 60. f4 Kg2 61. f5 h2 62. f6 h1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p7/2P2p2/1Pk2K2/8/8 w - - 1 47"]
+[LichessURL "https://lichess.org/TjtrlGpr/black#92"]
+[PuzzleId "5i9Xs"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47. c5 Kxb3 48. c6 a4 49. c7 a3 50. c8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/3pKP2/8/8/8 b - - 4 79"]
+[LichessURL "https://lichess.org/vk0rJ5Pv#157"]
+[PuzzleId "Nm7Mr"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+79... Kc4 80. f5 d3 81. Ke3 Kc3 82. f6 d2 83. Ke2 Kc2 84. f7 d1=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2k3p/P6P/2Kp1Pp1/3P4/8/8 w - - 0 43"]
+[LichessURL "https://lichess.org/YvRvFyDQ/black#84"]
+[PuzzleId "OgbuK"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+43. Kxd4 g3 44. Ke3 g2 45. Kf2 g1=R 46. Kxg1 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/4b1kP/8/5R2/8/1P3P1R/1Pn1K2P/8 b - - 0 39"]
+[LichessURL "https://lichess.org/FWLwzOe0#77"]
+[PuzzleId "SzAjB"]
+[Themes "advantage endgame fork veryLong"]
+
+39... Nd4+ 40. Kd3 Nxf5 41. h8=Q+ Rxh8 42. Rxh8 Kxh8 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/5p1P/5k2/8/8/8 w - - 0 89"]
+[LichessURL "https://lichess.org/wsBENJnh/black#176"]
+[PuzzleId "beyTl"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+89. Kg6 Ke4 90. h6 f4 91. h7 f3 92. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/8/8/5KP1/2p2R2/1k6/8/8 b - - 5 48"]
+[LichessURL "https://lichess.org/07aYxfEX#95"]
+[PuzzleId "mIF4o"]
+[Themes "advancedPawn crushing endgame master promotion rookEndgame veryLong"]
+
+48... Rf8+ 49. Kg4 Rxf4+ 50. Kxf4 c3 51. g6 c2 52. g7 c1=Q+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/1p2r3/3P4/1P3pk1/P7/6K1 w - - 0 43"]
+[LichessURL "https://lichess.org/TJLJ1kos/black#84"]
+[PuzzleId "UJN4v"]
+[Themes "advancedPawn crushing endgame veryLong"]
+
+43. dxe5 f2+ 44. Kf1 Kf4 45. e6 Ke5 46. e7 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/4Kp2/3P2kP/8/8/8 b - - 1 61"]
+[LichessURL "https://lichess.org/5Jm905Gh#121"]
+[PuzzleId "lSdMW"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion quietMove veryLong"]
+
+61... f4 62. d5 f3 63. d6 f2 64. d7 f1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/pp2kppp/3R1n2/8/4P3/5N2/PPrR2PP/2K5 w - - 0 19"]
+[LichessURL "https://lichess.org/OnoSahXM/black#36"]
+[PuzzleId "qfDh9"]
+[Themes "advantage endgame fork veryLong"]
+
+19. Rxc2 Rxc2+ 20. Kxc2 Kxd6 21. e5+ Ke6 22. exf6 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/7P/1k4P1/8/8 b - - 2 46"]
+[LichessURL "https://lichess.org/Enn9cqvA#91"]
+[PuzzleId "5kEhi"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+46... a4 47. g4 a3 48. g5 a2 49. Kh7 a1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r2q1kp/2QpPp2/p1p3p1/8/7P/P1P1R1PK/8 w - - 6 45"]
+[LichessURL "https://lichess.org/HRakP3Hx/black#88"]
+[PuzzleId "r5WLU"]
+[Themes "advancedPawn advantage endgame promotion sacrifice veryLong"]
+
+45. Qxb7 Qxb7 46. e7 Qb5 47. e8=Q Qxe8 48. Rxe8 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/2K5/p1P5/P2k4/8/8/8 b - - 0 54"]
+[LichessURL "https://lichess.org/1VXDQP81#107"]
+[PuzzleId "JPmb9"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+54... Kc4 55. Kd7 Kxc5 56. Kxc7 Kb4 57. Kc6 Kxa4 58. Kc5 Kb3 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P3/p7/3K4/1P1r4/P5pk/8/8 w - - 0 48"]
+[LichessURL "https://lichess.org/j7wySfpP/black#94"]
+[PuzzleId "kJp10"]
+[Themes "advancedPawn crushing endgame hangingPiece promotion veryLong"]
+
+48. Kxd4 g2 49. e8=Q g1=Q+ 50. Qe3+ Qxe3+ 51. Kxe3 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/8/2k5/3pKP2/7P/8/8 b - - 1 45"]
+[LichessURL "https://lichess.org/7ryhNroc#89"]
+[PuzzleId "i2KMy"]
+[Themes "advancedPawn crushing defensiveMove endgame pawnEndgame veryLong"]
+
+45... Kc4 46. f5 d3 47. Ke3 Kc3 48. f6 d2 49. Ke2 Kc2 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4p1/7p/4b2q/P1B5/1P1PP3/3K2P1/5R2 w - - 0 31"]
+[LichessURL "https://lichess.org/OHQab8bl/black#60"]
+[PuzzleId "UMCwp"]
+[Themes "crushing endgame skewer veryLong"]
+
+31. Rf8+ Kh7 32. Bg8+ Kg6 33. Bf7+ Kg5 34. Bxh5 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/3r2p1/5p1p/2RP4/2p5/2PN4/5PPP/2R3K1 b - - 0 29"]
+[LichessURL "https://lichess.org/ZgBgINs1#57"]
+[PuzzleId "CKWAw"]
+[Themes "advancedPawn advantage endgame master veryLong"]
+
+29... cxd3 30. f3 d2 31. Rd1 Re1+ 32. Kf2 Rxd1 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/1p1p4/1PpP1p2/2P2k2/5r2/4K3/8 w - - 2 57"]
+[LichessURL "https://lichess.org/n0Q0ijFh/black#112"]
+[PuzzleId "HILVd"]
+[Themes "crushing deflection endgame master rookEndgame veryLong"]
+
+57. Rh4+ Kg3 58. Rh3+ Kxh3 59. Kxf3 f4 60. Kxf4 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p3P2/p3k3/P1P4K/1P6/8 b - - 0 46"]
+[LichessURL "https://lichess.org/H0ScSaaS#91"]
+[PuzzleId "i2URW"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+46... Kxf5 47. Kg2 Ke4 48. Kf2 Kd3 49. Ke1 Kc2 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p3R3/4P1p1/1K5k/7r/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/79vyzDyb/black#108"]
+[PuzzleId "6f0MA"]
+[Themes "advancedPawn crushing endgame promotion rookEndgame veryLong"]
+
+55. Rh6+ Kg3 56. Rxh3+ Kxh3 57. e6 g4 58. e7 g3 59. e8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P1Q1/1kb5/1p1r4/8/8/1P3P2/6K1 b - - 0 40"]
+[LichessURL "https://lichess.org/D9tNQftv#79"]
+[PuzzleId "wa8uc"]
+[Themes "crushing endgame skewer veryLong"]
+
+40... Rd1+ 41. Kh2 Rh1+ 42. Kg3 Rg1+ 43. Kf4 Rxg7 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q6/8/6p1/K6p/P5kP/8/8/4q3 w - - 1 54"]
+[LichessURL "https://lichess.org/KrBTEGnC/black#106"]
+[PuzzleId "MN5Ix"]
+[Themes "advancedPawn crushing endgame promotion queenEndgame quietMove veryLong"]
+
+54. Qb4+ Qxb4+ 55. Kxb4 Kxh4 56. a5 g5 57. a6 g4 58. a7 g3 59. a8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1RR5/pp4pk/5r1p/5q2/3P1P2/4P3/PP3PQP/6K1 b - - 8 30"]
+[LichessURL "https://lichess.org/EcyYcjAE#59"]
+[PuzzleId "VtlbR"]
+[Themes "deflection endgame mate mateIn4 veryLong"]
+
+30... Qb1+ 31. Rc1 Qxc1+ 32. Qf1 Rg6+ 33. Kh1 Qxf1# *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rb1/pp1nq1k1/2p1p1pp/3pP3/3P1NQP/8/PPP2P1P/R4RK1 w - - 3 20"]
+[LichessURL "https://lichess.org/APlQtnrh/black#38"]
+[PuzzleId "NIrSw"]
+[Themes "crushing deflection fork middlegame veryLong"]
+
+20. Qxg6+ Kh8 21. Qxh6+ Bh7 22. Ng6+ Kg8 23. Nxe7+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/1R2r3/P5p1/1K6/2P5/8 b - - 1 48"]
+[LichessURL "https://lichess.org/YshqTm61#95"]
+[PuzzleId "nA4PF"]
+[Themes "advancedPawn crushing endgame master promotion rookEndgame veryLong"]
+
+48... Rxb5+ 49. axb5 g3 50. b6 g2 51. Kc4 g1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5pp1/8/6PP/2pk4/8/3K4 w - - 1 50"]
+[LichessURL "https://lichess.org/MdnX3mX2/black#98"]
+[PuzzleId "MhUW8"]
+[Themes "advancedPawn crushing endgame master pawnEndgame promotion veryLong"]
+
+50. h5 c2+ 51. Kc1 gxh5 52. gxh5 f5 53. h6 f4 54. h7 f3 55. h8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3b1p1p/2p2Bpb/2q5/3pP3/3B4/p1P1QPPP/K2R3R b - - 0 24"]
+[LichessURL "https://lichess.org/o6c9HC8m#47"]
+[PuzzleId "aooLR"]
+[Themes "advantage exposedKing fork middlegame veryLong"]
+
+24... Qc3+ 25. Kxa2 Be6+ 26. Bc4 Bxc4+ 27. Qxc4 Qxc4+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1k3pp1/1P2p2p/1K3P1P/6P1/8 w - - 0 45"]
+[LichessURL "https://lichess.org/ItSG3HsY/black#88"]
+[PuzzleId "e41VH"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+45. fxe4 fxe4 46. Kc3 e3 47. Kd3 Kxb4 48. Kxe3 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R2r3/1K6/6p1/1P6/5k2/8/8 b - - 0 49"]
+[LichessURL "https://lichess.org/ghaYEwlx#97"]
+[PuzzleId "Ahs7a"]
+[Themes "advancedPawn crushing endgame promotion quietMove rookEndgame veryLong"]
+
+49... Rxb7+ 50. Kxb7 g4 51. Ka6 g3 52. b5 g2 53. b6 g1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p2/5K2/p1P5/Pk6/8/8 w - - 1 62"]
+[LichessURL "https://lichess.org/MhBx74fQ/black#122"]
+[PuzzleId "jgLZ9"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+62. c5 Kxa3 63. c6 Kb2 64. c7 a3 65. c8=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/1R5B/4Q2p/6p1/3q4/8/P4PPP/5RK1 b - - 0 31"]
+[LichessURL "https://lichess.org/G1qfHLtP#61"]
+[PuzzleId "D61aL"]
+[Themes "clearance mate mateIn4 middlegame sacrifice veryLong"]
+
+31... Qxf2+ 32. Rxf2 Rd1+ 33. Qe1 Rxe1+ 34. Rf1 Rexf1# *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pk3p2/4p3/1PK1Pp1p/5P2/6PP/8/8 w - - 1 46"]
+[LichessURL "https://lichess.org/MymRKt3J/black#90"]
+[PuzzleId "nvPmr"]
+[Themes "crushing endgame pawnEndgame veryLong"]
+
+46. Kd6 Kb6 47. Ke7 Kxb5 48. Kxf7 Kc4 49. Kxe6 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/1pK2kp1/1P6/7P/8 b - - 1 45"]
+[LichessURL "https://lichess.org/bmQpE4Ih#89"]
+[PuzzleId "eC36u"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion veryLong"]
+
+45... Kf3 46. Kxb4 Kg2 47. Ka5 Kxh2 48. b4 g3 49. b5 g2 50. b6 g1=Q *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppp3pp/b7/2r2pN1/8/5P2/PPK3PP/3R4 w - - 6 23"]
+[LichessURL "https://lichess.org/r9rlW6OJ/black#44"]
+[PuzzleId "my1Jx"]
+[Themes "crushing defensiveMove endgame fork veryLong"]
+
+23. Kb1 g6 24. Rd8+ Kg7 25. Ne6+ Kf7 26. Nxc5 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/pp5r/3R4/8/2P3p1/2P3PB/P4P2/4R1K1 b - - 0 31"]
+[LichessURL "https://lichess.org/Tkc9OrxH#61"]
+[PuzzleId "Y3itH"]
+[Themes "advantage endgame hangingPiece veryLong"]
+
+31... Rxh3 32. Kg2 Rh2+ 33. Kf1 Rh1+ 34. Ke2 Re8+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5pp1/1pp4p/p1p1p3/P1PqP3/5R1P/1P2Q1P1/7K w - - 5 27"]
+[LichessURL "https://lichess.org/YyFg6TfX/black#52"]
+[PuzzleId "ExYvY"]
+[Themes "advantage discoveredAttack endgame veryLong"]
+
+27. Rd3 Qxc4 28. Rd8+ Rxd8 29. Qxc4 Rd1+ 30. Kh2 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/p6R/5pp1/6kp/2q5/5Q2/PPP3PP/1KR5 b - - 6 29"]
+[LichessURL "https://lichess.org/C0XjoP5Q#57"]
+[PuzzleId "Hxusu"]
+[Themes "endgame mate mateIn4 sacrifice veryLong"]
+
+29... Qxc2+ 30. Rxc2 Re1+ 31. Qd1 Rxd1+ 32. Rc1 Rdxc1# *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppq2pp1/4p2p/1Q1pP3/1P1P2Pb/P6P/2r5/R4B1K w - - 0 32"]
+[LichessURL "https://lichess.org/1lx6sFR8/black#62"]
+[PuzzleId "Wfr7s"]
+[Themes "advantage endgame fork veryLong"]
+
+32. Qe8+ Kh7 33. Bd3+ g6 34. Bxc2 Qxc2 35. Qxf7+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/1b2n2p/1ppq1npB/p3P3/2PP4/6P1/P1PQ3P/2KR1R2 b - - 0 22"]
+[LichessURL "https://lichess.org/vsv57kee#43"]
+[PuzzleId "CLUYB"]
+[Themes "advantage fork middlegame veryLong"]
+
+22... Qa3+ 23. Kb1 Ne4 24. Qd3 Nc3+ 25. Qxc3 Qxc3 *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/p1Qp2p1/2p1p1qp/8/1p2P3/2N5/PPP3PP/5RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/6nykTNsg/black#34"]
+[PuzzleId "Y5Vbn"]
+[Themes "advantage endgame kingsideAttack quietMove veryLong"]
+
+18. Qd8+ Kh7 19. Rf8 Qh5 20. Rh8+ Kg6 21. Qe8+ *
+
+
+
+[Event "Very Long"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/5p2/4p2p/6P1/2k2P2/7P/8 b - - 0 51"]
+[LichessURL "https://lichess.org/ivlsraBz#101"]
+[PuzzleId "x8gT4"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+51... hxg4 52. fxg4 e4 53. h4 e3 54. h5 e2 55. h6 e1=Q *
+
+
+

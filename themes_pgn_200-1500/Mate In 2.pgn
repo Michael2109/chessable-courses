@@ -1,0 +1,1810 @@
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
+[LichessURL "https://lichess.org/hufGGxJF/black#56"]
+[PuzzleId "wGXNF"]
+[Themes "endgame mate mateIn2 short"]
+
+29. Rd8+ Re8 30. Rxe8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
+[LichessURL "https://lichess.org/t5ulNBPV#87"]
+[PuzzleId "l1iNq"]
+[Themes "endgame mate mateIn2 short"]
+
+44... Rc1+ 45. Rd1 Rxd1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
+[LichessURL "https://lichess.org/cQBqU53F/black#42"]
+[PuzzleId "3O3kc"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+22. Rxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22... Qd8 23. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
+[LichessURL "https://lichess.org/ZzONJuGy#93"]
+[PuzzleId "hTYme"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+47... Ra1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+48. Rb1 Rxb1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
+[LichessURL "https://lichess.org/PH6ExC04/black#70"]
+[PuzzleId "NyZDw"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+36. Rb8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+36... Ne8 37. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/p3p3/Rp6/8/4PN2/5PPP/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/lOSVVJSp#57"]
+[PuzzleId "25iUy"]
+[Themes "backRankMate endgame master mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+29... Rc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Ne1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5K2/8/1r6/8/R7/8 w - - 2 61"]
+[LichessURL "https://lichess.org/tDSunSTW/black#120"]
+[PuzzleId "D2me7"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+61. Ra8+ Rb8 62. Rxb8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4n3/7k/2N1pr1p/Pp6/5r2/1Q4PP/R6K b - - 0 41"]
+[LichessURL "https://lichess.org/zxMOIXJ8#81"]
+[PuzzleId "aFkbL"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+41... Rf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+42. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1n2Rppp/3p1q2/5P2/8/6P1/PP4BP/4R2K w - - 0 28"]
+[LichessURL "https://lichess.org/Kn1qZFaB/black#54"]
+[PuzzleId "6gMeL"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+28. Rxe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Rxe8 29. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2B/1b1p1p1p/3qp1p1/1B6/P3P3/2P2P1Q/1P3bPP/RN5K b - - 0 22"]
+[LichessURL "https://lichess.org/UqVFj7Ic#43"]
+[PuzzleId "SgDvZ"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+22... Qd1+ 23. Bf1 Qxf1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/4p3/2Np1b2/1q1P4/5N2/5PPP/R5K1 w - - 0 27"]
+[LichessURL "https://lichess.org/MtJOArMf/black#52"]
+[PuzzleId "cvyG9"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+27. Ra8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27... Qb8 28. Rxb8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/p6p/1p2P1b1/1P2R3/P7/1B3PPP/6K1 b - - 0 27"]
+[LichessURL "https://lichess.org/Ufm0zhep#53"]
+[PuzzleId "vRqvE"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+27... Rd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Re1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/2qb2pp/n1p5/5p2/p2P1b2/PpPB1N1P/1P2QP2/1N1KR3 w - - 7 31"]
+[LichessURL "https://lichess.org/4jzkO98a/black#60"]
+[PuzzleId "3dQC1"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+31. Qxe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Bxe8 32. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/2P5/p6p/5R1P/4p1Pb/3nPp2/P1R5/5K2 b - - 0 44"]
+[LichessURL "https://lichess.org/6flTJaY7#87"]
+[PuzzleId "VbBBJ"]
+[Themes "endgame mate mateIn2 short"]
+
+44... Rb1+ 45. Rc1 Rxc1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p3rppp/1p6/2p5/P3Pn2/6NP/1PP3P1/3R3K w - - 4 32"]
+[LichessURL "https://lichess.org/Zk8wkPDV/black#62"]
+[PuzzleId "6KaRN"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+32. Rd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+32... Re8 33. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b2r1k1/p3qpp1/7p/2pQ4/2Np4/1P5P/P1P2PP1/R3B1K1 b - - 0 29"]
+[LichessURL "https://lichess.org/YoPJfl16#57"]
+[PuzzleId "V0LV1"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+29... Qxe1+ 30. Rxe1 Rxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/3qpQnp/pp4p1/2P5/4bR2/1P1pP2P/P5P1/R5K1 w - - 2 23"]
+[LichessURL "https://lichess.org/7ofe1Nlw/black#44"]
+[PuzzleId "w4y7F"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+23. Qxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Rxf8 24. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/5pk1/2p5/2Bb4/7R/6P1/5P2/6K1 b - - 4 38"]
+[LichessURL "https://lichess.org/4Y1EOOPF#75"]
+[PuzzleId "iXY4A"]
+[Themes "endgame mate mateIn2 short"]
+
+38... Ra1+ 39. Kh2 Rh1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/ppp5/8/4P3/8/1P4P1/PKPr1nq1/2R4R w - - 0 31"]
+[LichessURL "https://lichess.org/UXlUNuIV/black#60"]
+[PuzzleId "EFN7d"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+31. Rh8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Rd8 32. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b3rk1/1b3pp1/p2qpn1p/1pN5/1P1Pp3/P3P2P/1B2QPP1/1BR3K1 b - - 5 21"]
+[LichessURL "https://lichess.org/5mUG9fsQ#41"]
+[PuzzleId "nBzhA"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+21... Qh2+ 22. Kf1 Qh1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/5ppp/3Q4/2p1P3/8/4qP2/1P4PP/3R1K2 w - - 0 31"]
+[LichessURL "https://lichess.org/ovhR5m8j/black#60"]
+[PuzzleId "6eGks"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+31. Qxd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Rxd8 32. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p3bpp1/2pq3p/8/1p6/1P2Q3/5PPP/1RBN2K1 b - - 0 27"]
+[LichessURL "https://lichess.org/QjueHhBY#53"]
+[PuzzleId "rT9pf"]
+[Themes "endgame mate mateIn2 short"]
+
+27... Qxd1+ 28. Qe1 Qxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p3pprb/2Q5/4bP2/1r1qP3/7R/P1P1KRP1/5B2 w - - 13 31"]
+[LichessURL "https://lichess.org/SLucwEnf/black#60"]
+[PuzzleId "xmGV2"]
+[Themes "mate mateIn2 middlegame short"]
+
+31. Qc8+ Qd8 32. Qxd8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5pp1/p3p2p/3p4/N2Qn3/5R1R/1Pr2PPP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/jtTMo0sh#51"]
+[PuzzleId "rV5iJ"]
+[Themes "mate mateIn2 middlegame short"]
+
+26... Rc1+ 27. Qd1 Rxd1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/6pp/7q/P3P3/3R1P2/6P1/3R1K2/8 w - - 0 47"]
+[LichessURL "https://lichess.org/3KVNnMXE/black#92"]
+[PuzzleId "NsxlX"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+47. Rd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+47... Rxd8 48. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q1k1/pp1nrppp/2pb1n2/3p1NB1/3P4/2P2B1P/PPQ2PP1/R5K1 b - - 5 18"]
+[LichessURL "https://lichess.org/AQRfdsXv#35"]
+[PuzzleId "lBzvt"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+18... Re1+ 19. Rxe1 Qxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/p4Rp1/B1p3p1/2p1p1b1/P5P1/r7/5P2/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/GV48Lgei/black#56"]
+[PuzzleId "cNL4A"]
+[Themes "endgame mate mateIn2 short"]
+
+29. Rf8+ Bd8 30. Rxd8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/8/2Q3B1/3Rp3/P3P3/1P3qPP/R6K b - - 0 21"]
+[LichessURL "https://lichess.org/xjYr8ozL#41"]
+[PuzzleId "9WUrQ"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+21... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/2pQ4/pp6/8/P1P2q2/1P3P1P/3R2K1 w - - 0 30"]
+[LichessURL "https://lichess.org/kF4qimUO/black#58"]
+[PuzzleId "JkeR9"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+30. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Rxd8 31. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1pQ2pp1/p3p2p/4P3/3q4/8/PP3PPP/2R3K1 b - - 1 23"]
+[LichessURL "https://lichess.org/13nNVUBi#45"]
+[PuzzleId "EZbTy"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+23... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp2bppr/2q1p3/4P3/6R1/6Q1/2Pr2RP/6BK w - - 13 31"]
+[LichessURL "https://lichess.org/PSFYkWB9/black#60"]
+[PuzzleId "Ssm1E"]
+[Themes "master mate mateIn2 middlegame short"]
+
+31. Rxg7+ Rxg7 32. Qxg7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/7p/1R3pp1/4p3/2p1R3/2P5/P1P2PPP/6K1 b - - 0 32"]
+[LichessURL "https://lichess.org/NbSbR5C0#63"]
+[PuzzleId "2D3wQ"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+32... Rd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33. Re1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/q4pp1/7p/rp2R1n1/3p2P1/P2Q4/2P2PP1/4R1K1 w - - 5 33"]
+[LichessURL "https://lichess.org/FT3OMZmp/black#64"]
+[PuzzleId "ApeDU"]
+[Themes "mate mateIn2 middlegame short"]
+
+33. Re8+ Rxe8 34. Rxe8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p3Q1pp/2b1p3/8/8/2P3P1/PP2PP2/3R2K1 b - - 0 24"]
+[LichessURL "https://lichess.org/YvsWKG04#47"]
+[PuzzleId "RkDhS"]
+[Themes "endgame hangingPiece mate mateIn2 short"]
+
+24... Rxd1+ 25. Kh2 Rh1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r1b1r/pppq2pp/5p2/4p2b/1P6/P1NPQn2/2P2BPP/R4R1K w - - 0 17"]
+[LichessURL "https://lichess.org/HKnTQ847/black#32"]
+[PuzzleId "CplKU"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+
+17. Qxa7+ Kc8 18. Qa8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/1q4pp/pPp5/3p4/NP1R4/P6Q/5RPP/6K1 b - - 0 25"]
+[LichessURL "https://lichess.org/y3DVscFI#49"]
+[PuzzleId "WmQH0"]
+[Themes "mate mateIn2 middlegame short"]
+
+25... Re1+ 26. Rf1 Rexf1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pp3Qp1/2p4p/3p4/3p4/P2Br1q1/1P6/3R1R1K w - - 0 28"]
+[LichessURL "https://lichess.org/5rDxMsum/black#54"]
+[PuzzleId "LsDWW"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+28. Qf8+ Rxf8 29. Rxf8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1br2r1/1p6/pQp1B3/P1P2p1p/8/5P2/4R2P/7K b - - 0 43"]
+[LichessURL "https://lichess.org/ryRic9s2#85"]
+[PuzzleId "iyaFL"]
+[Themes "endgame mate mateIn2 short"]
+
+43... Rd1+ 44. Re1 Rxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q1ppp/8/2P5/6P1/R3B2P/p4P2/4K3 w - - 0 36"]
+[LichessURL "https://lichess.org/tP1iXSdN/black#70"]
+[PuzzleId "IWxok"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+36. Ra8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+36... Qc8 37. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/R5pp/1p4q1/8/3p4/1P1P1Q2/P4PPP/6K1 b - - 2 29"]
+[LichessURL "https://lichess.org/anfSS3va#57"]
+[PuzzleId "UZ3vP"]
+[Themes "endgame mate mateIn2 short"]
+
+29... Rc1+ 30. Qd1 Rxd1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppB2ppp/2bp4/3q4/7Q/6P1/P4P1P/6K1 w - - 12 30"]
+[LichessURL "https://lichess.org/Bt1Mvzj1/black#58"]
+[PuzzleId "AKwc0"]
+[Themes "endgame mate mateIn2 short"]
+
+30. Qd8+ Be8 31. Qxe8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p3rpp/p7/4q3/1P6/P6P/Q2R2P1/3R3K b - - 1 35"]
+[LichessURL "https://lichess.org/9nF6xSgE#69"]
+[PuzzleId "tiIbn"]
+[Themes "endgame mate mateIn2 short"]
+
+35... Rf1+ 36. Rxf1 Rxf1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/1p1R2p1/p1p4p/4p3/4Qn2/2N3q1/PP4r1/3R3K w - - 0 30"]
+[LichessURL "https://lichess.org/rsYySCxC/black#58"]
+[PuzzleId "zTQBE"]
+[Themes "mate mateIn2 middlegame short"]
+
+30. Rd8+ Rxd8 31. Rxd8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b1k4/pQ2p3/1p2Pp1q/1PpP1B1p/7P/7K/5R2 b - - 0 34"]
+[LichessURL "https://lichess.org/m8hf89lC#67"]
+[PuzzleId "HJee6"]
+[Themes "endgame fork mate mateIn2 short"]
+
+34... Qe2+ 35. Rf2 Qxf2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/4ppb1/6p1/2p4p/2N5/1P1P1Q1P/2P4q/3R1K2 w - - 0 30"]
+[LichessURL "https://lichess.org/RxZ7TMDb/black#58"]
+[PuzzleId "xK2ig"]
+[Themes "backRankMate hangingPiece mate mateIn2 middlegame short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+30. Qxa8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Qb8 31. Qxb8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p5pp/b1p1p3/3pP2q/3N4/4Q3/PR3PPP/R1B3K1 b - - 4 21"]
+[LichessURL "https://lichess.org/pHIqC4YS#41"]
+[PuzzleId "bCGcY"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+21... Qd1+ 22. Qe1 Qxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/pp3rp1/5N1p/3p4/3P4/6Q1/Pq3PPP/4R1K1 w - - 0 22"]
+[LichessURL "https://lichess.org/FkB0H8cn/black#42"]
+[PuzzleId "Pvqzj"]
+[Themes "mate mateIn2 middlegame short"]
+
+22. Re8+ Rf8 23. Rxf8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k3pp/2Nn3n/5p2/8/2P2Q2/1r3PPP/1R4K1 b - - 2 33"]
+[LichessURL "https://lichess.org/qwQJILlx#65"]
+[PuzzleId "eeYd3"]
+[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+33... Rxb1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34. Qd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4qr1/pp3p1k/1npp1Pp1/3Pb1P1/6B1/2P1BR2/PP5P/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/kJxCBsbv/black#50"]
+[PuzzleId "Rhi56"]
+[Themes "mate mateIn2 middlegame short"]
+
+26. Rh3+ Qh6 27. Rxh6# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1R1r3k/5qp1/2pBp2p/2P1P3/5P1b/P3QP2/1R4K1 b - - 3 42"]
+[LichessURL "https://lichess.org/Fkz8SCkS#83"]
+[PuzzleId "jhciK"]
+[Themes "mate mateIn2 middlegame short"]
+
+42... Qg5+ 43. Kh2 Qg2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5qrk/5p2/r4P2/p2p2Qp/n1pP4/NpP2R2/1P4PP/6K1 w - - 0 34"]
+[LichessURL "https://lichess.org/PzLCv3tx/black#66"]
+[PuzzleId "PB3sP"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+34. Qxh5+ Qh6 35. Qxh6# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1R1Q2b1/4p3/3p4/3Pp1pP/4P1P1/4K1P1/r7 b - - 2 33"]
+[LichessURL "https://lichess.org/N6uBlKjz#65"]
+[PuzzleId "sreJe"]
+[Themes "endgame mate mateIn2 short"]
+
+33... R8a2+ 34. Rb2 Rxb2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5br1/1pp2p1k/5p1r/p2PpN1R/2P1P3/qP5R/P5PP/7K w - - 0 32"]
+[LichessURL "https://lichess.org/nFSVRJl3/black#62"]
+[PuzzleId "B13Iu"]
+[Themes "mate mateIn2 middlegame short"]
+
+32. Rxh6+ Bxh6 33. Rxh6# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p2R1p1p/bp3q2/4p1p1/1PP1p3/PNQ1P1P1/5nNP/5RK1 b - - 0 27"]
+[LichessURL "https://lichess.org/k28RSQzp#53"]
+[PuzzleId "HOGep"]
+[Themes "deflection discoveredAttack kingsideAttack mate mateIn2 middlegame short"]
+
+27... Nh3+ 28. Kh1 Qxf1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1b2bp2/p3p2Q/1p6/6n1/3B1q2/PPP4P/4K3 w - - 3 28"]
+[LichessURL "https://lichess.org/q7HSNtnR/black#54"]
+[PuzzleId "o58fj"]
+[Themes "endgame mate mateIn2 short"]
+
+28. Qh7+ Kf8 29. Qh8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/ppp3p1/8/3N1B2/4P3/P5Q1/2Pq1r1P/1K5R b - - 6 23"]
+[LichessURL "https://lichess.org/crYxItn7#45"]
+[PuzzleId "Nbzbr"]
+[Themes "endgame mate mateIn2 short"]
+
+23... Qxc2+ 24. Ka1 Qb2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/1qp2p2/4b2p/1pb1pNp1/p3n3/2PQ1N2/PP2BPPP/2KR3R w - - 0 21"]
+[LichessURL "https://lichess.org/WPuECcZk/black#40"]
+[PuzzleId "KcwHV"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+21. Qd8+ Rxd8 22. Rxd8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/pq1p4/1p1B1Q1p/2n5/2P5/PP2K1P1/R7 b - - 4 31"]
+[LichessURL "https://lichess.org/Yy7jgfaE#61"]
+[PuzzleId "XLRLO"]
+[Themes "endgame mate mateIn2 short"]
+
+31... Qe3+ 32. Kd1 Qd2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p5k/p5pp/3BbQ2/1q6/7P/8/7K w - - 0 40"]
+[LichessURL "https://lichess.org/OWRsNSy5/black#78"]
+[PuzzleId "sYyP6"]
+[Themes "endgame mate mateIn2 short"]
+
+40. Qf7+ Bg7 41. Qg8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/7p/2q5/P6r/5P2/3pQ1K1/3R1R2 b - - 4 42"]
+[LichessURL "https://lichess.org/24H1KQyx#83"]
+[PuzzleId "KJhk5"]
+[Themes "endgame mate mateIn2 short"]
+
+42... Qg5+ 43. Kf2 Rh2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3N1pp1/1R2n3/2p3Np/1b1p1r1P/8/8/3K4 w - - 3 42"]
+[LichessURL "https://lichess.org/WcZ1JIik/black#82"]
+[PuzzleId "FfKcH"]
+[Themes "endgame mate mateIn2 short"]
+
+42. Rb8+ Nd8 43. Rxd8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2R3p1/p1N3rp/1p3p2/P6Q/1Pq1P2P/2P1BP1P/5K2 b - - 2 25"]
+[LichessURL "https://lichess.org/kXpHBDdw#49"]
+[PuzzleId "Wv3Q2"]
+[Themes "mate mateIn2 middlegame short"]
+
+25... Qa1+ 26. Bd1 Qxd1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/b4pp1/1q2p1p1/pB2P3/PpQP4/1P1K2P1/8/8 w - - 22 47"]
+[LichessURL "https://lichess.org/CLLowovQ/black#92"]
+[PuzzleId "KThB5"]
+[Themes "endgame mate mateIn2 short"]
+
+47. Qc8+ Qd8 48. Qxd8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p1p2p1p/1p1p2q1/8/2P2P2/1P2PQ1p/P4P1P/7K b - - 1 27"]
+[LichessURL "https://lichess.org/4BlnnMts#53"]
+[PuzzleId "Etk7V"]
+[Themes "endgame mate mateIn2 queenEndgame short"]
+
+27... Qb1+ 28. Qd1 Qxd1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r1r/1bp5/1p6/8/1P6/2PqB1p1/R5Q1/R5K1 w - - 1 38"]
+[LichessURL "https://lichess.org/BZAK49GS/black#74"]
+[PuzzleId "h9lKA"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+38. Ra8+ Bxa8 39. Rxa8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b1k/3R3n/2p2p2/2q1pP2/p6Q/Pp5P/1P3PP1/1K6 b - - 0 41"]
+[LichessURL "https://lichess.org/3XBWl6v6#81"]
+[PuzzleId "hn0bQ"]
+[Themes "endgame mate mateIn2 queensideAttack short"]
+
+41... Qc2+ 42. Ka1 Qc1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/p2nbppp/1p2p3/6Q1/4n2R/4B2P/PPP2PP1/4R1K1 w - - 0 21"]
+[LichessURL "https://lichess.org/Zy6P7xyx/black#40"]
+[PuzzleId "jQGYB"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Rxh7+ Kxh7 22. Qh5# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p3qppp/2pb4/2p4P/2P5/PP2Pp1P/1B3P2/2RQ1RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/PmbBgonF#35"]
+[PuzzleId "vKFTX"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+18... Qg5+ 19. Kh1 Qg2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q5k/p3Q2p/6p1/2pPb3/3r4/7P/Pr4P1/R4RK1 w - c6 0 25"]
+[LichessURL "https://lichess.org/Gc9E4GNp/black#48"]
+[PuzzleId "vWoPp"]
+[Themes "fork mate mateIn2 middlegame short"]
+
+25. Rf8+ Qxf8 26. Qxf8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/Q4ppp/8/2p5/8/2P5/P3KPbP/2R3R1 b - - 0 18"]
+[LichessURL "https://lichess.org/605ZQ8W1#35"]
+[PuzzleId "SH3B5"]
+[Themes "endgame mate mateIn2 short"]
+
+18... Rfe8+ 19. Qe7 Rxe7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/pb2bppp/2p1p3/qp5Q/3PNn2/P1P1P3/1PB2PPP/R3K2R w KQ - 0 17"]
+[LichessURL "https://lichess.org/Ua9fcEhx/black#32"]
+[PuzzleId "cvkPF"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+17. Nf6+ gxf6 18. Qxh7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/3p3p/2p3p1/3PP3/2P1qP1b/5Q1B/6K1 b - - 15 37"]
+[LichessURL "https://lichess.org/StByYOcM#73"]
+[PuzzleId "PES7l"]
+[Themes "endgame mate mateIn2 short"]
+
+37... Qc1+ 38. Qe1 Qxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/1pp2p2/p1np3Q/6N1/3bP3/2N5/PP3PPP/R4RK1 w - - 2 15"]
+[LichessURL "https://lichess.org/nLzJq4eu/black#28"]
+[PuzzleId "Anl1Y"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+15. Qh7+ Kf8 16. Qxf7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppq1ppbp/6p1/2P1n3/1P4n1/P1N1PN2/3BBPPP/R2Q1RK1 b - - 4 12"]
+[LichessURL "https://lichess.org/I2ko7QVk#23"]
+[PuzzleId "cmdMX"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame short"]
+
+12... Nxf3+ 13. gxf3 Qxh2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rb4k1/4Qppp/2q5/p7/1p6/3PB3/PP3P1P/R4bK1 w - - 0 27"]
+[LichessURL "https://lichess.org/CEtdWRZS/black#52"]
+[PuzzleId "t4DNa"]
+[Themes "mate mateIn2 middlegame short"]
+
+27. Qd8+ Qe8 28. Qxe8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P7/8/8/3k2P1/2p5/3p4/3K4 b - - 0 68"]
+[LichessURL "https://lichess.org/X9qMRN2v#135"]
+[PuzzleId "3wyoI"]
+[Themes "advancedPawn endgame master mate mateIn2 pawnEndgame short"]
+
+68... Kd3 69. g5 c2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/3R2b1/5p2/3P1PpQ/4q3/6P1/5P1K/3q4 w - - 0 43"]
+[LichessURL "https://lichess.org/OzTyyecx/black#84"]
+[PuzzleId "TOYT1"]
+[Themes "endgame mate mateIn2 short"]
+
+43. Qf7+ Kh8 44. Qxg7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p1k3/4p2p/4r3/1bP5/1b3B1P/5PP1/1R3KR1 b - - 1 39"]
+[LichessURL "https://lichess.org/g6KQrycb#77"]
+[PuzzleId "osMKT"]
+[Themes "endgame mate mateIn2 short"]
+
+39... Bxc4+ 40. Be2 Bxe2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q2rk1/6pp/5b2/p4B2/6P1/2P1Bb1P/PP3P1q/2K5 w - - 2 27"]
+[LichessURL "https://lichess.org/6NDsb440/black#52"]
+[PuzzleId "GTeFW"]
+[Themes "deflection mate mateIn2 middlegame short"]
+
+27. Be6+ Kh8 28. Qxf8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1RP5/RBNbp1p1/8/3Pn1B1/8/5r1N/6K1 b - - 4 37"]
+[LichessURL "https://lichess.org/Ro8FGnEo#73"]
+[PuzzleId "9dNgy"]
+[Themes "mate mateIn2 middlegame short"]
+
+37... Bxh2+ 38. Kh1 Ng3# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/5p2/p1Pp2p1/q2N3p/4r3/2PR3P/6PK/2Q5 w - - 3 41"]
+[LichessURL "https://lichess.org/SrO0K6Tw/black#80"]
+[PuzzleId "aoUaD"]
+[Themes "endgame mate mateIn2 short"]
+
+41. Qh6+ Kg8 42. Nf6# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pb3pkp/1p2p1p1/2n5/5q2/2P5/PPBNQP1P/R4RK1 b - - 0 20"]
+[LichessURL "https://lichess.org/ERstlSYO#39"]
+[PuzzleId "vVkGS"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+20... Qg5+ 21. Qg4 Qxg4# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3p1ppp/p3p3/3qP3/KR3P2/P3B3/7P/2r5 w - - 0 29"]
+[LichessURL "https://lichess.org/jj5lnlP3/black#56"]
+[PuzzleId "F5UPt"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
+29. Rb8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rc8 30. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6pp/pP4n1/3Q2B1/1bN5/2q5/6PP/5RK1 b - - 4 32"]
+[LichessURL "https://lichess.org/uBpKT2NH#63"]
+[PuzzleId "QLjSh"]
+[Themes "attraction master mate mateIn2 middlegame short"]
+
+32... Rxf1+ 33. Kxf1 Qe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6r1/3p1N2/p1p1q1P1/1p4QP/5R1K/8/8 w - - 4 44"]
+[LichessURL "https://lichess.org/qaAyDODu/black#86"]
+[PuzzleId "TfOwZ"]
+[Themes "endgame mate mateIn2 short"]
+
+44. Qh5+ Rh7 45. Qxh7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1pp2ppp/p2p1n2/4p3/P1B1P2n/2PPBP1q/1RP2P1P/1R3QK1 b kq - 2 16"]
+[LichessURL "https://lichess.org/IDgD0Eju#31"]
+[PuzzleId "I4hoN"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+16... Nxf3+ 17. Kh1 Qxh2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/p4p2/4pP1p/8/P1p4p/2R1P3/5PPP/3Q1RK1 w - - 0 21"]
+[LichessURL "https://lichess.org/QBQXJZYa/black#40"]
+[PuzzleId "gYzhh"]
+[Themes "endgame kingsideAttack mate mateIn2 short"]
+
+21. Qg4+ Kh8 22. Qg7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5pbp/6p1/6P1/4Pn2/P2P1N1P/P7/1KRR4 b - - 0 30"]
+[LichessURL "https://lichess.org/NX4YHJ7w#59"]
+[PuzzleId "0VziR"]
+[Themes "endgame mate mateIn2 short"]
+
+30... Rb8+ 31. Kc2 Rb2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk1nr/ppp4p/3b4/4Np2/4pp1P/8/PPPPQ1P1/RNB1KB1R w KQkq - 2 9"]
+[LichessURL "https://lichess.org/FfSa4zGI/black#16"]
+[PuzzleId "WupTC"]
+[Themes "mate mateIn2 opening short"]
+
+9. Qh5+ Kf8 10. Qf7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4R3/8/5p2/2PP4/Pk6/5r2/1K6 b - - 0 38"]
+[LichessURL "https://lichess.org/d8eaXqpF#75"]
+[PuzzleId "s2yMd"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+38... Rf1+ 39. Re1 Rxe1# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k2nr/1p1n1ppp/p5q1/1N1p4/5B2/5N2/PP4PP/R3R2K w - - 0 18"]
+[LichessURL "https://lichess.org/qdRktilZ/black#34"]
+[PuzzleId "JRFmz"]
+[Themes "mate mateIn2 middlegame short"]
+
+18. Bc7+ Kc8 19. Re8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pb3ppp/1b6/4r2n/2P5/PN1B1P2/1P1B2PP/2R1R2K b - - 4 25"]
+[LichessURL "https://lichess.org/XqoIpHAS#49"]
+[PuzzleId "iaeZ1"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+25... Ng3+ 26. hxg3 Rh5# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2qk1/pp3rp1/2P3Qn/4p3/P1BbN2P/3P4/1P3PP1/n2K3R w - - 1 18"]
+[LichessURL "https://lichess.org/cTDDozcN/black#34"]
+[PuzzleId "DG4v2"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin short"]
+
+18. Nf6+ Kh8 19. Qh7# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6rk/2Q1R2p/5p2/4p2p/7P/Pr4P1/4RnK1 b - - 0 42"]
+[LichessURL "https://lichess.org/dSYLhtnQ#83"]
+[PuzzleId "2EubZ"]
+[Themes "endgame master mate mateIn2 sacrifice short"]
+
+42... Rgxg2+ 43. Kxf1 Rbf2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/5r1p/1p2p2P/2np2Q1/1n6/1P6/1KP3R1/2Bq4 w - - 0 33"]
+[LichessURL "https://lichess.org/HyM89is2/black#64"]
+[PuzzleId "AUgPO"]
+[Themes "mate mateIn2 middlegame short"]
+
+33. Qe5+ Rf6 34. Qxf6# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b2rrk1/pp4pp/3q4/3p4/2pNb3/2P1P1PP/PPB2P1K/R1Q2R2 b - - 3 22"]
+[LichessURL "https://lichess.org/NRiTlkXZ#43"]
+[PuzzleId "p1isS"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+22... Rxf2+ 23. Rxf2 Qxg3# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p3Qr2/n1p3p1/1p1p4/5qb1/3P1nN1/PPP2PK1/R6R w - - 10 28"]
+[LichessURL "https://lichess.org/uKwIOKJT/black#54"]
+[PuzzleId "gGgV0"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
+
+28. Qe8+ Rf8 29. Qxg6# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/ppp4q/4p2p/2bpP1p1/b6P/5NP1/PPP1Q1P1/1NKR3R b - - 2 19"]
+[LichessURL "https://lichess.org/SfTgeCSQ#37"]
+[PuzzleId "DL86a"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
+
+19... Be3+ 20. Nbd2 Qxc2# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2Rrk1/pp4p1/2p3P1/3p4/6n1/2N3P1/PP6/1K5R w - - 2 24"]
+[LichessURL "https://lichess.org/UsCFrx7l/black#46"]
+[PuzzleId "1vSZw"]
+[Themes "attraction deflection mate mateIn2 middlegame short"]
+
+24. Rh8+ Kxh8 25. Rxf8# *
+
+
+
+[Event "Mate In 2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p5pp/8/2P1pp2/8/5b2/Q2r1P1P/2RBK1R1 b - - 0 35"]
+[LichessURL "https://lichess.org/qksmOaIu#69"]
+[PuzzleId "OmcPO"]
+[Themes "mate mateIn2 middlegame short"]
+
+35... Rxd1+ 36. Rxd1 Rxd1# *
+
+
+
