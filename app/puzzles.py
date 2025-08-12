@@ -486,8 +486,38 @@ def write_puzzles_to_pgn(
                     if move not in board.legal_moves:
                         # If it's illegal from this state, skip this puzzle
                         raise ValueError("Illegal move sequence for FEN")
+                    moving_piece = board.piece_at(move.from_square)
+                    side_to_move = board.turn
+                    opponent = chess.BLACK if side_to_move == chess.WHITE else chess.WHITE
+                    opponent_back_rank = 0 if opponent == chess.WHITE else 7
+
                     board.push(move)
                     node = node.add_variation(move)
+
+                    if is_back_rank_theme:
+                        comments: List[str] = []
+                        # After the move, annotate check/mate and back-rank infiltration
+                        if board.is_checkmate():
+                            comments.append(
+                                "Back rank mate! The king is trapped by its own pawns and has no escape squares."
+                            )
+                        else:
+                            # Infiltration on the back rank by heavy piece
+                            if (
+                                moving_piece is not None
+                                and moving_piece.piece_type in {chess.ROOK, chess.QUEEN}
+                                and chess.square_rank(move.to_square) == opponent_back_rank
+                            ):
+                                comments.append(
+                                    "Infiltrates the back rank, tying down the king and threatening mate."
+                                )
+                            if board.is_check():
+                                comments.append(
+                                    "Check — the king remains boxed in behind its pawn shield on the back rank."
+                                )
+
+                        if comments:
+                            node.comment = " " .join(comments)
             except Exception:
                 # Skip malformed sequences
                 continue
