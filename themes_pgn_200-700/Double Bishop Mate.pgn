@@ -1,0 +1,850 @@
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2bkr/ppp3pp/8/n2qp3/2B5/3P4/PPP2PPP/RNB1K2R w KQ - 0 10"]
+[LichessURL "https://lichess.org/SSrHoaNv/black#18"]
+[PuzzleId "XMN1j"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn2 opening short"]
+
+10. Bxd5+ Be6 11. Bxe6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3p1p/p1n3p1/2b5/6b1/1NP2P2/PP5P/R1BR3K b - - 0 22"]
+[LichessURL "https://lichess.org/ovIkHjm9#43"]
+[PuzzleId "ZdrFh"]
+[Themes "doubleBishopMate kingsideAttack master mate mateIn1 middlegame oneMove"]
+
+22... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q3k/pp2n2p/5r2/2p3B1/2B5/2P5/P1P2PPP/2K5 w - - 0 23"]
+[LichessURL "https://lichess.org/7kHV4M04/black#44"]
+[PuzzleId "l9eik"]
+[Themes "doubleBishopMate endgame master mate mateIn1 oneMove"]
+
+23. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5ppk/1p2p1bp/p1b5/2N1P3/1P4P1/1P2B2P/3R3K b - - 0 27"]
+[LichessURL "https://lichess.org/mNbI2TZA#53"]
+[PuzzleId "loZUs"]
+[Themes "doubleBishopMate endgame master mate mateIn2 short"]
+
+27... Bxe4+ 28. Bf3 Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/ppp4p/6p1/4b2b/2BB1p1P/2P2P2/PP3PK1/5R2 w - - 4 25"]
+[LichessURL "https://lichess.org/RJAVp34q/black#48"]
+[PuzzleId "Adhic"]
+[Themes "doubleBishopMate endgame hangingPiece kingsideAttack mate mateIn1 oneMove"]
+
+25. Bxe5# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/p1p4p/8/2b4b/4N3/3P1P2/PPPB3P/7K b - - 0 27"]
+[LichessURL "https://lichess.org/yBrW3yxu#53"]
+[PuzzleId "HaRWu"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+27... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2bk1/7p/p4Bp1/3p4/5P2/1B4P1/P6P/6K1 w - - 0 39"]
+[LichessURL "https://lichess.org/PAZAfTYs/black#76"]
+[PuzzleId "ovWqt"]
+[Themes "doubleBishopMate endgame mate mateIn2 short"]
+
+39. Bxd5+ Qe6 40. Bxe6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/p4kpp/4p3/3pP3/8/1P2bP2/PB2b2P/7K b - - 0 31"]
+[LichessURL "https://lichess.org/GKyldKJx#61"]
+[PuzzleId "Gnn7R"]
+[Themes "doubleBishopMate endgame master mate mateIn1 oneMove"]
+
+31... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rk4r1/pb4pp/1pnp4/8/5BB1/8/PPP2PPP/2K4R w - - 0 18"]
+[LichessURL "https://lichess.org/Wk0nXY2i/black#34"]
+[PuzzleId "FrCVG"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack"]
+
+18. Bxd6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pb2n2p/6p1/2p5/2Nb4/3B1Q2/PPP4P/3R3K b - - 0 24"]
+[LichessURL "https://lichess.org/2vWgYGSN#47"]
+[PuzzleId "F8Tk5"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+24... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rrk2/1pp1np1B/1b5n/p3P2p/5B2/P4PP1/1P3P2/2R4K w - - 0 32"]
+[LichessURL "https://lichess.org/RSUg1W3O/black#62"]
+[PuzzleId "KI95G"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+32. Bxh6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/pp3ppp/2p1p3/2Pp3b/3PP2b/1QN3P1/PP1B4/R3KB1R b KQkq - 0 14"]
+[LichessURL "https://lichess.org/H7yO1hZd#27"]
+[PuzzleId "e9by0"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+14... Bxg3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp5p/2ppBr2/3P4/2n5/2B3P1/PPP4P/6K1 w - - 0 25"]
+[LichessURL "https://lichess.org/SjCy1wo7/black#48"]
+[PuzzleId "KP5Cc"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+25. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p4b1/p2N2np/3P1bp1/8/1BP2pB1/P4P2/K3R3 b - - 0 31"]
+[LichessURL "https://lichess.org/HbNFrL3z#61"]
+[PuzzleId "1uPo4"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+31... Bxc3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/1ppbp3/p1n2pp1/3p4/3P3B/3BP3/PPP2PPP/RN2K1NR w KQkq - 0 8"]
+[LichessURL "https://lichess.org/OZQlAWRD/black#14"]
+[PuzzleId "wJZAR"]
+[Themes "doubleBishopMate mate mateIn1 oneMove opening"]
+
+8. Bxg6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pb4pp/2B2n2/1pb1P3/8/1Q4P1/PP5P/R1B4K b - - 0 25"]
+[LichessURL "https://lichess.org/xMei8vO6#49"]
+[PuzzleId "j7yM8"]
+[Themes "doubleBishopMate mate mateIn2 middlegame short"]
+
+25... Bxc6+ 26. Qf3 Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1np3/2p2p1p/3p2pn/3P2b1/3BPNB1/PPPN1PPP/R2QK2R w KQkq - 0 10"]
+[LichessURL "https://lichess.org/fCLU98gc/black#18"]
+[PuzzleId "aYKwM"]
+[Themes "doubleBishopMate mate mateIn1 oneMove opening"]
+
+10. Bg6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/5ppp/1pb1p3/3pP3/Rb6/8/4NPPP/2BK3R b k - 0 18"]
+[LichessURL "https://lichess.org/wMCc4ysO#35"]
+[PuzzleId "CE7rZ"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+18... Bxa4# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1p1n4/1q2p1p1/2pp2B1/p7/3BP3/PP1N1PPP/1R3RK1 w kq - 0 16"]
+[LichessURL "https://lichess.org/99prvUKh/black#30"]
+[PuzzleId "JvigV"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+16. Bxg6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk1n1/ppp2pp1/3b1n2/3p2P1/6b1/1P2P3/PBPP4/RN2KBNQ b Qq - 0 13"]
+[LichessURL "https://lichess.org/DDSkXEch#25"]
+[PuzzleId "Mv1FG"]
+[Themes "doubleBishopMate mate mateIn1 oneMove opening"]
+
+13... Bg3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p6p/1p1p2p1/2p3BP/8/1B3K2/PP5P/q7 w - - 0 36"]
+[LichessURL "https://lichess.org/cOwHStvR/black#70"]
+[PuzzleId "LlyXA"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+36. Bf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/p2p2bk/2bP4/5P2/1P6/P6P/3R3K b - - 0 51"]
+[LichessURL "https://lichess.org/GanGbKt3#101"]
+[PuzzleId "0s5rR"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+51... Be4# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb2/pp1n2p1/1qp1p3/4P1B1/3P4/2PB4/PP4P1/R4K2 w q - 0 24"]
+[LichessURL "https://lichess.org/IHFkknFM/black#46"]
+[PuzzleId "8B2ne"]
+[Themes "doubleBishopMate master masterVsMaster mate mateIn1 middlegame oneMove"]
+
+24. Bg6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4kb/p1p1B3/8/3bN3/P5P1/1P5P/5R1K b - - 0 31"]
+[LichessURL "https://lichess.org/nixL1UDJ#61"]
+[PuzzleId "NpfLr"]
+[Themes "doubleBishopMate endgame hangingPiece mate mateIn2 short"]
+
+31... Bxe4+ 32. Rf3 Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1B1r3k/p3p2p/b5p1/3B1P2/3p4/8/P4KPP/8 w - - 0 27"]
+[LichessURL "https://lichess.org/TQDV9KH9/black#52"]
+[PuzzleId "lFZW6"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+27. Be5# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppp2ppp/8/2b1P3/1NB2Pb1/5N2/PPP4P/3R3K b - - 0 17"]
+[LichessURL "https://lichess.org/iXQYJA4c#33"]
+[PuzzleId "hmgl8"]
+[Themes "doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+17... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6b1/pp1n3k/2pP3p/3pBp2/3P3p/2PBP2P/P4P1K/8 w - - 0 30"]
+[LichessURL "https://lichess.org/TLU6oUew/black#58"]
+[PuzzleId "62JmO"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+30. Bxf5# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4kr1/pp4pp/2pp4/2b1P1B1/2Q3b1/5N2/PP5P/R2R3K b - - 0 18"]
+[LichessURL "https://lichess.org/Wr0h92F7#35"]
+[PuzzleId "mDKhS"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/pp1b3p/5rp1/3B2B1/3p4/8/PP3PPP/R2K4 w - - 0 26"]
+[LichessURL "https://lichess.org/4lusCLef/black#50"]
+[PuzzleId "d5Xwp"]
+[Themes "doubleBishopMate endgame master mate mateIn1 oneMove"]
+
+26. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pppn1ppp/4p3/3pP2b/5P1b/2P1P1PP/PPQN4/R1B1KB1R b KQkq - 0 11"]
+[LichessURL "https://lichess.org/v4HV2F10#21"]
+[PuzzleId "5cnBl"]
+[Themes "doubleBishopMate mate mateIn1 oneMove opening"]
+
+11... Bxg3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/7p/p1b2rp1/3B4/8/2B5/3K1PPP/8 w - - 0 32"]
+[LichessURL "https://lichess.org/61FODslM/black#62"]
+[PuzzleId "OGpHG"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+32. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pb3p1p/8/8/3PN3/4b1B1/PP5P/R2Q3K b - - 0 29"]
+[LichessURL "https://lichess.org/UP2towon#57"]
+[PuzzleId "1akdv"]
+[Themes "doubleBishopMate endgame mate mateIn2 short"]
+
+29... Bxe4+ 30. Qf3 Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pppbp3/2np2p1/P7/2PpB3/4B3/1P3PPP/R3K1NR w KQkq - 0 15"]
+[LichessURL "https://lichess.org/7U5O0cvK/black#28"]
+[PuzzleId "dCh4V"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+15. Bxg6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/1p4bp/p5p1/5p2/b7/2P5/P3PPPP/R3KB1R b KQk - 0 18"]
+[LichessURL "https://lichess.org/ahvdPY66#35"]
+[PuzzleId "EWt8S"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+18... Bxc3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r2k/4B2p/5p2/2p5/1pBp4/3P3P/1Pb2PPK/6R1 w - - 5 37"]
+[LichessURL "https://lichess.org/FGFlmqDc/black#72"]
+[PuzzleId "FLFEZ"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+37. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4ppp/8/2p5/3b1P2/8/P1B1b2P/1R5K b - - 2 28"]
+[LichessURL "https://lichess.org/uy7AyDNs#55"]
+[PuzzleId "SrCuu"]
+[Themes "doubleBishopMate endgame master mate mateIn1 oneMove"]
+
+28... Bf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r4k/pp2n2p/6p1/4qb2/3n1B2/8/B4RPP/1N3RK1 w - - 0 27"]
+[LichessURL "https://lichess.org/hy1zecDn/black#52"]
+[PuzzleId "Eqrck"]
+[Themes "doubleBishopMate master mate mateIn1 middlegame oneMove"]
+
+27. Bxe5# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp3ppk/1b1Q2b1/8/8/2P5/PP5P/R4R1K b - - 0 23"]
+[LichessURL "https://lichess.org/P234JAWd#45"]
+[PuzzleId "BXzIA"]
+[Themes "doubleBishopMate endgame mate mateIn2 short"]
+
+23... Be4+ 24. Rf3 Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/B1pn1pp1/1p1bpq1p/8/8/2PB4/PP3PPP/R2Q1RK1 w - - 0 14"]
+[LichessURL "https://lichess.org/xdZpLafB/black#26"]
+[PuzzleId "3f0tF"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+14. Ba6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2N3p1/p6p/1pb5/4b3/5P2/PP5P/R2R3K b - - 0 28"]
+[LichessURL "https://lichess.org/ZJINy0UT#55"]
+[PuzzleId "Ai8XM"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+28... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1bkr/1bp3pp/1p2p3/8/2B5/2N5/1P1P1PPP/n1B1K2R w K - 0 15"]
+[LichessURL "https://lichess.org/gxYvCgKD/black#28"]
+[PuzzleId "rGvSn"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+15. Bxe6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1bp2ppp/p3p3/1p2P1B1/8/1B3P2/PPP1Rb1P/R2Q3K b kq - 0 18"]
+[LichessURL "https://lichess.org/mWC9ej71#35"]
+[PuzzleId "2caRm"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/ppb4p/5ppn/8/1P2Pp1B/PB1r4/6K1/8 w - - 0 41"]
+[LichessURL "https://lichess.org/5mjFnU3Y/black#80"]
+[PuzzleId "6TJXd"]
+[Themes "doubleBishopMate endgame master mate mateIn1 oneMove"]
+
+41. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/1B3k1p/p3p1p1/1p6/2Pb1B2/P5P1/1P5P/1R5K b - - 0 22"]
+[LichessURL "https://lichess.org/Tz7ZTjhb#43"]
+[PuzzleId "Copwu"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+22... Bxb7# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1bkr/ppp3pp/4p3/8/2BP2n1/8/PPP3PP/RNB1K2R w KQ - 0 10"]
+[LichessURL "https://lichess.org/6MgNlRy3/black#18"]
+[PuzzleId "oiau1"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn1 oneMove opening"]
+
+10. Bxe6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2r1k1/ppp1b1pp/8/4Pp2/8/1P3N2/b1PB1PPP/2KR1B1R b - - 0 14"]
+[LichessURL "https://lichess.org/kjewt5Wv#27"]
+[PuzzleId "bxvrs"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+14... Ba3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/pp5p/5pp1/2b5/2B1P3/P7/1B3PPP/4K2R w K - 0 19"]
+[LichessURL "https://lichess.org/XHMcEcQM/black#36"]
+[PuzzleId "ilX5a"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+19. Bxf6# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/1b2nppp/5n2/pB6/P1N5/B1P2P2/Q4b1P/1R5K b - - 0 24"]
+[LichessURL "https://lichess.org/2zvNG7zr#47"]
+[PuzzleId "uwOYz"]
+[Themes "doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove"]
+
+24... Bxf3# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bk1r2/pppp1Bpp/8/4P3/8/7P/PP3KP1/RNB5 w - - 1 16"]
+[LichessURL "https://lichess.org/5SN7RIec/black#30"]
+[PuzzleId "Q0w1g"]
+[Themes "doubleBishopMate mate mateIn1 middlegame oneMove"]
+
+16. Bg5# *
+
+
+
+[Event "Double Bishop Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4p2p/pN4p1/3pP3/3pb3/1P2bP2/P6P/R6K b - - 0 28"]
+[LichessURL "https://lichess.org/mvvKVBeT#55"]
+[PuzzleId "CJ5n4"]
+[Themes "doubleBishopMate endgame mate mateIn1 oneMove"]
+
+28... Bxf3# *
+
+
+

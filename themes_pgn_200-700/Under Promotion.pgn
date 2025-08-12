@@ -1,0 +1,17 @@
+[Event "Under Promotion"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1rP1k1/5q2/3p2p1/8/4Q3/PP5P/7K w - - 0 41"]
+[LichessURL "https://lichess.org/Mur5hCPK/black#80"]
+[PuzzleId "u2HBX"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+
+41. e8=N+ Kg6 42. Nxf6 *
+
+
+

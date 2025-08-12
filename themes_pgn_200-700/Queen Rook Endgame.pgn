@@ -1,0 +1,850 @@
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/4p3/3p4/8/P4P1P/2r1q1P1/1R5K w - - 3 33"]
+[LichessURL "https://lichess.org/q7IKFLKu/black#64"]
+[PuzzleId "HFJBz"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+33. Rb8+ Rc8 34. Rxc8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5pp1/4p2p/3pP3/1Q6/8/1P3PPP/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/9s52JE92#55"]
+[PuzzleId "hNsLK"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+28... Rc1+ 29. Qe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q1ppp/8/R7/1p1p4/1Ppr1PP1/2P2K1P/8 w - - 0 36"]
+[LichessURL "https://lichess.org/dywUsXgb/black#70"]
+[PuzzleId "Zorgh"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+36. Ra8+ Qc8 37. Rxc8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pp3p2/4p3/3r4/8/2P3P1/PP3Q1P/K2RR3 b - - 0 27"]
+[LichessURL "https://lichess.org/hyEGXOeO#53"]
+[PuzzleId "udJzS"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+27... Rxd1+ 28. Rxd1 Rxd1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p6/p5KP/8/8/2PR4/P7/4q3 w - - 0 47"]
+[LichessURL "https://lichess.org/Au3IhPh4/black#92"]
+[PuzzleId "aJUPf"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+47. Rd8+ Qe8+ 48. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/k4P2/7Q/7p/3Pp3/5p2/5PPP/6K1 b - - 0 37"]
+[LichessURL "https://lichess.org/ydtErbky#73"]
+[PuzzleId "EpPvY"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+37... Rb1+ 38. Qc1 Rxc1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/5p1k/3qpPp1/1p6/2p1R3/3p2P1/1P3P1P/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/YTzmimZd/black#56"]
+[PuzzleId "iY1ct"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+29. Rh4# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2Q2ppp/8/8/P1Pp4/3P4/2P1rPPP/R3R1K1 b - - 0 20"]
+[LichessURL "https://lichess.org/ZrW94MT8#39"]
+[PuzzleId "0BtyY"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+20... Rxe1+ 21. Rxe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/R4p1p/5P2/6K1/1q4P1/p6P/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/mEiKc7Hz/black#94"]
+[PuzzleId "DixEs"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+48. Ra8+ Qb8 49. Rxb8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp2ppp/8/8/2P5/5Q2/P4PPP/4R1KR b - - 0 18"]
+[LichessURL "https://lichess.org/aayTFlIJ#35"]
+[PuzzleId "326OK"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+18... Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3R2pp/8/5r2/3pp3/4P2P/3q1PP1/5RK1 w - - 0 34"]
+[LichessURL "https://lichess.org/wUdrPRfl/black#66"]
+[PuzzleId "Ld7xd"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+34. Rd8+ Rf8 35. Rxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3rpp/p1p5/3p4/1Q6/6R1/P1P3PP/5R1K b - - 0 32"]
+[LichessURL "https://lichess.org/bGSbNljz#63"]
+[PuzzleId "rWM0R"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+32... Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
+[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
+[PuzzleId "fImTO"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+39. Re8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pQ4pp/2p5/3p4/8/2P2P2/4r1PP/R6K b - - 0 28"]
+[LichessURL "https://lichess.org/tYNH1cBz#55"]
+[PuzzleId "O8NlJ"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+28... Re1+ 29. Rxe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6R/8/8/8/k1K5/r7/1q6 w - - 2 71"]
+[LichessURL "https://lichess.org/PZ8cyLv0/black#140"]
+[PuzzleId "GBS4m"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+71. Rxa7# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr5/1p3p2/pQ1p3r/4p3/4Pp2/3R4/PP3P2/K1R5 b - - 0 32"]
+[LichessURL "https://lichess.org/kd7ASgaS#63"]
+[PuzzleId "9ukvE"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+32... Rxc1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/p4ppp/8/3P2q1/4R3/7P/P4PP1/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/i1I6zCwD/black#50"]
+[PuzzleId "2Ymrf"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+26. Re8+ Rxe8 27. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/6p1/p5R1/3p1p2/5P2/P7/4r1PP/2Q4K b - - 0 39"]
+[LichessURL "https://lichess.org/AI2LW5iq#77"]
+[PuzzleId "gxDwX"]
+[Themes "backRankMate endgame fork master mate mateIn2 queenRookEndgame short"]
+
+39... Re1+ 40. Qxe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/1q2p3/R2pP3/5P2/2r4P/6PK/8 w - - 0 33"]
+[LichessURL "https://lichess.org/Lo532jEn/black#64"]
+[PuzzleId "o7Pyg"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
+
+33. Ra8+ Rc8 34. Rxc8+ Qd8 35. Rxd8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p3Rp/ppp5/6P1/Pq4Pk/1P3P2/3R2K1 b - - 2 36"]
+[LichessURL "https://lichess.org/qKjCf1e8#71"]
+[PuzzleId "TbSap"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove queenRookEndgame"]
+
+36... Qxd1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/r5r1/8/4q3/6P1/5P1P/RR4K1 w - - 0 29"]
+[LichessURL "https://lichess.org/GpewcOdJ/black#56"]
+[PuzzleId "u8TWi"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+29. Rb8+ Qe8 30. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3pp1/4p2p/5Q2/8/P1P1R3/1P3PPP/6K1 b - - 0 27"]
+[LichessURL "https://lichess.org/tm1DzfRu#53"]
+[PuzzleId "veq2L"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+27... Rd1+ 28. Re1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p4pp/2p5/4r3/1p6/1P4P1/P3q2P/3R1R1K w - - 0 24"]
+[LichessURL "https://lichess.org/mhlIar5k/black#46"]
+[PuzzleId "kxMNz"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+24. Rxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3rpp/p7/8/8/P1Q5/1P4PP/3r1RK1 b - - 2 26"]
+[LichessURL "https://lichess.org/A0g3mA6V#51"]
+[PuzzleId "SIumJ"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+26... Rdxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p2R2pp/8/2q2pr1/P6P/5K2/1P3P2/8 w - - 0 35"]
+[LichessURL "https://lichess.org/8uqhaOyK/black#68"]
+[PuzzleId "gDWXr"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+35. Rd8+ Qf8 36. Rxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pQ6/3p1p1p/2p2Pp1/4r3/8/PPP2RPP/7K b - - 0 28"]
+[LichessURL "https://lichess.org/PoCFRZOY#55"]
+[PuzzleId "B0035"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+28... Re1+ 29. Rf1 Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/3R1ppp/8/1pP5/1q6/7P/5PP1/3R2K1 w - - 0 32"]
+[LichessURL "https://lichess.org/6FlqxohU/black#62"]
+[PuzzleId "sZVDj"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+32. Rd8+ Rxd8 33. Rxd8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/2Q5/P2p4/8/2P1p3/6PP/5R1K b - - 0 28"]
+[LichessURL "https://lichess.org/aKgsOLZV#55"]
+[PuzzleId "JxzbB"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+28... Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/8/7q/8/6P1/P4P1P/4R1K1 w - - 0 28"]
+[LichessURL "https://lichess.org/Gczji28q/black#54"]
+[PuzzleId "oonPQ"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+28. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/pQp3pp/8/8/1PP5/P7/5RPP/6K1 b - - 0 23"]
+[LichessURL "https://lichess.org/ko7qaXz8#45"]
+[PuzzleId "ddVFT"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+23... Re1+ 24. Rf1 Rexf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/p2p4/5q2/2P5/8/PP1K1P1P/4R3 w - - 0 29"]
+[LichessURL "https://lichess.org/XzkaZPiI/black#56"]
+[PuzzleId "uZiEo"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+29. Re8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/2p3pp/p1Pp4/3P4/2P1rpQ1/1P6/P4RPP/7K b - - 0 26"]
+[LichessURL "https://lichess.org/ZFLvl9fV#51"]
+[PuzzleId "qlE7Z"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+26... Re1+ 27. Rf1 Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/6pp/8/8/P4p1q/2P5/5r1P/4RR1K w - - 0 40"]
+[LichessURL "https://lichess.org/wG2wb6e6/black#78"]
+[PuzzleId "QqL2P"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+40. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pkp3pp/1p2p3/8/3QPr2/2P5/PP2R1PP/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/g3VkjVsO#57"]
+[PuzzleId "KrVGz"]
+[Themes "endgame mate mateIn1 oneMove queenRookEndgame"]
+
+29... Rf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/3p3r/2p4q/5r1P/P2P1PP1/4R1K1/4R3 w - - 0 28"]
+[LichessURL "https://lichess.org/YUYgK2Zt/black#54"]
+[PuzzleId "yABlp"]
+[Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
+
+28. Re8+ Qxe8 29. Rxe8+ Rf8 30. Rxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/6pp/p4p2/1p2pP2/4P3/2Q5/6PP/7K b - - 0 33"]
+[LichessURL "https://lichess.org/5Bq7o2xh#65"]
+[PuzzleId "sjKqJ"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+33... Rd1+ 34. Qe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/7p/5RpP/8/p2p2P1/8/1qP5/3K1R2 w - - 0 37"]
+[LichessURL "https://lichess.org/W3aJJHoJ/black#72"]
+[PuzzleId "Q0eZR"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+37. Rf8+ Rxf8 38. Rxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/p4pp1/1p2p2Q/8/2p5/6R1/PP3PPP/3R2K1 b - - 0 25"]
+[LichessURL "https://lichess.org/x9LwtuIX#49"]
+[PuzzleId "zAlr5"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+25... Rxd1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k2q/2p1P3/6P1/1P4KP/P4R2/8 w - - 7 60"]
+[LichessURL "https://lichess.org/IMPNmW93/black#118"]
+[PuzzleId "LpHio"]
+[Themes "crushing endgame fork master queenRookEndgame short"]
+
+60. Rf6+ Qxf6 61. exf6 *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/4R3/3P1k2/8/8/2p2p2/5Pq1/4K3 b - - 3 54"]
+[LichessURL "https://lichess.org/ldnxqrkW#107"]
+[PuzzleId "xkKnW"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+54... Qg1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/p5pp/5pq1/8/8/8/PP3PPP/2R3K1 w - - 0 27"]
+[LichessURL "https://lichess.org/eXRKyChu/black#52"]
+[PuzzleId "N5wCW"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+27. Rxc8+ Qe8 28. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/3Q2pp/2p3p1/1p1p4/pP1P4/P1P3P1/6PP/5R1K b - - 0 27"]
+[LichessURL "https://lichess.org/IfEbwRbt#53"]
+[PuzzleId "Mnhtd"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+27... Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3ppp/8/8/4r3/2P4P/PPqR1PP1/R5K1 w - - 0 27"]
+[LichessURL "https://lichess.org/X1fo6nHG/black#52"]
+[PuzzleId "gClHv"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+27. Rxd8+ Re8 28. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kr2/p3p2R/1p1p1p2/5Q2/8/8/P4PPP/2R3K1 b - - 0 26"]
+[LichessURL "https://lichess.org/ic2CJwx0#51"]
+[PuzzleId "OT3BM"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+26... Rxc1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k5q1/pp4p1/4p3/3pp3/8/2R5/PP3PP1/2R3K1 w - - 0 33"]
+[LichessURL "https://lichess.org/Tyor7j7y/black#64"]
+[PuzzleId "ZRh3c"]
+[Themes "backRankMate endgame fork mate mateIn2 queenRookEndgame short"]
+
+33. Rc8+ Qxc8 34. Rxc8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/2k2p1p/1RP1p3/3rP3/4Q1p1/P7/5PPP/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/i1zPnQ05#55"]
+[PuzzleId "IosLj"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+28... Rd1+ 29. Qe1 Rxe1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppp2ppp/8/2P1r3/1P6/Pq4P1/3R1PKP/8 w - - 0 31"]
+[LichessURL "https://lichess.org/haetI2xv/black#60"]
+[PuzzleId "T4COe"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+31. Rd8+ Re8 32. Rxe8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp2rp1p/2p2RpQ/8/8/8/P5PP/7K b - - 0 26"]
+[LichessURL "https://lichess.org/IbSlXAt8#51"]
+[PuzzleId "gFokR"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+26... Re1+ 27. Rf1 Rxf1# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p1r3p/2p2q1P/3p1p2/p2P1P2/2P2P2/PP6/1K2R3 w - - 0 34"]
+[LichessURL "https://lichess.org/TsI6UFgp/black#66"]
+[PuzzleId "RUbhT"]
+[Themes "endgame mate mateIn2 queenRookEndgame short"]
+
+34. Re8+ Qf8 35. Rxf8# *
+
+
+
+[Event "Queen Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r2/pp3r2/8/3Q3p/6p1/8/P5PP/1R5K b - - 0 30"]
+[LichessURL "https://lichess.org/JL0HWSGw#59"]
+[PuzzleId "3YNVa"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+
+30... Rf1+ 31. Rxf1 Rxf1# *
+
+
+

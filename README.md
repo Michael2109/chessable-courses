@@ -21,3 +21,5 @@ uv run pytest -q
 - `app/`: main application code
 - `tests/`: pytest tests
 - `pyproject.toml`: project configuration and dependencies
+
+uv run python -m app.main --csv-path lichess_db_puzzle.csv --min-rating 200 --max-rating 700 --per-theme 50 --center 450

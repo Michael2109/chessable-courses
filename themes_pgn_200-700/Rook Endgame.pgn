@@ -1,0 +1,850 @@
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37. Rf8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3pp1p/1p4p1/8/1P6/P2RP3/5PPP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/w15Hfqln#51"]
+[PuzzleId "ui6iw"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26... Rc1+ 27. Rd1 Rxd1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/8/6p1/4r2p/4p1kP/4P1P1/6K1/8 w - - 9 54"]
+[LichessURL "https://lichess.org/D8F6M5a2/black#106"]
+[PuzzleId "ms2HC"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+54. Rf4# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
+[LichessURL "https://lichess.org/ZzONJuGy#93"]
+[PuzzleId "hTYme"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+47... Ra1+ 48. Rb1 Rxb1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/1p6/3p4/2r5/5P2/P1r4P/1R2R2K w - - 0 26"]
+[LichessURL "https://lichess.org/MjNX54Y1/black#50"]
+[PuzzleId "9xJSn"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+
+26. Re8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/pp4p1/7p/4p3/8/8/PP1R1PPP/6K1 b - - 2 26"]
+[LichessURL "https://lichess.org/loWA2pq7#51"]
+[PuzzleId "DTvBN"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26... Rc1+ 27. Rd1 Rxd1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p2R2pp/1p3p2/4r3/8/7P/P5P1/6K1 w - - 0 35"]
+[LichessURL "https://lichess.org/s7NOp7WX/black#68"]
+[PuzzleId "61Yld"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+35. Rd8+ Re8 36. Rxe8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/4pk2/3p4/8/6R1/2r1r1PP/6K1 b - - 2 38"]
+[LichessURL "https://lichess.org/ocwnShYX#75"]
+[PuzzleId "1lszn"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+
+38... Rc1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/p7/8/4r3/7P/PP1R1PP1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/ADmahA9x/black#56"]
+[PuzzleId "BHu6q"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+29. Rd8+ Re8 30. Rxe8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p4R2/4r3/P6P/1P4k1/2P5/7K b - - 0 55"]
+[LichessURL "https://lichess.org/0fv5R9TG#109"]
+[PuzzleId "W5vnG"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+55... Re1+ 56. Rf1 Rxf1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5K2/8/1r6/8/R7/8 w - - 2 61"]
+[LichessURL "https://lichess.org/tDSunSTW/black#120"]
+[PuzzleId "D2me7"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+61. Ra8+ Rb8 62. Rxb8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2R5/7r/PP6/4kp2/2P5/5K2 b - - 0 64"]
+[LichessURL "https://lichess.org/8k22cITa#127"]
+[PuzzleId "EtW9Y"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+64... Rh1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/2R5/5K2/p3p3/P2pP3/1r6/8/8 w - - 0 52"]
+[LichessURL "https://lichess.org/Y6jBzeVM/black#102"]
+[PuzzleId "oZs3t"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+52. Rc8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/1R5K/6P1/r7/8/8 b - - 0 65"]
+[LichessURL "https://lichess.org/1rnld0ZM#129"]
+[PuzzleId "yW4T9"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+65... Rh3# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/5p2/4pp1p/8/2P5/1rkp1P2/1R4PP/1R1K4 w - - 0 30"]
+[LichessURL "https://lichess.org/PD4ns4La/black#58"]
+[PuzzleId "FEVy3"]
+[Themes "crushing endgame rookEndgame short"]
+
+30. Rxb3+ Rxb3 31. Rxb3+ *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/p7/8/PpR5/1P6/2Pr1PPP/2R3K1 b - - 2 28"]
+[LichessURL "https://lichess.org/7TzsG7Gi#55"]
+[PuzzleId "DgoV8"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+28... Rd1+ 29. Rxd1 Rxd1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/p1pp4/Pp6/3P4/4r2P/R1P5/2r5/5RK1 w - - 7 30"]
+[LichessURL "https://lichess.org/ZPgoyL2t/black#58"]
+[PuzzleId "pSkUA"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+30. Rf8+ Re8 31. Rxe8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/5p1p/8/5RP1/Pp3P2/1P5P/1K6 b - - 0 39"]
+[LichessURL "https://lichess.org/xqSv0ZZN#77"]
+[PuzzleId "PfUxI"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+39... Rd1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2rk1/8/pK6/P7/8/8/8 w - - 0 62"]
+[LichessURL "https://lichess.org/TR32N1mB/black#122"]
+[PuzzleId "oft1v"]
+[Themes "crushing endgame master rookEndgame short"]
+
+62. Rxf7+ Kxf7 63. Kxa5 *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/k7/4r3/KR6 b - - 36 76"]
+[LichessURL "https://lichess.org/x6kLSlQQ#151"]
+[PuzzleId "3vn9w"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+76... Ra2# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/8/4p3/3p4/3Pk3/4P3/4K3/7r w - - 7 48"]
+[LichessURL "https://lichess.org/X6D6cPk0/black#94"]
+[PuzzleId "eN1HZ"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+48. Rf4# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/3RR3/5p2/1k1p4/3P2pP/2P3P1/6K1 b - - 2 49"]
+[LichessURL "https://lichess.org/3CHnIYrg#97"]
+[PuzzleId "ww7tp"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+49... Ra1+ 50. Re1 Rxe1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r2/8/p6p/1p6/3p1kPP/5P2/PP3K2/4R3 w - - 0 31"]
+[LichessURL "https://lichess.org/BYdKHyOD/black#60"]
+[PuzzleId "coCkm"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+31. Re4# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/R7/KP6/1P6/3r4/8/8 b - - 0 80"]
+[LichessURL "https://lichess.org/sLahZmgr#159"]
+[PuzzleId "Xbebo"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+80... Ra3# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/p1R5/1p6/8/PP1r3P/5PP1/6K1 w - - 2 29"]
+[LichessURL "https://lichess.org/IZMOZXC5/black#56"]
+[PuzzleId "vOFFM"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+29. Rc8+ Rd8 30. Rxd8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/1R5p/6p1/6P1/5k2/7P/5K2 b - - 0 39"]
+[LichessURL "https://lichess.org/8HeTTc6f#77"]
+[PuzzleId "4xwHA"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+39... Ra1+ 40. Rb1 Rxb1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/8/8/8/8/3K4/pr6/1k6 w - - 2 86"]
+[LichessURL "https://lichess.org/Gk5W2Fgp/black#170"]
+[PuzzleId "MIX0n"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+
+86. Re1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3R2p1/pP5p/5r2/8/P7/2P1p1PP/4R2K b - - 0 32"]
+[LichessURL "https://lichess.org/wT8LgOch#63"]
+[PuzzleId "aUnoL"]
+[Themes "advancedPawn endgame mate mateIn2 promotion rookEndgame short"]
+
+32... Rf1+ 33. Rxf1 exf1=Q# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p2P1ppp/8/2p1R3/2r1P1P1/7P/8/6K1 w - - 1 37"]
+[LichessURL "https://lichess.org/btjFNQiL/black#72"]
+[PuzzleId "jyjKD"]
+[Themes "advancedPawn endgame mate mateIn2 promotion rookEndgame short"]
+
+37. Re8+ Rxe8 38. dxe8=Q# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2pk1/4p2p/4P1p1/r2R4/8/5PPP/6K1 b - - 0 38"]
+[LichessURL "https://lichess.org/4cuuOw6i#75"]
+[PuzzleId "wyUvi"]
+[Themes "backRankMate endgame long mate mateIn3 rookEndgame"]
+
+38... Ra1+ 39. Rc1 Rxc1+ 40. Rd1 Rxd1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/5p1p/p7/2pk1p2/2p5/P5PP/1PR2PK1/8 w - - 0 38"]
+[LichessURL "https://lichess.org/nkMMV5dJ/black#74"]
+[PuzzleId "H4P8o"]
+[Themes "crushing endgame master rookEndgame short skewer"]
+
+38. Rd2+ Kc6 39. Rxd8 *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kpr1/7R/4R2K/7P/8/4r3/8 b - - 12 51"]
+[LichessURL "https://lichess.org/V3s7VGKv#101"]
+[PuzzleId "ketJo"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
+
+51... Rxe5# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/8/R7/6Pk/7P/p4K2/7r w - - 8 49"]
+[LichessURL "https://lichess.org/cgSwSJQc/black#96"]
+[PuzzleId "Wql3h"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+49. Rh5# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/8/pR1P2PP/Kp6/3r4/8 b - - 4 44"]
+[LichessURL "https://lichess.org/N6GZBe0S#87"]
+[PuzzleId "bUaFW"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+44... Ra2# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/4R3/1p6/1P1pp2p/2pPk1p1/2P1P1P1/4K2P/8 w - - 2 39"]
+[LichessURL "https://lichess.org/bIOn6Zuv/black#76"]
+[PuzzleId "ItyLf"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+39. Rxe5# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/1R6/1p6/5kPK/1P6/8/8 b - - 1 43"]
+[LichessURL "https://lichess.org/Yj3XmFNr#85"]
+[PuzzleId "6628T"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+43... Rh7+ 44. Rh6 Rxh6# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/5p2/8/3P4/2rpP3/PR3PPP/5K2 w - - 0 23"]
+[LichessURL "https://lichess.org/K0NtMEgp/black#44"]
+[PuzzleId "hrWUT"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+23. Rb8+ Rc8 24. Rxc8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p1R4p/1p1p2p1/8/8/3P4/P3rPPP/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/RieriDik#55"]
+[PuzzleId "AM1aN"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+
+28... Re1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/1R6/p1p5/P1K5/P2P1P2/5r1P/4r3 w - - 0 33"]
+[LichessURL "https://lichess.org/1ZLAZuhR/black#64"]
+[PuzzleId "MBsnu"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+33. Rb8+ Re8 34. Rxe8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/5p1p/5Pp1/PR1P4/8/6pP/6P1/2R3K1 b - - 0 37"]
+[LichessURL "https://lichess.org/tTVnjIIl#73"]
+[PuzzleId "iHfRT"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
+
+37... Rxc1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p5pp/3r4/2p5/2P3P1/5p1P/P4P2/1R4K1 w - - 0 33"]
+[LichessURL "https://lichess.org/16Sg5ABI/black#64"]
+[PuzzleId "c6Fjz"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+33. Rb8+ Rd8 34. Rxd8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/R2p1pp1/4p2p/4P3/3P4/1r6/5PPP/6K1 b - - 0 27"]
+[LichessURL "https://lichess.org/hhmKEQi2#53"]
+[PuzzleId "o54eg"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+
+27... Rb1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/5pP1/4rP1k/5K2/4p3/4R3 w - - 0 50"]
+[LichessURL "https://lichess.org/IBxPALZc/black#98"]
+[PuzzleId "TbBEA"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame"]
+
+50. Rh1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5r1p/p5p1/1p2p3/8/2P4R/PP4PP/5R1K b - - 1 26"]
+[LichessURL "https://lichess.org/YImX1MEN#51"]
+[PuzzleId "CcSzC"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
+
+26... Rxf1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pp1/7p/3R4/4pkPP/2r2P2/5K2/8 w - - 0 39"]
+[LichessURL "https://lichess.org/xOt5cD8Q/black#76"]
+[PuzzleId "OGJ5A"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+39. Rf5# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1r2P3/5p2/5P2/3R1P1k/8/7K b - - 0 44"]
+[LichessURL "https://lichess.org/aV9Ie1Hz#87"]
+[PuzzleId "0XqGm"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+44... Rb1+ 45. Rd1 Rxd1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/8/6p1/6rk/8/5K2/8/8 w - - 0 59"]
+[LichessURL "https://lichess.org/TXv2AYUb/black#116"]
+[PuzzleId "nJoCC"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+59. Rh8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/rPR2p1p/3P2p1/8/8/8/5PPP/6K1 b - - 0 41"]
+[LichessURL "https://lichess.org/oVfobQxF#81"]
+[PuzzleId "zvF0J"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+41... Ra1+ 42. Rc1 Rxc1# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/R4p1p/6pP/8/5PK1/1r6/R5P1/6r1 w - - 3 40"]
+[LichessURL "https://lichess.org/6ih2nYIL/black#78"]
+[PuzzleId "lLLr0"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
+
+40. Ra8+ Rb8 41. Rxb8# *
+
+
+
+[Event "Rook Endgame"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp4p1/7p/5p2/3P4/P1r1R3/5PPP/6K1 b - - 1 24"]
+[LichessURL "https://lichess.org/PanBzA9T#47"]
+[PuzzleId "jOsIg"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+24... Rc1+ 25. Re1 Rxe1# *
+
+
+

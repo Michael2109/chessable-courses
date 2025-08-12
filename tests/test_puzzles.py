@@ -45,7 +45,7 @@ def test_iter_and_filter_and_select_and_pgn(tmp_path: Path) -> None:
 
     # Write to PGN
     out_pgn = tmp_path / "out.pgn"
-    count = write_puzzles_to_pgn(selected, str(out_pgn), present_after_opponent_first_move=True)
+    count = write_puzzles_to_pgn(selected, str(out_pgn), present_after_opponent_first_move=True, event_prefix="Test")
 
     assert count >= 1
     text = out_pgn.read_text(encoding="utf-8")
@@ -61,8 +61,9 @@ def test_iter_and_filter_and_select_and_pgn(tmp_path: Path) -> None:
     game = games[0]
     assert game is not None
     assert game.headers.get("SetUp") == "1"
-    # Event now groups by humanized theme name
-    assert game.headers.get("Event", "") in {"Mate", "Fork", "Advantage"}
+    # Event now groups by humanized theme name with optional prefix
+    event_val = game.headers.get("Event", "")
+    assert any(event_val == f"Test {name}" for name in ["Mate", "Fork", "Advantage"]) or event_val in {"Mate", "Fork", "Advantage"}
 
 
 def _read_all_games(pgn_text: str) -> List[chess.pgn.Game]:

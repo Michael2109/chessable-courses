@@ -46,10 +46,10 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     parser.add_argument(
         "--center",
         type=int,
-        default=700,
+        default=None,
         help=(
-            "Difficulty center for sorting (distance from this rating). "
-            "Use 700 for a 600-800 band."
+            "Difficulty center for ordering. If omitted, defaults to the midpoint of "
+            "[--min-rating, --max-rating]."
         ),
     )
     parser.add_argument(
@@ -75,8 +75,11 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--out-pgn",
-        default=os.path.join(os.getcwd(), "puzzles_600_800.pgn"),
-        help="Output PGN path",
+        default=None,
+        help=(
+            "Optional path for a single combined PGN. "
+            "If omitted, no combined PGN is written; only per-theme PGNs are created."
+        ),
     )
     parser.add_argument(
         "--start-after-first-move",
@@ -105,6 +108,19 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
             "(white/black/both)."
         ),
     )
+    parser.add_argument(
+        "--event-prefix",
+        default=None,
+        help="Optional text to prefix the PGN Event tag (e.g., 'Test').",
+    )
+    parser.add_argument(
+        "--out-dir",
+        default=None,
+        help=(
+            "Directory to place per-theme PGNs. "
+            "Defaults to a name derived from rating range, e.g., 'themes_pgn_200-700'."
+        ),
+    )
 
     return parser.parse_args(argv)
 
@@ -125,9 +141,13 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         limit_total=args.limit_total,
         force_color=args.force_color,
         opening_color_tag=args.opening_color_tag,
+        event_prefix=args.event_prefix,
     )
 
-    print(f"Wrote {written} puzzles to {args.out_pgn}")
+    if args.out_pgn:
+        print(f"Wrote {written} puzzles to {args.out_pgn}")
+    else:
+        print(f"Selected {written} puzzles (no combined PGN written)")
     # Human-friendly, concise console summary
     try:
         from itertools import islice
@@ -160,14 +180,41 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     except Exception:
         pass
 
-    # Emit per-theme PGNs under ./themes_pgn
+    # Detailed per-theme listing ordered by rating (difficulty)
     try:
-        out_dir = os.path.join(os.getcwd(), "themes_pgn")
+        from collections import defaultdict
+        theme_to_puzzles: dict[str, list] = defaultdict(list)
+        for theme, puzzle in selected:
+            theme_to_puzzles[theme].append(puzzle)
+
+        def difficulty_key(p):
+            return (p.rating,)
+
+        print("Details by theme (ordered by rating):")
+        for theme in sorted(theme_to_puzzles.keys()):
+            items = sorted(theme_to_puzzles[theme], key=difficulty_key)
+            friendly = theme.replace("_", " ")
+            print(f"\n[{friendly}] count={len(items)}")
+            for idx, p in enumerate(items, start=1):
+                dist = abs(p.rating - args.center) if isinstance(args.center, int) else 0
+                print(
+                    f"  {idx:>3}. id={p.puzzle_id} rating={p.rating} dev={p.rating_deviation} "
+                    f"pop={p.popularity} plays={p.num_plays} dist={dist} url={p.game_url}"
+                )
+        print()
+    except Exception:
+        pass
+
+    # Emit per-theme PGNs under a directory derived from settings (or user-provided)
+    try:
+        derived_dir = f"themes_pgn_{args.min_rating}-{args.max_rating}"
+        out_dir = args.out_dir or os.path.join(os.getcwd(), derived_dir)
         counts = write_puzzles_per_theme_to_directory(
             puzzles_with_theme=selected,
             output_dir=out_dir,
             present_after_opponent_first_move=args.start_after_first_move,
             opening_color_tag=args.opening_color_tag,
+            event_prefix=args.event_prefix,
         )
         print(f"Wrote per-theme PGNs to {out_dir}")
     except Exception:

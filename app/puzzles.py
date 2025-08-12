@@ -45,6 +45,22 @@ class Puzzle:
         return tuple(t for t in self.themes if t)
 
 
+@dataclass(frozen=True)
+class GenerationConfig:
+    csv_path: str
+    min_rating: int
+    max_rating: int
+    per_theme: int = 50
+    center: Optional[int] = None
+    include_themes: Optional[Sequence[str]] = None
+    out_dir: Optional[str] = None
+    out_pgn: Optional[str] = None
+    start_after_first_move: bool = True
+    force_color: Optional[str] = None
+    opening_color_tag: Optional[str] = None
+    event_prefix: Optional[str] = None
+
+
 def _open_text_stream(path: str) -> io.TextIOBase:
     """Open a text stream for CSV which might be plain .csv or .csv.zst.
 
@@ -402,6 +418,7 @@ def write_puzzles_to_pgn(
     output_path: str,
     present_after_opponent_first_move: bool = False,
     opening_color_tag: Optional[str] = None,
+    event_prefix: Optional[str] = None,
 ) -> int:
     """Write puzzles to a single PGN file and return count written.
 
@@ -432,9 +449,13 @@ def write_puzzles_to_pgn(
 
 
             game = chess.pgn.Game()
-            # Group by theme via Event using a human-friendly name
+            # Group by theme via Event using a human-friendly name, with optional prefix
             friendly_theme = _humanize_theme(theme)
-            game.headers["Event"] = friendly_theme or theme
+            if event_prefix:
+                sep = "" if event_prefix.endswith(" ") else " "
+                game.headers["Event"] = f"{event_prefix}{sep}{friendly_theme or theme}".strip()
+            else:
+                game.headers["Event"] = friendly_theme or theme
             # Use neutral site to avoid any accidental orientation hints from URLs like /black#
             game.headers["Site"] = "https://lichess.org"
             game.headers["SetUp"] = "1"
@@ -484,8 +505,12 @@ def write_puzzles_per_theme_to_directory(
     output_dir: str,
     present_after_opponent_first_move: bool = False,
     opening_color_tag: Optional[str] = None,
+    event_prefix: Optional[str] = None,
 ) -> Dict[str, int]:
-    """Write one PGN file per theme; returns mapping theme -> count written."""
+    """Write one PGN file per theme; returns mapping theme -> count written.
+
+    If event_prefix is provided, it will be prepended to the PGN Event header.
+    """
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -508,6 +533,7 @@ def write_puzzles_per_theme_to_directory(
             output_path=path,
             present_after_opponent_first_move=present_after_opponent_first_move,
             opening_color_tag=opening_color_tag,
+            event_prefix=event_prefix,
         )
         out_counts[theme] = count
 
@@ -628,11 +654,12 @@ def build_puzzles_pipeline(
     per_theme: int,
     difficulty_center: Optional[int],
     include_themes: Optional[Sequence[str]],
-    out_pgn_path: str,
+    out_pgn_path: Optional[str],
     present_after_opponent_first_move: bool = False,
     limit_total: Optional[int] = None,
     force_color: Optional[str] = None,
     opening_color_tag: Optional[str] = None,
+    event_prefix: Optional[str] = None,
 ) -> Tuple[int, Dict[str, Any], List[Tuple[str, Puzzle]]]:
     """End-to-end pipeline: stream, filter, group, select, and emit PGN.
 
@@ -641,6 +668,12 @@ def build_puzzles_pipeline(
 
     streamed = iter_puzzles_csv(csv_path)
     filtered = filter_puzzles_by_rating(streamed, rating_min, rating_max)
+    # Default difficulty center to the midpoint of the band if not provided
+    center_to_use: Optional[int]
+    if difficulty_center is None:
+        center_to_use = (int(rating_min) + int(rating_max)) // 2
+    else:
+        center_to_use = difficulty_center
     # Use stratified selection to spread across rating band in small increments
     selected = select_top_per_theme_streaming_stratified(
         filtered,
@@ -648,7 +681,7 @@ def build_puzzles_pipeline(
         min_rating=rating_min,
         max_rating=rating_max,
         bin_size=5,
-        difficulty_center=difficulty_center,
+        difficulty_center=center_to_use,
         include_themes=include_themes,
         present_after_opponent_first_move=present_after_opponent_first_move,
     )
@@ -673,15 +706,20 @@ def build_puzzles_pipeline(
     if limit_total is not None:
         selected = selected[:limit_total]
 
-    # Ensure directory exists
-    os.makedirs(os.path.dirname(out_pgn_path) or ".", exist_ok=True)
-
-    written = write_puzzles_to_pgn(
-        puzzles_with_theme=selected,
-        output_path=out_pgn_path,
-        present_after_opponent_first_move=present_after_opponent_first_move,
-        opening_color_tag=opening_color_tag if opening_color_tag in {"white", "black", "both"} else None,
-    )
+    written = 0
+    if out_pgn_path:
+        # Ensure directory exists only if we are writing the combined PGN
+        os.makedirs(os.path.dirname(out_pgn_path) or ".", exist_ok=True)
+        written = write_puzzles_to_pgn(
+            puzzles_with_theme=selected,
+            output_path=out_pgn_path,
+            present_after_opponent_first_move=present_after_opponent_first_move,
+            opening_color_tag=opening_color_tag if opening_color_tag in {"white", "black", "both"} else None,
+            event_prefix=event_prefix,
+        )
+    else:
+        # If not writing a combined PGN, report how many were selected
+        written = len(selected)
 
     summary = summarize_selected(
         puzzles_with_theme=selected,
@@ -690,4 +728,56 @@ def build_puzzles_pipeline(
 
     return written, summary, selected
 
+
+def generate_from_config(config: GenerationConfig) -> Dict[str, Any]:
+    """High-level entry: generate packs based on a structured configuration.
+
+    Returns a dictionary with keys:
+      - selected: the list of (theme, Puzzle) selected
+      - written_combined: count of games written to combined PGN (0 if none)
+      - per_theme_counts: optional dict of theme->count written for per-theme PGNs
+      - summary: summary stats
+      - out_dir: directory where per-theme PGNs were written (if any)
+      - out_pgn: path of combined PGN (if any)
+    """
+
+    written, summary, selected = build_puzzles_pipeline(
+        csv_path=config.csv_path,
+        rating_min=config.min_rating,
+        rating_max=config.max_rating,
+        per_theme=config.per_theme,
+        difficulty_center=config.center,
+        include_themes=config.include_themes,
+        out_pgn_path=config.out_pgn,
+        present_after_opponent_first_move=config.start_after_first_move,
+        limit_total=None,
+        force_color=config.force_color,
+        opening_color_tag=config.opening_color_tag,
+        event_prefix=config.event_prefix,
+    )
+
+    # Determine output directory for per-theme PGNs
+    derived_dir = f"themes_pgn_{config.min_rating}-{config.max_rating}"
+    out_dir = config.out_dir or os.path.join(os.getcwd(), derived_dir)
+    per_theme_counts: Optional[Dict[str, int]] = None
+
+    try:
+        per_theme_counts = write_puzzles_per_theme_to_directory(
+            puzzles_with_theme=selected,
+            output_dir=out_dir,
+            present_after_opponent_first_move=config.start_after_first_move,
+            opening_color_tag=config.opening_color_tag,
+            event_prefix=config.event_prefix,
+        )
+    except Exception:
+        per_theme_counts = None
+
+    return {
+        "selected": selected,
+        "written_combined": written,
+        "per_theme_counts": per_theme_counts,
+        "summary": summary,
+        "out_dir": out_dir,
+        "out_pgn": config.out_pgn,
+    }
 
