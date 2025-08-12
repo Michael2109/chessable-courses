@@ -1,0 +1,18 @@
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
+[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
+[PuzzleId "fImTO"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+{ Black's king is trapped on the back rank by its own pawns. The rook on e1 has a clear path to deliver the knockout blow! }
+39. Re8# { Checkmate! This is the classic back rank mate pattern. Black's own pawns on f7, g7, and h7 prevent the king from escaping, while the rook controls the entire 8th rank. Remember: an undefended back rank is often a fatal weakness! }
+( 39. Re7? { This attacks the 7th rank but misses the immediate checkmate. Black can defend with Qa1+ or even Qf5. } 39... Qa1+ 40. Kf2 Qb2+ { Black starts checking and the win becomes much harder. } )
+( 39. Rc1? { This defends against Black's passed c-pawn but misses the forced win. } 39... c2 { Now Black's pawn is extremely dangerous. } 40. Rxc2 Qa1+ { Black takes over with checks. } )
+( 39. Ra1? { Defending passively allows Black's threats to become real. } 39... Qxa1+ { Black wins the rook! } ) *
