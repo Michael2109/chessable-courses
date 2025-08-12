@@ -1,0 +1,1700 @@
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/p1n2ppp/q3p3/8/1PQ1P3/P4P2/6PP/2R2K2 w - - 1 26"]
+[LichessURL "https://lichess.org/rpkS3N8C/black#50"]
+[PuzzleId "TnOa7"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
+
+26. Qxa6 Nxa6 27. Rxc8+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1r2k1/7p/8/3q1p2/P1QNpP2/1P4KP/4R3 b - - 3 35"]
+[LichessURL "https://lichess.org/xbbHb4KH#69"]
+[PuzzleId "3NmL7"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
+
+35... Qxc3 36. bxc3 Rxd3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/pb2p2p/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 w - - 2 26"]
+[LichessURL "https://lichess.org/IyouuyvD/black#50"]
+[PuzzleId "6LyUQ"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
+
+26. Nxd8 Rxd8 27. Rxe7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/nR3pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/QabW2atH#55"]
+[PuzzleId "vVN1I"]
+[Themes "capturingDefender crushing endgame short"]
+
+28... Rxb7 29. Bxb7 Nxb5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp4pp/2p1r3/3q4/4Q1P1/7P/2P1R1K1/4R3 w - - 0 29"]
+[LichessURL "https://lichess.org/4v5HIK5U/black#56"]
+[PuzzleId "Wob5X"]
+[Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
+
+29. Qxd5 Rxd5 30. Rxe6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/3r2k1/p1NR1p2/2P2P1p/1P5K/P7/8/8 b - - 0 44"]
+[LichessURL "https://lichess.org/yaUD9B2C#87"]
+[PuzzleId "QpIOg"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
+
+44... Rxd6 45. cxd6 Bxc6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr3k1/1q4p1/p1Q2p1p/4p3/8/1P4P1/P4PKP/2R1R3 w - - 4 30"]
+[LichessURL "https://lichess.org/2tNxx57F/black#58"]
+[PuzzleId "Mylsy"]
+[Themes "capturingDefender crushing discoveredAttack endgame master short"]
+
+30. Qxb7 Rxb7 31. Rxc8+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp2b1pp/5n2/2p3B1/3pN3/1N4P1/PPP1PPBP/R2Q1RK1 b - - 0 11"]
+[LichessURL "https://lichess.org/u6hrU08f#21"]
+[PuzzleId "oPVA2"]
+[Themes "advantage capturingDefender discoveredAttack opening short"]
+
+11... Nxe4 12. Bxe4 Bxg5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1bnr/ppp1pppp/8/1P2n2q/6b1/2N2N2/P1PPBPPP/R1BQ1RK1 w - - 1 9"]
+[LichessURL "https://lichess.org/UQxwm6gP/black#16"]
+[PuzzleId "2VJwa"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
+
+9. Nxe5 Qxe5 10. Bxg4+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/5qpp/8/p2Q1N2/4P3/P2P3P/1P4P1/1K6 b - - 3 33"]
+[LichessURL "https://lichess.org/l0gjOmd4#65"]
+[PuzzleId "JZcjh"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
+
+33... Qxd5 34. exd5 Rxf5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2k2/3nnpb1/p2N4/1pp5/4PP2/2P3P1/PPK5/3RR3 w - - 0 32"]
+[LichessURL "https://lichess.org/k9O3AlTi/black#62"]
+[PuzzleId "O1hxk"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+32. Nxc8 Rxc8 33. Rxd7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k3/2q2pr1/p2b2bp/3Pp3/2p1N2P/2P2PB1/PP2Q3/2KR3R b - - 1 23"]
+[LichessURL "https://lichess.org/nqNPFBgB#45"]
+[PuzzleId "Ic7CX"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+23... Bxe4 24. fxe4 Rxg3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/pp1p1ppp/8/q2n4/1b6/2N2N2/PP1BP1PP/R2QKB1R w KQkq - 2 10"]
+[LichessURL "https://lichess.org/z40OPm2Q/black#18"]
+[PuzzleId "iDU1a"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
+
+10. Nxd5 Qxd5 11. Bxb4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr4/4k1pp/4pp2/p1pb4/2B4P/NP1N4/P4PP1/2R3K1 b - - 3 27"]
+[LichessURL "https://lichess.org/Nr4GLq94#53"]
+[PuzzleId "iDDxW"]
+[Themes "capturingDefender crushing discoveredAttack middlegame short"]
+
+27... Bxc4 28. Nxc4 Rxd3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3nbp/4b1p1/8/3rp3/6BP/PP3PPN/3RRBK1 w - - 0 21"]
+[LichessURL "https://lichess.org/dsZLSt3v/black#40"]
+[PuzzleId "T2C31"]
+[Themes "capturingDefender crushing master middlegame short"]
+
+21. Rxd4 Bxd4 22. Rxe4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4pk/3qp1rp/3p4/3P1PQ1/2P4P/PP3K2/R4R2 b - - 2 24"]
+[LichessURL "https://lichess.org/5YXi25S5#47"]
+[PuzzleId "s53Tm"]
+[Themes "advantage capturingDefender endgame short"]
+
+24... Rxg4 25. hxg4 Qxf4+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2ppp/5q2/4n3/6b1/5N2/PPP1BPPP/R2Q1RK1 w - - 0 13"]
+[LichessURL "https://lichess.org/Wffy1xL8/black#24"]
+[PuzzleId "IGz8G"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+13. Nxe5 Qxe5 14. Bxg4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/pp2p1b1/2p1bpp1/3n3p/2BP4/4NN1P/PPP2PP1/R1BQ1RK1 b kq - 1 12"]
+[LichessURL "https://lichess.org/o83sHZLV#23"]
+[PuzzleId "cDPDE"]
+[Themes "advantage capturingDefender discoveredAttack opening short"]
+
+12... Nxe3 13. Bxe3 Bxc4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/pp1nqppp/4p3/P1r1P3/2PR4/4QBP1/5PKP/2R5 w - - 1 28"]
+[LichessURL "https://lichess.org/Ca6J1mD0/black#54"]
+[PuzzleId "FzRcX"]
+[Themes "capturingDefender crushing deflection discoveredAttack middlegame short"]
+
+28. Rxd7 Qxd7 29. Qxc5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp3p1p/2p1bbp1/3r4/2B5/2P1P2P/PP1N1PP1/2KR3R b - - 3 15"]
+[LichessURL "https://lichess.org/E3P2zqik#29"]
+[PuzzleId "DeefB"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+15... Rxd2 16. Rxd2 Bxc4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p1bbppp/p3pn2/8/2PB4/2N2P2/PP4PP/1K1R1B1R w - - 1 15"]
+[LichessURL "https://lichess.org/EA76Xkpp/black#28"]
+[PuzzleId "vfY4b"]
+[Themes "advantage capturingDefender discoveredAttack master middlegame short"]
+
+15. Bxf6 Bxf6 16. Rxd7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/3qppbp/p4np1/1p2N3/8/P1NQB2P/5PP1/1R3RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/AC38smaT#35"]
+[PuzzleId "nch1W"]
+[Themes "advantage capturingDefender middlegame short"]
+
+18... Qxd3 19. Nxd3 Rxc3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pbp2ppp/1p1p4/3n4/1b6/2N2NP1/PP1BPPBP/R2QK2R w KQ - 0 10"]
+[LichessURL "https://lichess.org/mAYMtcD0/black#18"]
+[PuzzleId "6ALMz"]
+[Themes "advantage capturingDefender discoveredAttack opening short"]
+
+10. Nxd5 Bxd5 11. Bxb4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/p6p/1p3P2/2p5/2P4P/3rqNP1/4QR1K b - - 7 33"]
+[LichessURL "https://lichess.org/MKl5UQmF#65"]
+[PuzzleId "wCUnT"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
+
+33... Qxe1 34. Rxe1 Rxf2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/2pn3p/pp1pp1p1/5nP1/2Pb1P2/2NB1R1P/PP5K/R1BQ4 w - - 2 16"]
+[LichessURL "https://lichess.org/N0Li1Gha/black#30"]
+[PuzzleId "VLY6D"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+16. Bxf5 Rxf5 17. Qxd4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/p4ppp/2p2n2/q7/3P4/1P3N1P/P2QBPP1/2R2RK1 b - - 0 19"]
+[LichessURL "https://lichess.org/f5TQnWY7#37"]
+[PuzzleId "ba7Eh"]
+[Themes "advantage capturingDefender middlegame short"]
+
+19... Qxd2 20. Nxd2 Rxe2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/8/2pn4/8/2N4P/PP2QPP1/R1B2RK1 w - - 0 15"]
+[LichessURL "https://lichess.org/bVAsIiff/black#28"]
+[PuzzleId "6XDse"]
+[Themes "advantage capturingDefender middlegame short"]
+
+15. Nxd5 Qxd5 16. Qxe7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp3ppp/2p1p1q1/6Bb/3P4/5N1P/PPP1BPP1/R2Q1RK1 b kq - 3 12"]
+[LichessURL "https://lichess.org/9J9DV55n#23"]
+[PuzzleId "NCfkL"]
+[Themes "advantage capturingDefender opening short"]
+
+12... Bxf3 13. Bxf3 Qxg5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp2ppp/3b1n2/3b4/3Bp3/1PP1P1P1/P4PBP/RN1QK2R w KQ - 1 12"]
+[LichessURL "https://lichess.org/c0VAZ4mI/black#22"]
+[PuzzleId "pY46Z"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
+
+12. Bxf6 Qxf6 13. Qxd5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q4k1/4rp1p/2Q3p1/3p4/2pPb3/2P2NP1/4BP1P/4R1K1 b - - 0 26"]
+[LichessURL "https://lichess.org/1JKLR6iv#51"]
+[PuzzleId "bGQO8"]
+[Themes "capturingDefender crushing discoveredAttack master middlegame short"]
+
+26... Bxf3 27. Bxf3 Rxe1+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5qk1/R2r2pp/5n2/2pr1p2/2Q5/1P6/P4PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/n0kpqzEC/black#52"]
+[PuzzleId "2dDYA"]
+[Themes "capturingDefender crushing middlegame pin short"]
+
+27. Rxd7 Nxd7 28. Qxd5+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5pp1/7p/8/N2P4/2QqP2P/6P1/R5K1 b - - 2 39"]
+[LichessURL "https://lichess.org/iJrr7GMh#77"]
+[PuzzleId "x9yYn"]
+[Themes "capturingDefender endgame equality short"]
+
+39... Qxc3 40. Nxc3 Rxa1+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6k/Pp5p/2p3r1/2Pppr2/3n3P/3BR1PK/R7 w - - 0 38"]
+[LichessURL "https://lichess.org/Ltmtvif2/black#74"]
+[PuzzleId "1msPt"]
+[Themes "advantage capturingDefender endgame master short"]
+
+38. Bxf4 Nxf4 39. Rxe4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/p4pbp/1q2p1p1/3n4/2pP4/2N1P1P1/PP2QP1P/1RB2RK1 b - - 6 16"]
+[LichessURL "https://lichess.org/DRNC28rT#31"]
+[PuzzleId "SZPBv"]
+[Themes "advantage capturingDefender middlegame short"]
+
+16... Nxc3 17. bxc3 Qxb1 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k3/5p1R/p3pPp1/1p2P3/5PK1/3r4/P1p3P1/2R5 w - - 0 48"]
+[LichessURL "https://lichess.org/TGr26ikM/black#94"]
+[PuzzleId "eq971"]
+[Themes "advantage attraction capturingDefender endgame long master rookEndgame"]
+
+48. Rh8+ Kd7 49. Rxc8 Kxc8 50. Rxc2+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rkbnr/pp4pp/4p3/8/3n4/1P4P1/P2NPPBP/R1B2RK1 b k - 1 15"]
+[LichessURL "https://lichess.org/ubD6IXoN#29"]
+[PuzzleId "cfB9Z"]
+[Themes "advantage capturingDefender long middlegame"]
+
+15... Nxe2+ 16. Kh1 Nxc1 17. Raxc1 Rxd2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5r1/4k3/p2p1p1p/2p1nPpB/4P3/1PBb3P/6P1/R2R2K1 w - - 0 32"]
+[LichessURL "https://lichess.org/jVuw0jf7/black#62"]
+[PuzzleId "cUzyg"]
+[Themes "advantage capturingDefender middlegame short"]
+
+32. Bxe5 dxe5 33. Rxd3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1b1ppp/2n1pn2/1B6/Q2NP3/6N1/PP1P1PPP/R1B1K2R b KQkq - 0 10"]
+[LichessURL "https://lichess.org/DD7Ljw1F#19"]
+[PuzzleId "0YVPK"]
+[Themes "advantage capturingDefender discoveredAttack master opening short"]
+
+10... Nxd4 11. Qxd4 Bxb5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1q1pp1/3bpn1p/1Qnp4/P7/2P1PNB1/1P1N1PPP/R3K2R w KQ - 1 13"]
+[LichessURL "https://lichess.org/WnO2gPjq/black#24"]
+[PuzzleId "nuk5x"]
+[Themes "advantage capturingDefender middlegame short"]
+
+13. Qxd7 Ncxd7 14. Bxd6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n3rk1/pQ3pp1/2p4p/3p4/qP2n3/P1R1P2P/1K2BPP1/7R b - - 4 25"]
+[LichessURL "https://lichess.org/fNWw0vcI#49"]
+[PuzzleId "mbxHM"]
+[Themes "advantage attraction capturingDefender middlegame short"]
+
+25... Nxc3 26. Kxc3 Qxa3+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5b1p/1p1N1P2/p2p1P2/P4K2/1n6/6B1/8 w - - 0 49"]
+[LichessURL "https://lichess.org/6ru0U8l7/black#96"]
+[PuzzleId "kjMTF"]
+[Themes "attraction capturingDefender crushing endgame fork long"]
+
+49. Nxf7 Kxf7 50. Bxd5+ Kxf6 51. Bxb3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/6pp/p1n3q1/1p1NP3/1P1PQR2/P7/6PP/3R2K1 b - - 2 25"]
+[LichessURL "https://lichess.org/2JtMMSXS#49"]
+[PuzzleId "9e7D5"]
+[Themes "advantage capturingDefender middlegame short"]
+
+25... Qxe4 26. Rxe4 Rxd5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p1nbppp/p3q1b1/1N6/4P3/1Q2BP2/PP4PP/3R2K1 w - - 0 24"]
+[LichessURL "https://lichess.org/ahef2sM4/black#46"]
+[PuzzleId "1Zn58"]
+[Themes "advantage capturingDefender middlegame short"]
+
+24. Qxe6 fxe6 25. Rxd7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/ppk2pr1/1p1p4/1P6/2PnPRN1/P2P2P1/6B1/5RK1 b - - 6 28"]
+[LichessURL "https://lichess.org/88T79ZO5#55"]
+[PuzzleId "Y0tBp"]
+[Themes "advantage capturingDefender fork long middlegame"]
+
+28... Ne2+ 29. Kf2 Nxf4 30. gxf4 Rxg4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bpp1/2p2n1p/3pR1Bb/8/3P1NPP/PPP2PB1/R2Q2K1 w - - 0 14"]
+[LichessURL "https://lichess.org/fcnTPWYF/black#26"]
+[PuzzleId "hay9p"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+14. Bxf6 Bxf6 15. Rxh5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k1nr/p1p2ppp/b1p5/8/4rB2/2PN4/P1PK1PPP/R6R b k - 1 13"]
+[LichessURL "https://lichess.org/Hg4GwNcK#25"]
+[PuzzleId "Tdy47"]
+[Themes "advantage capturingDefender middlegame short"]
+
+13... Bxd3 14. Kxd3 Rxf4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3p1p/2p3p1/8/4nq2/1PQ3NP/b2rBPP1/4R1K1 w - - 3 28"]
+[LichessURL "https://lichess.org/EM1pj49Z/black#54"]
+[PuzzleId "utR7E"]
+[Themes "capturingDefender crushing middlegame short"]
+
+28. Nxe4 Qxe4 29. Qxd2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q2r1k1/p4p2/1p1Rb1p1/2n1Q2p/7P/P3RBP1/4PPK1/8 b - - 9 30"]
+[LichessURL "https://lichess.org/YpH8cEyb#59"]
+[PuzzleId "6XDrG"]
+[Themes "advantage capturingDefender discoveredAttack long master middlegame"]
+
+30... Bh3+ 31. Kxh3 Rxe5 32. Rxe5 Qxd6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2qk1/1p4p1/pn2p2p/3p1r2/3P4/7Q/PP3bPP/RB3R1K w - - 4 26"]
+[LichessURL "https://lichess.org/XxAsQDEd/black#50"]
+[PuzzleId "OF7HB"]
+[Themes "advantage capturingDefender long middlegame"]
+
+26. Bxf5 Qxf5 27. Qxf5 exf5 28. Rxf2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/6p1/7p/4rp2/8/q1PP3P/3QNPP1/2R3K1 b - - 4 35"]
+[LichessURL "https://lichess.org/Y3bRQPZx#69"]
+[PuzzleId "tNCJh"]
+[Themes "capturingDefender crushing deflection endgame short"]
+
+35... Rxe2 36. Qxe2 Qxc1+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pk2r1pp/4b3/1p4N1/1b6/4B3/1P3K1P/R7 w - - 0 35"]
+[LichessURL "https://lichess.org/2nqKZpap/black#68"]
+[PuzzleId "ItEp4"]
+[Themes "advantage capturingDefender endgame long"]
+
+35. Rxa7+ Kc6 36. Rxe7 Bxe7 37. Nxe6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p5p1/1p5p/2pP1p1q/5Q1P/8/PP2rNRK/3R4 b - - 8 33"]
+[LichessURL "https://lichess.org/wFNFJrhG#65"]
+[PuzzleId "bSpM4"]
+[Themes "advantage capturingDefender discoveredAttack master middlegame short"]
+
+33... Rxf2 34. Rxf2 Qxd1 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/5p2/1pp1p2p/6qQ/p7/P3P3/1P3P1P/6RK w - - 0 28"]
+[LichessURL "https://lichess.org/JB9jrODQ/black#54"]
+[PuzzleId "pBgzj"]
+[Themes "attraction capturingDefender crushing endgame exposedKing fork long pin"]
+
+28. Rxg5 Rxg5 29. Qxh6+ Kg8 30. Qxg5+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p4pb1/1p1q1n1p/5Rp1/2PPp3/1P2P2N/P4QPP/5RK1 b - - 3 26"]
+[LichessURL "https://lichess.org/fjw8L1kx#51"]
+[PuzzleId "MaPt9"]
+[Themes "advantage capturingDefender long middlegame"]
+
+26... Ng4 27. Qg3 Qxg3 28. hxg3 Nxe3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/1pp2p2/p2p1n1b/3Pp2P/2B1P1bB/2N5/PPP2PP1/R2QK2R w KQkq - 3 12"]
+[LichessURL "https://lichess.org/dUfCyPig/black#22"]
+[PuzzleId "tPruz"]
+[Themes "advantage capturingDefender opening short"]
+
+12. Bxf6 Qxf6 13. Qxg4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/2p5/q2p4/8/2Q5/P4PPP/R1R1rNK1 b - - 9 25"]
+[LichessURL "https://lichess.org/v3py8VWS#49"]
+[PuzzleId "UfQbF"]
+[Themes "capturingDefender crushing middlegame short"]
+
+25... Qxc3 26. Rxc3 Rxa1 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/5r1p/8/4Q3/5R1P/5PPK/5q2 w - - 4 41"]
+[LichessURL "https://lichess.org/skkNtq8P/black#80"]
+[PuzzleId "5ttBm"]
+[Themes "capturingDefender crushing endgame long"]
+
+41. Qe8+ Kh7 42. Rxf6 gxf6 43. Qxf7+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/4qp1k/pn2bbpp/1pQ5/4P3/PPN1B2P/2PR1PP1/5BK1 b - - 0 25"]
+[LichessURL "https://lichess.org/piXFEDzP#49"]
+[PuzzleId "v1gSS"]
+[Themes "advantage capturingDefender middlegame short"]
+
+25... Qxc5 26. Bxc5 Bxc3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/1bp2R2/pp1pp2b/6NN/3Pn2Q/2P5/Pn3PPP/R5K1 w - - 1 22"]
+[LichessURL "https://lichess.org/eQBqlN9g/black#42"]
+[PuzzleId "7UCC1"]
+[Themes "capturingDefender crushing fork long middlegame"]
+
+22. Nf6+ Qxf6 23. Rxf6 Nxf6 24. Qxh6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/p1p2ppp/1pb1p3/8/2P3q1/3B1N2/PP2QPPP/R1B2RK1 b - - 1 13"]
+[LichessURL "https://lichess.org/wbOVaI0L#25"]
+[PuzzleId "1BDQT"]
+[Themes "advantage capturingDefender long opening pin"]
+
+13... Bxf3 14. Qxf3 Qxf3 15. gxf3 Rxd3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p1r2p1/1R2Pp1p/2P3b1/pP2n1P1/P6P/1BK5/8 w - - 0 39"]
+[LichessURL "https://lichess.org/CC6Xcmti/black#76"]
+[PuzzleId "Dd7eu"]
+[Themes "advancedPawn advantage capturingDefender endgame short"]
+
+39. exd7 Rd8 40. Rxb7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/5ppp/3p4/p1p3q1/3rP3/1P2QP1P/P2R1P2/4R2K b - - 5 26"]
+[LichessURL "https://lichess.org/wZQKci4F#51"]
+[PuzzleId "h5LZU"]
+[Themes "capturingDefender crushing endgame short"]
+
+26... Qxe3 27. Rxe3 Rxd2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbq1rk1/pp3ppp/2np1b2/3B4/1Q1pP3/5N2/PP1N1PPP/R4RK1 w - - 6 14"]
+[LichessURL "https://lichess.org/x592vt6j/black#26"]
+[PuzzleId "FDYNu"]
+[Themes "advantage capturingDefender middlegame short"]
+
+14. Bxc6 bxc6 15. Qxb8 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/pp3ppp/2pq1n2/4p2b/2B1P3/5N1P/P2B1PP1/2RQR1K1 b - - 8 17"]
+[LichessURL "https://lichess.org/U8Y7q5Gb#33"]
+[PuzzleId "Mybdd"]
+[Themes "advantage capturingDefender middlegame short"]
+
+17... Bxf3 18. Qxf3 Qxd2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1k2pbp/1p2p1p1/8/PPn1P3/5P2/6PP/3R2K1 w - - 0 31"]
+[LichessURL "https://lichess.org/zC8l2Ppo/black#60"]
+[PuzzleId "qOTxX"]
+[Themes "advantage capturingDefender endgame long pin"]
+
+31. Rc1 b5 32. axb5 Kb6 33. Rxc4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/p1p1bppp/2p5/4p3/4P1b1/2P2N2/PP3P2/R1BQRNK1 b - - 1 14"]
+[LichessURL "https://lichess.org/dsnFWKdn#27"]
+[PuzzleId "WXFBJ"]
+[Themes "advantage capturingDefender opening short"]
+
+14... Qxd1 15. Rxd1 Bxf3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/5ppp/b1ppp1q1/p7/2P1nPP1/2PQB3/P3B2P/2R1KR2 w - - 0 18"]
+[LichessURL "https://lichess.org/KfXSMEux/black#34"]
+[PuzzleId "lYYch"]
+[Themes "advantage capturingDefender long middlegame"]
+
+18. f5 exf5 19. gxf5 Qf6 20. Qxe4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1r/1pp1k1pp/p3n3/8/3qQB2/2N5/PPP2PPP/R4RK1 b - - 0 16"]
+[LichessURL "https://lichess.org/2dQcVosi#31"]
+[PuzzleId "EbZz5"]
+[Themes "advantage capturingDefender middlegame short"]
+
+16... Qxe4 17. Nxe4 Nxf4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/1pp1bp1k/7P/4p3/pnPpPqp1/1P1P1R2/1P2QP2/3RK3 w - - 0 29"]
+[LichessURL "https://lichess.org/gmMfWV7t/black#56"]
+[PuzzleId "HHZmG"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+29. Rxf4 exf4 30. Qxg4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1q1k1/1R1Q4/2N1p2p/p2p1p2/2p5/2P1P3/P2K4/8 b - - 0 36"]
+[LichessURL "https://lichess.org/3QBnQPs6#71"]
+[PuzzleId "wbtSQ"]
+[Themes "advantage capturingDefender endgame master short"]
+
+36... Qxd7 37. Rxd7 Rxc6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/ppp2pbp/1n2p1p1/4n3/2P3b1/BP3N2/P2NBPPP/R2Q1RK1 w kq - 0 12"]
+[LichessURL "https://lichess.org/tJ01XjuL/black#22"]
+[PuzzleId "58H4V"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
+
+12. Nxe5 Bxe5 13. Bxg4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp1q2p1/4n3/2BQ4/2P5/PP5P/6P1/7K b - - 0 39"]
+[LichessURL "https://lichess.org/yhkKtdeL#77"]
+[PuzzleId "8PQWe"]
+[Themes "advantage capturingDefender endgame short"]
+
+39... Qxd5 40. cxd5 Nxc5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/pp3ppp/8/1P1p1n2/P1pPb3/2P1PB2/1B4PP/R2Q1RK1 w - - 1 20"]
+[LichessURL "https://lichess.org/Z2fDci7Z/black#38"]
+[PuzzleId "22e0W"]
+[Themes "capturingDefender crushing discoveredAttack master middlegame short"]
+
+20. Bxe4 Rxe4 21. Rxf5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1bbpp1/p1p4p/5N2/3BQ3/P6P/1PP2PP1/R4RK1 b - - 0 17"]
+[LichessURL "https://lichess.org/heM2LDxf#33"]
+[PuzzleId "YG4DA"]
+[Themes "capturingDefender crushing discoveredAttack middlegame short"]
+
+17... Bxf5 18. Qxf5 Qxd4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2b2ppp/4p3/p7/P7/7R/1P1qQPPP/2r1R1K1 w - - 4 33"]
+[LichessURL "https://lichess.org/iLY1IugW/black#64"]
+[PuzzleId "MMJDl"]
+[Themes "advantage capturingDefender middlegame short"]
+
+33. Qxd2 Rxd2 34. Rxc1 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p3ppp/4pb2/8/pq1N4/4B1P1/1P1Q1PBP/1R3RK1 b - - 1 19"]
+[LichessURL "https://lichess.org/yADFGreW#37"]
+[PuzzleId "q6POZ"]
+[Themes "advantage capturingDefender middlegame short"]
+
+19... Qxd2 20. Bxd2 Bxd4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5pp1/p3p2p/3p4/nPr1bP2/P3R2P/6P1/2R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/6TaaDFYD/black#56"]
+[PuzzleId "DhNYk"]
+[Themes "advantage capturingDefender endgame short"]
+
+29. Rxc4 dxc4 30. Rxe4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p3p1/1p1p1nqp/p2P4/2P1pBB1/2P4P/P4PPK/R2Q1R2 b - - 0 23"]
+[LichessURL "https://lichess.org/FqTED7mc#45"]
+[PuzzleId "Feajv"]
+[Themes "advantage capturingDefender long middlegame"]
+
+23... Nxg4+ 24. Qxg4 Qxg4 25. hxg4 Rxf4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/6pp/pp1rr3/P1p1ppq1/8/7P/QP3PP1/3R1RK1 w - - 0 27"]
+[LichessURL "https://lichess.org/vIeZPHAb/black#52"]
+[PuzzleId "bBYPR"]
+[Themes "capturingDefender crushing kingsideAttack master middlegame pin short"]
+
+27. Rxd6 Bxd6 28. Qxe6+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr3k/5pp1/qp2p2p/2n5/3N4/R3P1P1/PP2QP1P/3R2K1 b - - 1 34"]
+[LichessURL "https://lichess.org/bQy1trv0#67"]
+[PuzzleId "imuQm"]
+[Themes "capturingDefender crushing kingsideAttack middlegame short"]
+
+34... Qxe2 35. Nxe2 Rxd1+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rq2bk1/p2n1p1p/4p1p1/2NpQ3/3P4/1P2BBP1/P4P1P/6K1 w - - 6 27"]
+[LichessURL "https://lichess.org/RXAGRdIb/black#52"]
+[PuzzleId "qZaD3"]
+[Themes "advantage capturingDefender master middlegame short"]
+
+27. Nxd7 Qxd7 28. Qxb8 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1nbpp1/2pp1n2/6B1/3PN1Pp/2P2B1P/PP2PP2/R2Q1RK1 b kq - 0 12"]
+[LichessURL "https://lichess.org/fE3HiWcc#23"]
+[PuzzleId "NOLA1"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+12... Nxe4 13. Bxe4 Bxg5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/2rbR1pp/1p1P4/8/8/1P6/P4PPP/6K1 w - - 0 31"]
+[LichessURL "https://lichess.org/PdbX3rEU/black#60"]
+[PuzzleId "LFJar"]
+[Themes "advancedPawn capturingDefender crushing endgame short"]
+
+31. dxc7 Rf8 32. Rxd7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krbb1r/ppp5/2np3p/6p1/3Nq1P1/1Q2P1BP/PPP1BP2/2KR3R b - - 5 17"]
+[LichessURL "https://lichess.org/Xs948NK7#33"]
+[PuzzleId "EDMPh"]
+[Themes "advantage capturingDefender middlegame short"]
+
+17... Nxd4 18. exd4 Qxe2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/2p1bppp/2n1p1b1/3qP3/1p1P4/1Q2BN1P/PP3PP1/2RR2K1 w - - 2 20"]
+[LichessURL "https://lichess.org/841s3n22/black#38"]
+[PuzzleId "dO63q"]
+[Themes "capturingDefender equality middlegame short"]
+
+20. Qxd5 Rxd5 21. Rxc6 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppp3p1/6qp/Q2P4/P1P3B1/5p1P/5Pb1/R3R1K1 b - - 0 29"]
+[LichessURL "https://lichess.org/2qzpRmim#57"]
+[PuzzleId "I351t"]
+[Themes "advancedPawn advantage capturingDefender kingsideAttack middlegame pin veryLong"]
+
+29... Bxh3 30. Qxc7 Qxg4+ 31. Qg3 Qxg3+ 32. fxg3 f2+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3ppp/2n2n2/3pb3/1PPNp3/P3P3/1B1NQPP1/R4R1K w - - 1 16"]
+[LichessURL "https://lichess.org/oGeQFmyM/black#30"]
+[PuzzleId "ojhry"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+16. Nxc6 bxc6 17. Bxe5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr3k1/p3pp1p/1q1p2p1/3P4/3Q1P2/1PN2N2/P1P3PP/2K4R b - - 2 21"]
+[LichessURL "https://lichess.org/YwjrS7xO#41"]
+[PuzzleId "KZ2iY"]
+[Themes "capturingDefender equality middlegame short"]
+
+21... Qxd4 22. Nxd4 Rxc3 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/q4pkp/6p1/2pPn3/1pPb4/1P1QB3/r5PP/3BR1K1 w - - 5 34"]
+[LichessURL "https://lichess.org/kIGHphNw/black#66"]
+[PuzzleId "nWyNM"]
+[Themes "advantage capturingDefender discoveredAttack middlegame pin short"]
+
+34. Bxd4 cxd4 35. Rxe5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p2qbppp/2p1p3/1np5/Q7/1PN3P1/P2PPP1P/R1BR2K1 b - - 0 14"]
+[LichessURL "https://lichess.org/1MXl62A1#27"]
+[PuzzleId "IPxMG"]
+[Themes "advantage capturingDefender middlegame short"]
+
+14... Nxc3 15. dxc3 Qxd1+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2k1p3/1p3rp1/1P5p/2K1BR2/5P2/8 w - - 3 51"]
+[LichessURL "https://lichess.org/0R2hHGMQ/black#100"]
+[PuzzleId "fXWxU"]
+[Themes "capturingDefender crushing endgame short"]
+
+51. Rxf5 exf5 52. Bxg5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pb4pp/2p1kp2/2p5/2PrPB1P/1P2NP1K/P2b2P1/3R4 b - - 4 29"]
+[LichessURL "https://lichess.org/QECBA2O3#57"]
+[PuzzleId "CwnHe"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
+
+29... Bxe3 30. Bxe3 Rxd1 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p1qbppp/p3pn2/2pp2B1/Q2P2b1/2P1PN2/PP1N1PPP/R3K2R w KQ - 0 11"]
+[LichessURL "https://lichess.org/99pghImy/black#20"]
+[PuzzleId "KDfxH"]
+[Themes "advantage capturingDefender middlegame short"]
+
+11. Qxd7 Nxd7 12. Bxe7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/pp2n1k1/5rpp/4Q2q/P1P2R2/1P5P/7K/4R2B b - - 0 39"]
+[LichessURL "https://lichess.org/N0gpQrl1#77"]
+[PuzzleId "w5KZ1"]
+[Themes "advantage capturingDefender middlegame pin short"]
+
+39... Qxe5 40. Rxe5 Rxf4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/p1pp1ppp/1p3n2/3b4/4p3/2B3PN/PPP1PPBP/R2QK2R w KQkq - 0 9"]
+[LichessURL "https://lichess.org/9NAKb80J/black#16"]
+[PuzzleId "gKmaP"]
+[Themes "capturingDefender crushing intermezzo opening short"]
+
+9. Bxf6 Qxf6 10. Qxd5 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp4p1/3qp2p/4Qp2/3P2b1/2P3P1/PP2BPP1/2KR3R b - - 0 19"]
+[LichessURL "https://lichess.org/5EnGbxlm#37"]
+[PuzzleId "u6NVC"]
+[Themes "advantage capturingDefender middlegame short"]
+
+19... Qxe5 20. dxe5 Bxe2 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p1qpr1p/p2p2nQ/3R2p1/2P1P3/1P5P/P5PK/5R2 w - - 0 28"]
+[LichessURL "https://lichess.org/vkhrsdeT/black#54"]
+[PuzzleId "hdodO"]
+[Themes "advantage attraction capturingDefender kingsideAttack middlegame short"]
+
+28. Rxf7 Kxf7 29. Qxh7+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/2pb3k/pp1p1q1p/3PnPr1/2PR2P1/1P2QN1B/P7/6RK b - - 4 35"]
+[LichessURL "https://lichess.org/EpGkaCRV#69"]
+[PuzzleId "JqNaV"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+
+35... Nxf3 36. Qxf3 Qxd4 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1pbppp/pp6/n2pP3/3P4/1QP1BN2/3N1PPP/R4RK1 w - - 5 16"]
+[LichessURL "https://lichess.org/zpG2Haed/black#30"]
+[PuzzleId "XOm7q"]
+[Themes "advantage capturingDefender middlegame short"]
+
+16. Rxa5 bxa5 17. Qxb7 *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1pqn1ppp/p3p3/2b1P3/Pn1N1B2/1PN5/2PQ1PPP/R4RK1 b kq - 0 16"]
+[LichessURL "https://lichess.org/qcWUYc9l#31"]
+[PuzzleId "7DLNP"]
+[Themes "advantage capturingDefender fork long middlegame"]
+
+16... Bxd4 17. Qxd4 Nxc2 18. Qd3 Nxa1 *
+
+
+

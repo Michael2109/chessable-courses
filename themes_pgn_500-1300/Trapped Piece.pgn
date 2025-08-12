@@ -1,0 +1,1700 @@
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p4pp1/2pbp2p/3p4/3N1P2/2PPqR2/PP4b1/RN1Q3K w - - 0 17"]
+[LichessURL "https://lichess.org/VXdelGWe/black#32"]
+[PuzzleId "wpxyl"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
+
+17. Kxg2 Qxf4 18. Rxf4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7P/2k3P1/p6K/N7 b - - 0 53"]
+[LichessURL "https://lichess.org/VJSO7c4c#105"]
+[PuzzleId "NskoT"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
+
+53... Kb2 54. g4 Kxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppq2ppp/1b2p1n1/P2p4/1P6/2Pn1N2/4QPPP/RNB1K2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/wPU0NR0v/black#22"]
+[PuzzleId "SUEla"]
+[Themes "advantage middlegame short trappedPiece"]
+
+12. Qxd3 Bxf2+ 13. Kxf2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/Rb1nk3/3RN3/1p1P1p1p/1P3P2/7P/5NP1/5K2 b - - 0 39"]
+[LichessURL "https://lichess.org/RJNyPDGt#77"]
+[PuzzleId "E16tz"]
+[Themes "advantage master middlegame short trappedPiece"]
+
+39... Rxa7 40. Rxd7+ Kxd7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7b/5k2/7P/5KP1/5P2/8/8/8 w - - 1 58"]
+[LichessURL "https://lichess.org/S3GDPT4f/black#114"]
+[PuzzleId "NwSlE"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
+
+58. g6+ Ke7 59. g7 Bxg7 60. hxg7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6Kp/7P/8/2k5/p7/N7 b - - 5 51"]
+[LichessURL "https://lichess.org/TaueKQ82#101"]
+[PuzzleId "Kkj17"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
+
+51... Kb2 52. Kxh6 Kxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7n/7P/5K2/2p5/3k4/8/8/8 w - - 2 57"]
+[LichessURL "https://lichess.org/eSXPOXrr/black#112"]
+[PuzzleId "adwq5"]
+[Themes "crushing endgame knightEndgame master short trappedPiece"]
+
+57. Kg7 Kc3 58. Kxh8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/K7/8/pPk5/B7/8 b - - 2 66"]
+[LichessURL "https://lichess.org/bnc2AJHT#131"]
+[PuzzleId "u4SRQ"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
+
+66... Kb2 67. b4 Kxa2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3nbpp1/1p2p2p/1PpqP3/5P1P/6P1/2Q1BBK1/8 w - - 1 49"]
+[LichessURL "https://lichess.org/DgYQ57Ui/black#96"]
+[PuzzleId "CINkY"]
+[Themes "advantage defensiveMove endgame master short trappedPiece"]
+
+49. Bf3 Qxf3+ 50. Kxf3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp2kR2/2p2n1Q/7r/5P2/4r3/1P6/5RK1 b - - 0 35"]
+[LichessURL "https://lichess.org/uvtJzxoa#69"]
+[PuzzleId "1oL78"]
+[Themes "crushing endgame master short trappedPiece"]
+
+35... Kxf7 36. Qxh5+ Nxh5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/2RP4/4K3/1p5k/2p5/6P1/P7/3r4 w - - 3 47"]
+[LichessURL "https://lichess.org/ey4K2QLr/black#92"]
+[PuzzleId "3C1sr"]
+[Themes "advantage defensiveMove endgame master short trappedPiece"]
+
+47. Ke7 Nf7 48. Kxf7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K6/1p6/1P1k4/p7/N7 b - - 6 57"]
+[LichessURL "https://lichess.org/BWOefwQS#113"]
+[PuzzleId "lGb9w"]
+[Themes "crushing endgame knightEndgame long trappedPiece"]
+
+57... Kc3 58. Kc5 Kb2 59. Kxb4 Kxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7b/8/6PP/8/6K1/1p6/k7/8 w - - 1 49"]
+[LichessURL "https://lichess.org/q3oCQR29/black#96"]
+[PuzzleId "pecmJ"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master promotion trappedPiece"]
+
+49. g7 Bxg7 50. hxg7 b2 51. g8=Q+ *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/8/kp6/7P/B7/1K6/8 b - - 0 50"]
+[LichessURL "https://lichess.org/DCWeP7Gh#99"]
+[PuzzleId "YlbGO"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
+
+50... b4 51. Kb3 bxa3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn6/p3kpp1/4p2p/1N1pn3/8/1P5P/P3BPP1/4K2R w K - 0 21"]
+[LichessURL "https://lichess.org/GmCIbaNh/black#40"]
+[PuzzleId "CsIMq"]
+[Themes "advantage endgame short trappedPiece"]
+
+21. Nc7 Kd6 22. Nxa8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3nbk1/p1B3pp/Rp2pp2/n1pp4/3P4/1PP1PN1P/1P3PP1/5RK1 b - - 2 19"]
+[LichessURL "https://lichess.org/5NwQFMi5#37"]
+[PuzzleId "uC7wm"]
+[Themes "crushing hangingPiece middlegame short trappedPiece"]
+
+19... Nxc7 20. Rxa5 bxa5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/ppp2ppp/1r6/8/3pP3/qP1P4/bKP2PPP/4RB1R w - - 0 17"]
+[LichessURL "https://lichess.org/OLuJYn64/black#32"]
+[PuzzleId "VTdnB"]
+[Themes "advantage middlegame short trappedPiece"]
+
+17. Kxa3 Bxb3 18. cxb3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/3k1npp/2p1p3/2P5/5BP1/1P2KPP1/8 b - - 6 40"]
+[LichessURL "https://lichess.org/7CmU5sSX#79"]
+[PuzzleId "XafIn"]
+[Themes "advantage endgame short trappedPiece"]
+
+40... e4 41. Bxe4 Nxe4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/2p1bpp1/p3p3/1p1n4/1P1P2Pp/P2b1PR1/1P2N3/R1B1QKNq w - - 0 22"]
+[LichessURL "https://lichess.org/VuEAjAA5/black#42"]
+[PuzzleId "e6KFi"]
+[Themes "advantage middlegame short trappedPiece"]
+
+22. Rh3 Qxh3+ 23. Nxh3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1r2/ppp2ppk/3p1n1p/4pQ2/2B1PP2/2PP3P/P1P3P1/R1B2RK1 b - - 4 13"]
+[LichessURL "https://lichess.org/MPUPw6gS#25"]
+[PuzzleId "5Aqji"]
+[Themes "advantage defensiveMove middlegame short trappedPiece"]
+
+13... g6 14. fxe5 gxf5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/2pP1q2/5p2/2P1p3/1P2P1Q1/1P4PP/2KR1B1R w - - 1 18"]
+[LichessURL "https://lichess.org/n4ihVzPL/black#34"]
+[PuzzleId "LAwEV"]
+[Themes "advancedPawn crushing master middlegame short trappedPiece"]
+
+18. d7 Bxd7 19. Rxd7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1qr2/p3n1k1/1pn1QP1p/2pp2p1/P2P4/2PBB3/1P1N1PPP/R4RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/mYBtb8fe#35"]
+[PuzzleId "w94r7"]
+[Themes "advantage middlegame short trappedPiece"]
+
+18... Rxf6 19. Qxf6+ Kxf6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k3p1n/4pP1p/8/P2R1P2/r5P1/6KP/8 w - - 7 36"]
+[LichessURL "https://lichess.org/cjI0mVXX/black#70"]
+[PuzzleId "rXWTQ"]
+[Themes "advantage endgame long pin trappedPiece"]
+
+36. Rd7+ Kc6 37. Rxf7 Nxf6 38. Rxf6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/8/P7/1P1pKP2/1k1p4/3B4 b - - 2 49"]
+[LichessURL "https://lichess.org/q7Q9AQFV#97"]
+[PuzzleId "6vfjQ"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
+
+49... Kc1 50. Kxd3 Kxd1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p1p1k3/3p3p/nP6/2K2P2/2P2B2/8 w - - 0 38"]
+[LichessURL "https://lichess.org/OET6Xf5B/black#74"]
+[PuzzleId "HM2dK"]
+[Themes "crushing defensiveMove endgame short trappedPiece"]
+
+38. Kb3 Nb2 39. Kxb2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1p5p/6p1/4N1P1/1p5P/8/B1bK4/8 b - - 1 31"]
+[LichessURL "https://lichess.org/Jb6n60of#61"]
+[PuzzleId "ltyQg"]
+[Themes "advantage endgame master short trappedPiece"]
+
+31... b3 32. Bxb3 Bxb3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/1P6/2K5/2P1k3/R7/2r5/8/8 w - - 5 59"]
+[LichessURL "https://lichess.org/NN97WG4Y/black#116"]
+[PuzzleId "U5IfH"]
+[Themes "crushing endgame short trappedPiece"]
+
+59. Ra8 Kd4 60. Rxb8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/1r5k/4p1p1/1p2Pb2/p2P1P2/B3K3/1P6/8 b - - 7 43"]
+[LichessURL "https://lichess.org/XEpLzRHK#85"]
+[PuzzleId "EVl3v"]
+[Themes "advantage endgame short trappedPiece"]
+
+43... b4 44. Bxb4 Rxb4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2b1Bp1p/6pP/1k1Pp1P1/4P3/5K2/8 w - - 17 51"]
+[LichessURL "https://lichess.org/3S7l7VZ7/black#100"]
+[PuzzleId "vjw4h"]
+[Themes "advancedPawn bishopEndgame crushing endgame trappedPiece veryLong"]
+
+51. d5 Be8 52. d6 Kc5 53. d7 Bxd7 54. Bxd7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q4k/3r4/1q6/1pbppN2/2b5/5P2/6PP/1B1R3K b - - 9 33"]
+[LichessURL "https://lichess.org/YgLjgSBb#65"]
+[PuzzleId "QI4ih"]
+[Themes "crushing defensiveMove middlegame short trappedPiece"]
+
+33... Rd8 34. Qxd8+ Qxd8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/1pp2ppp/p2b4/3P4/2BP4/2P1BR1b/P1P2KPq/R2Q4 w - - 0 17"]
+[LichessURL "https://lichess.org/uGK6toIp/black#32"]
+[PuzzleId "N7PZO"]
+[Themes "crushing middlegame short trappedPiece"]
+
+17. Rxh3 Qxh3 18. gxh3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/5ppp/1k1bp3/Rp6/1P1P4/4BP2/P4P1P/6K1 b - - 0 23"]
+[LichessURL "https://lichess.org/E0ZygALZ#45"]
+[PuzzleId "wxlr4"]
+[Themes "crushing endgame master short trappedPiece"]
+
+23... Bxb4 24. Rxb5+ Kxb5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/p4pbp/1p4p1/2p4q/2PnPB2/P2P2PB/7K/3RQR2 w - - 2 27"]
+[LichessURL "https://lichess.org/2HcqauSg/black#52"]
+[PuzzleId "u8mOx"]
+[Themes "advantage middlegame short trappedPiece"]
+
+27. g4 Qe5 28. Bxe5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/8/2p1b3/8/3B3P/PPP2PP1/RN3K2 b - - 0 23"]
+[LichessURL "https://lichess.org/UQFi3SqP#45"]
+[PuzzleId "qCmKV"]
+[Themes "advantage endgame short trappedPiece"]
+
+23... Bxb2 24. Nd2 Bxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1k4/1B3pp1/1K6/1P5p/8/6P1/7P/8 w - - 4 47"]
+[LichessURL "https://lichess.org/IIezFeXf/black#92"]
+[PuzzleId "jrzvc"]
+[Themes "crushing endgame short trappedPiece"]
+
+47. Ka7 Ke7 48. Kxb8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p4pp/p7/8/6N1/P3p3/1PP3PP/1K3B1R b - - 0 24"]
+[LichessURL "https://lichess.org/0HzL0wBq#47"]
+[PuzzleId "0Ha68"]
+[Themes "advancedPawn crushing endgame short trappedPiece"]
+
+24... e2 25. Bxe2 Rxe2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k1nr/pp3ppp/2p5/3pP3/1b1P4/2N2NP1/PPPBQ2P/2KR1b1q w kq - 0 11"]
+[LichessURL "https://lichess.org/TxHGaei2/black#20"]
+[PuzzleId "jRL6X"]
+[Themes "advantage middlegame short trappedPiece"]
+
+11. Rxf1 Qxf1+ 12. Qxf1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q5k1/p2r1pp1/1q5p/8/4P3/8/5PPP/5RK1 b - - 0 22"]
+[LichessURL "https://lichess.org/86CQlx3Z#43"]
+[PuzzleId "VdPjQ"]
+[Themes "crushing defensiveMove endgame short trappedPiece"]
+
+22... Rd8 23. Qxd8+ Qxd8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1rB5/1P6/3K2p1/p7/5k2/P7/8 w - - 2 76"]
+[LichessURL "https://lichess.org/8sFg1X6m/black#150"]
+[PuzzleId "SnypL"]
+[Themes "crushing endgame master short trappedPiece"]
+
+76. Kc6 Rxb6+ 77. Kxb6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp5p/6p1/2p1bpB1/5P2/6PP/PP5K/RN1B4 b - - 0 21"]
+[LichessURL "https://lichess.org/3xKQw4ZI#41"]
+[PuzzleId "HQfEL"]
+[Themes "endgame equality short trappedPiece"]
+
+21... Bxb2 22. Nd2 Bxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2rk1/4bppp/2q5/1p1Np1Pn/1P2P2P/4rP2/2P1NK2/R6R w - - 0 24"]
+[LichessURL "https://lichess.org/DoOK4Hg8/black#46"]
+[PuzzleId "nykvw"]
+[Themes "advantage fork hangingPiece long middlegame trappedPiece"]
+
+24. Nxe7+ Kh8 25. Nxc6 Rxe2+ 26. Kxe2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pb1pbppp/1p2p3/4P2n/2PQ2P1/2NB4/PP3P1P/R1B2RK1 b kq - 0 11"]
+[LichessURL "https://lichess.org/ObOwAZys#21"]
+[PuzzleId "Xtd7m"]
+[Themes "advantage opening short trappedPiece"]
+
+11... Bc5 12. Qxc5 bxc5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp3ppp/2n1p3/2ppPn2/3P4/P1q1BN2/2N2PPP/1R1QKB1R w Kkq - 0 11"]
+[LichessURL "https://lichess.org/uNrYzuOJ/black#20"]
+[PuzzleId "9NGRJ"]
+[Themes "advantage defensiveMove middlegame short trappedPiece"]
+
+11. Bd2 Qxc2 12. Qxc2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/5kbQ/p1p3p1/8/8/5P2/PPP2P1P/5K2 b - - 1 31"]
+[LichessURL "https://lichess.org/Z63H7eh1#61"]
+[PuzzleId "RRXnA"]
+[Themes "advantage endgame short trappedPiece"]
+
+31... Rh8 32. Qxh8 Bxh8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "n7/8/P1K2k2/8/8/8/8/8 w - - 5 71"]
+[LichessURL "https://lichess.org/vQIflLfq/black#140"]
+[PuzzleId "ZNVJe"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
+
+71. Kb7 Ke5 72. Kxa8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/p4ppp/2p1p3/np1n1b2/1P1P4/P5P1/3NPPBP/R1BQK2R b KQ - 0 13"]
+[LichessURL "https://lichess.org/lbEoUgxA#25"]
+[PuzzleId "bnbq1"]
+[Themes "advantage middlegame short trappedPiece"]
+
+13... Nc3 14. Bb2 Nxd1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb1pppbp/1p4pn/1Pp3n1/2B1PP2/P1PP4/6PP/RNBQ1RK1 w - - 0 12"]
+[LichessURL "https://lichess.org/uep3TZP1/black#22"]
+[PuzzleId "iAQ7w"]
+[Themes "advantage middlegame short trappedPiece"]
+
+12. fxg5 Nf5 13. exf5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkbnr/1bp1pppp/8/pP6/2BP4/4P3/1P3PPP/RNBQK1NR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/MUA2XnMp#11"]
+[PuzzleId "504fx"]
+[Themes "advantage opening short trappedPiece"]
+
+6... Bxg2 7. Nh3 Bxh1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb3k1/pppr1ppp/8/2Q5/8/P6P/1PP2PPK/8 w - - 6 21"]
+[LichessURL "https://lichess.org/Q5tuQskY/black#40"]
+[PuzzleId "tllN8"]
+[Themes "advantage endgame short trappedPiece"]
+
+21. Qxa7 Rd8 22. Qxb8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p1pk1/p1pP1R1p/1r4P1/1P5P/P4PK1/8 b - - 1 38"]
+[LichessURL "https://lichess.org/PwxHjz7z#75"]
+[PuzzleId "klsag"]
+[Themes "crushing endgame rookEndgame short trappedPiece"]
+
+38... hxg4 39. Rxf6+ Kxf6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn6/pp3Qpk/2pqp2p/3p4/3P4/8/PPP2PPP/R5K1 w - - 0 19"]
+[LichessURL "https://lichess.org/G0M8Oxhg/black#36"]
+[PuzzleId "v4vBj"]
+[Themes "advantage endgame short trappedPiece"]
+
+19. Qxb7 Nd7 20. Qxa8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/5kp1/8/2p1K2P/1p5P/8/1B6 b - - 1 49"]
+[LichessURL "https://lichess.org/5sA8QZfg#97"]
+[PuzzleId "ytwmi"]
+[Themes "advancedPawn bishopEndgame crushing endgame long trappedPiece"]
+
+49... c3 50. Ke3 c2 51. Bxc2 bxc2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Pb3k2/2pK4/1pP5/1n5p/8/6P1/8 w - - 4 45"]
+[LichessURL "https://lichess.org/3K9McNsM/black#88"]
+[PuzzleId "wFIFV"]
+[Themes "crushing defensiveMove endgame trappedPiece veryLong"]
+
+45. Kc7 Ba8 46. Kb8 Nd3 47. Kxa8 Nxc5 48. Kb8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p4p1p/2p2p2/4p3/8/1P1P3P/2KQ1PP1/5qNR b - - 2 24"]
+[LichessURL "https://lichess.org/EXrHBhMX#47"]
+[PuzzleId "TUVx8"]
+[Themes "advantage endgame short trappedPiece"]
+
+24... Qxg2 25. Qe3 Qxh1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1kb3/p2p1p1P/2p2P1r/2P2K1p/4B3/PP6/4R3 w - - 1 35"]
+[LichessURL "https://lichess.org/n9qkhpbR/black#68"]
+[PuzzleId "X0u6I"]
+[Themes "crushing endgame short trappedPiece"]
+
+35. Kg4 Rxh6 36. Bxh6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr3/pp3k2/4pp1Q/6p1/3Pp3/P1P1P1B1/5PPP/R3K2R b KQ - 1 21"]
+[LichessURL "https://lichess.org/fWyNqb5t#41"]
+[PuzzleId "2Ll27"]
+[Themes "advantage middlegame short trappedPiece"]
+
+21... Rh8 22. Qxh8 Qxh8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/p2nppbp/2p2np1/q1Pp4/p2P1B2/PP1BP2P/5PP1/R2Q1RK1 w - - 0 16"]
+[LichessURL "https://lichess.org/ezL0g2ue/black#30"]
+[PuzzleId "01V4g"]
+[Themes "advantage middlegame short trappedPiece"]
+
+16. b4 Qb5 17. Bxb5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pp3ppp/2p5/3p1p2/3PnB2/2NBPP2/PPP4P/R2QK1NR b KQkq - 0 8"]
+[LichessURL "https://lichess.org/Qm63zswE#15"]
+[PuzzleId "9YLO9"]
+[Themes "advantage long opening pin trappedPiece"]
+
+8... Qh4+ 9. Bg3 Nxg3 10. hxg3 Qxh1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1p1bnppp/4p3/p7/1b2P3/1Q1B4/P2N1PPP/qNB1K2R w Kkq - 4 13"]
+[LichessURL "https://lichess.org/vVQt7MMM/black#24"]
+[PuzzleId "pi6c4"]
+[Themes "advantage middlegame short trappedPiece"]
+
+13. Bb2 Qxb2 14. Qxb2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q2rk1/1p1b1pp1/p2p2np/4p2Q/4P3/P2BB1P1/1PPN1P1K/3R2R1 b - - 0 22"]
+[LichessURL "https://lichess.org/lsr63Ouy#43"]
+[PuzzleId "6ZFju"]
+[Themes "advantage fork middlegame short trappedPiece"]
+
+22... Bg4 23. Qxg4 Qxg4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1nr/1p1b1ppp/p3p3/3p4/1P6/1Q1B4/P5PP/qNBK1R2 w kq - 0 15"]
+[LichessURL "https://lichess.org/OD8EVXvl/black#28"]
+[PuzzleId "tEl9g"]
+[Themes "advantage middlegame short trappedPiece"]
+
+15. Bb2 Qxb2 16. Qxb2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b4/2p2k2/1pb3q1/p3Bp2/P3pQ2/1PP3P1/4PPB1/6K1 b - - 2 33"]
+[LichessURL "https://lichess.org/5TPBDLsE#65"]
+[PuzzleId "it6lN"]
+[Themes "crushing endgame short trappedPiece"]
+
+33... Bg5 34. Qxg5 Qxg5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/pp2nppp/4p3/1B1pP3/1b1P4/5N2/qPQ2PPP/1R3RK1 w - - 4 14"]
+[LichessURL "https://lichess.org/O1sJVA7h/black#26"]
+[PuzzleId "QocfC"]
+[Themes "advantage middlegame short trappedPiece"]
+
+14. Ra1 Qa5 15. Rxa5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/bpp2p2/p2p1n1p/3Pp1pb/4P3/1BP1B1QP/PP3PPN/R3R1K1 b kq - 3 16"]
+[LichessURL "https://lichess.org/wQq1NZeb#31"]
+[PuzzleId "2aPKO"]
+[Themes "crushing middlegame short trappedPiece"]
+
+16... Nxe4 17. Qxe5+ dxe5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/pp1k1pN1/2p1rB2/2P5/3Pp3/4P1b1/PP3KP1/5R2 w - - 0 27"]
+[LichessURL "https://lichess.org/HcWuypj3/black#52"]
+[PuzzleId "jCL6E"]
+[Themes "advantage endgame short trappedPiece"]
+
+27. Kxg3 Rxf6 28. Rxf6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/1P6/5k2/3K1ppN/7P/6P1/8/8 b - - 0 64"]
+[LichessURL "https://lichess.org/5PjRnEgQ#127"]
+[PuzzleId "Dby20"]
+[Themes "crushing defensiveMove endgame master short trappedPiece"]
+
+64... Kg6 65. Nf6 Kxf6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7b/5k2/7P/5KP1/5P2/8/8/8 w - - 1 63"]
+[LichessURL "https://lichess.org/NG3chSpN/black#124"]
+[PuzzleId "2Kp1g"]
+[Themes "advancedPawn bishopEndgame crushing endgame long trappedPiece"]
+
+63. g6+ Ke7 64. g7 Bxg7 65. hxg7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/8/7P/2k5/p7/N7 b - - 2 60"]
+[LichessURL "https://lichess.org/hFCoJ1ac#119"]
+[PuzzleId "zm7uZ"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
+
+60... Kb2 61. h5 Kxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4k1/6p1/6Pp/2P1p3/1P6/P2R2R1/1q2K3 w - - 2 43"]
+[LichessURL "https://lichess.org/sJWBzFqJ/black#84"]
+[PuzzleId "V0j1K"]
+[Themes "crushing defensiveMove endgame master queenRookEndgame short trappedPiece"]
+
+43. Rd1 Qxd1+ 44. Kxd1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3q1p/3pN3/3NpQ2/2Pp4/4b3/PP4PP/R6K b - - 0 24"]
+[LichessURL "https://lichess.org/J97HfMhR#47"]
+[PuzzleId "oKXTV"]
+[Themes "advantage hangingPiece long master masterVsMaster middlegame trappedPiece"]
+
+24... Qxf5 25. Ne7+ Kf7 26. Nxf5 Kxe6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5r1/1pR5/p2ppk1p/4p3/5p1N/5PP1/PPPn3P/1K5R w - - 1 23"]
+[LichessURL "https://lichess.org/HkJYP7hR/black#44"]
+[PuzzleId "DRDV0"]
+[Themes "advantage endgame short trappedPiece"]
+
+23. Kc1 Nxf3 24. Nxf3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pb1p4/1p2p3/2p1PBpk/2PP2R1/P1P3P1/5K2/8 b - - 0 35"]
+[LichessURL "https://lichess.org/0ua7SRdU#69"]
+[PuzzleId "aEqys"]
+[Themes "crushing endgame short trappedPiece"]
+
+35... exf5 36. Rxg5+ Kxg5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k3nr/p4ppp/1p6/2p5/3pN3/5P2/PPP3PP/3R2K1 w - - 0 17"]
+[LichessURL "https://lichess.org/kiVGoxfN/black#32"]
+[PuzzleId "Gbza4"]
+[Themes "crushing endgame long trappedPiece"]
+
+17. Nd6+ Kd7 18. Nxf7 Ne7 19. Nxh8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/4k1p1/2p1pp2/2P5/4pB1P/PP2K1P1/8 b - - 1 28"]
+[LichessURL "https://lichess.org/FRgn1fk9#55"]
+[PuzzleId "eunQt"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
+
+28... e4 29. Kxe3 exf3 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/bp1N2k1/3P4/1P6/6K1/8/8 w - - 1 42"]
+[LichessURL "https://lichess.org/CNTWkzZM/black#82"]
+[PuzzleId "jp6g3"]
+[Themes "crushing endgame short trappedPiece"]
+
+42. b5 Bc8 43. Nxc8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1b1r/pppk1Bpp/1nn1p3/4N3/6b1/8/PPPP1PPP/RNBQR1K1 b - - 1 9"]
+[LichessURL "https://lichess.org/E7im5z1B#17"]
+[PuzzleId "ZflH0"]
+[Themes "advantage opening short trappedPiece"]
+
+9... Nxe5 10. Qxg4 Nxg4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/4p1p1/4P1P1/2k1r2P/2P3B1/3K1P2/8 w - - 5 49"]
+[LichessURL "https://lichess.org/LkH5YRe1/black#96"]
+[PuzzleId "tgIOO"]
+[Themes "crushing endgame short trappedPiece"]
+
+49. f3 Rxe5 50. Bxe5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk1nr/pp1bbp2/1nppp2p/6pQ/4P3/PBNPBN1P/1PP2PP1/R3K2R b KQkq - 1 10"]
+[LichessURL "https://lichess.org/JvnGazO3#19"]
+[PuzzleId "tA68i"]
+[Themes "crushing middlegame short trappedPiece"]
+
+10... Nf6 11. Qg4 Nxg4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/4rpp1/p1p5/1p1p3q/5PRb/2P3Kp/PPB4R/6B1 w - - 5 39"]
+[LichessURL "https://lichess.org/r9Lm58cB/black#76"]
+[PuzzleId "XS1vY"]
+[Themes "equality middlegame short trappedPiece"]
+
+39. Rxh4 Qxh4+ 40. Kxh4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/5bp1/2pk1p1p/R1N5/3PP3/4KP2/6PP/8 b - - 0 34"]
+[LichessURL "https://lichess.org/776h6iE9#67"]
+[PuzzleId "sCvuB"]
+[Themes "advantage endgame trappedPiece veryLong"]
+
+34... Rxa5 35. Nb7+ Kc7 36. Nxa5 Kb6 37. Nxc6 Kxc6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3nr/pp2k1pp/2pp1q2/2b1p3/4P3/2NP1N1P/PPP2PP1/n1BQK2R w K - 0 11"]
+[LichessURL "https://lichess.org/iGPDj2NN/black#20"]
+[PuzzleId "nolKD"]
+[Themes "advantage long opening pin trappedPiece"]
+
+11. Bg5 Qxg5 12. Nxg5 Nxc2+ 13. Qxc2 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/5Bpp/1p1p4/1Pp4Q/2P3NP/3P4/4n1K1/8 b - - 1 37"]
+[LichessURL "https://lichess.org/8Ia1R7zR#73"]
+[PuzzleId "gOkdC"]
+[Themes "advantage endgame exposedKing fork trappedPiece veryLong"]
+
+37... Nf4+ 38. Kg3 Nxh5+ 39. Bxh5 g6 40. Bxg6 hxg6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q1pp1/Q1pPp1bp/1r2P3/1P6/6PP/5P1K/R7 w - - 0 36"]
+[LichessURL "https://lichess.org/G3YomZjG/black#70"]
+[PuzzleId "dBsBQ"]
+[Themes "advantage clearance endgame long trappedPiece"]
+
+36. Qa8+ Kh7 37. Ra7 Qxa7 38. Qxa7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2N5/8/2nk4/p2p4/P2P4/1PK5/8/8 b - - 6 47"]
+[LichessURL "https://lichess.org/S3w72SJj#93"]
+[PuzzleId "8baam"]
+[Themes "crushing defensiveMove endgame knightEndgame master short trappedPiece"]
+
+47... Kc7 48. Ne7 Nxe7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2N2kp1/2P2p1p/R6P/4b2r/5K2/8 w - - 1 54"]
+[LichessURL "https://lichess.org/7PRmkYaZ/black#106"]
+[PuzzleId "ZtrTY"]
+[Themes "advantage defensiveMove endgame short trappedPiece"]
+
+54. Kg2 Rxh4 55. Rxh4 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbq2n1/pp3kbQ/2p3p1/3p4/3Pp2P/1PN5/P1P2PP1/R1B1KB1R b KQ - 0 11"]
+[LichessURL "https://lichess.org/vvB3qPhN#21"]
+[PuzzleId "wQRqL"]
+[Themes "advantage master opening short trappedPiece"]
+
+11... Nf6 12. Qxg7+ Kxg7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2rk1/p1p2pbq/1p4p1/4p3/6P1/4PB2/PPPN4/R2Q1KR1 w - - 2 19"]
+[LichessURL "https://lichess.org/8dgQ0VeL/black#36"]
+[PuzzleId "0MWFn"]
+[Themes "advantage middlegame short trappedPiece"]
+
+19. Rh1 Qxh1+ 20. Bxh1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2b1r/1b4p1/Q1np1p2/4p2p/2R5/2P5/1P3PPP/4R1K1 b - - 1 24"]
+[LichessURL "https://lichess.org/4RDr9JP0#47"]
+[PuzzleId "hM7MY"]
+[Themes "advantage long middlegame trappedPiece"]
+
+24... Bxa6 25. Rxc6+ Kb7 26. Rxa6 Kxa6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/pp4pp/b3pp2/2ppN3/P2P4/2P2Q2/1P3PPP/RNB1K2R w KQkq - 0 10"]
+[LichessURL "https://lichess.org/AeJ9kf4G/black#18"]
+[PuzzleId "MX3wu"]
+[Themes "advantage long middlegame trappedPiece"]
+
+10. Qh5+ g6 11. Nxg6 hxg6 12. Qxh8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3r1/ppp1k1bp/5B2/3pp2B/4p2Q/3P4/PP1K1PPP/nN5R b - - 0 15"]
+[LichessURL "https://lichess.org/QwWbWNLB#29"]
+[PuzzleId "CaKRv"]
+[Themes "advantage middlegame short trappedPiece"]
+
+15... Bxf6 16. Qxf6+ Kxf6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p4pp/p7/2pP4/2P5/5PbP/PPB2KP1/R2QR2q w - - 7 24"]
+[LichessURL "https://lichess.org/SwT8dhZI/black#46"]
+[PuzzleId "SV87A"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
+
+24. Kxg3 Qxe1+ 25. Qxe1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q3k1/5ppp/pq1rp3/1pb5/8/2P2N2/PP3PPP/5RK1 b - - 5 22"]
+[LichessURL "https://lichess.org/QgwuPLfp#43"]
+[PuzzleId "mhb5l"]
+[Themes "crushing endgame short trappedPiece"]
+
+22... Rd8 23. Qxd8+ Qxd8 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k1p/5Pb1/2p3P1/pp1p2KP/3P4/PPP5/8 w - - 3 54"]
+[LichessURL "https://lichess.org/v8CJjWYV/black#106"]
+[PuzzleId "FC7RK"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
+
+54. h5 Ke6 55. hxg6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4K3/7p/3P4/8/1kp3P1/1p6/1B6 b - - 1 64"]
+[LichessURL "https://lichess.org/rCiCaofk#127"]
+[PuzzleId "5Ui5h"]
+[Themes "advancedPawn bishopEndgame crushing endgame long promotion trappedPiece"]
+
+64... c2 65. Bxc2+ Kxc2 66. d6 b1=Q *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k1p/3p1PbP/p5K1/2p2P2/p7/8/B7 w - - 2 45"]
+[LichessURL "https://lichess.org/hhwOje1n/black#88"]
+[PuzzleId "OfTOq"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
+
+45. f5 Bh5 46. Kxh5 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/pppp1p2/4pBp1/8/8/1P6/P1PPP2P/RN1QKBNR b KQkq - 0 8"]
+[LichessURL "https://lichess.org/njnRh3Q5#15"]
+[PuzzleId "5N9j4"]
+[Themes "advantage opening short trappedPiece"]
+
+8... Qxf6 9. Nf3 Qxa1 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/5ppk/1p3r1p/1P2KP2/6PP/8/8/3n4 w - - 9 45"]
+[LichessURL "https://lichess.org/F3zqdYR2/black#88"]
+[PuzzleId "eEnqo"]
+[Themes "crushing endgame long trappedPiece"]
+
+45. g5 hxg5 46. hxg5 Rg6 47. fxg6+ *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q3k1/1p4pp/p1r1p3/Q1Pp1p2/PP6/4P1P1/5PP1/2R3K1 b - - 2 24"]
+[LichessURL "https://lichess.org/LrEuyF2X#47"]
+[PuzzleId "UuV8g"]
+[Themes "crushing endgame short trappedPiece"]
+
+24... b6 25. Qxb6 Rxb6 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/2rB1p2/2P1p1p1/pK2P2p/4bP2/6P1/P6P/8 w - - 1 42"]
+[LichessURL "https://lichess.org/kFHrO1Ig/black#82"]
+[PuzzleId "q1ewt"]
+[Themes "advantage endgame short trappedPiece"]
+
+42. Kb6 Bxc6 43. Kxc7 *
+
+
+
+[Event "Trapped Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b3k1n/3p1ppN/1PpPp2P/2P1P1P1/3B1K2/8/8 b - - 2 56"]
+[LichessURL "https://lichess.org/S0DBZRF4#111"]
+[PuzzleId "AckSN"]
+[Themes "defensiveMove endgame equality short trappedPiece"]
+
+56... Kg7 57. Nf5+ gxf5 *
+
+
+

@@ -1,0 +1,1700 @@
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/4Nppk/p7/1p2R3/8/5p1P/6PK/8 w - - 0 39"]
+[LichessURL "https://lichess.org/Jm4catLM/black#76"]
+[PuzzleId "QNuVp"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+39. Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp2kp2/2pRp3/4P3/8/8/PPP1nPPK/3R4 b - - 0 27"]
+[LichessURL "https://lichess.org/ZGXNv3xX#53"]
+[PuzzleId "R60Hc"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+27... Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/1p2Nppk/p1p5/4PR2/4p3/1P2P3/1PPq4/5RK1 w - - 0 30"]
+[LichessURL "https://lichess.org/7AOKkXOq/black#58"]
+[PuzzleId "T4TI5"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+30. Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k2pp1/p7/1p1r4/2p5/P1P1n1PK/BP3R1P/8 b - - 3 37"]
+[LichessURL "https://lichess.org/DPrAM7AF#73"]
+[PuzzleId "cZ7bK"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+37... Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rq2nr2/pp2Nppk/8/2p1p3/8/4R3/PPP2PPP/R5K1 w - - 0 19"]
+[LichessURL "https://lichess.org/kRQ2mlbe/black#36"]
+[PuzzleId "VjHY9"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+19. Rh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p5p1/1p1N4/4B2p/2Pr4/3b4/PP2n1PK/4R3 b - - 2 33"]
+[LichessURL "https://lichess.org/NnbXnsJd#65"]
+[PuzzleId "Kp830"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+33... Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr2/pR2Nppk/1p6/q7/5P2/5R2/6PP/6K1 w - - 0 24"]
+[LichessURL "https://lichess.org/jWbYrBgJ/black#46"]
+[PuzzleId "nbSAw"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+24. Rh3+ Qh5 25. Rxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6q/pppk1B2/3p4/4p3/4Q1bB/8/PPP1n1PK/RN3R2 b - - 2 17"]
+[LichessURL "https://lichess.org/CsqPxyjy#33"]
+[PuzzleId "CkUWy"]
+[Themes "anastasiaMate hangingPiece master mate mateIn1 middlegame oneMove"]
+
+17... Qxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/2p1N1pk/pb6/5R2/r6P/5PP1/6K1 w - - 0 34"]
+[LichessURL "https://lichess.org/AXzhV6xw/black#66"]
+[PuzzleId "bz1LT"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+34. Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/8/1pk5/5r2/P3N3/4n1PK/8/8 b - - 1 54"]
+[LichessURL "https://lichess.org/PoFggbeS#107"]
+[PuzzleId "NUQyw"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+54... Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/4Nppk/pn2p3/1p2P3/q7/3R4/P1R2PPP/6K1 w - - 0 24"]
+[LichessURL "https://lichess.org/IS4zL2hT/black#46"]
+[PuzzleId "I1ACp"]
+[Themes "anastasiaMate master mate mateIn2 middlegame short"]
+
+24. Rh3+ Qh4 25. Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/4Qppp/p3p3/1r6/1n6/BN6/P3nPPK/R4R2 b - - 0 27"]
+[LichessURL "https://lichess.org/VmAWDXP4#53"]
+[PuzzleId "e7CTd"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+27... Rh5+ 28. Qh4 Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2r2p2/p4P2/1p5p/4N1pk/5n2/PPP5/2K2R2 w - - 0 41"]
+[LichessURL "https://lichess.org/8OQc56QV/black#80"]
+[PuzzleId "VO3zm"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+41. Rh1+ Nh2 42. Rxh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/1p5k/4N3/p3nPPK/8/r7/8 b - - 4 55"]
+[LichessURL "https://lichess.org/uKXWbNJd#109"]
+[PuzzleId "N97dT"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+55... Rh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4N1pk/3p4/p1p1bR2/4P3/2P3PK/2r4P/8 w - - 4 41"]
+[LichessURL "https://lichess.org/AJwJLDhp/black#80"]
+[PuzzleId "s8GKF"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+41. Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/8/2R5/p1P1k3/P3n1PK/2P5/1P6/8 b - - 2 44"]
+[LichessURL "https://lichess.org/jgPIqA2d#87"]
+[PuzzleId "C96Xo"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+44... Rh8+ 45. Rh6 Rxh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/3rN1pk/4pp2/1p6/1P6/P1R5/6K1 w - - 5 44"]
+[LichessURL "https://lichess.org/BCWlWxpB/black#86"]
+[PuzzleId "T3YxC"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+44. Rh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pp3R2/2P5/4N3/8/PP2n1PK/1B5P/8 b - - 2 32"]
+[LichessURL "https://lichess.org/iWmKWs69#63"]
+[PuzzleId "OXFCK"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+32... Rh8+ 33. Rh7 Rxh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr2/pp2Nppk/5b2/q7/8/4R3/P1P2PPP/3R2K1 w - - 0 20"]
+[LichessURL "https://lichess.org/6iyVY0z8/black#38"]
+[PuzzleId "sJp9x"]
+[Themes "anastasiaMate long mate mateIn3 middlegame"]
+
+20. Rh3+ Bh4 21. Rxh4+ Qh5 22. Rxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P2Rpp2/5kp1/2r4p/4B3/5P2/KP1n3P/8 b - - 2 38"]
+[LichessURL "https://lichess.org/t13qHENw#75"]
+[PuzzleId "ccgut"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+38... Ra5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r3bR2/4p3/4N1pk/4K3/4P2p/8/8 w - - 2 45"]
+[LichessURL "https://lichess.org/B0n7H53r/black#88"]
+[PuzzleId "n2aEh"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+45. Rh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pkp/6p1/Pr6/R3N3/8/4nPPK/8 b - - 2 32"]
+[LichessURL "https://lichess.org/K5V8Tzan#63"]
+[PuzzleId "1wLec"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+32... Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/pppnNppk/2np4/1B3P2/3qP3/8/PP3P1P/R1BQ1K2 w - - 0 19"]
+[LichessURL "https://lichess.org/qobYzqHJ/black#36"]
+[PuzzleId "aoStT"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+19. Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5q1k/p1Q5/1p1p1r2/2pP4/2P1B3/PP2nPPK/5R2 b - - 3 28"]
+[LichessURL "https://lichess.org/RZTlEk0I#55"]
+[PuzzleId "lnamG"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+28... Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1r2NKpk/5p2/4r3/5R2/8/8 w - - 6 64"]
+[LichessURL "https://lichess.org/CQAG3a7o/black#126"]
+[PuzzleId "WvCu3"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+64. Rh3+ Rh4 65. Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/B6p/r7/P2pk3/4n1PK/R6P/4R3 b - - 0 38"]
+[LichessURL "https://lichess.org/nVgfws8l#75"]
+[PuzzleId "82jyx"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+38... Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/8/5p2/kppNp1pp/8/5R1P/3K1PP1/8 w - - 2 36"]
+[LichessURL "https://lichess.org/Ysb1FkcW/black#70"]
+[PuzzleId "E84Nc"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+36. Ra3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q7/2pk1q2/1R1p4/1p4p1/8/3P2P1/1PP1nPPK/8 b - - 0 30"]
+[LichessURL "https://lichess.org/1Xilbw4B#59"]
+[PuzzleId "NU3d6"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+30... Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1r2/pp2Nppk/3n4/8/3R4/8/PP3PPP/2K4R w - - 0 19"]
+[LichessURL "https://lichess.org/S56HXUej/black#36"]
+[PuzzleId "52Tly"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+19. Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/2p1N2p/8/P3R2P/4n1PK/8/1r6 b - - 4 39"]
+[LichessURL "https://lichess.org/gFMnWjHf#77"]
+[PuzzleId "sxlYJ"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+39... Rh1# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/p3Nppk/8/q1p1p3/8/2P3P1/4R3/1R3K2 w - - 0 26"]
+[LichessURL "https://lichess.org/cGeS5Q2b/black#50"]
+[PuzzleId "zVlCK"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+26. Rh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/ppp3k1/3p2p1/3N4/2P3P1/8/PP2n1PK/5R2 b - - 3 27"]
+[LichessURL "https://lichess.org/Ggt5mDG9#53"]
+[PuzzleId "twEwC"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+27... Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/ppp1Nppk/3p4/2q1p3/2B1P1b1/P2P4/1PP2R2/5K2 w - - 8 27"]
+[LichessURL "https://lichess.org/Lc6wNEng/black#52"]
+[PuzzleId "i5R2s"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+27. Rh2+ Bh3+ 28. Rxh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/8/RpR5/3pk3/1P2n1PK/7P/8/8 b - - 0 47"]
+[LichessURL "https://lichess.org/sSmkOIsa#93"]
+[PuzzleId "yZafu"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+47... Rh8+ 48. Rh6 Rxh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/1Kp5/1p6/p1r5/8/4N1pk/8/5R2 w - - 14 69"]
+[LichessURL "https://lichess.org/lfJOJPZ6/black#136"]
+[PuzzleId "p53m7"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+69. Rh1# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/P4pkp/2N1r3/1P6/8/4n1PK/8 b - - 0 52"]
+[LichessURL "https://lichess.org/J5ejbYCj#103"]
+[PuzzleId "Edgab"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+52... Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3pp1/6p1/3Nn3/8/6R1/P5PK/8 w - - 1 32"]
+[LichessURL "https://lichess.org/tUSz64Ri/black#62"]
+[PuzzleId "ZU3um"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+32. Ne7+ Kh7 33. Rh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1R4p1/3Np1P1/8/4Pr2/2n5/6P1/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/DozYdEzP#57"]
+[PuzzleId "NvPKO"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+29... Ne2+ 30. Kh2 Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5pp1/2N1p3/2R4p/3P4/1P2nPP1/3q3P/R5K1 w - - 6 34"]
+[LichessURL "https://lichess.org/EnILK7l7/black#66"]
+[PuzzleId "cxNhs"]
+[Themes "anastasiaMate endgame master mate mateIn2 short"]
+
+34. Ne7+ Kh7 35. Rxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p2r3/8/3BnRPK/1p2PN2/1P1n4/8/8 b - - 16 58"]
+[LichessURL "https://lichess.org/MTDDKanj#115"]
+[PuzzleId "EnlHV"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+58... Rh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k2r1r1/1p6/1p6/3nN3/2RP3p/1P4P1/P4P1P/6K1 w - - 0 34"]
+[LichessURL "https://lichess.org/gCzmqVPs/black#66"]
+[PuzzleId "hTDVU"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+34. Nd7+ Ka7 35. Ra4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/1ppk4/p2p4/3Bp3/6b1/3P4/PPP1nRPK/5R2 b - - 0 22"]
+[LichessURL "https://lichess.org/EBcxNX3k#43"]
+[PuzzleId "MiUxF"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+22... Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5pp1/p1N1p1p1/8/8/2q2P1P/5QP1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/Ew7kNLYF/black#56"]
+[PuzzleId "z3TIi"]
+[Themes "anastasiaMate endgame master mate mateIn2 short"]
+
+29. Ne7+ Kh7 30. Qh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rr2k/pp4p1/7p/8/4BP2/P2Qn1PK/6P1/4q3 b - - 2 37"]
+[LichessURL "https://lichess.org/ZP0P5sEc#73"]
+[PuzzleId "o0Xdw"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+37... Qh1# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p3pp1/1q2b3/p4Np1/2p5/P3P2P/1PP1Q3/2K2R1R w - - 0 26"]
+[LichessURL "https://lichess.org/TQT5lncb/black#50"]
+[PuzzleId "hTnL3"]
+[Themes "anastasiaMate kingsideAttack mate mateIn2 middlegame short"]
+
+26. Ne7+ Kh7 27. Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/7p/6k1/8/3P4/KP1n1R1P/P7/8 b - - 2 46"]
+[LichessURL "https://lichess.org/jmuJnX9Y#91"]
+[PuzzleId "BIbhs"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+46... Ra8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/5pp1/8/2Q2N2/4n2p/4P3/P2q2PP/5RK1 w - - 0 36"]
+[LichessURL "https://lichess.org/xvySLmzH/black#70"]
+[PuzzleId "q8KYK"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+36. Ne7+ Kh7 37. Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/6pk/5nN1/B5KP/p5P1/P4r2/6b1 b - - 2 42"]
+[LichessURL "https://lichess.org/4FAVRZ9h#83"]
+[PuzzleId "QfWcv"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+42... Ne3+ 43. Kh3 Rh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p3pp1/p3b3/3N1pp1/2p5/5R2/PPP2PPP/4R1K1 w - - 1 26"]
+[LichessURL "https://lichess.org/RcpOmuYj/black#50"]
+[PuzzleId "cmbyx"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+26. Ne7+ Kh7 27. Rh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/3R4/8/8/P1Nnk3/6P1/6P1/6K1 b - - 9 45"]
+[LichessURL "https://lichess.org/gUdVjKPl#89"]
+[PuzzleId "fH27A"]
+[Themes "anastasiaMate endgame long mate mateIn3"]
+
+45... Ne2+ 46. Kh2 Rh8+ 47. Rh7 Rxh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/2n1N1pk/p3p3/6r1/3PK3/8/5R2 w - - 0 30"]
+[LichessURL "https://lichess.org/gc3ZPpZV/black#58"]
+[PuzzleId "aIfm8"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+30. Rh1+ Rh4 31. Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3pk1/p5r1/2N1p3/8/P2P4/1P2n1PK/R4R2 b - - 0 38"]
+[LichessURL "https://lichess.org/sZcF56F0#75"]
+[PuzzleId "1IQzZ"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+38... Rh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3pp1/4p1N1/8/2qr4/8/PP2Q2P/5RK1 w - - 0 27"]
+[LichessURL "https://lichess.org/nFhuywpv/black#52"]
+[PuzzleId "hZTax"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+27. Ne7+ Kh7 28. Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/3B3p/P3r3/2Pp1rP1/1Q1P4/1P2n1PK/R7 b - - 1 33"]
+[LichessURL "https://lichess.org/BkcxnxGc#65"]
+[PuzzleId "0Gm6u"]
+[Themes "anastasiaMate endgame mate mateIn2 sacrifice short"]
+
+33... Rh5+ 34. gxh5 Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/pp2n3/4p3/3p2p1/3P2k1/2P2N1r/PP3K2/8 w - - 18 38"]
+[LichessURL "https://lichess.org/U3cs4no9/black#74"]
+[PuzzleId "GPxsB"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+38. Ne5+ Kh5 39. Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/p2R1pk1/8/8/8/1B2n1PK/P7/8 b - - 8 37"]
+[LichessURL "https://lichess.org/PGypfBPu#73"]
+[PuzzleId "fH8qq"]
+[Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
+
+37... Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n6/1pN3kp/3p2p1/r3p3/p1K1P3/2P5/PP1r4/5R2 w - - 1 28"]
+[LichessURL "https://lichess.org/LLqgCAwc/black#54"]
+[PuzzleId "XUOgB"]
+[Themes "anastasiaMate endgame long mate mateIn3"]
+
+28. Ne6+ Kh6 29. Rh1+ Rh2 30. Rxh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3B2k1/6pp/R2p1r2/2p1pP2/2P1P3/3P4/4nPPK/4N3 b - - 0 37"]
+[LichessURL "https://lichess.org/cX9Da4Db#73"]
+[PuzzleId "iJPIC"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+37... Rh6+ 38. Bh4 Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/1p3pp1/1p6/3N2p1/3qp2n/1B6/PPP4R/1K5R w - - 1 32"]
+[LichessURL "https://lichess.org/BFxzUwm0/black#62"]
+[PuzzleId "9FzoP"]
+[Themes "anastasiaMate long mate mateIn3 middlegame"]
+
+32. Ne7+ Kh7 33. Rxh4+ gxh4 34. Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pB6/3Np3/2r5/8/4P1n1/P5P1/R2R2K1 b - - 1 26"]
+[LichessURL "https://lichess.org/eFz1355i#51"]
+[PuzzleId "n1NHV"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+26... Ne2+ 27. Kh2 Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/pp2Nppk/8/2p1p1p1/4P1Q1/2Pq4/PP4P1/R5K1 w - - 2 22"]
+[LichessURL "https://lichess.org/tVsjsqzo/black#42"]
+[PuzzleId "To63b"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+22. Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/R5pp/1r6/2Np1p2/3PpPP1/1P2P3/4n1PK/R4N2 b - - 0 33"]
+[LichessURL "https://lichess.org/rAMT4I7x#65"]
+[PuzzleId "ixirm"]
+[Themes "anastasiaMate master mate mateIn1 middlegame oneMove"]
+
+33... Rh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1p2Nppk/3B2b1/2P5/1P6/P5p1/5b2/2KR4 w - - 2 32"]
+[LichessURL "https://lichess.org/6RurQiqE/black#62"]
+[PuzzleId "O7HJF"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+32. Rh1+ Bh5 33. Rxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6pp/p1B5/8/5r2/2P3n1/1P4P1/R5K1 b - - 0 29"]
+[LichessURL "https://lichess.org/la6Ni3Hb#57"]
+[PuzzleId "OWpau"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+29... Ne2+ 30. Kh2 Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2pp1/3p4/3N2p1/2B1P3/3PQ3/PqP2P1P/3K4 w - - 0 20"]
+[LichessURL "https://lichess.org/TF1JRpKl/black#38"]
+[PuzzleId "a6DQF"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+20. Ne7+ Kh7 21. Qh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5r2/1P1p4/P2p4/3np3/6P1/R2N2P1/6K1 b - - 0 31"]
+[LichessURL "https://lichess.org/V98RIrnu#61"]
+[PuzzleId "bPxQW"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+31... Ne2+ 32. Kh2 Rh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/pp3pp1/3p4/3Nn1Pb/4P2P/8/PqP3B1/R2QK2R w KQ - 0 17"]
+[LichessURL "https://lichess.org/8lcjZc5D/black#32"]
+[PuzzleId "CYgxy"]
+[Themes "anastasiaMate intermezzo kingsideAttack master mate mateIn2 middlegame short"]
+
+17. Ne7+ Kh7 18. Qxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3kpp/p2p4/P1pP1r2/6n1/1PN3P1/2PR2KP/8 b - - 2 30"]
+[LichessURL "https://lichess.org/u14b1BPv#59"]
+[PuzzleId "Jf3n5"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+30... Ne3+ 31. Kh3 Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/4Nppp/p1p5/4R2Q/2p5/8/Pq3PPP/4R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/JvqMXZ5Y/black#44"]
+[PuzzleId "GvSBs"]
+[Themes "anastasiaMate attraction kingsideAttack master mate mateIn2 middlegame sacrifice short"]
+
+23. Qxh7+ Kxh7 24. Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q1b3k1/p4R1p/1p1pq3/2pB2p1/2P5/1P4P1/P3n1PK/8 b - - 1 33"]
+[LichessURL "https://lichess.org/NxXFy78x#65"]
+[PuzzleId "YUYuT"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+33... Qh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1b1n1ppp/ppN1p3/2pp4/8/2P3P1/PP2KPP1/R6R w - - 4 19"]
+[LichessURL "https://lichess.org/x8o0BGrS/black#36"]
+[PuzzleId "KtOam"]
+[Themes "anastasiaMate attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+19. Ne7+ Kh8 20. Rxh7+ Kxh7 21. Rh1# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/2p2pp1/p3p3/2b1P1p1/2P5/3B1P2/PB2n1PK/3R1R2 b - - 0 24"]
+[LichessURL "https://lichess.org/UBx2oV2u#47"]
+[PuzzleId "BkCuI"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+24... Rh8+ 25. Bh7 Rxh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp1nN1pk/2p5/q7/8/1B2PKP1/PPP5/3R4 w - - 0 21"]
+[LichessURL "https://lichess.org/lIKFi9bO/black#40"]
+[PuzzleId "Rif3V"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+21. Rh1+ Qh5+ 22. Rxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/ppp1k3/8/3p4/3P2R1/2P3n1/PP1N2P1/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/fU5gSOt5#55"]
+[PuzzleId "jdHcs"]
+[Themes "anastasiaMate endgame long mate mateIn3"]
+
+28... Ne2+ 29. Kh2 Rh8+ 30. Rh4 Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p3pp1/p7/3Nn1P1/8/P3K3/1P4P1/5R2 w - - 0 26"]
+[LichessURL "https://lichess.org/muoHvQWu/black#50"]
+[PuzzleId "oIT5J"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+26. Ne7+ Kh7 27. Rh1# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6RP/2k5/2p5/2P2P1N/1P2n1PK/P7/5r2 b - - 0 66"]
+[LichessURL "https://lichess.org/BIsRFpr7#131"]
+[PuzzleId "mRN5B"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+66... Rh1# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/1p6/p3N1pk/4p2p/3bP3/5P1P/r7/5K2 w - - 0 31"]
+[LichessURL "https://lichess.org/vVSMogZa/black#60"]
+[PuzzleId "rNaQA"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+31. Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3r1/3kp3/p2p2P1/1p1B2p1/4P3/8/PP2n1PK/4RR2 b - - 0 23"]
+[LichessURL "https://lichess.org/0W1gEvhh#45"]
+[PuzzleId "FQwze"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+23... Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/pp6/2p1N1pk/3p4/5rq1/1P4P1/P1P5/6K1 w - - 4 38"]
+[LichessURL "https://lichess.org/cgaoXLOd/black#74"]
+[PuzzleId "FmOCc"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+38. Qh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p2k2p1/4b3/3p1p2/P1p2P2/8/4nQPK/3RR3 b - - 0 35"]
+[LichessURL "https://lichess.org/muOdhWpv#69"]
+[PuzzleId "zSU6V"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+35... Rh8+ 36. Qh4 Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3pp1/8/3NPR2/3rn3/8/6KP/8 w - - 1 36"]
+[LichessURL "https://lichess.org/NI55tBez/black#70"]
+[PuzzleId "i8uTQ"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+36. Ne7+ Kh7 37. Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1q4pp/p3pr2/Pp1p4/1P1PB3/1Q2n1PK/1B5P/R1R5 b - - 0 26"]
+[LichessURL "https://lichess.org/NEuQsu6c#51"]
+[PuzzleId "sCJXF"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+26... Rh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qr2/ppp1Nppk/8/1n6/8/3R4/PPP2PPP/2K1R3 w - - 0 20"]
+[LichessURL "https://lichess.org/XGrtWJzf/black#38"]
+[PuzzleId "71Mky"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+20. Rh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b5/p1p1Q1p1/1p4k1/3Ppr2/3n4/3PB3/PPP3P1/R5KR b - - 3 19"]
+[LichessURL "https://lichess.org/UywEf9Hf#37"]
+[PuzzleId "OKtSZ"]
+[Themes "anastasiaMate kingsideAttack long mate mateIn3 middlegame"]
+
+19... Ne2+ 20. Kh2 Rh5+ 21. Qh4 Rxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/5pp1/p2p2N1/2pB2R1/4Pp2/2PP4/5K2/1q6 w - - 0 33"]
+[LichessURL "https://lichess.org/jvgLUMgh/black#64"]
+[PuzzleId "MV1I5"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+33. Ne7+ Kh7 34. Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3p2/pQ1p2p1/3P1r2/1P3n2/2P5/1P4P1/6K1 b - - 6 42"]
+[LichessURL "https://lichess.org/AdNVtzzA#83"]
+[PuzzleId "aE14S"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+42... Ne2+ 43. Kh2 Rh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/1p2N1pk/3p4/8/3RP3/pP2Q3/P1P2q2/2K5 w - - 0 31"]
+[LichessURL "https://lichess.org/5G1v3xWK/black#60"]
+[PuzzleId "NUYVY"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+31. Qh3+ Qh4 32. Qxh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p1pR4/1k6/2p5/P7/1PP1n1PK/7P/3R4 b - - 0 44"]
+[LichessURL "https://lichess.org/quTxd5Zc#87"]
+[PuzzleId "fNbpJ"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+44... Rh8+ 45. Rh7 Rxh7# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/2R4p/kp1N1n2/1p4p1/8/3n2PK/5r1P/7R w - - 0 31"]
+[LichessURL "https://lichess.org/arP6BU1a/black#60"]
+[PuzzleId "T8Wr2"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+31. Ra1+ Ra2 32. Rxa2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2R1ppp/1p6/4q3/4PP2/PQ2B3/4n1PK/2R5 b - - 0 26"]
+[LichessURL "https://lichess.org/DA9bEGiQ#51"]
+[PuzzleId "i9hCR"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+26... Qh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/1b1qN1rk/p2p1B2/8/4P3/5P2/1PP3P1/1K1R4 w - - 0 30"]
+[LichessURL "https://lichess.org/KIvZqjEe/black#58"]
+[PuzzleId "fSo1J"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+30. Rh1+ Qh3 31. Rxh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Q2/3P3k/2P4p/1p3Pr1/8/4n1PK/1R6 b - - 2 44"]
+[LichessURL "https://lichess.org/HdICbE7g#87"]
+[PuzzleId "dP2xy"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+44... Rh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2q2r/4p3/p2pN1pk/3p4/1P2n1Q1/8/5PPP/6K1 w - - 0 31"]
+[LichessURL "https://lichess.org/kNtgDKBR/black#60"]
+[PuzzleId "GweNl"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+31. Qh3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k1r2/ppp5/3pb1Q1/2b1p3/4P3/3PN3/PPP1nPPK/R4R2 b - - 0 19"]
+[LichessURL "https://lichess.org/9XrW6e4m#37"]
+[PuzzleId "S7MAs"]
+[Themes "anastasiaMate mate mateIn2 middlegame short"]
+
+19... Rh8+ 20. Qh5 Rxh5# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/p4q2/kppN1b1r/4B2p/6b1/5R2/PPP3PP/5RK1 w - - 3 26"]
+[LichessURL "https://lichess.org/k8bf0lW8/black#50"]
+[PuzzleId "eKwEz"]
+[Themes "anastasiaMate mate mateIn1 middlegame oneMove"]
+
+26. Ra3# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/ppp2k2/3p1p2/2bPpP2/4P3/2P5/PP1Bn1PK/R3R3 b - - 0 24"]
+[LichessURL "https://lichess.org/CD7jAllf#47"]
+[PuzzleId "0d82l"]
+[Themes "anastasiaMate endgame mate mateIn2 short"]
+
+24... Rh8+ 25. Bh6 Rxh6# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rkq/p1pn1pp1/1pbp4/4pN2/8/P1P1R1QP/1P3PP1/R5K1 w - - 0 25"]
+[LichessURL "https://lichess.org/J1KXRzTy/black#48"]
+[PuzzleId "VeBRm"]
+[Themes "anastasiaMate fork mate mateIn2 middlegame short"]
+
+25. Ne7+ Kh7 26. Qh4# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p4pk1/1p1p2p1/3Rp3/PNP1n1PK/1P6/4P3/1R6 b - - 0 38"]
+[LichessURL "https://lichess.org/RWwoyPt6#75"]
+[PuzzleId "ISZGP"]
+[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+
+38... Rh8# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1n1pp1/2p5/1B1N1Pp1/4P1K1/8/PPP4b/7R w - - 0 25"]
+[LichessURL "https://lichess.org/LDShrabS/black#48"]
+[PuzzleId "1EJ2c"]
+[Themes "anastasiaMate intermezzo mate mateIn2 middlegame short"]
+
+25. Ne7+ Kh7 26. Rxh2# *
+
+
+
+[Event "Anastasia Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/2p3rk/4p3/P3Nppq/3r1n2/8/5PPP/R4RK1 b - - 0 30"]
+[LichessURL "https://lichess.org/eplaqgqX#59"]
+[PuzzleId "7Q5hM"]
+[Themes "anastasiaMate attraction long mate mateIn3 middlegame sacrifice"]
+
+30... Ne2+ 31. Kh1 Qxh2+ 32. Kxh2 Rh4# *
+
+
+

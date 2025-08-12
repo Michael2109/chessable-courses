@@ -12,9 +12,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 23. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -33,11 +33,11 @@
 [Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Rc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 29. Qe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -56,11 +56,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 22. Rxf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 22... Qd8 23. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -79,11 +79,11 @@
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 47... Ra1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 48. Rb1 Rxb1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -102,9 +102,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -123,11 +123,11 @@
 [Themes "backRankMate endgame master mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 29... Rc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 30. Ne1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -146,9 +146,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 38. Qxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -167,11 +167,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 41... Qa1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 42. Qe1 Qxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -190,9 +190,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 27. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -211,9 +211,9 @@
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 33... Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -232,11 +232,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28. Rxe8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 28... Rxe8 29. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -255,9 +255,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32... Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -276,9 +276,9 @@
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 39. Re8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -297,9 +297,9 @@
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 18... Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -318,11 +318,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 27. Ra8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27... Qb8 28. Rxb8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -341,13 +341,13 @@
 [Themes "backRankMate endgame long mate mateIn3"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 22... Rb1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 23. Bc1 Rxc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 24. Rd1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -366,11 +366,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 36. Rxc8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 36... Ne8 37. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -389,9 +389,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32... Rxc1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -410,11 +410,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 31. Qxe8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 31... Bxe8 32. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -433,11 +433,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Rb1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 29. Rd1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -456,11 +456,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32. Rd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 32... Re8 33. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -479,9 +479,9 @@
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 30... Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -500,11 +500,11 @@
 [Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 27. Rxd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 27... Re8 28. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -523,11 +523,11 @@
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
-29... Qe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+29. Qe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 30. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -546,9 +546,9 @@
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 38. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -567,11 +567,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 19... Rd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 20. Rf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -590,9 +590,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 31. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -611,11 +611,11 @@
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 24... Rc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 25. Re1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -634,11 +634,11 @@
 [Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 47. Rd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 47... Rxd8 48. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -657,11 +657,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 26... Rd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27. Re1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -680,9 +680,9 @@
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 17. Rc8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -701,11 +701,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 38... Qa1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 39. Qb1 Qxb1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -724,9 +724,9 @@
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 26. Qd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -745,11 +745,11 @@
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 23... Qd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 24. Rxd1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -768,11 +768,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 19. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 19... Rxd8 20. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -791,11 +791,11 @@
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32... Rd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 33. Re1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -814,11 +814,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 27. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27... Qxd8 28. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -837,9 +837,9 @@
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 18... Rf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -858,11 +858,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 24. Ra8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 24... Rd8 25. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -881,13 +881,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 17... Rxe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 18. Nxe1 Qxe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 19. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -906,11 +906,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 26. Qxd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 26... Bxd8 27. Re8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -929,9 +929,9 @@
 [Themes "advancedPawn backRankMate endgame mate mateIn1 oneMove promotion"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 36... exd1=Q#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -950,11 +950,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 36. Ra8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 36... Qc8 37. Rxc8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -973,11 +973,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Rb1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 29. Rc1 Rxc1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -996,9 +996,9 @@
 [Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 30. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1017,11 +1017,11 @@
 [Themes "backRankMate endgame master mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 39... Re1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 40. Bf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1040,11 +1040,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 16. Bc5+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 16... Kg8 17. Re8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1063,13 +1063,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 25... Qxf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 26. Kh1 Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1088,9 +1088,9 @@
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 25. Qxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1109,11 +1109,11 @@
 [Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 33... Rxb1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 34. Qd1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1132,11 +1132,11 @@
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 38. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 38... Rxd8 39. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1155,11 +1155,11 @@
 [Themes "backRankMate deflection endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Bxe3+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 29. Kh1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1178,11 +1178,11 @@
 [Themes "backRankMate mate mateIn2 middlegame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 13. Qxd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 13... Nxd8 14. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1201,13 +1201,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 25... Qxf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 26. Kh1 Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1226,13 +1226,13 @@
 [Themes "backRankMate endgame long mate mateIn3"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 47. Rb8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 47... Qc8 48. Rxc8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Sacrifices to deflect the back-rank defender — a classic motif before mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Neat deflection sac! The last back-rank bodyguard is gone. Check! The pawn wall keeps the king boxed in. }
 48... Qe8 49. Rxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1251,11 +1251,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
-25... Qe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+25. Qe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 26. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1274,13 +1274,13 @@
 [Themes "backRankMate endgame long mate mateIn3"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 23. Qxf7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 23... Kh8 24. Qf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 24... Rxf8 25. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1299,11 +1299,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Qc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 29. Qd1 Qxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1322,9 +1322,9 @@
 [Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 18. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1343,11 +1343,11 @@
 [Themes "backRankMate deflection endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Be3+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 29. Kb1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1366,13 +1366,13 @@
 [Themes "backRankMate endgame long mate mateIn3"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 38. Rd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 38... Rxd8 39. Qxd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 39... Qe8 40. Qxe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1391,9 +1391,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32... Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1412,13 +1412,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 21. Qf7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 21... Kh8 22. Qf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 22... Rxf8 23. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1437,11 +1437,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 25... Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 26. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1460,13 +1460,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 27. Qxf7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 27... Kh8 28. Qf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 28... Rxf8 29. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1485,11 +1485,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
-25... Qe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+25. Qe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 26. Nxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1508,13 +1508,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 24. Qxf7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 24... Kh8 25. Qf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 25... Rxf8 26. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1533,11 +1533,11 @@
 [Themes "backRankMate endgame mate mateIn2 short xRayAttack"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 25... Rxe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 26. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1556,13 +1556,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 17. Qxd7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 17... Kf8 18. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 18... Rxd8 19. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1581,11 +1581,11 @@
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 20... Qxa1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 21. Nxa1 Rd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1604,11 +1604,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 30. Qa8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 30... Rd8 31. Qxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1627,11 +1627,11 @@
 [Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 23... Qxb1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 24. Rf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1650,11 +1650,11 @@
 [Themes "backRankMate deflection endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 26. Ne7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 26... Kh8 27. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1673,13 +1673,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32... Qe2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 33. Kg1 Qe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 34. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1698,11 +1698,11 @@
 [Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 38. Rd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 38... Re8 39. Rexe8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1721,11 +1721,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Rxd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 29. Nxd1 Re1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1744,13 +1744,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 24. Qf7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 24... Kh8 25. Qf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 25... Rxf8 26. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1769,13 +1769,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 29... Qxc2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 30. Ka1 Qc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 31. Rxc1 Rxc1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1794,11 +1794,11 @@
 [Themes "backRankMate endgame mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 35. Qa8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 35... Bd8 36. Qxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1817,13 +1817,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 29... Qf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 30. Kh1 Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 31. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1842,13 +1842,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 24. Qd7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 24... Kb8 25. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 25... Rxd8 26. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1867,13 +1867,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 16... Qe2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 17. Kg1 Qe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 18. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1892,13 +1892,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 19. Qd7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 19... Kf8 20. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 20... Rxd8 21. Rxd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1917,11 +1917,11 @@
 [Themes "advancedPawn backRankMate endgame mate mateIn2 promotion short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 39... Qd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 40. Rxd1 exd1=Q#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1940,11 +1940,11 @@
 [Themes "advancedPawn backRankMate mate mateIn2 middlegame promotion short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 27. Re8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27... Rxe8 28. dxe8=Q#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1963,13 +1963,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28... Qf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 29. Kh1 Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 30. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -1988,9 +1988,9 @@
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 34. Qd8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2009,13 +2009,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 26... Qxf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 27. Kh1 Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 28. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2034,11 +2034,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 26. Qc8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 26... Rxc8 27. Rxc8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2057,15 +2057,15 @@
 [Themes "backRankMate endgame master mate mateIn4 sacrifice veryLong"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 48... Ne2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 49. Kh1 Nf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 50. Rxf2 Rb1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 51. Rf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2084,11 +2084,11 @@
 [Themes "advancedPawn backRankMate mate mateIn2 middlegame promotion short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 28. Qd8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 28... Rxd8 29. cxd8=Q#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2107,13 +2107,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 20... Qd2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 21. Kb1 Qd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 22. Rxd1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2132,11 +2132,11 @@
 [Themes "backRankMate endgame fork mate mateIn2 short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 41. Ne7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 41... Kh8 42. Rf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2155,13 +2155,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 25... Qf2+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 26. Kh1 Qf1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 27. Rxf1 Rxf1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2180,13 +2180,13 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 21. Qh7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 21... Kf8 22. Qh8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 22... Nxh8 23. Rxh8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2205,11 +2205,11 @@
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 24... Qxc1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Removes the back-rank defender, clearing the way for mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
 25. Nxc1 Re1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2228,13 +2228,13 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 32. Qxf7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 32... Kh8 33. Qf8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 33... Rxf8 34. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2253,11 +2253,11 @@
 [Themes "backRankMate endgame mate mateIn2 sacrifice short xRayAttack"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 40... Qd1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 41. Rxd1 Rxd1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2276,13 +2276,13 @@
 [Themes "backRankMate deflection fork long mate mateIn3 middlegame"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
 23. Re8+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 23... Bf8 24. Ne7+
-{ Check — the king remains boxed in behind its pawn shield on the back rank. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
 24... Kh8 25. Rxf8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
 
 
@@ -2301,12 +2301,11 @@
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short xRayAttack"]
 [Annotator "Auto: Back Rank Mate Explainer"]
 
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. Theme: Back Rank Mate. Keep the enemy king boxed in by its back-rank pawns, eliminate or deflect the last defender, and invade the back rank with a rook or queen to deliver mate. Notice how each move opens lines, restricts escapes, or forces concessions that make the back-rank mate inevitable. }
-28... Qe1+
-{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. Invades the back rank with a heavy piece, tying down the king and threatening mate. Check — the king remains boxed in behind its back-rank pawn shield. }
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+28. Qe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
 29. Rxe1 Rxe1#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. Back rank mate! The king is trapped by its own pawns with no escape squares. }
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
 *
-
 
 

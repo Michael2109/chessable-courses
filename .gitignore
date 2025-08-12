@@ -9,4 +9,6 @@ coverage.xml
 .DS_Store
 *.egg-info/
 
+lichess_db_puzzle.csv
+
 
