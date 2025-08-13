@@ -1,0 +1,325 @@
+% Basics 3: Back Rank Knockout - 15 Puzzles
+
+[Event "Basics 1: Deliver Checkmate!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
+[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
+[PuzzleId "fImTO"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+
+39. Re8# { Checkmate! This is the classic back rank mate pattern. Black's own pawns on f7, g7, and h7 prevent the king from escaping, while the rook controls the entire 8th rank. Remember: an undefended back rank is often a fatal weakness! }
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r2k1/pp3pp1/7p/2p5/4Pb2/5P2/PPP3PP/1K1R1B1R b - - 1 18"]
+[LichessURL "https://lichess.org/t9dY8kVn#35"]
+[PuzzleId "gFLyt"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+
+18... Rxd1# *
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1pQ2pp1/p3p2p/4P3/3q4/8/PP3PPP/2R3K1 b - - 1 23"]
+[LichessURL "https://lichess.org/13nNVUBi#45"]
+[PuzzleId "EZbTy"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+23... Qd1+ 24. Rxd1 Rxd1# *
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q6/p3rnkp/1p4p1/1Bp2p2/3R4/PP6/6PP/7K b - - 0 39"]
+[LichessURL "https://lichess.org/xDAf9VUz#77"]
+[PuzzleId "pLQsM"]
+[Themes "backRankMate endgame master mate mateIn2 short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+39... Re1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+40. Bf1 Rxf1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rrk2/pb3pp1/2p5/1p2qB2/8/P1P4R/2Q2PPP/R5K1 b - - 1 25"]
+[LichessURL "https://lichess.org/4kGSoJBC#49"]
+[PuzzleId "8pHgW"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+25. Qe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+26. Rxe1 Rxe1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/ppp3pp/2n5/7Q/8/3P4/PqP3P1/5RK1 w - - 0 21"]
+[LichessURL "https://lichess.org/OxFUhGXF/black#40"]
+[PuzzleId "7y6JN"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+21. Qf7+
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
+21... Kh8 22. Qf8+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+22... Rxf8 23. Rxf8#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/pp3qpp/8/3pp1N1/8/2PQ4/PP2R1PP/4R2K b - - 0 25"]
+[LichessURL "https://lichess.org/3kJsFr93#49"]
+[PuzzleId "RpxgF"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+25... Qf1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+26. Rxf1 Rxf1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3p2/5p1p/6nQ/8/8/P3RPPP/2r1N2K b - - 1 25"]
+[LichessURL "https://lichess.org/NNm94gAu#49"]
+[PuzzleId "rArPZ"]
+[Themes "backRankMate endgame mate mateIn2 short xRayAttack"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+25... Rxe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
+26. Rxe1 Rxe1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/p5np/1p4p1/5pB1/8/5Q2/2P2PPP/3rN1K1 b - - 0 33"]
+[LichessURL "https://lichess.org/mZtJrYvk#65"]
+[PuzzleId "zw6mS"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+33... Rxe1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/ppp3Qp/5n2/8/8/1Nq5/P1P2PPP/R5K1 b - - 0 20"]
+[LichessURL "https://lichess.org/VP0Er65u#39"]
+[PuzzleId "tNVqm"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+20... Qxa1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
+21. Nxa1 Rd1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/3r4/3Q4/2p5/4PKP1/2q2P1P/8 w - - 0 30"]
+[LichessURL "https://lichess.org/BMLJfUcn/black#58"]
+[PuzzleId "3eTJo"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+30. Qa8+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+30... Rd8 31. Qxd8#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3Rpp/2p5/4Q3/4P3/2PP4/q1P3PP/1R5K b - - 0 23"]
+[LichessURL "https://lichess.org/PWBGiTLv#45"]
+[PuzzleId "ffJrH"]
+[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+23... Qxb1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. Slides onto the back rank, tightening the net around the king. Takes out the last back-rank bodyguard — mate is coming. Check! The pawn wall keeps the king boxed in. }
+24. Rf1 Rxf1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p5pp/8/3Np3/2Pn4/P7/2r4P/3R1R1K w - - 0 26"]
+[LichessURL "https://lichess.org/XXSumcqK/black#50"]
+[PuzzleId "tnwdn"]
+[Themes "backRankMate deflection endgame mate mateIn2 short"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+26. Ne7+
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
+26... Kh8 27. Rxf8#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4qpp1/Q6p/8/2R5/1P1P4/P4PPP/2R2K2 b - - 2 32"]
+[LichessURL "https://lichess.org/G9MUerj5#63"]
+[PuzzleId "VtkOD"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+32... Qe2+
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
+33. Kg1 Qe1+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+34. Rxe1 Rxe1#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
+
+
+
+[Event "Back Rank Mate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp4pp/8/n3p3/8/PPp2Q1P/2Pq2P1/5R1K w - - 0 24"]
+[LichessURL "https://lichess.org/YVujbNjD/black#46"]
+[PuzzleId "x19DY"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Annotator "Auto: Back Rank Mate Explainer"]
+
+{ Back-rank mate plan: keep the king caged by its pawn wall, remove the last bodyguard, and crash a rook/queen onto the back rank. }
+24. Qf7+
+{ Check! The pawn wall keeps the king boxed in. Check! The pawn wall keeps the king boxed in. }
+24... Kh8 25. Qf8+
+{ Slides onto the back rank, tightening the net around the king. Check! The pawn wall keeps the king boxed in. }
+25... Rxf8 26. Rxf8#
+{ Back-rank mate! The king's stuck behind its pawns with nowhere to run. }
+*
