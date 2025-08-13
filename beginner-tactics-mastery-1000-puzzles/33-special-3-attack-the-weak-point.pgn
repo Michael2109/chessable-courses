@@ -10,11 +10,10 @@
 [LichessURL "https://lichess.org/rmtlhGXo/black#76"]
 [PuzzleId "fImTO"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+{{Attack the Weak Point - f7 and f2 Targets
 
-{{The Back Rank Mate - A Essential Chess Pattern
+The f7 and f2 squares are naturally weak in the opening because they're only defended by the king. These squares become prime targets for early attacks, especially with pieces like the queen and bishop.
 
-The back rank checkmate is one of chess's most satisfying tactical themes. When a king gets stuck on its back rank, trapped by its own pawns, a well-placed rook or queen can end the game instantly.
-
-You'll see this pattern everywhere - from your local chess club to World Championship games. The great thing about back rank mates is that once you know what to look for, you'll start spotting opportunities you never noticed before.
+Learn to exploit these fundamental weaknesses and you'll win many games in the opening phase. Many beginners fall victim to attacks on these vulnerable squares.
 }
 39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
