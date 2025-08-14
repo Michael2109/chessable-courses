@@ -11,15 +11,13 @@
 [PuzzleId "YNqxV"]
 [Themes "advantage endgame fork hangingPiece short"]
 
-38... Bxe3+ 39. Kf1 Bxd2 *
 {{Basics 2: Free Pieces!
 
 This section focuses on One-move captures, undefended pieces.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
-
+38... Bxe3+ 39. Kf1 Bxd2 *
 
 
 [Event "Hanging Piece"]
