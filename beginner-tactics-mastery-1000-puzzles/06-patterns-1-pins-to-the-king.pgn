@@ -1,71 +1,455 @@
-[Event "Pin"]
+[Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/p1r2npp/8/1p1R4/4p3/P1p4P/B4P2/4K3 w - - 0 41"]
-[LichessURL "https://lichess.org/SMTKq7l0/black#80"]
-[PuzzleId "wQp5K"]
-[Themes "endgame master mate mateIn1 oneMove pin"]
+[FEN "2k2r2/pbpp2pp/1n6/2p5/2PN4/1P3rP1/P1Q3BP/5R1K b - - 0 21"]
+[LichessURL "https://lichess.org/sYd43OCn#41"]
+[PuzzleId "kooUU"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
 {{Patterns 1: Pins to the King
 
-This section focuses on Absolute pins, winning pinned pieces.
+This section focuses on Pinning pieces to the king, creating devastating kingside attacks.
 
-Sharpen named motif recognition and learn how to exploit them fast.
+Learn to recognize when pieces are pinned to the king and exploit these tactical opportunities.
 }
-41. Rd8# *
+21... Rxf1# *
 
-
-
-[Event "Pin"]
+[Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1r4k1/pr3p1p/p3p1p1/3b2P1/N1pPpP2/P3P2R/2P4P/1RQ3K1 b - - 0 23"]
-[LichessURL "https://lichess.org/6KMPNgmR#45"]
-[PuzzleId "x89pv"]
-[Themes "crushing master middlegame pin short"]
-
-23... Rxb1 24. Qxb1 Rxb1+ *
-
-
-
-[Event "Pin"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "4"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2r3k1/5ppp/7b/p3p3/4P3/6P1/5P1P/3Q2K1 b - - 0 26"]
-[LichessURL "https://lichess.org/4fDwkc1K#51"]
-[PuzzleId "MTHWe"]
-[Themes "crushing endgame pin short"]
-
-26... Rc1 27. Qxc1 Bxc1 *
-
-
-
-[Event "Pin"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "5"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5rpp/3R4/1p2p3/1P2P3/1BPK1nP1/4R2P/5q2 w - - 0 35"]
-[LichessURL "https://lichess.org/ngEkUqoz/black#68"]
-[PuzzleId "s2Wvc"]
-[Themes "endgame mate mateIn1 oneMove pin"]
+[FEN "r1b3k1/ppp2rpp/5n2/8/8/P7/BPP2PPP/3RK2R w K - 0 15"]
+[LichessURL "https://lichess.org/b9cgkthc/black#28"]
+[PuzzleId "ubXiZ"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin short"]
 
-35. Rd8# *
+15. Rd8+ Ne8 16. Rxe8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/1p5n/4p2Q/p2pqp2/7R/3B4/PPP2PPP/R5K1 w - - 0 22"]
+[LichessURL "https://lichess.org/eKmd1zW5/black#42"]
+[PuzzleId "MNWxx"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+22. Qxf8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3nq1kr/pp3bpp/8/2BB4/3p4/P7/1PP2PPP/R2KR3 w - - 0 25"]
+[LichessURL "https://lichess.org/nZwJKuyF/black#48"]
+[PuzzleId "LYyMx"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+25. Rxe8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp2pp2/2np2p1/2p2n2/1PPb4/P1NP1PP1/3B2BP/1R1Q1R1K b kq - 2 14"]
+[LichessURL "https://lichess.org/aTClfD9d#27"]
+[PuzzleId "2dJFE"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove pin"]
+
+14... Nxg3# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1nbq1r1k/r5bp/2p3p1/pp2p3/3P1N2/1BP4Q/P4PPP/R1B2RK1 w - - 2 19"]
+[LichessURL "https://lichess.org/ReE5jbWL/black#36"]
+[PuzzleId "6WS0B"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+19. Nxg6# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bBk2r/1pp2pp1/p1n5/2bpp2n/4P3/2NP1NP1/PPP3BP/R2Q1R1K b kq - 0 11"]
+[LichessURL "https://lichess.org/4mt5rJ6k#21"]
+[PuzzleId "hjW6e"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+11... Nxg3# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1q1kr/ppp3p1/1n1b3p/4p3/3nN3/2NP2Q1/PPP2PPP/R1B2RK1 w - - 4 13"]
+[LichessURL "https://lichess.org/N8nyFrNg/black#24"]
+[PuzzleId "M1JFT"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+
+13. Nf6+ Kf7 14. Nxe8 *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rpp/1r6/p1p1qP2/Pn2P3/1B5P/1PP3P1/3RR2K w - - 0 27"]
+[LichessURL "https://lichess.org/x5HIkaYe/black#52"]
+[PuzzleId "mI4pA"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin short"]
+
+27. Rd8+ Qe8 28. Rxe8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p4ppp/2pp4/4p2n/4PPb1/3B2Pq/PPPQ3P/R4RNK b - - 2 17"]
+[LichessURL "https://lichess.org/C1Ts2oVq#33"]
+[PuzzleId "dTfTM"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+17... Nxg3# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/ppp2rpp/1n6/4R3/2Bq4/3P3P/P1P2PP1/4R1K1 w - - 0 17"]
+[LichessURL "https://lichess.org/z7M0khQR/black#32"]
+[PuzzleId "cdq4n"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin short"]
+
+17. Re8+ Rxe8 18. Rxe8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n3r1k/r3b1p1/4B2p/p1p5/Pp6/6P1/1PP1K1PP/3R1R2 w - - 1 22"]
+[LichessURL "https://lichess.org/jlvs6hls/black#42"]
+[PuzzleId "mmCvI"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+
+22. Rxf8+ Bxf8 23. Rd8 *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2r2/ppp3rp/4pq2/4n3/3Q1P2/8/PPP3PP/RNB2RK1 b - - 0 17"]
+[LichessURL "https://lichess.org/hWaNSMtr#33"]
+[PuzzleId "3zA5G"]
+[Themes "crushing discoveredAttack kingsideAttack middlegame pin short"]
+
+17... Nf3+ 18. Rxf3 Qxd4+ *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1pp2pp1/3p3p/2pP1q2/2P3b1/6P1/PP3P1P/4Q1KB w - - 0 23"]
+[LichessURL "https://lichess.org/Dh7WCJB6/black#44"]
+[PuzzleId "FG5e6"]
+[Themes "crushing endgame kingsideAttack long pin"]
+
+23. Qe8+ Kh7 24. Be4 Qxe4 25. Qxe4+ *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n2Rr1k/2p3qp/1p4p1/4Qp1r/p4P2/2P5/P1P3PP/R5K1 w - - 4 28"]
+[LichessURL "https://lichess.org/nYa49iyS/black#54"]
+[PuzzleId "JTbMw"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+28. Rxf8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1r1k/pb2N1bp/1pn3p1/2p2pp1/4P2Q/P2P1N2/BPP3PP/R4RK1 w - - 1 16"]
+[LichessURL "https://lichess.org/GdxS5Sob/black#30"]
+[PuzzleId "penTD"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+16. Nxg6# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/1p3p2/3b2p1/p7/2BB1P1q/P3P2P/2Q2P2/R3K3 w Q - 0 19"]
+[LichessURL "https://lichess.org/jL5Dxo86/black#36"]
+[PuzzleId "xzVLt"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+19. Qxg6# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2pqbpp1/2p3rp/p2pPPnN/P2P1Q2/2P4P/1P4P1/R1B1R1K1 b - - 2 25"]
+[LichessURL "https://lichess.org/EXqr1Yh2#49"]
+[PuzzleId "gBEsc"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+
+25... Nxh3+ 26. Kh2 Nxf4 *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1pp2rpp/1nq5/3Rp1B1/1p2P3/1B6/1PP1KPPP/8 w - - 0 20"]
+[LichessURL "https://lichess.org/owRriapD/black#38"]
+[PuzzleId "Pk4Sd"]
+[Themes "endgame kingsideAttack mate mateIn2 pin short"]
+
+20. Rd8+ Qe8 21. Rxe8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p3k2p/1p1pNp1Q/3Bn3/4P3/1P6/P1P1qPPP/5RK1 b - - 0 27"]
+[LichessURL "https://lichess.org/I6f7hMlq#53"]
+[PuzzleId "tIgmE"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame pin short"]
+
+27... Nf3+ 28. Kh1 Qxf1# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/4p1bp/1q4p1/1p1PB3/pP2n3/P4RPP/6BK/5R2 w - - 0 29"]
+[LichessURL "https://lichess.org/hHTAW0xB/black#56"]
+[PuzzleId "hHvXF"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove pin"]
+
+29. Rxf8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3nk/1p1n3p/p2qb1pQ/4p3/1P1pP2N/P2P2N1/4B1PP/5RK1 w - - 6 24"]
+[LichessURL "https://lichess.org/q0Aew2CM/black#46"]
+[PuzzleId "InOhO"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+24. Nxg6# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p1pn2p1/1p1b3p/3Q1p2/P2P1r1q/2P5/1P1B2NN/R4R1K b - - 3 23"]
+[LichessURL "https://lichess.org/qozGTOfR#45"]
+[PuzzleId "wo3zC"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin short"]
+
+23... Rxf1+ 24. Rxf1 Qxh2# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rbk1/1p3pp1/2p1rn1p/p2p1N1n/1q1P2Q1/1P1B1P2/P4BPP/3R1R1K w - - 6 23"]
+[LichessURL "https://lichess.org/058oJSqV/black#44"]
+[PuzzleId "8LZzu"]
+[Themes "advantage deflection kingsideAttack master middlegame pin short"]
+
+23. Nxh6+ Kh8 24. Nxf7+ *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p1b1rp1/pq2p2p/3p4/1P1P4/P1NQ4/5nPP/1BR1R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/v4S28XWz/black#44"]
+[PuzzleId "RHl9C"]
+[Themes "advantage kingsideAttack long middlegame pin"]
+
+23. Qh7+ Kf8 24. Qh8+ Ke7 25. Nxd5+ *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/pb4pp/1p6/3p2q1/8/1P2RPN1/PB4BP/2RQ2K1 b - - 0 25"]
+[LichessURL "https://lichess.org/QHQesfsR#49"]
+[PuzzleId "ndbNb"]
+[Themes "advantage hangingPiece kingsideAttack middlegame pin veryLong"]
+
+25... Qxe3+ 26. Kh1 Rxc1 27. Bxc1 Qe1+ 28. Qxe1 Rxe1+ *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/pb2nppp/B3p3/2p5/Q1Pr4/6B1/P4PRP/7K b - - 0 23"]
+[LichessURL "https://lichess.org/3WNC0EMy#45"]
+[PuzzleId "W0cZQ"]
+[Themes "kingsideAttack master mate mateIn2 middlegame pin short"]
+
+23... Rd1+ 24. Qxd1 Rxd1# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2p2rpp/p2p3b/1p6/3P3P/1BP3P1/PP1n1P1N/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/ZBF8imsA/black#52"]
+[PuzzleId "krg9e"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+27. Rxe8# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/1p3p2/3b2p1/p7/2BB1P1q/P3P2P/2Q2P2/R3K3 w Q - 0 19"]
+[LichessURL "https://lichess.org/jL5Dxo86/black#36"]
+[PuzzleId "xzVLt"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+
+19. Qxg6# *
+
+[Event "Patterns 1: Pins to the King"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n3r1k/r3b1p1/4B2p/p1p5/Pp6/6P1/1PP1K1PP/3R1R2 w - - 1 22"]
+[LichessURL "https://lichess.org/jlvs6hls/black#42"]
+[PuzzleId "mmCvI"]
+[Themes "advantage kingsideAttack middlegame pin short"]
+
+22. Rxf8+ Bxf8 23. Rd8 *
