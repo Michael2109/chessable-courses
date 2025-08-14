@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Pin"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,83 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "7k/1q4rp/pp6/2b5/2B2n2/1P6/PB3PbP/3R2K1 w - - 0 31"]
+[LichessURL "https://lichess.org/AV9jETaW/black#60"]
+[PuzzleId "aWHyE"]
+[Themes "mate mateIn2 middlegame pin short"]
+
 {{Basics 5: Safe to Capture?
 
 This section focuses on Is it safe to take? Simple counting.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+31. Rd8+ Bf8 32. Rxf8# *
+
+
+
+[Event "Hanging Piece"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4p1/2p5/4p2p/2qbQ3/2N5/PPP4P/5R1K b - - 7 30"]
+[LichessURL "https://lichess.org/7lNmjwdu#59"]
+[PuzzleId "u1cg2"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+30... Qxf1# *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/p1n2ppp/q3p3/8/1PQ1P3/P4P2/6PP/2R2K2 w - - 1 26"]
+[LichessURL "https://lichess.org/rpkS3N8C/black#50"]
+[PuzzleId "TnOa7"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
+
+26. Qxa6 Nxa6 27. Rxc8+ *
+
+
+
+[Event "Capturing Defender"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1r2k1/7p/8/3q1p2/P1QNpP2/1P4KP/4R3 b - - 3 35"]
+[LichessURL "https://lichess.org/xbbHb4KH#69"]
+[PuzzleId "3NmL7"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
+
+35... Qxc3 36. bxc3 Rxd3 *
+
+
+
+[Event "Fork"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1b1kp2/6p1/2PP3p/3P4/2K2P1P/P5P1/8 w - - 1 31"]
+[LichessURL "https://lichess.org/0ECv411C/black#60"]
+[PuzzleId "YXRiP"]
+[Themes "bishopEndgame crushing endgame fork short"]
+
+31. d6+ Bxd6 32. cxd6+ *
