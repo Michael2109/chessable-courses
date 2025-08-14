@@ -1,0 +1,5686 @@
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
+[LichessURL "https://lichess.org/5pPfcHh9#59"]
+[PuzzleId "02NvQ"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+
+30... dxe1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
+[PuzzleId "cg7r3"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+25. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
+[LichessURL "https://lichess.org/PJKKkqjI#71"]
+[PuzzleId "dTxZJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+36... cxd1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
+[PuzzleId "6P7X6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+29. Rxc8+ Rb8 30. axb8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
+[LichessURL "https://lichess.org/Ptkq55Ir#59"]
+[PuzzleId "qFETP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30... Rxf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/b5pp/4R3/1r1B4/8/6P1/5P1P/6K1 w - - 0 32"]
+[LichessURL "https://lichess.org/EE1eZE6p/black#62"]
+[PuzzleId "u4BgB"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+32. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1k3p/5p2/2bp2p1/8/1N1Pr1P1/PPP3PP/R5K1 b - - 2 23"]
+[LichessURL "https://lichess.org/antmLGUA#45"]
+[PuzzleId "g15Ea"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+23... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/1pp4P/2n2b2/p7/3P4/1PP1Pq2/P7/1K4RR w - - 0 38"]
+[LichessURL "https://lichess.org/NFlYOyUu/black#74"]
+[PuzzleId "bwcw8"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+38. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2kp3/1p6/N2b1p2/P3r3/1PN5/2P4P/2R4K b - - 3 35"]
+[LichessURL "https://lichess.org/d76KpB5D#69"]
+[PuzzleId "ZDzVK"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
+
+35... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/2p3pp/pp2R3/5p2/3n1P2/BQ3P2/P5PP/R6K w - - 1 26"]
+[LichessURL "https://lichess.org/mhXUE09j/black#50"]
+[PuzzleId "O4VNZ"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+26. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/p1p4p/2q3p1/8/4n2Q/1P1P4/P1P2R1P/6RK b - - 0 27"]
+[LichessURL "https://lichess.org/EmOXHsqN#53"]
+[PuzzleId "6Qz3p"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+27... Nxf2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/p1p1pppp/5n2/1N1Pn3/Q1p1P1b1/8/PP3PPP/R1B1KBNR w KQkq - 1 8"]
+[LichessURL "https://lichess.org/mzTmwTRr/black#14"]
+[PuzzleId "b5W0c"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+8. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p4p/6p1/p1bP4/8/2N1r3/PB4PP/R5K1 b - - 2 23"]
+[LichessURL "https://lichess.org/IP2Rvq58#45"]
+[PuzzleId "TaWI6"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+23... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/1r5P/4p3/3pq3/3p4/pP1P4/P4P1R/1K4R1 w - - 0 37"]
+[LichessURL "https://lichess.org/UXsf2pAX/black#72"]
+[PuzzleId "BmVH2"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+37. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1r1k1/ppp2p1p/6p1/4b3/8/B1N4P/PPP2PP1/3RKB1R b K - 2 12"]
+[LichessURL "https://lichess.org/ashpIDlL#23"]
+[PuzzleId "iOyhy"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+12... Bxc3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4p3/6p1/5k1p/p7/7P/2KB2r1/3N4 w - - 0 43"]
+[LichessURL "https://lichess.org/ZoDzXCqO/black#84"]
+[PuzzleId "y1204"]
+[Themes "advantage doubleCheck endgame fork master short"]
+
+43. Ne3+ Kf4 44. Nxg2+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/5kpK/3Bp3/4Pr2/1R2b2P/P7/8 b - - 0 36"]
+[LichessURL "https://lichess.org/BymmXfxb#71"]
+[PuzzleId "U6WFi"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+36... Rh4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/pp5p/3p1R2/2pN4/2P1P3/1P1P3P/PB1q2P1/6K1 w - - 0 24"]
+[LichessURL "https://lichess.org/5rTUQIiH/black#46"]
+[PuzzleId "MMkvb"]
+[Themes "doubleCheck hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+24. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3rk1p1/8/3p2P1/P7/2R1KPP1/8 b - - 4 35"]
+[LichessURL "https://lichess.org/EFVCf6KW#69"]
+[PuzzleId "XmcNc"]
+[Themes "advancedPawn crushing doubleCheck endgame fork master rookEndgame short"]
+
+35... d3+ 36. Kd1 dxc2+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/pp3Rpp/2n5/2P5/8/1B1p4/3P2PP/5R1K w - - 3 34"]
+[LichessURL "https://lichess.org/RHluC4N2/black#66"]
+[PuzzleId "Notp9"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+34. Rf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/6rk/p3p2p/1p2P1b1/1P6/2P2P2/P3R2P/6K1 b - - 0 33"]
+[LichessURL "https://lichess.org/8FyLAEPg#65"]
+[PuzzleId "iGnHU"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+33... Be3+ 34. Kf1 Rg1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1r1k/5p1P/4p1p1/p2pN3/1p1QnP2/4P3/PPP1b1P1/R3K2R w KQ - 1 21"]
+[LichessURL "https://lichess.org/s1e8tnDF/black#40"]
+[PuzzleId "gM0ww"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+21. Nxg6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/1b1p1k2/pp5p/6p1/8/1NPP1r2/PP5P/7K b - - 2 30"]
+[LichessURL "https://lichess.org/wn4xM0Eu#59"]
+[PuzzleId "TUjly"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30... Rf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p5rP/1p3n2/5b2/8/1KPR4/P4q2/7R w - - 10 45"]
+[LichessURL "https://lichess.org/bEYgIHD1/black#88"]
+[PuzzleId "1HvsO"]
+[Themes "advancedPawn doubleCheck endgame exposedKing long mate mateIn3 promotion"]
+
+45. Rd8+ Ne8 46. Rxe8+ Rg8 47. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/2p1b3/q1Bp4/3Pp1p1/P3P1p1/2N3Q1/1PP2P1p/R1B2R1K b - - 1 24"]
+[LichessURL "https://lichess.org/l3Qj9z2n#47"]
+[PuzzleId "xPkTQ"]
+[Themes "advancedPawn doubleCheck hangingPiece kingsideAttack mate mateIn2 middlegame promotion short"]
+
+24... Qxf1+ 25. Qg1 hxg1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p5rP/2p1p3/4P3/2pP4/2P5/q7/3K1R1R w - - 0 41"]
+[LichessURL "https://lichess.org/kZlgz7Eu/black#80"]
+[PuzzleId "NvFJK"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+41. Rf8+ Rg8 42. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qr1k1/pp1b1pp1/2p4p/2P1P3/1P2pP1b/P3P3/2Q3P1/RNBK1B1R b - - 1 14"]
+[LichessURL "https://lichess.org/jUtpRvwB#27"]
+[PuzzleId "AD2HZ"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14... Bg4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2k1/1p1n2pp/p3R3/3Q4/5r2/8/PPP2bPP/R6K w - - 0 18"]
+[LichessURL "https://lichess.org/qEsmWMxc/black#34"]
+[PuzzleId "4ZgZR"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+18. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kbnr/pp1ppppp/8/q7/1nP5/P7/1P2PPPP/RNBQKBNR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/Cy7UOxtV#11"]
+[PuzzleId "drC8V"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+6... Nc2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/6bp/ppb1R1p1/2p5/P1B5/2PP3P/1BP2PP1/R5K1 w - - 0 18"]
+[LichessURL "https://lichess.org/kxJ3XsGu/black#34"]
+[PuzzleId "7Rvu2"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pp3ppp/4p3/q7/1nPp4/P4N2/1P2PPPP/RN1QKB1R b KQkq - 1 10"]
+[LichessURL "https://lichess.org/qO5nPje1#19"]
+[PuzzleId "n6DWp"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10... Nc2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1qkb1r/4pppb/3p1n1p/1NpP1P2/Q3P1P1/P4N1P/1n1B2B1/R3K2R w KQk - 0 17"]
+[LichessURL "https://lichess.org/fsQP8QLw/black#32"]
+[PuzzleId "frReb"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+17. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/bp3p1k/2b4p/2P2p1Q/1P2rN2/6PP/5P2/7K b - - 0 40"]
+[LichessURL "https://lichess.org/ogFGBDXg#79"]
+[PuzzleId "kSZkx"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+40... Re1+ 41. Kh2 Rh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bkqb1r/pppp2p1/2n4p/4p1N1/7Q/3P4/PPP2PPP/RNB1K2R w KQ - 6 12"]
+[LichessURL "https://lichess.org/zMldmbqq/black#22"]
+[PuzzleId "wJTcg"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+12. Nf7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Bn5k/p6p/b5p1/5p2/3b4/4rP2/PP4PP/R2R2K1 b - - 2 20"]
+[LichessURL "https://lichess.org/po4MNIDB#39"]
+[PuzzleId "dOAap"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+20... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/3n1ppp/1p6/p2p1n1P/4NB2/5NP1/PP3PB1/R3R1K1 w kq - 0 18"]
+[LichessURL "https://lichess.org/RZxYBw5U/black#34"]
+[PuzzleId "OlGsg"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+18. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b1kbnr/1p3ppp/8/q1P1p3/1nPp4/1N1P1N2/4PPPP/B2QKB1R b Kk - 4 11"]
+[LichessURL "https://lichess.org/GFoMaLnv#21"]
+[PuzzleId "yRgj5"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+11... Nc2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/1p3ppp/pq2p1n1/1N1pP1B1/Q2P4/5N2/PP3PPP/4KB1R w Kkq - 0 13"]
+[LichessURL "https://lichess.org/us7gWLZs/black#24"]
+[PuzzleId "WdbIs"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+13. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1r1k1/pp2bppp/5n2/8/3B4/1B1P4/PP3PPP/R2QKN1R b KQ - 0 13"]
+[LichessURL "https://lichess.org/lSFIoH5Y#25"]
+[PuzzleId "1mUBN"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+13... Bb4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2q1k1/pppn2pn/4R2p/8/2BP3B/5r1P/P4PP1/R5K1 w - - 0 18"]
+[LichessURL "https://lichess.org/rwxagLYN/black#34"]
+[PuzzleId "yQ8Fa"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bkr3/ppppbppp/5n2/8/2QP1B2/8/PPP2PPP/RN2KB1R b KQ - 3 9"]
+[LichessURL "https://lichess.org/JuEWpqhJ#17"]
+[PuzzleId "YMpbv"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+
+9... Bb4+ 10. Kd1 Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/ppp2pp1/3b1q1p/3p4/8/5N2/PPPPBPPP/RNBQR1K1 w kq - 2 7"]
+[LichessURL "https://lichess.org/EPdeSWwD/black#12"]
+[PuzzleId "euFzS"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+
+7. Bb5+ Kf8 8. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbkr3/ppp1bppp/5n2/3p2B1/8/3P2P1/PPP2P1P/RN1QKB1R b KQ - 2 10"]
+[LichessURL "https://lichess.org/v5bdTg6f#19"]
+[PuzzleId "hfWcg"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10... Bb4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp2Ppb1/2q3pp/6B1/8/8/P1P2PPP/3RR1K1 w kq - 0 17"]
+[LichessURL "https://lichess.org/O09S4bwI/black#32"]
+[PuzzleId "pMVt9"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion short"]
+
+17. Rd8+ Rxd8 18. exd8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/pbpp2p1/1p2p3/5p1p/2PPn2N/P1PBP1Pq/2Q2P1P/R1B3RK b kq - 2 14"]
+[LichessURL "https://lichess.org/5vcr1VOw#27"]
+[PuzzleId "Rpp6n"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+14... Nxf2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/4nppp/p7/1N1P4/B2n4/5P2/PP3P1P/R1B1K2R w KQkq - 0 13"]
+[LichessURL "https://lichess.org/hFqJDZ4e/black#24"]
+[PuzzleId "y7uYV"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+13. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5rkp/p5p1/4Nb2/1pP5/1P6/P2R2PP/5K2 b - - 0 39"]
+[LichessURL "https://lichess.org/MZNbPxvH#77"]
+[PuzzleId "YUTFH"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+39... Bd3+ 40. Ke1 Rf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbkr3/ppp2ppp/8/8/1bP5/2N2n1P/PP1BPPP1/2KR1B1R w - - 0 11"]
+[LichessURL "https://lichess.org/LzljqaLV/black#20"]
+[PuzzleId "OW2rp"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Bg5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/ppp1qppp/8/3Pn3/1bP5/P7/1P1B1PPP/RN1QKBNR b KQkq - 0 7"]
+[LichessURL "https://lichess.org/MY8JovoY#13"]
+[PuzzleId "gbuky"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+7... Nf3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rR5/5ppk/5b1p/p7/3pNP2/1q1Q3P/6P1/6K1 w - - 2 30"]
+[LichessURL "https://lichess.org/X9hJNzBj/black#58"]
+[PuzzleId "uGw2g"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30. Nxf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p1Q2ppp/2b1qn2/8/1P1Bn3/4P1P1/P1PPBP1P/RN3RNK b kq - 0 18"]
+[LichessURL "https://lichess.org/QgJ8muHY#35"]
+[PuzzleId "8K177"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18... Nxf2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp3ppp/1n1Ppn2/1Np5/Q3P3/8/PP3PPP/R1B1K1NR w KQkq - 1 11"]
+[LichessURL "https://lichess.org/n9wHzXIw/black#20"]
+[PuzzleId "NpB0s"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/P7/1p6/2nb4/P4p2/2P4P/3R1K2/8 b - - 2 39"]
+[LichessURL "https://lichess.org/6ojTwcht#77"]
+[PuzzleId "DuCVB"]
+[Themes "advantage doubleCheck endgame fork short"]
+
+39... Ne4+ 40. Kf3 Nxd2+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b2/1pkP3Q/2n5/1p2r3/8/2P2qP1/r4P1P/3R1RK1 w - - 5 32"]
+[LichessURL "https://lichess.org/TU2adu4l/black#62"]
+[PuzzleId "5JDDY"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+
+32. d8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p1b1ppp/p1pp4/2b1pP2/2PnP1Pq/2NP4/PP2N1B1/R1BQ1RK1 b - - 2 15"]
+[LichessURL "https://lichess.org/uGR4iLJ9#29"]
+[PuzzleId "PsQYK"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+15... Nxe2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/ppp3pp/2n4k/q5NP/6n1/2bBB3/PPP2PP1/1R1K3R w - - 2 18"]
+[LichessURL "https://lichess.org/lHnOz59l/black#34"]
+[PuzzleId "lKQ9y"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+18. Nf7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/ppp1b1pb/8/4p2P/q2P4/n1N2PN1/1P3Q2/K1R4R b - - 1 31"]
+[LichessURL "https://lichess.org/JQjs1pvd#61"]
+[PuzzleId "Mkghx"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+31... Nc2+ 32. Kb1 Qa1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/2pb2p1/7p/pp1Pq3/4N3/P6P/1PB5/5R1K w - - 0 31"]
+[LichessURL "https://lichess.org/NwCtyhIk/black#60"]
+[PuzzleId "2Al41"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+31. Rxf8+ Kh7 32. Ng5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2r2/2p1k3/1p2pp2/pP2P2B/P2R1K1P/2P3P1/8/8 b - - 0 36"]
+[LichessURL "https://lichess.org/juk11ynl#71"]
+[PuzzleId "Ds2r9"]
+[Themes "advantage attraction doubleCheck endgame master short"]
+
+36... fxe5+ 37. Kxe5 Rf5+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq2rk/1b2ppb1/p2p1n1B/1p5Q/3pP2P/2N4N/PPP2P2/2KR2R1 w - - 1 19"]
+[LichessURL "https://lichess.org/AK5AUGhr/black#36"]
+[PuzzleId "ovtlG"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+19. Bxg7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k3r1/ppp2p2/4p3/3qP3/2PP3p/P3Q3/1P4rP/R5RK b - - 0 26"]
+[LichessURL "https://lichess.org/ty8q3xcj#51"]
+[PuzzleId "zu70L"]
+[Themes "doubleCheck endgame kingsideAttack mate mateIn1 oneMove"]
+
+26... Rxg1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3RN1k1/5rp1/6p1/8/1bP5/7R/5rP1/6K1 w - - 0 45"]
+[LichessURL "https://lichess.org/4RH8hGxk/black#88"]
+[PuzzleId "v7Xe2"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+45. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/2p1bpp1/b2p4/P2Pp2n/4P1P1/4B3/1PP2PP1/R3R2K b k - 0 25"]
+[LichessURL "https://lichess.org/wiaM4bnQ#49"]
+[PuzzleId "zvOPb"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+25... Ng3+ 26. Kg1 Rh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/bpp1k1r1/p4p2/4P2p/2B2P2/2P2K2/PP2R3/8 w - - 3 31"]
+[LichessURL "https://lichess.org/B0qcihhH/black#60"]
+[PuzzleId "ATT44"]
+[Themes "advantage attraction doubleCheck endgame short"]
+
+31. exf6+ Kxf6 32. Re6+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2B5/6kp/P2b2p1/8/4n3/8/6P1/5R1K b - - 0 47"]
+[LichessURL "https://lichess.org/Docez0a7#93"]
+[PuzzleId "aA8p1"]
+[Themes "advantage doubleCheck endgame fork short"]
+
+47... Ng3+ 48. Kh2 Nxf1+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/3np1kp/5pp1/5nN1/5B2/7P/B5P1/6K1 w - - 0 31"]
+[LichessURL "https://lichess.org/g8z7ksl7/black#60"]
+[PuzzleId "SeaBe"]
+[Themes "advantage doubleCheck endgame fork short"]
+
+31. Ne6+ Kf7 32. Nxd8+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k1r1/7R/p3N3/3pP3/P7/1P5P/5RP1/2r2n1K b - - 5 31"]
+[LichessURL "https://lichess.org/2nLgNPU6#61"]
+[PuzzleId "AlxZ8"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+31... Ng3+ 32. Kh2 Rh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rq1r4/4Rp2/2k1NRb1/p1pn2P1/P7/1P6/K1P5/8 w - - 0 49"]
+[LichessURL "https://lichess.org/b2O4RvEE/black#96"]
+[PuzzleId "BTVXM"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+49. Nxd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kbp1/5p1p/Pp6/1P2N3/K3nP2/3R2PP/8 b - - 7 43"]
+[LichessURL "https://lichess.org/ucfwWc1I#85"]
+[PuzzleId "JfFAl"]
+[Themes "crushing doubleCheck endgame fork short"]
+
+43... Nc4+ 44. Kb3 Nxd2+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2r2pp1/2pRb2p/r1p5/4Nn2/P2B4/1P3PPP/3R2K1 w - - 5 25"]
+[LichessURL "https://lichess.org/0t8Tv8sQ/black#48"]
+[PuzzleId "InK5o"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+25. Rd8+ Kh7 26. Ng5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/2p5/2B5/3P4/P2k1P2/1R2nKpr/8 b - - 1 45"]
+[LichessURL "https://lichess.org/9kqU6ESm#89"]
+[PuzzleId "mmtjd"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+45... g1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq3k/pp5p/6rP/3pR1b1/2nB4/P7/1P4BP/5R1K w - - 0 39"]
+[LichessURL "https://lichess.org/QZTHXznO/black#76"]
+[PuzzleId "gZd4f"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+39. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppq2ppb/3bP2p/3p3n/1P5N/P2PB2P/2PQB1P1/2R2RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/lE5NgoGa#35"]
+[PuzzleId "bWN0M"]
+[Themes "crushing doubleCheck fork long middlegame"]
+
+18... Bh2+ 19. Kh1 Ng3+ 20. Kxh2 Nxf1+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qkb1r/r1p2ppp/p4n2/8/4B3/2p5/PPP2PPP/R2QR1K1 w k - 0 16"]
+[LichessURL "https://lichess.org/xl7bwhes/black#30"]
+[PuzzleId "FL30o"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+16. Bc6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/ppp5/5p2/8/3PnBp1/2P3P1/PP2K3/7R b - - 0 27"]
+[LichessURL "https://lichess.org/Vz359JZy#53"]
+[PuzzleId "enfSH"]
+[Themes "crushing doubleCheck endgame short"]
+
+27... Nxg3+ 28. Kf2 Nxh1+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp3pp/3p1b2/3Nn3/2BpQ3/8/PPP2PPP/R3K2R w KQ - 1 14"]
+[LichessURL "https://lichess.org/mJfxslj9/black#26"]
+[PuzzleId "P9r5e"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+14. Nxf6+ Kh8 15. Qxh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6p1/p3N2p/1p6/1P1Pp2q/PQ2P2n/2R3P1/2R4K b - - 6 37"]
+[LichessURL "https://lichess.org/G68o6J1L#73"]
+[PuzzleId "PbhbP"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+37... Nf2+ 38. Kg1 Qh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2k1/1b4pp/4Rn2/p7/Pp1P4/1B5Q/1P3PPP/2b3K1 w - - 0 25"]
+[LichessURL "https://lichess.org/djKFCuwS/black#48"]
+[PuzzleId "Hzxs0"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+25. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3p1p/6pP/4p3/p2bQ1P1/P1r2P2/8/KR5R b - - 0 32"]
+[LichessURL "https://lichess.org/Y3DHHWFr#63"]
+[PuzzleId "B0lFJ"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+32... Rxa3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pqP1pppp/1p3n2/nN6/Q7/1P3N2/4PPPP/R1B1KB1R w KQkq - 1 12"]
+[LichessURL "https://lichess.org/xVyew8xb/black#22"]
+[PuzzleId "TLDng"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+12. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/4p3/2b5/2Pr2B1/P1N5/1P4PP/3R2K1 b - - 0 26"]
+[LichessURL "https://lichess.org/YQQV4cwN#51"]
+[PuzzleId "lQ5V3"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
+
+26... Rxd1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/r2n2p1/1k1b2p1/2pBp3/1P2P3/2R2PP1/P6P/1R4K1 w - - 3 30"]
+[LichessURL "https://lichess.org/zfCjCred/black#58"]
+[PuzzleId "AUv59"]
+[Themes "crushing doubleCheck fork middlegame short"]
+
+30. bxc5+ Kc7 31. cxd6+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "N4b1r/5k2/3pbp2/4p3/1P2P1pn/2P3P1/2Q2P1K/2B2R2 b - - 0 26"]
+[LichessURL "https://lichess.org/G5JRC3Aw#51"]
+[PuzzleId "zBexH"]
+[Themes "doubleCheck hookMate mate mateIn2 middlegame short"]
+
+26... Nf3+ 27. Kg2 Rh2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1knr/pp2p1bp/2n3p1/1N4N1/3pP3/1B6/PP3PPP/R1BbK2R w KQ - 0 11"]
+[LichessURL "https://lichess.org/xtjn6hru/black#20"]
+[PuzzleId "2dZEt"]
+[Themes "advantage doubleCheck fork middlegame short"]
+
+11. Ne6+ Kf7 12. Nxd8+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b4k1/1Q3p2/p2r2p1/B1N1n2p/2P1p3/1P2P2P/P4PP1/6K1 b - - 0 30"]
+[LichessURL "https://lichess.org/8nlVJSIk#59"]
+[PuzzleId "rjLLS"]
+[Themes "doubleCheck endgame kingsideAttack long mate mateIn3"]
+
+30... Rd1+ 31. Be1 Rxe1+ 32. Kh2 Nf3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/1p4pk/5p2/p2pnPqB/2p4Q/2p5/P1P3PP/4RR1K w - - 3 24"]
+[LichessURL "https://lichess.org/CUoaF2St/black#46"]
+[PuzzleId "umqFW"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+24. Bg6+ Kg8 25. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5ppk/8/P6p/8/5QPP/3q1n1K/5R2 b - - 4 47"]
+[LichessURL "https://lichess.org/5Mdqcqa2#93"]
+[PuzzleId "F9c6U"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+47... Ng4+ 48. Kg1 Qh2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3RN1kp/4p1p1/4P3/4n3/8/1r3rPP/2R3K1 w - - 2 41"]
+[LichessURL "https://lichess.org/Ql50csLz/black#80"]
+[PuzzleId "bbj8D"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+41. Nf5+ Kh8 42. Rc8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/p2nbpp1/5n1p/1p1p1N1P/3P4/8/PP3PP1/R1BQKN1R b KQ - 0 15"]
+[LichessURL "https://lichess.org/IkF546F3#29"]
+[PuzzleId "MFjaN"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+15... Bb4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/P1p3pp/2N5/8/8/2qr1P1P/6P1/RR5K w - - 4 33"]
+[LichessURL "https://lichess.org/L7QwF3Y1/black#64"]
+[PuzzleId "7bo0d"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion short"]
+
+33. Rb8+ Rxb8 34. axb8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/2p5/5RQ1/7P/P2P2P1/3k4/2rn1K2 b - - 14 39"]
+[LichessURL "https://lichess.org/6bA2gTQF#77"]
+[PuzzleId "4TRDI"]
+[Themes "doubleCheck endgame fork mate mateIn2 short"]
+
+39... Ne3+ 40. Kf2 Rf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1r/pp3p1p/2n1kp2/5b2/4N3/4R1P1/PP3PBP/3R2K1 w - - 1 17"]
+[LichessURL "https://lichess.org/OL99iWQQ/black#32"]
+[PuzzleId "fQom6"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+17. Ng5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/bp1n2pB/p1pp4/4P1N1/PP1P2q1/4Bpp1/5P2/R2Q2KR b - - 3 31"]
+[LichessURL "https://lichess.org/d7WuoSQU#61"]
+[PuzzleId "5dWX0"]
+[Themes "advancedPawn attraction crushing doubleCheck kingsideAttack middlegame short"]
+
+31... gxf2+ 32. Kxf2 Qg2+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3Npp/8/8/2B5/5R2/PP1q2PP/R5K1 w - - 0 17"]
+[LichessURL "https://lichess.org/lVdFIdI5/black#32"]
+[PuzzleId "8HnBe"]
+[Themes "backRankMate deflection discoveredAttack doubleCheck mate mateIn2 middlegame short"]
+
+17. Nh6+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+17... Kh8 18. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q7/6kp/6p1/5p2/2B5/1P4P1/3r1pKP/R3r3 b - - 0 43"]
+[LichessURL "https://lichess.org/xh1tBod2#85"]
+[PuzzleId "MPG83"]
+[Themes "advancedPawn doubleCheck endgame master mate mateIn1 oneMove promotion"]
+
+43... f1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/3R1Rb1/6pp/p2B4/2P4P/4n1P1/5P1K/q7 w - - 0 35"]
+[LichessURL "https://lichess.org/ZVoZolws/black#68"]
+[PuzzleId "7p5G0"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+35. Rxg7+ Kh8 36. Rh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p1pk2p1/1pn5/4p1Nr/7p/2PP1PN1/PP4PK/R3R3 b - - 0 27"]
+[LichessURL "https://lichess.org/wqCk9Blh#53"]
+[PuzzleId "jA63H"]
+[Themes "advantage attraction doubleCheck middlegame short"]
+
+27... hxg3+ 28. Kxg3 Rxg5+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q2r2/7k/p3R1p1/1pp3pP/8/7Q/PPP4P/4b2K w - - 0 27"]
+[LichessURL "https://lichess.org/GPMcW2x8/black#52"]
+[PuzzleId "tXf3r"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+27. hxg6+ Kg8 28. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/4npp1/1q2p2p/p2pP2P/1p1P2P1/2PQ2N1/PKPN1P2/3R1R2 b - - 0 23"]
+[LichessURL "https://lichess.org/GEtWFQaG#45"]
+[PuzzleId "z1ltj"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+23... bxc3+ 24. Ka1 Qb2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "101"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p1p2b2/2Pp1Pk1/1P1r4/8/1PKN4/5R2 w - - 0 41"]
+[LichessURL "https://lichess.org/ywat9Ngq/black#80"]
+[PuzzleId "MXPfp"]
+[Themes "crushing doubleCheck endgame fork short"]
+
+41. Nf3+ Kxf5 42. Nxd4+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "102"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/1pp3p1/1p2p3/5p1n/3P2P1/P1R1BQ2/1P3PP1/2R4K b - - 0 25"]
+[LichessURL "https://lichess.org/LYq73Lp0#49"]
+[PuzzleId "7ok7v"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+25... Ng3+ 26. Kg1 Rh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "103"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1r2k1/pRp2p2/4pnNB/q7/3b2Q1/8/P1P1RPPP/6K1 w - - 1 18"]
+[LichessURL "https://lichess.org/DfmKDJzW/black#34"]
+[PuzzleId "XreiH"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+18. Ne7+ Kh8 19. Qg7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "104"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/ppp3p1/2p4p/8/2N3Q1/2Pn1NP1/PP3pP1/3R1K1R b - - 3 21"]
+[LichessURL "https://lichess.org/tjceAxdV#41"]
+[PuzzleId "1F6eV"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion short"]
+
+21... Re1+ 22. Nxe1 fxe1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "105"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pbpq1pp1/1p2p3/b2pP1B1/3n3N/7R/P1P2PPP/5RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/5VjnMaNc/black#34"]
+[PuzzleId "ysRvV"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+18. Ng6+ Kg8 19. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "106"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/1p3ppp/p3p3/2qpP3/3n1PPQ/N2B3P/PPP5/R4RK1 b k - 0 17"]
+[LichessURL "https://lichess.org/DKppUdjM#33"]
+[PuzzleId "1XL2s"]
+[Themes "advantage doubleCheck kingsideAttack middlegame short"]
+
+17... Nf3+ 18. Kh1 Nxh4 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "107"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqr1k1/pp1n3p/2p1b1NB/3p2Q1/3Pn3/2P4P/P1P2PP1/R4RK1 w - - 1 18"]
+[LichessURL "https://lichess.org/4xKnMMUF/black#34"]
+[PuzzleId "gLX4i"]
+[Themes "doubleCheck fork mate mateIn2 middlegame short"]
+
+18. Ne7+ Kf7 19. Qg7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "108"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/p1p5/8/6q1/1PPQ4/P2P1Br1/7p/1R3R1K b - - 3 32"]
+[LichessURL "https://lichess.org/pL4lDN8r#63"]
+[PuzzleId "0fmp8"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion short"]
+
+32... Rg1+ 33. Rxg1 hxg1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "109"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1p3p2/1ppp2pN/4n2Q/1P2PR2/P2P3P/q1P3P1/6K1 w - - 0 25"]
+[LichessURL "https://lichess.org/37iX0l1s/black#48"]
+[PuzzleId "cg4hP"]
+[Themes "doubleCheck exposedKing kingsideAttack long mate mateIn3 middlegame"]
+
+25. Nxf7+ Kg7 26. Qh6+ Kg8 27. Qh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "110"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q1R5/2p3pk/3p3p/2pPp3/2P3r1/K5P1/3n1P2/2nN4 b - - 8 50"]
+[LichessURL "https://lichess.org/Z8FKPEtL#99"]
+[PuzzleId "R48Ex"]
+[Themes "advantage doubleCheck endgame exposedKing fork long"]
+
+50... Nxc4+ 51. Ka4 Nb6+ 52. Kb5 Nxa8 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "111"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1r1/ppkn4/2pNq2p/4Q1bP/5p2/3P4/PPP4B/R6K w - - 2 32"]
+[LichessURL "https://lichess.org/wPllPjvR/black#62"]
+[PuzzleId "AXHrf"]
+[Themes "advantage doubleCheck master middlegame short"]
+
+32. Nxe8+ Kd8 33. Qxe6 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "112"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppq3pk/6p1/7p/3B1rPQ/P1P2PK1/1P2R3/8 b - - 4 45"]
+[LichessURL "https://lichess.org/EC1QXvW9#89"]
+[PuzzleId "l1BkY"]
+[Themes "crushing doubleCheck endgame short"]
+
+45... Rxg4+ 46. Kf2 Rxh4 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "113"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r2/2p2p2/p5pk/1p4Rb/2nq3P/P1NB4/1PPQ4/2K5 w - - 6 27"]
+[LichessURL "https://lichess.org/0laGOuT4/black#52"]
+[PuzzleId "HCBbH"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+27. Rxg6+ Kh7 28. Qh6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "114"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1pp1qppp/1B1p1b2/p2Pn3/P1P5/1PN2P1P/5P2/2RQKB1R b Kkq - 0 15"]
+[LichessURL "https://lichess.org/xJSiUj8a#29"]
+[PuzzleId "0Mdrl"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+15... Nxf3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "115"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b4rk1/5p1p/p2p2P1/1pp5/2P2qQ1/2B3bP/PP4P1/R6K w - - 0 25"]
+[LichessURL "https://lichess.org/Q89aycFt/black#48"]
+[PuzzleId "IGAGV"]
+[Themes "advancedPawn attraction doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+25. gxh7+ Kxh7 26. Qg7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "116"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/p1q1bnpp/1p1nN3/3p1pP1/3P3P/1P1B1PK1/P7/R1BQ3R b k - 0 20"]
+[LichessURL "https://lichess.org/PUCS03XS#39"]
+[PuzzleId "z3BZd"]
+[Themes "doubleCheck long mate mateIn3 middlegame"]
+
+20... Ne4+ 21. Kg2 Qg3+ 22. Kf1 Qf2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "117"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq4/pp3pk1/3p1n2/3Bn1Br/1P1pP3/P2P2Q1/5PP1/R3K2R w KQ - 0 20"]
+[LichessURL "https://lichess.org/KOA6FGuv/black#38"]
+[PuzzleId "3LNjx"]
+[Themes "crushing doubleCheck intermezzo middlegame short"]
+
+20. Bxf6+ Kxf6 21. Rxh5 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "118"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pp1/1N6/PPp1N3/4b3/6k1/5r2/R4RK1 b - - 3 38"]
+[LichessURL "https://lichess.org/coABAm45#75"]
+[PuzzleId "KIUxL"]
+[Themes "doubleCheck endgame exposedKing long mate mateIn3"]
+
+38... Rg2+ 39. Kh1 Rh2+ 40. Kg1 Rh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "119"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/ppp5/2n5/8/4PpR1/2KPqP1B/1PP5/8 w - - 0 39"]
+[LichessURL "https://lichess.org/2DErBZi1/black#76"]
+[PuzzleId "Uc0lH"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+39. Rg8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "120"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pppRR1bk/5r1p/8/2P5/1P6/P5P1/K7 b - - 1 36"]
+[LichessURL "https://lichess.org/y7sChJNq#71"]
+[PuzzleId "GdNDm"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
+
+36... Rf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "121"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4pbp/5pp1/8/1R6/BP3P1P/r5P1/7K w - - 0 30"]
+[LichessURL "https://lichess.org/G9lKFB4k/black#58"]
+[PuzzleId "NTUEf"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30. Rb8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "122"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1r1k1/pp3p1p/6p1/2B1b3/2P5/2N5/PP3PPP/3RKB1R b K - 0 13"]
+[LichessURL "https://lichess.org/Davic9GW#25"]
+[PuzzleId "IWGSs"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+13... Bxc3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "123"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1b4pp/p3R3/1p3P2/8/1B6/PP3PPP/3n2K1 w - - 0 22"]
+[LichessURL "https://lichess.org/kfKHCagq/black#42"]
+[PuzzleId "vTaYX"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
+
+22. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "124"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1q3r1/8/5p2/P7/5P2/b3P3/Q2P1RpP/6K1 b - - 1 30"]
+[LichessURL "https://lichess.org/uZzQy0JX#59"]
+[PuzzleId "j7Wtx"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion short"]
+
+30... Qc1+ 31. Rf1 gxf1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "125"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n5/1n6/4N3/5N2/PPPP1PPP/R1BQR1K1 w kq - 0 8"]
+[LichessURL "https://lichess.org/PjiJITm4/black#14"]
+[PuzzleId "Entd2"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+8. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "126"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5p2/pR2pp1p/1b6/2r5/P6P/5PP1/R4K2 b - - 4 32"]
+[LichessURL "https://lichess.org/clRvro9c#63"]
+[PuzzleId "buNzc"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+32... Rc1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "127"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/4q2p/3p1Rp1/1p6/8/1P6/P5PP/Q6K w - - 0 26"]
+[LichessURL "https://lichess.org/GkVcDRxg/black#50"]
+[PuzzleId "EdCTP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+26. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "128"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4p1/2b4p/4b3/8/5r2/1B2Q2R/5R1K b - - 0 33"]
+[LichessURL "https://lichess.org/jCHz0ooj#65"]
+[PuzzleId "kYeGn"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+33... Rxf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "129"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r1k3p/4ppp1/1pPp4/3P1PP1/7P/2RK4/8 w - - 0 40"]
+[LichessURL "https://lichess.org/pa9m2XmS/black#78"]
+[PuzzleId "omm9Q"]
+[Themes "advancedPawn crushing doubleCheck endgame fork rookEndgame short"]
+
+40. c6+ Kc8 41. cxb7+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "130"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kbnr/ppp1qppp/8/3Pn3/8/5N2/PPPN1PPP/R1BQKB1R b KQkq - 0 6"]
+[LichessURL "https://lichess.org/X5wlNR7F#11"]
+[PuzzleId "g4fQq"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+6... Nxf3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "131"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3k1r/pp3pb1/3R2pp/2B1p3/2b1P3/5N2/PP3PPP/n5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/6bKBWkTV/black#46"]
+[PuzzleId "LqmZK"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+24. Rd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "132"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1r1k1/ppppbppp/5n2/6B1/8/3P1Q2/PPP2PPP/RN2KB1R b KQ - 4 9"]
+[LichessURL "https://lichess.org/b8ODLzJG#17"]
+[PuzzleId "u3Omg"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+
+9... Bb4+ 10. Kd1 Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "133"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/3p2n1/1NnP4/Q4P2/5N2/PP4PP/R1B1K2R w KQkq - 2 12"]
+[LichessURL "https://lichess.org/YDExjiAQ/black#22"]
+[PuzzleId "dXAyL"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+12. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "134"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp4pp/3p1p2/q1p1p1P1/1nP1P2P/P7/4PP2/RNBQKBNR b KQkq - 0 10"]
+[LichessURL "https://lichess.org/HPT7gGfz#19"]
+[PuzzleId "I8vHL"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+10... Nc2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "135"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/4pppp/1n3n2/pN4B1/Q1pP4/4P3/1P3PPP/R3KBNR w KQkq - 2 10"]
+[LichessURL "https://lichess.org/6LEsUUL3/black#18"]
+[PuzzleId "kpND5"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+10. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "136"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/pp2pppp/3p4/q1pP4/1nP3b1/PN3N2/1P2PPPP/R1BQKB1R b KQkq - 2 7"]
+[LichessURL "https://lichess.org/BaIJfqZB#13"]
+[PuzzleId "TzGLG"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+7... Nd3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "137"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/pbp1pppp/1n1p4/1N6/Q2PP3/6P1/PP3PBP/R1B1K1NR w KQkq - 1 9"]
+[LichessURL "https://lichess.org/sxehCPMI/black#16"]
+[PuzzleId "Iil3b"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+9. Nxc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "138"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Bk1/pp3pp1/1q3n1p/4Nb2/2Br4/1P3P2/4R1PP/2RQ2K1 b - - 0 21"]
+[LichessURL "https://lichess.org/8cr5vHKe#41"]
+[PuzzleId "oKPjz"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+21... Rxd1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "139"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/1p3ppp/pq2p3/1N1nP1B1/Q2N1P2/8/PP4PP/4K2R w Kkq - 0 16"]
+[LichessURL "https://lichess.org/kUwYeN23/black#30"]
+[PuzzleId "qcwIH"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+16. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "140"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p1p2ppp/2p2r2/5b2/8/2PPQ3/PP4PP/R3NK1R b - - 0 18"]
+[LichessURL "https://lichess.org/WDh0doCa#35"]
+[PuzzleId "FJaKX"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+18... Bxd3+ 19. Kg1 Rf1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "141"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/p3pppp/5n2/1N6/Q1pP4/4P3/1P2BP1P/R1B1K1Nb w Qkq - 0 10"]
+[LichessURL "https://lichess.org/0x72O4y0/black#18"]
+[PuzzleId "4EByY"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "142"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kbnr/pp3ppp/8/qPp1P3/1nPp4/P4N2/1B2PPPP/RN1QKB1R b KQkq - 2 8"]
+[LichessURL "https://lichess.org/YwJw8NV2#15"]
+[PuzzleId "wVjzY"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+8... Nc2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "143"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2nppp/1n6/1Np5/Q7/5N2/PP3PPP/R1B2RK1 w kq - 2 14"]
+[LichessURL "https://lichess.org/qEU4tc8g/black#26"]
+[PuzzleId "FnvdJ"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+14. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "144"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p5pp/1qp5/1p1n1p2/P1N5/R3rP2/6PP/R1Q3K1 b - - 0 26"]
+[LichessURL "https://lichess.org/gGYFHUiO#51"]
+[PuzzleId "3MrhD"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+26... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "145"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp2Rpp/3p4/8/1nBPP3/2N4P/PPPbK1P1/5R2 w - - 0 17"]
+[LichessURL "https://lichess.org/F0jeLm8x/black#32"]
+[PuzzleId "Jtx8g"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+17. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "146"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r2k/ppp2p1p/n5p1/3Nb3/2P5/8/PP3PPP/3RKBNR b K - 3 14"]
+[LichessURL "https://lichess.org/W6C10KNT#27"]
+[PuzzleId "OnHo5"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14... Bc3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "147"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k1b1/1p1rP1bp/6p1/p7/1Bn3P1/5R2/P4P1P/4RK2 w - - 1 33"]
+[LichessURL "https://lichess.org/t6VlaHre/black#64"]
+[PuzzleId "tK1El"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion short"]
+
+33. Rf8+ Bxf8 34. exf8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "148"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/p1N3k1/1pP4p/2b2bp1/8/1B2r3/P5PP/3R2K1 b - - 0 36"]
+[LichessURL "https://lichess.org/4zkUVFwc#71"]
+[PuzzleId "k3X1U"]
+[Themes "doubleCheck master masterVsMaster mate mateIn1 middlegame oneMove"]
+
+36... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "149"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/p1n1pppp/3p4/1N6/Q7/6P1/PB1PPPbP/RN3RK1 w kq - 0 12"]
+[LichessURL "https://lichess.org/zbfqn8QW/black#22"]
+[PuzzleId "Rrkw6"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+12. Nxc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "150"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/p1r2pPp/4p3/4N3/3B4/b2B1P2/Pp5P/1K1R3R b - - 0 24"]
+[LichessURL "https://lichess.org/TgoL3c3n#47"]
+[PuzzleId "qnOCb"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion queensideAttack short"]
+
+24... Rc1+ 25. Rxc1 bxc1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "151"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/ppp3pp/2n1R3/q2B4/5r2/P1N4P/1PP2PP1/2KR4 w - - 0 19"]
+[LichessURL "https://lichess.org/ZSZN56S7/black#36"]
+[PuzzleId "nC8nU"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+19. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "152"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/Qpp2ppp/2p5/3b1P2/N7/4B1b1/PPP5/R2K1B2 b - - 0 21"]
+[LichessURL "https://lichess.org/xYNDAKXi#41"]
+[PuzzleId "jZ71p"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+21... Bf3+ 22. Kc1 Rd1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "153"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n1qkbnr/2p1pppp/8/1N6/Q1p5/5b2/1P1P1PPP/2B1KB1R w Kk - 0 10"]
+[LichessURL "https://lichess.org/NZLHjer7/black#18"]
+[PuzzleId "fBpLI"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "154"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/ppp2kp1/5P2/2b3Q1/3n2b1/2N5/PP4P1/R4RK1 b - - 0 22"]
+[LichessURL "https://lichess.org/DDOvdzI2#43"]
+[PuzzleId "bdU0j"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+22... Ne2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "155"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1r2/p4ppk/1pn1p3/2b1P3/4R3/P1P2P2/2Q2P1P/R1B3K1 w - - 0 18"]
+[LichessURL "https://lichess.org/ukqsu0dA/black#34"]
+[PuzzleId "AxYvG"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+18. Rh4+ Kg8 19. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "156"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3pbp/4b1p1/q2p4/1n2nB2/1N4P1/PPP1PP1P/1R1QKB1R b K - 3 14"]
+[LichessURL "https://lichess.org/D3olMWRM#27"]
+[PuzzleId "RkB37"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14... Nd3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "157"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6pp/p1p1R3/1p5q/3P1n1P/NBP2b2/PP6/6K1 w - - 0 28"]
+[LichessURL "https://lichess.org/eKHIRhpn/black#54"]
+[PuzzleId "MCEER"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+28. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "158"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/pppp1ppp/8/4P3/1bP4Q/5N2/PP1nPPPP/R1B1KB1R b KQkq - 0 7"]
+[LichessURL "https://lichess.org/ReHfcwEi#13"]
+[PuzzleId "bi6ia"]
+[Themes "advantage doubleCheck opening short"]
+
+7... Nxf3+ 8. Kd1 Nxh4 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "159"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/p2Rbp2/2Q1p3/2P1q3/8/8/PP6/K2R4 w k - 1 33"]
+[LichessURL "https://lichess.org/QGoKM9fU/black#64"]
+[PuzzleId "6XKp3"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+33. Rxd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "160"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp4pp/3b4/3Pn3/4N3/1Q5P/PP1B2P1/5R1K b - - 0 24"]
+[LichessURL "https://lichess.org/9ruj2c3C#47"]
+[PuzzleId "0vudi"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+24... Rxf1+ 25. Kh2 Ng4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "161"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/ppp2pp1/3p1q2/8/8/5P1p/P1P1BP1P/1N1QR2K w kq - 0 18"]
+[LichessURL "https://lichess.org/qCeJNjjQ/black#34"]
+[PuzzleId "MojKR"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+18. Bb5+ Kd8 19. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "162"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/3b2bp/3p4/2pPp3/4Pp2/n1N4P/1P1BRP2/KBN5 b - - 0 41"]
+[LichessURL "https://lichess.org/U6AzKu5D#81"]
+[PuzzleId "gPjy8"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+41... Nc2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "163"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pbpqnrp1/3pNn1B/4p3/3pP3/2P4Q/P4PPP/R4RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/w4UrBV6s/black#34"]
+[PuzzleId "pzJWf"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+18. Bxg7+ Kg8 19. Qh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "164"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/p2p1ppp/1p3n2/1Nb5/4bB2/8/PP2QPPP/2KR1B1R b - - 2 15"]
+[LichessURL "https://lichess.org/KB10xA9V#29"]
+[PuzzleId "KzwXI"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+15... Be3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "165"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/pp1nqNbp/3p2p1/3Q4/2P2P2/1P6/P3r1PP/2R2K1R w - - 2 19"]
+[LichessURL "https://lichess.org/tN68iSz1/black#36"]
+[PuzzleId "ljD0b"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+19. Nh6+ Kh8 20. Qg8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "166"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/ppb2ppp/2p1bp2/8/2PP3N/1P1B3P/PB1QKPP1/3RR2q b - - 4 19"]
+[LichessURL "https://lichess.org/jQ3ZgTEF#37"]
+[PuzzleId "v9s5D"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+19... Bg4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "167"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q3r/1p1bpkbp/p1n3p1/4P3/6n1/2N2N2/PPPB1QPP/R3K2R w KQ - 0 13"]
+[LichessURL "https://lichess.org/cEZMXavX/black#24"]
+[PuzzleId "K1wxG"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+13. Ng5+ Kg8 14. Qf7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "168"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1P3pp1/8/7p/8/4bBPP/3r1n1K/1R3R2 b - - 0 43"]
+[LichessURL "https://lichess.org/IM7JrWlY#85"]
+[PuzzleId "wlvcT"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+43... Ng4+ 44. Kh1 Rh2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "169"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2nr2/1b4pk/3p1p2/3NnP2/1B3R2/PB6/1q4PP/4R2K w - - 0 32"]
+[LichessURL "https://lichess.org/9LPJaXXC/black#62"]
+[PuzzleId "AbVWb"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+32. Rh4+ Kg8 33. Ne7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "170"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbBr1k1/pp3ppp/2p5/3pn3/8/3P1Q1P/PPP2PP1/RN2KB1R b KQ - 0 11"]
+[LichessURL "https://lichess.org/fG51Nczr#21"]
+[PuzzleId "Ht2Hp"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+
+11... Nxf3+ 12. Kd1 Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "171"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rkb1r/p1p2ppp/5n2/8/4N3/5b1P/PPP2PP1/R1B1R1K1 w k - 0 14"]
+[LichessURL "https://lichess.org/GYhFo7SO/black#26"]
+[PuzzleId "CpdKv"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14. Nxf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "172"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/ppp3p1/2q1p3/5p1p/6P1/2N3QK/PPPP4/R1B2R2 b kq - 0 18"]
+[LichessURL "https://lichess.org/6adodzNI#35"]
+[PuzzleId "H4QHA"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+18... hxg4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "173"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/k3N1Rp/1p2p3/8/P7/1r6/r5PP/4K3 w - - 0 37"]
+[LichessURL "https://lichess.org/gIjcLSHD/black#72"]
+[PuzzleId "KG7af"]
+[Themes "doubleCheck endgame master mate mateIn2 short"]
+
+37. Nc6+ Ka6 38. Ra7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "174"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "N1b2k1r/pp1pqppp/8/4n3/8/3P1N2/PP1Q1PPP/R3K2R b KQ - 0 12"]
+[LichessURL "https://lichess.org/wKodDhVO#23"]
+[PuzzleId "r8HS5"]
+[Themes "crushing doubleCheck middlegame short"]
+
+12... Nxf3+ 13. Kd1 Nxd2 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "175"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k1bnr/pp3ppb/4p2p/q3PP2/3B2P1/2N5/P1P4P/R2QK2R w KQ - 2 16"]
+[LichessURL "https://lichess.org/hclA41E2/black#30"]
+[PuzzleId "dBhmF"]
+[Themes "crushing doubleCheck middlegame short"]
+
+16. Bb6+ Ke8 17. Bxa5 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "176"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2r2k/ppp2p1p/6p1/3Nb3/5n2/2P5/PP3PPP/3RKBNR b K - 2 13"]
+[LichessURL "https://lichess.org/9hVgU1rT#25"]
+[PuzzleId "BTk7Q"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+13... Bxc3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "177"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkb1r/3Npppp/p1Q5/1p1P4/2p2B2/8/PPP1nPPP/R3K2R w KQk - 1 16"]
+[LichessURL "https://lichess.org/70Op70xZ/black#30"]
+[PuzzleId "z46ma"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+16. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "178"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b1r/1R3p1p/1p2pk2/1q1p2p1/3n2K1/6B1/P2N1PPP/3Q1B1R b - - 7 25"]
+[LichessURL "https://lichess.org/tXfPyJjl#49"]
+[PuzzleId "bJ361"]
+[Themes "crushing doubleCheck long middlegame"]
+
+25... h5+ 26. Kh3 g4+ 27. Qxg4 hxg4+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "179"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/kp1n1p2/p1p2q2/3p2p1/3N1P2/2P5/PP3Q2/1K6 w - - 0 36"]
+[LichessURL "https://lichess.org/WnLEz2Xs/black#70"]
+[PuzzleId "Y6Vcc"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+36. Nxc6+ Ka8 37. Qa7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "180"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1pp2pp1/p6B/2q5/3n4/3B2Q1/PP4PP/R4RK1 b - - 0 19"]
+[LichessURL "https://lichess.org/lETBOOBj#37"]
+[PuzzleId "Ae04x"]
+[Themes "crushing doubleCheck kingsideAttack middlegame short"]
+
+19... Ne2+ 20. Kh1 Nxg3+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "181"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/6bk/3p1qr1/pN3P1P/4b2R/1B3n2/PPP5/1K4R1 w - - 0 41"]
+[LichessURL "https://lichess.org/TLkVQMiw/black#80"]
+[PuzzleId "Fqn4C"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+41. hxg6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "182"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/4rn1p/p1k1P3/5R2/2K2N2/7P/P7/4R3 b - - 0 43"]
+[LichessURL "https://lichess.org/LP0w6vOm#85"]
+[PuzzleId "XEYQg"]
+[Themes "advantage doubleCheck endgame fork short"]
+
+43... Nd6+ 44. Kd4 Nxf5+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "183"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/qpkn2r1/p1pNp3/P3Bp2/1P3P2/8/2P2RP1/R5K1 w - - 0 25"]
+[LichessURL "https://lichess.org/BBJYa48h/black#48"]
+[PuzzleId "wyjdT"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+25. Nb5+ Kc8 26. Nxa7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "184"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k4rr/ppp5/4QP2/1P6/P7/3p4/5b1p/3R1R1K b - - 1 33"]
+[LichessURL "https://lichess.org/tXBSVxyd#65"]
+[PuzzleId "6D0V6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion short"]
+
+33... Rg1+ 34. Rxg1 hxg1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "185"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qr2/ppp3kp/3p1n2/3Pp1Nb/1PP1P2P/6Q1/P4P1K/1BR5 w - - 0 30"]
+[LichessURL "https://lichess.org/rN07VazC/black#58"]
+[PuzzleId "ApGVg"]
+[Themes "doubleCheck fork mate mateIn2 middlegame short"]
+
+30. Ne6+ Kh8 31. Qg7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "186"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/5ppp/p1p5/1p6/3PNn1q/1BP2P1b/PP3Q2/R1B1R2K b - - 7 22"]
+[LichessURL "https://lichess.org/7cwa7mgN#43"]
+[PuzzleId "Ge6mZ"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+22... Bg2+ 23. Kg1 Qh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "187"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5r1/8/3p3k/pp1PnRN1/2p1P1qP/4Q3/PPP5/2K5 w - - 11 39"]
+[LichessURL "https://lichess.org/59Y3IOO9/black#76"]
+[PuzzleId "Jr6zw"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+39. Nf7+ Kh7 40. Qh6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "188"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/4pp1p/pq1p2p1/3P4/4PP2/2N5/P3QnPP/R1B1RBK1 b - - 2 20"]
+[LichessURL "https://lichess.org/d1XrP4tl#39"]
+[PuzzleId "0COnC"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+20... Nh3+ 21. Kh1 Qg1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "189"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q2r2/1pp1b1pk/p4n1p/4n3/P3N3/3QBp1P/1PP3PN/3R1RK1 w - - 1 20"]
+[LichessURL "https://lichess.org/CetxaXe1/black#38"]
+[PuzzleId "i6bUy"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+20. Nxf6+ Kh8 21. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "190"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/6p1/P1Rp3p/1Pbk4/8/1N2r3/6PP/1R3K2 b - - 1 35"]
+[LichessURL "https://lichess.org/gP44g5kJ#69"]
+[PuzzleId "jlc3J"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+35... Rf8+ 36. Kg1 Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "191"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rq3/1p1n2pk/b1p3Np/p7/3P4/2P1r1NP/PPQ2RP1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/EPFm5iog/black#56"]
+[PuzzleId "ZTElI"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+29. Nf8+ Kg8 30. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "192"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp2r2b/5Q2/3p2N1/8/5PP1/PPpR4/2K1R3 b - - 0 26"]
+[LichessURL "https://lichess.org/AEMEL5zD#51"]
+[PuzzleId "wrdyL"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion short"]
+
+26... Rxe1+ 27. Rd1 cxd1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "193"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pb1p1p2/1p5p/5p2/2P1N3/3B4/PP3PPP/R1B1R1K1 w kq - 0 15"]
+[LichessURL "https://lichess.org/4S4mvXmn/black#28"]
+[PuzzleId "EQO33"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+15. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "194"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q1b2r1k/p3p2p/n2p2pb/8/3PPn2/5P2/BPP2B1P/1NKR2NR b - - 0 18"]
+[LichessURL "https://lichess.org/VKECjbKQ#35"]
+[PuzzleId "8yGHU"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+18... Ne2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "195"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/1p2pppp/pn3n2/1N1P4/Q1PP4/8/5PPP/R1B1K1NR w KQkq - 3 11"]
+[LichessURL "https://lichess.org/QA75gwY2/black#20"]
+[PuzzleId "17TnK"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "196"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p5p/1nn1p2q/p2pPp1b/2pP4/P1P2NP1/1PB2R2/R3NQ1K b - - 0 26"]
+[LichessURL "https://lichess.org/GsBZcio6#51"]
+[PuzzleId "8MFVn"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+26... Bxf3+ 27. Kg1 Qh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "197"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r1k1p1p/5pp1/2P5/8/3K3P/5PP1/2R5 w - - 8 35"]
+[LichessURL "https://lichess.org/kpa75lFL/black#68"]
+[PuzzleId "VJLRT"]
+[Themes "advancedPawn crushing doubleCheck endgame fork rookEndgame short"]
+
+35. c6+ Kc8 36. cxb7+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "198"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp3pp/8/2b1p3/3nN1Pq/3P1P2/PPPB2B1/R2Q1RK1 b - - 2 15"]
+[LichessURL "https://lichess.org/4dQPrqDe#29"]
+[PuzzleId "23qGN"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+15... Ne2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "199"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp3ppp/1n1P4/1Np1p2b/Q3P3/5P2/PP4PP/R3KBNR w KQkq - 1 13"]
+[LichessURL "https://lichess.org/PaRWjHNk/black#24"]
+[PuzzleId "ePxFs"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+13. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "200"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1b5p/p6q/1p2P1p1/7b/2PQ2N1/PP4PK/5R2 b - - 0 33"]
+[LichessURL "https://lichess.org/k7ZL5oow#65"]
+[PuzzleId "ZLVuf"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+33... Bxg3+ 34. Kg1 Qh2# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "201"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2b2/p4rkB/1pp5/3pqPP1/8/2P3R1/PPQ4R/2K5 w - - 0 34"]
+[LichessURL "https://lichess.org/5wBSp8qc/black#66"]
+[PuzzleId "ppB3T"]
+[Themes "crushing doubleCheck middlegame short"]
+
+34. f6+ Rxf6 35. gxf6+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "202"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1k2r2/ppp3Qp/2p5/2b1P3/2B3bB/3P4/PPP2nPP/RN3RK1 b - - 0 13"]
+[LichessURL "https://lichess.org/OiB5BYCI#25"]
+[PuzzleId "9x9AI"]
+[Themes "backRankMate deflection discoveredAttack doubleCheck mate mateIn2 middlegame short"]
+
+13... Nh3+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+14. Kh1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "203"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp3p1/3p2pQ/3Np3/2BnP3/P7/1PP2PP1/R5K1 w - - 0 22"]
+[LichessURL "https://lichess.org/5sDvxEbf/black#42"]
+[PuzzleId "iq9ls"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+22. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "204"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/pp3k1p/2p5/3r1qBP/1P2nR2/PQ6/5P2/1K4R1 b - - 2 31"]
+[LichessURL "https://lichess.org/dcZupRLO#61"]
+[PuzzleId "nXIiX"]
+[Themes "crushing doubleCheck fork long master middlegame"]
+
+31... Nd2+ 32. Kb2 Nxb3 33. Rxf5+ Rxf5 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "205"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/p2R2r1/7P/2p2q2/8/2K5/P4P2/7R w - - 0 34"]
+[LichessURL "https://lichess.org/ejt6WXoX/black#66"]
+[PuzzleId "g31zy"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 queenRookEndgame short"]
+
+34. hxg7+ Kg8 35. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "206"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q4k/1np3pp/1p1p2nr/1N1Pp3/pBP1Pp2/P4B1b/1P3QP1/R4NRK b - - 1 35"]
+[LichessURL "https://lichess.org/YTBzZa8Y#69"]
+[PuzzleId "kacOU"]
+[Themes "attraction doubleCheck kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+35... Bxg2+ 36. Kxg2 Qh3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "207"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2ppp/3b4/6B1/3P4/2N5/PPP1B1PP/2K1R2n w kq - 0 14"]
+[LichessURL "https://lichess.org/8Of7BOoX/black#26"]
+[PuzzleId "YdMyi"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+14. Bb5+ Kf8 15. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "208"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b2/1p3k2/3n4/p4p2/P1p5/K1P1B2P/1P2rPP1/R6R b - - 1 24"]
+[LichessURL "https://lichess.org/zkFvM5wW#47"]
+[PuzzleId "rRDGs"]
+[Themes "doubleCheck endgame mate mateIn2 pin short"]
+
+24... Nb5+ 25. Ka2 Nxc3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "209"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/ppp1q2k/2n3p1/3QPb1P/3P4/1KP5/PP1N4/7R w - - 3 25"]
+[LichessURL "https://lichess.org/4683w6oA/black#48"]
+[PuzzleId "rWvVU"]
+[Themes "crushing doubleCheck long middlegame skewer"]
+
+25. hxg6+ Kg7 26. Rh7+ Kxg6 27. Rxe7 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "210"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1qb2/pppk4/3p4/3Pn1Q1/3P4/8/PPP2PPP/R1B1K2R b KQ - 0 16"]
+[LichessURL "https://lichess.org/DPt7Q5ZL#31"]
+[PuzzleId "Zh8OU"]
+[Themes "crushing doubleCheck middlegame short"]
+
+16... Nf3+ 17. Kd1 Nxg5 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "211"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1p3ppk/pqp1p2p/4P3/1P1bN3/P2Q4/5PPP/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/8ahhmkKn/black#52"]
+[PuzzleId "Aehkr"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+27. Nf6+ Kh8 28. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "212"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p1p3np/1pPp2p1/1P1Pp1q1/P3Pp2/2N2PnP/3N1R2/R2Q1BK1 b - - 0 21"]
+[LichessURL "https://lichess.org/qqgYYEes#41"]
+[PuzzleId "KcliS"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+21... Ne2+ 22. Kh1 Qg1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "213"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r2/1p3pbk/3p4/5R2/2P4P/pPq5/P1Q5/1K1R4 w - - 0 28"]
+[LichessURL "https://lichess.org/ztAzphVH/black#54"]
+[PuzzleId "dnhtU"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+28. Rh5+ Kg8 29. Qh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "214"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/1p5p/p2np3/3pN3/5PP1/1PR1K2P/5N2 b - - 1 30"]
+[LichessURL "https://lichess.org/eRqopIo1#59"]
+[PuzzleId "dUskv"]
+[Themes "advantage attraction doubleCheck endgame fork long"]
+
+30... d3+ 31. Kxd3 Nb4+ 32. Ke2 Nxc2 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "215"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1b1r/pp3kpp/2p4n/4p3/4P1b1/5N2/PPPP2PP/RNBQ1RK1 w - - 0 8"]
+[LichessURL "https://lichess.org/MuZPrKeQ/black#14"]
+[PuzzleId "xAOml"]
+[Themes "advantage doubleCheck opening short"]
+
+8. Nxe5+ Ke8 9. Nxg4 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "216"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b6r/p5N1/1p4k1/4Pp2/6pp/1PP3P1/P3RP1K/4R3 b - - 0 48"]
+[LichessURL "https://lichess.org/GW8h7A4R#95"]
+[PuzzleId "l3tD7"]
+[Themes "attraction doubleCheck endgame long mate mateIn3"]
+
+48... hxg3+ 49. Kxg3 Rh3+ 50. Kf4 Rf3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "217"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/1p2pppp/p2p4/1Nn5/Q7/2P5/PP3PPP/RNB2RK1 w kq - 2 10"]
+[LichessURL "https://lichess.org/dWfyEgdB/black#18"]
+[PuzzleId "xT84o"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "218"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbk1bnr/ppNp3p/5N2/q1p3B1/1n6/8/P1P1PPPP/1R1QKB1R b K - 0 14"]
+[LichessURL "https://lichess.org/VYEn5qwe#27"]
+[PuzzleId "4hQAv"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+14... Nd3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "219"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/p4P1k/1p1p2p1/3P2KP/1P6/Pr6/7R w - - 0 37"]
+[LichessURL "https://lichess.org/gHa8QlXf/black#72"]
+[PuzzleId "oZwhp"]
+[Themes "doubleCheck endgame mate mateIn2 rookEndgame short"]
+
+37. hxg5+ Kg6 38. Rh6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "220"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2p2pb1/1q4pp/1R6/P1p5/2P1rN2/1P1R2PP/3Q2K1 b - - 2 29"]
+[LichessURL "https://lichess.org/vz2wl8Bc#57"]
+[PuzzleId "MA6Xg"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29... Re1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "221"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r2k/p6P/1p4p1/2p1ppq1/3n2p1/PQ1P4/BPP2P1R/1K6 w - - 7 34"]
+[LichessURL "https://lichess.org/Z1f2J0Dk/black#66"]
+[PuzzleId "9JvYA"]
+[Themes "advancedPawn doubleCheck kingsideAttack mate mateIn2 middlegame promotion short"]
+
+34. Qg8+ Rxg8 35. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "222"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/pp4pp/4p2r/5p1n/2PP4/P2BP1B1/2Q2PP1/R4R1K b - - 0 19"]
+[LichessURL "https://lichess.org/CjSPwQCR#37"]
+[PuzzleId "U2coo"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+19... Nxg3+ 20. Kg1 Rh1# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "223"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/bpp3p1/p2p1n2/P2Np2p/1P2P3/1B1PPQ1P/2P3P1/R3K2R w KQ - 2 16"]
+[LichessURL "https://lichess.org/Un6M21ad/black#30"]
+[PuzzleId "gAFxZ"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+16. Nxf6+ Kh8 17. Qxh5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "224"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/ppp3pp/4Rn2/6B1/8/2N4P/PPP2KP1/R7 b - - 0 15"]
+[LichessURL "https://lichess.org/Iu2RiCBl#29"]
+[PuzzleId "Ds485"]
+[Themes "crushing doubleCheck middlegame short"]
+
+15... Ne4+ 16. Kg1 Nxg5 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "225"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/2R2N1k/p4p1p/4pP2/8/3P3P/7K/1q6 w - - 0 48"]
+[LichessURL "https://lichess.org/NjUM8zAc/black#94"]
+[PuzzleId "vhDD8"]
+[Themes "doubleCheck endgame master mate mateIn2 short"]
+
+48. Ng5+ Kh8 49. Rh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "226"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/1p6/p2p2R1/8/5P2/2PP2pp/PP1Q2P1/7K b - - 0 29"]
+[LichessURL "https://lichess.org/guXqYioT#57"]
+[PuzzleId "NVaro"]
+[Themes "advancedPawn advantage doubleCheck endgame queenRookEndgame skewer veryLong"]
+
+29... hxg2+ 30. Kg1 Rh1+ 31. Kxg2 Rh2+ 32. Kxg3 Rxd2 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "227"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb1r3/1p3kpp/p6q/3p1P2/1B1Q2P1/8/P3n1KP/1R3R2 w - - 0 29"]
+[LichessURL "https://lichess.org/sQdUviM6/black#56"]
+[PuzzleId "LqWYF"]
+[Themes "crushing doubleCheck middlegame short"]
+
+29. Qxd5+ Be6 30. fxe6+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "228"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1pp3pp/p2p4/3Pp3/1PP3N1/P2P2pP/3QBq2/2R1R2K b - - 1 21"]
+[LichessURL "https://lichess.org/0y2ctN76#41"]
+[PuzzleId "e9O1p"]
+[Themes "advancedPawn doubleCheck kingsideAttack mate mateIn2 middlegame promotion short"]
+
+21... g2+ 22. Kh2 g1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "229"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q2r2k/p4Q1P/6p1/r3bpn1/3p4/1B3P2/PPP2P2/1K5R w - - 1 30"]
+[LichessURL "https://lichess.org/m5Zf3CTL/black#58"]
+[PuzzleId "KVJj1"]
+[Themes "advancedPawn doubleCheck kingsideAttack mate mateIn2 middlegame promotion short"]
+
+30. Qg8+ Rxg8 31. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "230"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr2r1/pp3p2/3b4/2p2p1p/2b5/2N3PP/PPPKNP2/3RR3 b - - 1 20"]
+[LichessURL "https://lichess.org/FW2ZU0qV#39"]
+[PuzzleId "u8vrb"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+20... Bf4# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "231"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq2k1/pp4pp/2n2pn1/3R4/7B/1BP2N2/P3rPPP/R5K1 w - - 0 16"]
+[LichessURL "https://lichess.org/aUTKmXic/black#30"]
+[PuzzleId "Kl7ub"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+16. Rxd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "232"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp2q1pp/2p5/3pn3/3Q4/1B4N1/PPP2PPP/R1B1K2R b KQkq - 1 12"]
+[LichessURL "https://lichess.org/Dgdm2m2h#23"]
+[PuzzleId "F3wUg"]
+[Themes "crushing doubleCheck opening short"]
+
+12... Nf3+ 13. Kd1 Nxd4 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "233"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/2q3k1/p2bp1p1/3pN2Q/5P2/1N6/PB5P/7K w - - 0 25"]
+[LichessURL "https://lichess.org/r9FoB4zu/black#48"]
+[PuzzleId "PkZJx"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+25. Qxg6+ Kh8 26. Nf7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "234"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/5ppp/4p3/6P1/4Q2P/1P1P4/pR6/K1R5 b - - 0 29"]
+[LichessURL "https://lichess.org/2wIWWuLK#57"]
+[PuzzleId "0R2og"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+29... Rxc1+ 30. Rb1 axb1=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "235"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2k1/ppp3pp/2n2p2/3R4/8/1B3NP1/PP2rbP1/RNB4K w - - 0 16"]
+[LichessURL "https://lichess.org/7xB9a8Bb/black#30"]
+[PuzzleId "CSxej"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+16. Rxd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "236"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/p1p1pppp/1p6/nN1n4/Q2P4/4P3/PP3PPP/R1B1K1NR w KQkq - 0 10"]
+[LichessURL "https://lichess.org/1C3Zn2vR/black#18"]
+[PuzzleId "ow45K"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nxc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "237"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4ppp/8/2R5/8/BP3PnP/r5P1/6K1 w - - 0 24"]
+[LichessURL "https://lichess.org/5HsEiR6s/black#46"]
+[PuzzleId "LP4rj"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+24. Rc8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "238"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rr4k1/6bp/4R1p1/p4p2/2Bp1p2/2P4P/RP3PP1/6K1 w - - 2 25"]
+[LichessURL "https://lichess.org/CXgvnXvz/black#48"]
+[PuzzleId "8K3UW"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
+
+25. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "239"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2Rpp/8/4n3/2B5/2P2R1P/P1P3P1/6K1 w - - 0 19"]
+[LichessURL "https://lichess.org/UHludR98/black#36"]
+[PuzzleId "062Zq"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+19. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "240"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/1p1p4/1NnP4/Q3P3/8/PP2NPPP/R3K2R w KQkq - 4 12"]
+[LichessURL "https://lichess.org/ZZRzt2DG/black#22"]
+[PuzzleId "arF1p"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+12. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "241"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p1k5/8/P5p1/1q6/4NB1P/4K3 w - - 6 49"]
+[LichessURL "https://lichess.org/Z7cnRwBc/black#96"]
+[PuzzleId "xA90x"]
+[Themes "crushing doubleCheck endgame fork short"]
+
+49. Nd4+ Kc5 50. Nxb3+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "242"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4kr1/2q1bP1p/p2p4/8/3nP3/1BP5/P1P3PP/R4RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/12tYEQQG/black#36"]
+[PuzzleId "u99st"]
+[Themes "advancedPawn doubleCheck master mate mateIn1 middlegame oneMove promotion"]
+
+19. fxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "243"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p4p1P/1p1p3R/2pq4/4r3/8/PPP4P/1K4R1 w - - 0 30"]
+[LichessURL "https://lichess.org/Tey8WLtE/black#58"]
+[PuzzleId "8Ckk0"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+30. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "244"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rkb1r/ppp2ppp/2n5/8/2b1B3/6PP/PP3P2/RNB1R1K1 w k - 0 14"]
+[LichessURL "https://lichess.org/BMAl6AK3/black#26"]
+[PuzzleId "t8jNl"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14. Bxc6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "245"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/p3pppp/1p3n2/1Nnp1b2/Q1Pp1B2/4P3/PP3PPP/R3KBNR w KQkq - 4 9"]
+[LichessURL "https://lichess.org/8ppPH0wk/black#16"]
+[PuzzleId "NB65E"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+9. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "246"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/2p1pppp/pn1p4/1N1PPb2/Q7/5N2/PP3PPP/R1B1K2R w KQkq - 1 15"]
+[LichessURL "https://lichess.org/3Y1iKrm3/black#28"]
+[PuzzleId "jpcHn"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+15. Nxd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "247"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/4pppp/p7/1N4n1/Q1pP4/8/1P3PPP/R3KBNR w KQkq - 0 10"]
+[LichessURL "https://lichess.org/LEDFRyov/black#18"]
+[PuzzleId "lwf0A"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "248"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rr4k1/6pp/8/3R4/2B5/4P3/p4PPP/n5K1 w - - 0 36"]
+[LichessURL "https://lichess.org/X47GYUKv/black#70"]
+[PuzzleId "7osub"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+36. Rd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "249"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/pp2pppp/8/1N2n3/Q7/8/PP1P1PPP/R1B1K2R w KQkq - 0 11"]
+[LichessURL "https://lichess.org/P5JuZHkz/black#20"]
+[PuzzleId "Ow63n"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "250"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2q1k1/pppn2bp/4R1p1/6Bn/2B5/2N2r1P/PP3PP1/R5K1 w - - 0 17"]
+[LichessURL "https://lichess.org/CngxpjjA/black#32"]
+[PuzzleId "MdqB6"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+17. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "251"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/1p1p1ppp/p1p5/8/B2nN3/8/PPP2PPP/R1B1R1K1 w kq - 0 12"]
+[LichessURL "https://lichess.org/njwkj9zq/black#22"]
+[PuzzleId "esSF1"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+12. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "252"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6bp/6p1/4p3/2R2pP1/1BP2K2/1r1r1PP1/2R5 w - - 0 31"]
+[LichessURL "https://lichess.org/qXCiQAIW/black#60"]
+[PuzzleId "XTJLu"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+31. Rc8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "253"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/2p1pppp/p4nb1/1N1P4/Q2PP3/4nP2/PP2N1PP/R3KB1R w KQkq - 0 11"]
+[LichessURL "https://lichess.org/g2ya0oM8/black#20"]
+[PuzzleId "IWgDf"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+11. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "254"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbnr/ppp1pppp/8/1Nn5/Q1P5/5P2/P2PB1PP/R1B1K1NR w KQkq - 3 10"]
+[LichessURL "https://lichess.org/plMkO5cl/black#18"]
+[PuzzleId "uIW0n"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "255"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/1p2pppp/p4n2/1Np5/Q1Pp4/5N2/PP1PPPPP/R1B1KB1R w KQkq - 0 6"]
+[LichessURL "https://lichess.org/DVHgNQi1/black#10"]
+[PuzzleId "4eBBi"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+6. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "256"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bk4/ppp2rpp/8/2b1p3/8/8/PPPB1PPP/3R1RK1 w - - 0 13"]
+[LichessURL "https://lichess.org/BaIoeESP/black#24"]
+[PuzzleId "WkZif"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+13. Bg5+ Ke8 14. Rd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "257"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r3/ppq1nkpB/4p3/3pP1p1/8/PP3N2/1BP4P/5R1K w - - 0 23"]
+[LichessURL "https://lichess.org/PPTdmAe4/black#44"]
+[PuzzleId "KBUGv"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+23. Nxg5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "258"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/1b2pppp/p2p1n2/1NpP2B1/QpP5/8/PP2PPPP/R3KBNR w KQkq - 2 8"]
+[LichessURL "https://lichess.org/TUmQvbiV/black#14"]
+[PuzzleId "Td1v2"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+8. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "259"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2r1k1/6pp/4R3/1p1Q4/8/4nN1P/P1q3PK/8 w - - 1 35"]
+[LichessURL "https://lichess.org/Ey9B9sPD/black#68"]
+[PuzzleId "J7IFQ"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+35. Rxe8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "260"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1p3Pp/2q4B/2pp4/6R1/1PP5/1P4PP/5RK1 w - - 0 30"]
+[LichessURL "https://lichess.org/CGq1waC6/black#58"]
+[PuzzleId "GVm18"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion short"]
+
+30. Rf8+ Rxf8 31. gxf8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "261"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/p2bq1Pp/2pp3B/1p6/4P3/6R1/P1P3PP/5RK1 w - - 1 31"]
+[LichessURL "https://lichess.org/UVbui0vD/black#60"]
+[PuzzleId "tq58o"]
+[Themes "advancedPawn doubleCheck kingsideAttack mate mateIn2 middlegame promotion short"]
+
+31. Rf8+ Rxf8 32. gxf8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "262"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/1n3n2/1Np3B1/Q1PP4/8/PP3PPP/R3K1NR w KQkq - 2 10"]
+[LichessURL "https://lichess.org/9fzQ3UAb/black#18"]
+[PuzzleId "a2wrU"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+10. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "263"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p4p1p/1p2N1p1/2p3B1/3n2B1/3P3P/PP3qP1/1R1KR3 w kq - 0 21"]
+[LichessURL "https://lichess.org/2G4SjIpe/black#40"]
+[PuzzleId "9zfKL"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+21. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "264"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/p4p2/2p1p1p1/3pR3/P2B4/2P4P/P1K3P1/R7 w - - 0 23"]
+[LichessURL "https://lichess.org/g003HyOs/black#44"]
+[PuzzleId "EH9C2"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+23. Rh5+ Kg8 24. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "265"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/pp3ppp/6n1/2pp4/3P2b1/5N2/PPP1BPPP/RNBQR1K1 w kq - 4 8"]
+[LichessURL "https://lichess.org/ZHymB06w/black#14"]
+[PuzzleId "IrYW9"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+8. Bb5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "266"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkb1r/4pppp/5nb1/nN1p4/Q2P1BP1/4P3/PP3P1P/R3K1NR w KQk - 1 13"]
+[LichessURL "https://lichess.org/AZ5VLgC5/black#24"]
+[PuzzleId "gwKzB"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+13. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "267"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/4bRpp/2pp4/p5N1/Pp2P3/1B1P2nP/1PPN2P1/5RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/2HMwseOO/black#36"]
+[PuzzleId "xQcQv"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+19. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "268"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4r1k1/8/p4Pp1/2p3P1/2rp2K1/3R1R2/8 w - - 1 50"]
+[LichessURL "https://lichess.org/Kovlf6JU/black#98"]
+[PuzzleId "8aCyD"]
+[Themes "advancedPawn advantage doubleCheck endgame fork rookEndgame short"]
+
+50. f6+ Kf8 51. fxe7+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "269"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/p1p1pppp/1n6/1N1Pp3/Q2n4/5B2/PP3PPP/R1B2RK1 w kq - 1 13"]
+[LichessURL "https://lichess.org/x9tZys61/black#24"]
+[PuzzleId "T7EXa"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+13. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "270"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pr1rp2/7p/1R1B3k/4PK1P/8/8/8 w - - 1 44"]
+[LichessURL "https://lichess.org/mxsdzLPy/black#86"]
+[PuzzleId "aamJS"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+44. Bxf7+ Kxh4 45. Rh5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "271"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbbk2r/pp3ppp/8/3p4/3P4/5N2/PPP1BPPP/2KRR3 w kq - 0 13"]
+[LichessURL "https://lichess.org/st43dpLU/black#24"]
+[PuzzleId "U8G2b"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+13. Bb5+ Kf8 14. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "272"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/ppp2ppp/3p1n2/8/8/5N2/PPPPBPPP/RNBQR1K1 w kq - 0 8"]
+[LichessURL "https://lichess.org/1qWyBexH/black#14"]
+[PuzzleId "n49bA"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+8. Bb5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "273"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/p3pppp/5n2/1N6/Q1BP4/4P3/1P3P1P/R1B1K1Nb w Qkq - 0 10"]
+[LichessURL "https://lichess.org/Zxe1Uabi/black#18"]
+[PuzzleId "B1m4i"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+10. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "274"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1nkr/1p2b1pp/p2n4/2pNpPN1/P1Q1P3/8/1PPP2PP/R1B2RK1 w - - 1 14"]
+[LichessURL "https://lichess.org/r4hTUzpk/black#26"]
+[PuzzleId "2vqFx"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+14. Nxe7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "275"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp6/2p5/P1P2Pp1/1P4P1/1r6/6r1/K2k1N1R w - - 0 49"]
+[LichessURL "https://lichess.org/k6L9MnqY/black#96"]
+[PuzzleId "KVDtm"]
+[Themes "advantage doubleCheck endgame master short"]
+
+49. Ne3+ Kd2 50. Nxg2 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "276"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4r/ppp1kppp/2n2n2/1B6/8/P1P1B3/5PpP/3RR1K1 w - - 4 19"]
+[LichessURL "https://lichess.org/BrydKzy5/black#36"]
+[PuzzleId "OOaNG"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+19. Bc5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "277"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1p3Pkp/p5p1/4n1K1/3N3P/1B6/P7/8 w - - 11 37"]
+[LichessURL "https://lichess.org/tdt8hpbu/black#72"]
+[PuzzleId "mvZU4"]
+[Themes "advantage doubleCheck endgame fork short"]
+
+37. Ne6+ Kxf7 38. Nxd8+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "278"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R1N1k1/5pp1/b4b1p/4p3/P4P2/7P/1q4P1/4R2K w - - 2 35"]
+[LichessURL "https://lichess.org/cZN1uUXZ/black#68"]
+[PuzzleId "NAm4B"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+35. Nxf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "279"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/5Rpp/p1pp4/1p4q1/1P1PP3/P3bQ1b/B1P3P1/1R5K w - - 0 22"]
+[LichessURL "https://lichess.org/70EbD53B/black#42"]
+[PuzzleId "IxBbf"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+22. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "280"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/pp2rp2/6p1/4n3/2Bb4/P4P1P/5PK1/2R5 w - - 0 28"]
+[LichessURL "https://lichess.org/YTwVdSG3/black#54"]
+[PuzzleId "AD7Zf"]
+[Themes "doubleCheck endgame master mate mateIn2 short"]
+
+28. Be6+ Kd8 29. Rc8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "281"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/p1qp1Ppk/1p6/5R2/P4b2/2pB4/2P3PP/R6K w - - 0 22"]
+[LichessURL "https://lichess.org/iDXu7evw/black#42"]
+[PuzzleId "lqbEj"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+22. Rh5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "282"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/4rp1k/p1npp1p1/1p2b1PN/4P3/3P4/PP6/1K5R w - - 0 28"]
+[LichessURL "https://lichess.org/G1zLChcP/black#54"]
+[PuzzleId "TrqDI"]
+[Themes "doubleCheck endgame hookMate mate mateIn2 short"]
+
+28. Nf6+ Kg7 29. Rh7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "283"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4r1k1/5p2/5RP1/6K1/8/8/8 w - - 0 91"]
+[LichessURL "https://lichess.org/Aqsmi7lj/black#180"]
+[PuzzleId "pmFPn"]
+[Themes "advancedPawn crushing doubleCheck endgame fork master rookEndgame short"]
+
+91. gxf6+ Kf8 92. fxe7+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "284"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2q1k/p5p1/2p4p/1p2n3/4N3/3B3P/PPP3P1/5RK1 w - - 0 26"]
+[LichessURL "https://lichess.org/W0tnrnpt/black#50"]
+[PuzzleId "1upr3"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+26. Rxf8+ Kh7 27. Ng5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "285"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/pp4kp/1bp1p1pN/3n4/1P1N1P2/P2BPK2/1BP5/7R w - - 2 26"]
+[LichessURL "https://lichess.org/3sWsFYAx/black#50"]
+[PuzzleId "QnJcI"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+26. Nxe6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "286"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5br1/1p5k/p2p1Pp1/3PpK1P/4P3/7R/P7/2r5 w - - 0 43"]
+[LichessURL "https://lichess.org/nF59gXd7/black#84"]
+[PuzzleId "WN5YF"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+43. hxg6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "287"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1r2/3bb1pk/p4p2/1p1NpP2/8/1B3R2/PP4PP/3R3K w - - 0 25"]
+[LichessURL "https://lichess.org/OEUFrXRf/black#48"]
+[PuzzleId "y8Wp3"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+25. Rh3+ Kg8 26. Nxe7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "288"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5qrk/8/5pBN/pb2pP1Q/1p1pPn1P/1Pr4R/P7/3R2K1 w - - 1 41"]
+[LichessURL "https://lichess.org/1j80olfB/black#80"]
+[PuzzleId "Mwbum"]
+[Themes "doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+41. Nf7+ Kg7 42. Qh6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "289"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1k4/p2Prp2/Bp4pp/n4p2/P7/2RR4/5PPK/8 w - - 1 42"]
+[LichessURL "https://lichess.org/ttfhxO31/black#82"]
+[PuzzleId "l71LJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion short"]
+
+42. Rc8+ Rxc8 43. dxc8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "290"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2b1r/ppp3pp/2n1R3/q5p1/3r2Q1/2N5/PPP2PPP/R5K1 w - - 0 14"]
+[LichessURL "https://lichess.org/nUyJlYTd/black#26"]
+[PuzzleId "0NwQ2"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "291"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4p2/4p1Pp/3p4/5PR1/q4rQ1/8/7K w - - 0 32"]
+[LichessURL "https://lichess.org/rFk9Wnnp/black#62"]
+[PuzzleId "GKsUI"]
+[Themes "advancedPawn advantage attraction doubleCheck endgame veryLong"]
+
+32. gxf7+ Kxf7 33. Rg7+ Kf8 34. Rg8+ Ke7 35. Qg7+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "292"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp3rb1/4q1QP/n1p5/8/2P1P3/PP3PP1/2K4R w - - 0 27"]
+[LichessURL "https://lichess.org/3Cx6v4Yc/black#52"]
+[PuzzleId "mYpq3"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame short"]
+
+27. hxg7+ Kg8 28. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "293"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2R4/2p1kp2/5r2/2n1N1p1/6P1/Pr3PK1/4R3 w - - 6 36"]
+[LichessURL "https://lichess.org/g47mBHbX/black#70"]
+[PuzzleId "1vdkY"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+36. Nc5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "294"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1N2Q1/2pb4/pp5p/3Pp3/1P4q1/8/6PK/8 w - - 0 40"]
+[LichessURL "https://lichess.org/LLIpAGQZ/black#78"]
+[PuzzleId "9Xi1t"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+40. Nc6+ Kb7 41. Qb8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "295"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp3ppp/3p1n2/2pP4/3p4/5N2/PP2BPPP/R1BQR1K1 w kq - 1 12"]
+[LichessURL "https://lichess.org/RyC1Rbg9/black#22"]
+[PuzzleId "5V7De"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+12. Bb5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "296"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/1pb2ppp/1p3q2/3p4/8/6P1/PPP1BP1P/R1BQR1K1 w kq - 0 15"]
+[LichessURL "https://lichess.org/TD3heZlz/black#28"]
+[PuzzleId "ABYtz"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+
+15. Bb5+ Kf8 16. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "297"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rqbk1/1p3r1p/p1npnpNp/2p1p2P/P1P1P1Q1/2P3P1/1P3P2/R1BR2K1 w - - 0 24"]
+[LichessURL "https://lichess.org/P7e29w7J/black#46"]
+[PuzzleId "gfPU1"]
+[Themes "doubleCheck kingsideAttack master mate mateIn2 middlegame short"]
+
+24. Ne7+ Kh8 25. Qg8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "298"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/1p2q2p/p1p3pb/2P2pN1/1P5P/PQ3PP1/6K1 w - - 2 40"]
+[LichessURL "https://lichess.org/UjEUiBfq/black#78"]
+[PuzzleId "VKzt7"]
+[Themes "crushing doubleCheck endgame fork short"]
+
+40. Nf6+ Kg7 41. Nxh5+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "299"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/b5p1/p4k1p/8/1P1pKN1P/P1r2RP1/8 w - - 2 42"]
+[LichessURL "https://lichess.org/jng9F36L/black#82"]
+[PuzzleId "7Bfk2"]
+[Themes "crushing doubleCheck endgame fork short"]
+
+42. Nd4+ Ke5 43. Nxc2 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "300"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/ppp2ppp/3p1q2/8/5n2/8/PPPQBPPP/RN2R1K1 w kq - 2 13"]
+[LichessURL "https://lichess.org/uPq2NMY2/black#24"]
+[PuzzleId "Mkzyv"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+
+13. Bb5+ Kd8 14. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "301"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/6r1/4p2P/2qnNp2/pp6/P1P5/1P6/1K4RR w - - 0 36"]
+[LichessURL "https://lichess.org/JXREDUjr/black#70"]
+[PuzzleId "ZxTpc"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame short"]
+
+36. hxg7+ Kg8 37. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "302"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p2qpkb1/6p1/2p5/2N2nP1/1Q6/2P2P1P/1R3K2 w - - 4 30"]
+[LichessURL "https://lichess.org/FTQ91wVh/black#58"]
+[PuzzleId "TcJ2W"]
+[Themes "crushing doubleCheck master middlegame short"]
+
+30. Ne5+ Kf6 31. Nxd7+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "303"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/1p1n1B1P/p3pb1R/3p1q2/5PQ1/4B3/6P1/5K2 w - - 2 29"]
+[LichessURL "https://lichess.org/vr67THfo/black#56"]
+[PuzzleId "UG8Xm"]
+[Themes "advancedPawn doubleCheck mate mateIn2 middlegame promotion short"]
+
+29. Qg8+ Rxg8 30. hxg8=Q# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "304"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/kp5p/1r2qpn1/P2Np1p1/4Pn2/5N2/6PP/RR4K1 w - - 0 37"]
+[LichessURL "https://lichess.org/e3ICwY6J/black#72"]
+[PuzzleId "AtDAL"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+37. axb6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "305"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q3k/1pr5/p2p3P/4p3/4bnQ1/8/PPP2P2/2K3RR w - - 0 27"]
+[LichessURL "https://lichess.org/NyNGsdnh/black#52"]
+[PuzzleId "kErg2"]
+[Themes "advancedPawn crushing doubleCheck exposedKing long middlegame sacrifice"]
+
+27. Qg7+ Rxg7 28. hxg7+ Kg8 29. Rh8+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "306"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/pp5p/2r5/3R2B1/2B2p2/8/PP4PP/2K4n w - - 2 23"]
+[LichessURL "https://lichess.org/KZrk0T8C/black#44"]
+[PuzzleId "DNMFk"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+23. Rd8+ Kg7 24. Rg8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "307"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2Pk1/6p1/p4p2/1p5p/1P4r1/7r/3R1K2 w - - 0 46"]
+[LichessURL "https://lichess.org/8ZuG4uBm/black#90"]
+[PuzzleId "8RThl"]
+[Themes "advancedPawn attraction doubleCheck endgame mate mateIn2 promotion short"]
+
+46. f8=Q+ Kxf8 47. Rd8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "308"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2nrk1/pp1qpNbp/3pQ1p1/8/3pN3/8/PPP2PPP/R1B1K2R w KQ - 4 14"]
+[LichessURL "https://lichess.org/a0NnqGnq/black#26"]
+[PuzzleId "VVIY2"]
+[Themes "doubleCheck kingsideAttack long mate mateIn3 opening sacrifice smotheredMate"]
+
+14. Nh6+ Kh8 15. Qg8+ Rxg8 16. Nf7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "309"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p5b1/7p/N2R4/p1Bp2p1/4p1P1/6rP/3K4 w - - 2 37"]
+[LichessURL "https://lichess.org/fuwZdI99/black#72"]
+[PuzzleId "N3OIj"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+37. Rd8+ Kh7 38. Bd3# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "310"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1pR4p/b5P1/6R1/8/4P3/6PK/2q2r2 w - - 0 46"]
+[LichessURL "https://lichess.org/juBFKABP/black#90"]
+[PuzzleId "R6M2I"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 short"]
+
+46. gxh7+ Kh8 47. Rg8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "311"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/1b3pp1/1p2p2P/3pB3/1r6/bp2P3/P4PP1/K4R1R w - - 0 28"]
+[LichessURL "https://lichess.org/eTZuLY7I/black#54"]
+[PuzzleId "d578l"]
+[Themes "advancedPawn doubleCheck kingsideAttack mate mateIn2 middlegame short"]
+
+28. hxg7+ Kg8 29. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "312"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/p3p2p/2qpPR1P/1pp5/4P1r1/PP4P1/1B4K1/8 w - - 0 31"]
+[LichessURL "https://lichess.org/LwnuVkks/black#60"]
+[PuzzleId "JHc9s"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
+
+31. Rf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "313"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1b1ppp/2n2n2/8/4N3/4Q3/PP3PPP/R1B1KBNR w KQkq - 3 10"]
+[LichessURL "https://lichess.org/MZsheZF7/black#18"]
+[PuzzleId "zpHy8"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+10. Nxf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "314"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2Rpp/3p4/2q5/4P3/1BP1P3/PP2b1PP/5RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/Fddfkq8a/black#36"]
+[PuzzleId "Ij513"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+19. Rxf8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "315"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkbnr/pp1n1p1p/2p3p1/5b2/3pNP2/3B4/PPP1Q1PP/2KR2NR w kq - 0 11"]
+[LichessURL "https://lichess.org/H6qXojg9/black#20"]
+[PuzzleId "RtU3x"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "316"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/1b2pppp/p2p1n2/1NpP4/QpP5/4P3/PP3PPP/R1B1KBNR w KQkq - 2 8"]
+[LichessURL "https://lichess.org/DPjM2tUb/black#14"]
+[PuzzleId "btn9F"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+8. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "317"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/1p2nppp/p2p4/1N1Ppb2/Q1P5/8/PP3PPP/R1B1KB1R w KQkq - 0 11"]
+[LichessURL "https://lichess.org/ywDufGeC/black#20"]
+[PuzzleId "Pftge"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "318"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbnr/2p1pppp/pn6/1N1P4/Q3P3/8/PP3PPP/R1B1K1NR w KQkq - 1 9"]
+[LichessURL "https://lichess.org/AkXoD5Pn/black#16"]
+[PuzzleId "lFe1e"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+9. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "319"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/p1p1pppp/1n6/1N1Pp3/Q7/5P2/PP3P1P/R1B2RK1 w kq - 1 14"]
+[LichessURL "https://lichess.org/mC2xYIEA/black#26"]
+[PuzzleId "dNWVw"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+14. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "320"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/2p1pppp/p4n2/1N1b4/Q1pP4/4PN2/PP3PPP/R1B1KB1R w KQkq - 1 8"]
+[LichessURL "https://lichess.org/GLjkEay4/black#14"]
+[PuzzleId "BCpjt"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+8. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "321"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/1p2nppp/p2p4/1N1Pp3/Q1P3b1/3BB3/PP3PPP/R3K2R w KQkq - 2 13"]
+[LichessURL "https://lichess.org/d7vgzgKo/black#24"]
+[PuzzleId "cQ6WJ"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+13. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "322"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bkr3/ppp2ppp/2n5/4p3/1bP5/2N4P/PP1BPPP1/2KR1B1R w - - 6 11"]
+[LichessURL "https://lichess.org/6LZ7djXI/black#20"]
+[PuzzleId "7TdES"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+11. Bg5# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "323"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/4pppp/p7/1NpP4/Qp2n3/8/PP3PPP/R1B1K1NR w KQkq - 0 11"]
+[LichessURL "https://lichess.org/eto1NeE3/black#20"]
+[PuzzleId "ucisJ"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+11. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "324"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/3p2n1/1NnP4/Q4P2/5N2/PP4PP/R1B2RK1 w kq - 2 13"]
+[LichessURL "https://lichess.org/PbKUJKJa/black#24"]
+[PuzzleId "WgiU8"]
+[Themes "doubleCheck mate mateIn1 oneMove opening"]
+
+13. Nc7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "325"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R3N1k1/6p1/2p1K2p/4p2n/p2p4/5P2/4r3/8 w - - 4 49"]
+[LichessURL "https://lichess.org/JDRydY3Z/black#96"]
+[PuzzleId "xhzWa"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+49. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "326"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3R1p/p1bp2pb/2qB4/2P3P1/1P5P/P7/5R1K w - - 1 38"]
+[LichessURL "https://lichess.org/lXLQgafS/black#74"]
+[PuzzleId "5xTR4"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+38. Rf8+ Kg7 39. R1f7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "327"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/p1pq2pk/1p5p/2b4P/3pNn2/3Qp3/PPP2P2/R1B2KR1 w - - 4 24"]
+[LichessURL "https://lichess.org/tvOkh6xG/black#46"]
+[PuzzleId "91go8"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+24. Nf6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "328"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kbnr/ppp2ppp/3p4/8/3p4/8/PPPPBPPP/RNB1R1K1 w kq - 0 9"]
+[LichessURL "https://lichess.org/6dzdXqMQ/black#16"]
+[PuzzleId "imjEG"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+9. Bb5+ Kd8 10. Re8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "329"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4q3/p7/1p2p3/2p2rB1/b4P2/P1P5/1K4RR w - - 0 36"]
+[LichessURL "https://lichess.org/yx4isfVL/black#70"]
+[PuzzleId "UkkyH"]
+[Themes "doubleCheck endgame mate mateIn2 short"]
+
+36. Be6+ Kf8 37. Rh8# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "330"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/4npp1/p3p2p/1N1pPb2/B2n3B/5N2/PPP2PPP/R3K2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/N9IpJ85o/black#22"]
+[PuzzleId "zTjaw"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+12. Nd6# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "331"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rbq4/kp1p4/pN3p2/2Q2p2/P2P4/1PPn1p2/6rP/4R2K w - - 5 32"]
+[LichessURL "https://lichess.org/K8qRpQ6o/black#62"]
+[PuzzleId "yC5Xy"]
+[Themes "doubleCheck mate mateIn2 middlegame short"]
+
+32. Nxc8+ Ka8 33. Qa7# *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "332"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/p2nk1p1/1p1b1rB1/1P1pp1qP/2pP4/1PQ3P1/P3RP2/4R1K1 w - - 0 31"]
+[LichessURL "https://lichess.org/V5lPL4wm/black#60"]
+[PuzzleId "YTFdz"]
+[Themes "advantage doubleCheck fork middlegame short"]
+
+31. dxe5 Rxg6 32. exd6+ *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "333"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b2/pp1k1r2/1n6/3N2n1/6p1/8/PPPR1PPP/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/YQuSJX3W/black#46"]
+[PuzzleId "nwKWd"]
+[Themes "advantage doubleCheck middlegame short"]
+
+24. Nxb6+ Kc6 25. Nxa8 *
+
+
+
+[Event "Double Check"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "334"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3nrkb/pR3N2/3p2p1/2p5/2Q1Pp2/2q1BKP1/P7/8 w - - 0 28"]
+[LichessURL "https://lichess.org/0HsS7GLc/black#54"]
+[PuzzleId "nmizq"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
+
+28. Nh6# *
+
+
+

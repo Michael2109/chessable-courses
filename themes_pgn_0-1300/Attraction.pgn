@@ -1,0 +1,5771 @@
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/5p1n/2pq1Pp1/4p1P1/1p4RR/3pB2P/1PP4K/r7 w - - 0 35"]
+[LichessURL "https://lichess.org/E1926moy/black#68"]
+[PuzzleId "t9V5M"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+35. Rxh7+ Kxh7 36. Rh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p6k/2P1p1p1/PP6/2P2P2/4B2p/5P1P/3r2RK b - - 4 40"]
+[LichessURL "https://lichess.org/e5sadOr8#79"]
+[PuzzleId "IxYbP"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+40... Rxg1+ 41. Kxg1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R3rk/6p1/2R3Pp/pp6/2p2p2/5P2/P1q2PK1/8 w - - 2 37"]
+[LichessURL "https://lichess.org/9sRJJuVv/black#72"]
+[PuzzleId "B6VjZ"]
+[Themes "attraction endgame mate mateIn2 queenRookEndgame short"]
+
+37. Rxg8+ Kxg8 38. Rc8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/R5pp/8/8/1P6/P1Nb4/6PP/5rRK b - - 0 26"]
+[LichessURL "https://lichess.org/00Kxr6AX#51"]
+[PuzzleId "INCdU"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26... Rxg1+ 27. Kxg1 Rf1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/5ppp/8/p7/8/1P4PP/P4q2/3Q3K w - - 2 37"]
+[LichessURL "https://lichess.org/zwhdrhLF/black#72"]
+[PuzzleId "o2q5V"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+37. Rxf8+ Kxf8 38. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/PQ3ppp/3pp3/8/3P4/4P3/5PPP/2r3NK b - - 0 28"]
+[LichessURL "https://lichess.org/6TauJLRj#55"]
+[PuzzleId "1iZRh"]
+[Themes "attraction backRankMate endgame mate mateIn2 sacrifice short"]
+
+28... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kxg1 Rc1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p4p1p/5r1P/2P3r1/2q5/2P3B1/P3RPK1/4R3 w - - 0 38"]
+[LichessURL "https://lichess.org/93UrZAAG/black#74"]
+[PuzzleId "Ft7to"]
+[Themes "attraction endgame long master masterVsMaster mate mateIn3"]
+
+38. Re8+ Rg8 39. Rxg8+ Kxg8 40. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/pp3p2/7p/8/4pQ2/1qP5/1P3PPP/3r1RK1 b - - 2 28"]
+[LichessURL "https://lichess.org/r76JSbZs#55"]
+[PuzzleId "Ua5Gm"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+28... Rxf1+ 29. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/4nppp/1pp1p3/4P3/2p3P1/r7/P4P2/3R2K1 w - - 2 22"]
+[LichessURL "https://lichess.org/agYDLc65/black#42"]
+[PuzzleId "FpfFB"]
+[Themes "attraction backRankMate endgame mate mateIn2 short"]
+
+22. Rxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22... Kxf8 23. Rd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r6/8/5k2/7p/6pP/R5P1/1r4RK b - - 0 54"]
+[LichessURL "https://lichess.org/yTqTp6Og#107"]
+[PuzzleId "UEbTj"]
+[Themes "attraction endgame mate mateIn2 rookEndgame short"]
+
+54... Rxg1+ 55. Kxg1 Rb1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/ppp2p1n/3pqPp1/8/2n1PR1R/P6P/1BB3P1/7K w - - 0 27"]
+[LichessURL "https://lichess.org/7ELKhewv/black#52"]
+[PuzzleId "wpx9D"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27. Rxh7+ Kxh7 28. Rh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/4p3/2B5/3PP3/1P6/5PPP/r5RK b - - 2 31"]
+[LichessURL "https://lichess.org/pcRZkS3s#61"]
+[PuzzleId "7fTgI"]
+[Themes "attraction backRankMate endgame mate mateIn2 short"]
+
+31... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+32. Kxg1 Ra1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/4nppp/4p3/p1q5/1p2b3/1B3N2/PPP2PPP/3R2K1 w - - 0 21"]
+[LichessURL "https://lichess.org/BiuiKImk/black#40"]
+[PuzzleId "RzuKX"]
+[Themes "attraction backRankMate mate mateIn2 middlegame short"]
+
+21. Rxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Kxf8 22. Rd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/R4pp1/2p4p/6bR/P7/8/2P3QP/7K b - - 0 28"]
+[LichessURL "https://lichess.org/kKoADAIW#55"]
+[PuzzleId "tzC5j"]
+[Themes "advantage attraction endgame long"]
+
+28... Re1+ 29. Qg1 Rxg1+ 30. Kxg1 Be3+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R2nk/pp2pp1p/6pP/8/2q5/8/1PP2PP1/2KR4 w - - 3 27"]
+[LichessURL "https://lichess.org/oyLPMbTt/black#52"]
+[PuzzleId "pmDQs"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+27. Rxg8+ Kxg8 28. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q1k1/Q4ppp/1p6/8/8/6P1/PPP2P2/1KR1r3 b - - 2 31"]
+[LichessURL "https://lichess.org/nxraLkHV#61"]
+[PuzzleId "WTB7t"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+31... Rxc1+ 32. Kxc1 Qe1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/2r2ppp/pp3n2/8/2Pp2P1/P2q4/1P2RP1P/4R1K1 w - - 0 31"]
+[LichessURL "https://lichess.org/JSJ7UBNa/black#60"]
+[PuzzleId "YACFj"]
+[Themes "attraction backRankMate endgame long mate mateIn3 sacrifice"]
+
+31. Re8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Ng8 32. Rxg8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+32... Kxg8 33. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/p4p1p/6p1/8/1PB5/P1n1P3/1R3PPP/3rRK2 b - - 6 31"]
+[LichessURL "https://lichess.org/nTYdWFLQ#61"]
+[PuzzleId "fM3nq"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+31... Rxe1+ 32. Kxe1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/r4ppp/p1B3b1/1p6/2p3P1/P1b4P/1PP5/2K1R3 w - - 0 30"]
+[LichessURL "https://lichess.org/NWRzacuZ/black#58"]
+[PuzzleId "mbTjt"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+30. Rxf8+ Kxf8 31. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6B1/1p5Q/2p3p1/p3qpk1/P4p2/3P4/1PP3PP/4r1RK b - - 3 36"]
+[LichessURL "https://lichess.org/4HwvsMeU#71"]
+[PuzzleId "qwpci"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+36... Rxg1+ 37. Kxg1 Qe1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1qk1/4pp1p/n5p1/2r5/4P3/5P1P/1B4P1/3R2K1 w - - 0 35"]
+[LichessURL "https://lichess.org/2sY1616l/black#68"]
+[PuzzleId "EikZo"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+35. Rxf8+ Kxf8 36. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2k1/1p2nppp/p4b2/4p3/4B3/1NP3Q1/PP3PPP/3r1RK1 b - - 5 22"]
+[LichessURL "https://lichess.org/tFzXVVJs#43"]
+[PuzzleId "Jozts"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+22... Rxf1+ 23. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rr1k/1p3Pp1/p6p/2qp4/8/8/P1P3PP/4R2K w - - 0 26"]
+[LichessURL "https://lichess.org/nu0X6QNg/black#50"]
+[PuzzleId "4xQZj"]
+[Themes "attraction clearance crushing endgame long pin queenRookEndgame"]
+
+26. Rxf8+ Qxf8 27. Re8 Kh7 28. Rxf8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p1p3pp/1p3n2/6B1/1PP5/P2n4/6PP/R2NrRK1 b - - 0 20"]
+[LichessURL "https://lichess.org/UIsoWlT2#39"]
+[PuzzleId "A6IPH"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+20... Rxf1+ 21. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/pp3ppp/4n3/3Np3/2R1P3/P2K2P1/P4P1P/7R w - - 7 21"]
+[LichessURL "https://lichess.org/QpC3lVUN/black#40"]
+[PuzzleId "PCRLW"]
+[Themes "advantage attraction endgame fork long master"]
+
+21. Rxc8 Rxc8 22. Ne7+ Kf8 23. Nxc8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5Q1p/p4p2/2p2P2/8/2q5/P1P3PP/4r1RK b - - 0 29"]
+[LichessURL "https://lichess.org/qKRJ6rQH#57"]
+[PuzzleId "w3qod"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+29... Rxg1+ 30. Kxg1 Qe1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q1nk1/3P1p2/5P2/7p/3K3p/8/8/5r2 w - - 1 52"]
+[LichessURL "https://lichess.org/xwjFdzjZ/black#102"]
+[PuzzleId "4hmmj"]
+[Themes "advancedPawn attraction endgame mate mateIn2 promotion short"]
+
+52. Qxf8+ Kxf8 53. d8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p6p/1p3r2/1R6/2P5/7P/P2p2P1/3R2K1 b - - 0 33"]
+[LichessURL "https://lichess.org/HD91cdZw#65"]
+[PuzzleId "mwzln"]
+[Themes "advancedPawn advantage attraction endgame long promotion rookEndgame"]
+
+33... Rf1+ 34. Rxf1 Rxf1+ 35. Kxf1 d1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R2nk/5ppp/8/p7/2P1q3/4Pb2/PP1Q3P/6K1 w - - 1 28"]
+[LichessURL "https://lichess.org/mYR8CYak/black#54"]
+[PuzzleId "IXYzH"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+28. Rxg8+ Kxg8 29. Qd8+ Qe8 30. Qxe8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/ppp4B/7Q/1b2P1p1/8/2P5/PP4PP/5rNK b - - 0 29"]
+[LichessURL "https://lichess.org/oFWE99a3#57"]
+[PuzzleId "J3SAI"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+29... Rxg1+ 30. Kxg1 Rf1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/5ppp/1p2p1q1/p7/1P6/P5nP/3Q1PP1/6K1 w - - 0 36"]
+[LichessURL "https://lichess.org/wVfU7Dni/black#70"]
+[PuzzleId "QNzwG"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+36. Rxf8+ Kxf8 37. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Rnr/2k1p1pp/5p2/8/B2P4/2N1PN2/2p2PPP/2r2RK1 b - - 1 22"]
+[LichessURL "https://lichess.org/IhwF5HEg#43"]
+[PuzzleId "fStBF"]
+[Themes "advancedPawn advantage attraction kingsideAttack middlegame promotion short"]
+
+22... Rxf1+ 23. Kxf1 c1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2rk1/1p4pp/2q1p3/r1p5/8/6P1/P1P1N2P/R2QKR2 w Q - 2 20"]
+[LichessURL "https://lichess.org/NZNU3DPS/black#38"]
+[PuzzleId "Nxvpo"]
+[Themes "attraction crushing middlegame short"]
+
+20. Rxf8+ Kxf8 21. Qd8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3pp1/3Q3p/b6R/2P2B2/8/P4PPP/4rRK1 b - - 0 23"]
+[LichessURL "https://lichess.org/FU3vJCOe#45"]
+[PuzzleId "bJ9yh"]
+[Themes "attraction mate mateIn2 middlegame short"]
+
+23... Rxf1+ 24. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/rq3bn1/8/B3Q3/7P/1P1r1PP1/1R2R1K1 w - - 7 30"]
+[LichessURL "https://lichess.org/jEkm9aj3/black#58"]
+[PuzzleId "boLWX"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+
+30. Qe8+ Nf8 31. Qxf8+ Kxf8 32. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3ppp/2n2b2/8/P7/2P5/1P2NPPP/RN1r1RK1 b - - 5 17"]
+[LichessURL "https://lichess.org/J2SR8JKE#33"]
+[PuzzleId "AfXg2"]
+[Themes "attraction backRankMate mate mateIn2 middlegame short"]
+
+17... Rxf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+18. Kxf1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1bk1/5ppp/8/2p5/4P3/5P2/3Q2PP/rq4BK w - - 7 33"]
+[LichessURL "https://lichess.org/Rtl5dNcb/black#64"]
+[PuzzleId "IQ3Jk"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+33. Rxf8+ Kxf8 34. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p5pp/4pp2/1B6/2P2P2/6P1/P6P/B2r1RK1 b - - 0 32"]
+[LichessURL "https://lichess.org/vwYt1Ui6#63"]
+[PuzzleId "nKON6"]
+[Themes "advantage attraction endgame fork long"]
+
+32... Rxf1+ 33. Kxf1 Rd1+ 34. Ke2 Rxa1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R1rk/5p1p/p4P2/1p6/2pp2P1/5Q1P/PqP5/6K1 w - - 2 32"]
+[LichessURL "https://lichess.org/IOWM48ln/black#62"]
+[PuzzleId "OJwTm"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+32. Rxg8+ Kxg8 33. Qa8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/8/8/1B4R1/2P3bP/1P4P1/3r2RK b - - 6 35"]
+[LichessURL "https://lichess.org/fBBOMMJG#69"]
+[PuzzleId "Yo90e"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+35... Rxg1+ 36. Kxg1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rqk1/r4ppp/1p1N4/3P4/5nb1/2P5/P4PPP/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/ZC7Ns7SJ/black#50"]
+[PuzzleId "5Cz2E"]
+[Themes "attraction mate mateIn2 middlegame short"]
+
+26. Rxf8+ Kxf8 27. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/8/1k6/3R4/1PpN2Pp/2Pn1P2/6PB/4rRK1 b - - 0 40"]
+[LichessURL "https://lichess.org/iRrYqXjB#79"]
+[PuzzleId "7GfCC"]
+[Themes "attraction mate mateIn2 middlegame short"]
+
+40... Rxf1+ 41. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3pP1/7p/4r3/8/3B1b1P/PP5K/6R1 w - - 0 31"]
+[LichessURL "https://lichess.org/QigU83Gq/black#60"]
+[PuzzleId "sSSDX"]
+[Themes "advancedPawn attraction endgame mate mateIn2 promotion short"]
+
+31. Bh7+ Kxh7 32. g8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/3p1kr1/p3p3/1p2P3/8/1r3p2/5P1R/6RK b - - 0 44"]
+[LichessURL "https://lichess.org/HCcphfGU#87"]
+[PuzzleId "fwCmu"]
+[Themes "attraction endgame mate mateIn2 queenRookEndgame short"]
+
+44... Rxg1+ 45. Kxg1 Rb1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kr6/p1p3R1/K1p1p3/2r3np/P7/1RP5/8/8 w - - 2 42"]
+[LichessURL "https://lichess.org/5N2f1YYT/black#82"]
+[PuzzleId "QluFi"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+42. Rxb8+ Kxb8 43. Rg8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p5pp/1p3p2/2p2P1R/8/6QP/PPP1p1P1/3qR2K b - - 0 26"]
+[LichessURL "https://lichess.org/LjRPNsSc#51"]
+[PuzzleId "Lyz10"]
+[Themes "advantage attraction clearance endgame kingsideAttack long pin sacrifice"]
+
+26... Qxe1+ 27. Qxe1 Rd1 28. Kg1 Rxe1+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rpp/1B1R4/8/6P1/r4PKP/8/8 w - - 1 44"]
+[LichessURL "https://lichess.org/k6Hb9Hbg/black#86"]
+[PuzzleId "pxOum"]
+[Themes "attraction crushing endgame fork veryLong"]
+
+44. Rd8+ Rf8 45. Rxf8+ Kxf8 46. Bc5+ Kf7 47. Bxa3 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pppr1ppp/8/P1P5/4P3/2P1NPP1/P1Q1KBq1/R7 b - - 2 21"]
+[LichessURL "https://lichess.org/UBCN1Ioq#41"]
+[PuzzleId "NzmRa"]
+[Themes "attraction crushing fork long middlegame"]
+
+21... Rd2+ 22. Qxd2 Rxd2+ 23. Kxd2 Qxf2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Rrk/8/3p3p/7q/1p4N1/1P2P1K1/2PP4/8 w - - 2 52"]
+[LichessURL "https://lichess.org/peDLBB8z/black#102"]
+[PuzzleId "AG15G"]
+[Themes "attraction crushing endgame exposedKing fork long"]
+
+52. Rxg8+ Kxg8 53. Nf6+ Kg7 54. Nxh5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/6k1/6p1/8/8/2R1p2P/2Rp2P1/3K4 b - - 0 48"]
+[LichessURL "https://lichess.org/lxjcv7FS#95"]
+[PuzzleId "H2ROI"]
+[Themes "advancedPawn attraction crushing endgame promotion rookEndgame short"]
+
+48... e2+ 49. Kxe2 d1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1Pp5/p2r1p1p/4b1p1/PR6/4BP2/5P1P/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/ap4BLhyb/black#56"]
+[PuzzleId "7523Y"]
+[Themes "advancedPawn attraction endgame mate mateIn2 promotion short"]
+
+29. Ba7+ Kxa7 30. b8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1q2pkp/5np1/2p1Q3/2P5/1P4P1/P4P1K/4R3 b - - 2 28"]
+[LichessURL "https://lichess.org/O7Oo1IQY#55"]
+[PuzzleId "CH7yx"]
+[Themes "attraction crushing endgame fork long"]
+
+28... Qxe5 29. Rxe5 Ng4+ 30. Kh3 Nxe5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1Qnk2pp/p2n4/1p4qP/5r2/4R3/PPP5/2K1R3 w - - 4 30"]
+[LichessURL "https://lichess.org/bW4kxutj/black#58"]
+[PuzzleId "EKTcs"]
+[Themes "advantage attraction exposedKing long middlegame"]
+
+30. Re7+ Qxe7 31. Rxe7+ Kxe7 32. Qxc7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/R5p1/2p3r1/7p/8/5p2/PPP1rP1P/6RK b - - 2 31"]
+[LichessURL "https://lichess.org/eLHCs7Rp#61"]
+[PuzzleId "gGjgs"]
+[Themes "attraction endgame mate mateIn2 rookEndgame short"]
+
+31... Rxg1+ 32. Kxg1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Qq1rk/b3P1pp/p7/8/2p5/8/P5PP/3R3K w - - 4 33"]
+[LichessURL "https://lichess.org/0LO8NrID/black#64"]
+[PuzzleId "hYxMF"]
+[Themes "attraction clearance crushing endgame long pin"]
+
+33. Qxe8 Rxe8 34. Rd8 Kg8 35. Rxe8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/4q1pp/1p1p4/p1bQp3/2P4r/PP3P2/1B4PP/4RR1K b - - 2 24"]
+[LichessURL "https://lichess.org/5lxfmUPg#47"]
+[PuzzleId "a465x"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+24... Rxh2+ 25. Kxh2 Qh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/p1p2ppp/1b5r/1p6/8/3Q1KPq/PPP2P2/5R2 w - - 4 28"]
+[LichessURL "https://lichess.org/u8bzF7H2/black#54"]
+[PuzzleId "dZApW"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+28. Rxf8+ Kxf8 29. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/b3p1p1/2kpP3/2p2P2/PP3P2/R1K4P/8 b - - 0 33"]
+[LichessURL "https://lichess.org/S5nyMC8v#65"]
+[PuzzleId "UQwc9"]
+[Themes "advantage attraction endgame long skewer"]
+
+33... cxb3+ 34. Kxb3 Bc4+ 35. Kb2 Bxa2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2rk1/p4pp1/7p/3Pn3/2Q5/4qB2/Pr4PP/5R1K w - - 4 27"]
+[LichessURL "https://lichess.org/mqcKstUd/black#52"]
+[PuzzleId "nCbq2"]
+[Themes "attraction crushing middlegame short"]
+
+27. Rxf8+ Kxf8 28. Qc8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2r2/2p1k3/1p2pp2/pP2P2B/P2R1K1P/2P3P1/8/8 b - - 0 36"]
+[LichessURL "https://lichess.org/juk11ynl#71"]
+[PuzzleId "Ds2r9"]
+[Themes "advantage attraction doubleCheck endgame master short"]
+
+36... fxe5+ 37. Kxe5 Rf5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1p1/3pnp1p/3P4/4PP1P/4K3/5P2/8 w - - 0 49"]
+[LichessURL "https://lichess.org/AnAG4622/black#96"]
+[PuzzleId "m4BNd"]
+[Themes "attraction crushing endgame short"]
+
+49. dxe6 Kxe6 50. f5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1P3p1p/6p1/2QP4/2P5/8/3q1PPP/4rRK1 b - - 0 31"]
+[LichessURL "https://lichess.org/Gs0hurrw#61"]
+[PuzzleId "na2Sm"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+31... Rxf1+ 32. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p3rp1/p6N/3p3P/1P1P4/2q5/4QPRK/8 w - - 1 37"]
+[LichessURL "https://lichess.org/HUtlLDyX/black#72"]
+[PuzzleId "Kzgvl"]
+[Themes "attraction crushing endgame fork long"]
+
+37. Nxf7+ Rxf7 38. Qe8+ Kh7 39. Qxf7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5Q2/1p2r3/1P1k4/P2pp3/8/3K4 b - - 1 51"]
+[LichessURL "https://lichess.org/pL3emX3B#101"]
+[PuzzleId "us4Sp"]
+[Themes "advancedPawn attraction crushing endgame exposedKing long promotion queenRookEndgame"]
+
+51... e2+ 52. Ke1 d2+ 53. Kxd2 e1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/bpp1k1r1/p4p2/4P2p/2B2P2/2P2K2/PP2R3/8 w - - 3 31"]
+[LichessURL "https://lichess.org/B0qcihhH/black#60"]
+[PuzzleId "ATT44"]
+[Themes "advantage attraction doubleCheck endgame short"]
+
+31. exf6+ Kxf6 32. Re6+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/p2N3p/1q1p4/5p2/8/2P2P2/PP3QPP/RN4K1 b - - 1 23"]
+[LichessURL "https://lichess.org/spYXp1IV#45"]
+[PuzzleId "8jwQt"]
+[Themes "advantage attraction discoveredAttack middlegame short"]
+
+23... Qxf2+ 24. Kxf2 Rxb2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/R3pr2/2ppb1pp/2p5/2P1P3/2PP4/5PPP/R5K1 w - - 3 28"]
+[LichessURL "https://lichess.org/iLzePf4T/black#54"]
+[PuzzleId "240j6"]
+[Themes "attraction crushing endgame sacrifice skewer veryLong"]
+
+28. Ra8+ Bc8 29. Rxc8+ Kxc8 30. Ra8+ Kc7 31. Rxh8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p1p2ppp/2p5/8/4N2P/1P4P1/P1P3r1/1RKR4 b - - 4 27"]
+[LichessURL "https://lichess.org/xO7BTGJH#53"]
+[PuzzleId "dqs45"]
+[Themes "advantage attraction endgame long queensideAttack skewer"]
+
+27... Rxd1+ 28. Kxd1 Rg1+ 29. Ke2 Rxb1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/6p1/2R1p2p/1p6/3Pp3/1Q2P3/PP2Bq1r/3KR3 w - - 0 24"]
+[LichessURL "https://lichess.org/70p2nEAT/black#46"]
+[PuzzleId "Iw3Bf"]
+[Themes "advantage attraction fork long middlegame pin"]
+
+24. Rxc8+ Rxc8 25. Qxe6+ Kh7 26. Qxc8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/1pq2p2/4b2p/pQ3p2/5P2/4P3/PP1R2BP/3R2K1 b - - 3 24"]
+[LichessURL "https://lichess.org/5wfCClRt#47"]
+[PuzzleId "ZGuzp"]
+[Themes "attraction crushing fork long master middlegame"]
+
+24... Rxd2 25. Rxd2 Qc1+ 26. Kf2 Qxd2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5p2/p1N3p1/1p1qQ3/6P1/P6P/2P3K1/8 w - - 0 37"]
+[LichessURL "https://lichess.org/Zp17N1x7/black#72"]
+[PuzzleId "1Dzw5"]
+[Themes "attraction crushing endgame fork long"]
+
+37. Qxd5 Rxd5 38. Ne7+ Kf8 39. Nxd5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/6pk/6n1/8/PpP3PP/1P1QRP1K/3q4 b - - 0 48"]
+[LichessURL "https://lichess.org/DfkiQELh#95"]
+[PuzzleId "CgU0X"]
+[Themes "attraction crushing endgame fork long"]
+
+48... Qxd2 49. Rxd2 Nf3+ 50. Kg2 Nxd2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/p2P2rk/8/8/P6p/8/4K3/8 w - - 1 54"]
+[LichessURL "https://lichess.org/LN6njPtF/black#106"]
+[PuzzleId "eC6le"]
+[Themes "advancedPawn attraction crushing endgame master promotion rookEndgame short"]
+
+54. Rh8+ Kxh8 55. d8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp5p/3p4/3P4/8/2B2pP1/P3RK1P/2RQ4 b - - 0 28"]
+[LichessURL "https://lichess.org/eohMT8EE#55"]
+[PuzzleId "QGoma"]
+[Themes "advancedPawn advantage attraction discoveredAttack middlegame short"]
+
+28... fxe2+ 29. Kxe2 Bg4+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/2q3pp/ppp5/2Q5/8/7R/PPP2PK1/8 w - - 0 35"]
+[LichessURL "https://lichess.org/HoofgaCw/black#68"]
+[PuzzleId "Hfx3f"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+35. Rxh7+ Kxh7 36. Qh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/4Qpkp/6p1/q3p3/4P3/1B6/1PP2PPP/rNKR3R b - - 0 21"]
+[LichessURL "https://lichess.org/0LoEE7u4#41"]
+[PuzzleId "rk6gD"]
+[Themes "attraction mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+21... Rxb1+ 22. Kxb1 Qa1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kn1Q/1ppq1p2/2n1pB2/1r1pP3/p2P2P1/P7/1PP2P2/1K5R w - - 2 26"]
+[LichessURL "https://lichess.org/vqqxVL0w/black#50"]
+[PuzzleId "GWAOH"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+26. Qxf8+ Kxf8 27. Rh8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/pppq1ppp/8/8/2P2Q2/8/PP1N1PPP/R1B3K1 b - - 0 18"]
+[LichessURL "https://lichess.org/XSACmKJj#35"]
+[PuzzleId "xqv7V"]
+[Themes "attraction endgame kingsideAttack long mate mateIn3 sacrifice"]
+
+18... Re1+ 19. Nf1 Rxf1+ 20. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/p1pk1p2/2q2n1p/2p2Pp1/Q7/1P1P4/1PP3PP/R4RK1 w - - 5 20"]
+[LichessURL "https://lichess.org/0P8fwvUA/black#38"]
+[PuzzleId "Gb5Wp"]
+[Themes "advantage attraction long middlegame skewer"]
+
+20. Qxc6+ Kxc6 21. Ra6+ Kd7 22. Rxf6 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/8/R1p3p1/6kp/4b3/1P6/P4R1P/6K1 b - - 0 36"]
+[LichessURL "https://lichess.org/HmO8goFa#71"]
+[PuzzleId "LrHOg"]
+[Themes "attraction crushing endgame fork veryLong"]
+
+36... Rd1+ 37. Rf1 Rxf1+ 38. Kxf1 Bd3+ 39. Kf2 Bxa6 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3R1ppp/4n3/1r6/6P1/7P/PPP4q/1K1Q4 w - - 0 33"]
+[LichessURL "https://lichess.org/lVJyuJYR/black#64"]
+[PuzzleId "QnyMl"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+33. Rd8+ Nf8 34. Rxf8+ Kxf8 35. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kbnr/4p3/q1p3pp/6p1/3P4/1pP2PBP/1P1QN1P1/rNK1R2R b k - 1 22"]
+[LichessURL "https://lichess.org/JsHydTB6#43"]
+[PuzzleId "Od8kk"]
+[Themes "attraction long mate mateIn3 middlegame queensideAttack sacrifice"]
+
+22... Rxb1+ 23. Kxb1 Qa2+ 24. Kc1 Qa1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/p2nbppp/1p2p3/6Q1/4n2R/4B2P/PPP2PP1/4R1K1 w - - 0 21"]
+[LichessURL "https://lichess.org/Zy6P7xyx/black#40"]
+[PuzzleId "jQGYB"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Rxh7+ Kxh7 22. Qh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R3pp1/4b3/8/5P2/4PBKP/1P3r2/8 b - - 1 37"]
+[LichessURL "https://lichess.org/K0Xw7abf#73"]
+[PuzzleId "MfgCR"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+37... Rxf3+ 38. Kxf3 Bd5+ 39. Kf2 Bxb7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r2/5p1k/2b1pBpp/8/p1P5/3PR2R/5PPP/6K1 w - - 0 32"]
+[LichessURL "https://lichess.org/P7vyNQe5/black#62"]
+[PuzzleId "IOLHH"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+32. Rxh6+ Kxh6 33. Rh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q3k1/p5b1/5r1p/3P2pQ/1B1nN3/1P3p2/P4PPP/5RK1 b - - 0 32"]
+[LichessURL "https://lichess.org/eHhXI7RY#63"]
+[PuzzleId "wd55v"]
+[Themes "advancedPawn attraction crushing kingsideAttack long master middlegame"]
+
+32... Ne2+ 33. Kh1 fxg2+ 34. Kxg2 Nf4+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/p4kp1/1pp1p2p/4Pp2/2q4P/6Q1/PP3PP1/3RR1K1 w - - 0 29"]
+[LichessURL "https://lichess.org/AiakySOq/black#56"]
+[PuzzleId "xBKvK"]
+[Themes "attraction crushing endgame long"]
+
+29. Rd7+ Re7 30. Rxe7+ Kxe7 31. Qxg7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1r/1p1b1pR1/p2p1k2/2pP3P/2P1Pp1K/1P1B1P2/P7/6R1 b - - 7 34"]
+[LichessURL "https://lichess.org/On5uBEKd#67"]
+[PuzzleId "Nlm1Q"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+34... Rxh5+ 35. Kxh5 Rh8+ 36. Rh7 Rxh7# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6kr/6rn/p2p1pQ1/3P1Pp1/4P3/1BN1q1P1/1PP3K1/7R w - - 9 35"]
+[LichessURL "https://lichess.org/ok8Wypir/black#68"]
+[PuzzleId "s2uPW"]
+[Themes "advantage attraction exposedKing kingsideAttack long middlegame"]
+
+35. Qe8+ Nf8 36. Rxh8+ Kxh8 37. Qxf8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2n2ppp/p3p3/2N1P1P1/4QP1P/2P5/qP6/2K2BR1 b - - 0 23"]
+[LichessURL "https://lichess.org/kvLUK1Mb#45"]
+[PuzzleId "L8RxH"]
+[Themes "attraction crushing deflection long middlegame queensideAttack"]
+
+23... Qa1+ 24. Qb1 Rd1+ 25. Kxd1 Qxb1+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2rk2p/B4pp1/1p6/1pnRP3/8/P4P1P/5K2 w - - 4 34"]
+[LichessURL "https://lichess.org/Mp7pPnEz/black#66"]
+[PuzzleId "DULaF"]
+[Themes "advantage attraction endgame fork long"]
+
+34. Rxd7+ Kxd7 35. Bxb5+ Kd6 36. Bxc4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6q1/1pp1k3/3p4/4pRQ1/3nP1P1/7P/1PP5/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/OwGZpv8c#57"]
+[PuzzleId "XtZ5s"]
+[Themes "advantage attraction endgame exposedKing fork long"]
+
+29... Qxg5 30. Rxg5 Nf3+ 31. Kg2 Nxg5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/1p4pp/p3Q3/2q2p2/4p3/2P1R2R/PP4PP/5K2 w - - 4 31"]
+[LichessURL "https://lichess.org/HePDfsNX/black#60"]
+[PuzzleId "yMdtK"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+31. Rxh7+ Kxh7 32. Rh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2Q2ppp/8/1rP5/3q4/6pP/P5P1/6RK b - - 0 32"]
+[LichessURL "https://lichess.org/qjZxVBqj#63"]
+[PuzzleId "cdyP5"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+32... Qxg1+ 33. Kxg1 Rb1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p7/1p4N1/5qQ1/7P/3p3K/PP4P1/8 w - - 1 42"]
+[LichessURL "https://lichess.org/MqPwDFmD/black#82"]
+[PuzzleId "19wIy"]
+[Themes "attraction crushing endgame exposedKing fork long"]
+
+42. Qxf5 Rxf5 43. Ne7+ Kf7 44. Nxf5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/3RBkp1/p4p1p/1p1p4/1P6/5P2/P1r1RKPP/8 b - - 4 34"]
+[LichessURL "https://lichess.org/p9CSAcKZ#67"]
+[PuzzleId "Dw2Vj"]
+[Themes "advantage attraction endgame long"]
+
+34... Rxe2+ 35. Kxe2 Rxe7+ 36. Rxe7+ Kxe7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2nk1/5ppp/2p5/8/5nP1/3Q3P/5q2/7K w - - 0 34"]
+[LichessURL "https://lichess.org/hvPyPnLw/black#66"]
+[PuzzleId "sj2tp"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+34. Rxf8+ Kxf8 35. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pkp5/2n1K3/2P5/P3Q3/8/5r2/8 b - - 4 41"]
+[LichessURL "https://lichess.org/poWFRs7f#81"]
+[PuzzleId "4pdbw"]
+[Themes "attraction crushing endgame fork long pin sacrifice"]
+
+41... Re2 42. Qxe2 Nd4+ 43. Kd7 Nxe2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1bk1/1q3p1p/5Bp1/6P1/3R1P2/p2K3P/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/BLcRHNtZ/black#106"]
+[PuzzleId "d5OAK"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+54. Rxf8+ Kxf8 55. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5r/1pp1qp2/p1p5/5Q2/3P4/2P5/PP4P1/RNB3K1 b - - 2 21"]
+[LichessURL "https://lichess.org/tbqvPusW#41"]
+[PuzzleId "XbGvC"]
+[Themes "attraction crushing deflection endgame fork pin veryLong"]
+
+21... Qe1+ 22. Qf1 Rh1+ 23. Kxh1 Qxf1+ 24. Kh2 Qxc1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "101"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/pp2q1pp/5p2/4pP1Q/2Bb4/3R4/P1P2PPP/5RK1 w - - 2 23"]
+[LichessURL "https://lichess.org/gP0Ux6Ym/black#44"]
+[PuzzleId "ZSobt"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+23. Qxh7+ Kxh7 24. Rh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "102"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/3p2p1/2pP2Q1/p1Pq4/6P1/1rB2RK1/8 b - - 1 35"]
+[LichessURL "https://lichess.org/sKeJ3IyD#69"]
+[PuzzleId "bBexi"]
+[Themes "attraction crushing endgame fork long master masterVsMaster sacrifice"]
+
+35... Rxc2 36. Rxc2 Qe4+ 37. Kh3 Qxc2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "103"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3rk/pp2nqpp/4p3/3pP3/5PR1/4B2Q/PP3P1P/6RK w - - 3 26"]
+[LichessURL "https://lichess.org/tLjtHttZ/black#50"]
+[PuzzleId "MmoYF"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+26. Qxh7+ Kxh7 27. Rh4+ Qh5 28. Rxh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "104"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/4R1p1/5p1p/3k4/PN1n2PP/KP6/8/8 b - - 5 47"]
+[LichessURL "https://lichess.org/nRW6wnq0#93"]
+[PuzzleId "ERmug"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+47... Rxb4 48. Kxb4 Nc6+ 49. Kb5 Nxe7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "105"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kq4Q/1p6/8/4p3/4r3/R7/KP6/8 w - - 2 56"]
+[LichessURL "https://lichess.org/rw4b4snT/black#110"]
+[PuzzleId "BRthQ"]
+[Themes "attraction crushing deflection endgame short"]
+
+56. Ra8+ Kxa8 57. Qxc8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "106"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/6p1/8/3k3p/3r1P2/2R3PP/2K5/2R5 b - - 2 52"]
+[LichessURL "https://lichess.org/ld09qgWy#103"]
+[PuzzleId "1ot6q"]
+[Themes "attraction crushing endgame exposedKing rookEndgame veryLong"]
+
+52... Rxc3+ 53. Kxc3 Rc4+ 54. Kd2 Rxc1 55. Kxc1 Ke4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "107"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2r2/5rk1/p2R2np/2pPp1pn/P1P1P3/2NQ1NP1/6K1/5R2 w - - 1 36"]
+[LichessURL "https://lichess.org/JeNd1N4m/black#70"]
+[PuzzleId "sYa2n"]
+[Themes "advantage attraction middlegame short"]
+
+36. Rxg6+ Kxg6 37. Nxe5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "108"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/6pp/P2pQ3/1P1Bq3/2P3rP/6P1/6RK b - - 1 36"]
+[LichessURL "https://lichess.org/WIJmQ4Ge#71"]
+[PuzzleId "yZrbV"]
+[Themes "attraction endgame long mate mateIn3 pin"]
+
+36... Rxh3+ 37. Qh2 Rxh2+ 38. Kxh2 Qh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "109"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/5Rpk/p1pp2rp/2p2Q2/2q5/2P4R/1P4PK/8 w - - 8 31"]
+[LichessURL "https://lichess.org/p7v5f4GQ/black#60"]
+[PuzzleId "zQmdX"]
+[Themes "attraction endgame long mate mateIn3 pin sacrifice"]
+
+31. Rxh6+ Kxh6 32. Qh3+ Qh4 33. Qxh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "110"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/pp4pp/5p2/8/P5Q1/1P2PPqP/3PK3/R4R2 b - - 4 26"]
+[LichessURL "https://lichess.org/zzf0IQZR#51"]
+[PuzzleId "yR0Fw"]
+[Themes "attraction crushing deflection endgame long"]
+
+26... Qh2+ 27. Rf2 Rxd2+ 28. Kxd2 Qxf2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "111"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/pp4pk/3p1n1p/3r4/q7/P1P3P1/1K2B2P/4R3 w - - 2 34"]
+[LichessURL "https://lichess.org/xKZEkUPh/black#66"]
+[PuzzleId "vCm15"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+34. Bd3+ Rxd3 35. Qf5+ Kh8 36. Qxd3 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "112"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b1rk1/p1p2ppp/2Qp4/7q/2P3R1/1P2rPP1/PB4KP/5R2 b - - 1 21"]
+[LichessURL "https://lichess.org/EnM7lbkx#41"]
+[PuzzleId "ZOkMg"]
+[Themes "attraction crushing fork long middlegame"]
+
+21... Re2+ 22. Rf2 Rxf2+ 23. Kxf2 Qxh2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "113"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/5p1p/4qPr1/3pPR1Q/2pP2p1/PpP5/7P/2B3K1 w - - 4 36"]
+[LichessURL "https://lichess.org/NXrNxKaa/black#70"]
+[PuzzleId "2vxm9"]
+[Themes "attraction endgame kingsideAttack long master mate mateIn3 sacrifice"]
+
+36. Qxh7+ Kxh7 37. Rh5+ Rh6 38. Rxh6# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "114"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5bk1/1P6/6p1/P4b2/7p/2Q2P2/6K1 b - - 0 65"]
+[LichessURL "https://lichess.org/e28GCzN8#129"]
+[PuzzleId "DrAc9"]
+[Themes "advancedPawn attraction crushing deflection endgame promotion veryLong"]
+
+65... h2+ 66. Kg2 Bd5+ 67. f3 Bxf3+ 68. Kxf3 h1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "115"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p1p3p1/1p5p/2n1r3/5RQ1/4P3/P5PK/8 w - - 0 39"]
+[LichessURL "https://lichess.org/SuGkolWJ/black#76"]
+[PuzzleId "UiOmB"]
+[Themes "attraction crushing endgame fork long"]
+
+39. Rxf8+ Kxf8 40. Qf4+ Ke7 41. Qxe5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "116"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6pk/ppp1q1n1/3p1QP1/P2P4/1PP5/5RK1 b - - 5 36"]
+[LichessURL "https://lichess.org/GF5IotN1#71"]
+[PuzzleId "UMFAj"]
+[Themes "attraction crushing endgame exposedKing fork long"]
+
+36... Qxf4 37. Rxf4 Nh3+ 38. Kf1 Nxf4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "117"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/1p6/2p3pp/p3P3/P3NPn1/1P4PQ/4q1BK/8 w - - 5 40"]
+[LichessURL "https://lichess.org/GIdb3lLs/black#78"]
+[PuzzleId "Xp0pR"]
+[Themes "advantage attraction endgame exposedKing fork long master sacrifice"]
+
+40. Qxg4 Qxg4 41. Nf6+ Kf7 42. Nxg4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "118"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qk1nr/1bp1ppb1/p6p/1pP1P1p1/5P2/5NP1/PPP4P/RNBQK2R b KQk - 0 10"]
+[LichessURL "https://lichess.org/aP9Lfu1V#19"]
+[PuzzleId "4tEjE"]
+[Themes "advantage attraction exposedKing fork long opening"]
+
+10... Qxd1+ 11. Kxd1 Bxf3+ 12. Ke1 Bxh1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "119"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R2rk/5ppp/p3p3/8/4P3/5P2/P1r3PP/3R3K w - - 2 28"]
+[LichessURL "https://lichess.org/IcaYdfaq/black#54"]
+[PuzzleId "F7Ejv"]
+[Themes "attraction backRankMate endgame mate mateIn2 rookEndgame short"]
+
+28. Rxg8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Kxg8 29. Rd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "120"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/5pk1/p2R1p1p/8/P7/2b4B/5PPP/4rRK1 b - - 0 29"]
+[LichessURL "https://lichess.org/EY4R8bf8#57"]
+[PuzzleId "YeRyB"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+29... Rxf1+ 30. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "121"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2k2r/p4ppp/2p1p3/q2pP3/8/1Q2KP2/P5PP/1R6 w k - 0 20"]
+[LichessURL "https://lichess.org/hL0m4Qeu/black#38"]
+[PuzzleId "dEwJd"]
+[Themes "attraction crushing endgame hangingPiece long"]
+
+20. Qxb8+ Qd8 21. Qxd8+ Kxd8 22. Rb8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "122"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pp4pp/2P5/8/P1R5/4PpP1/5P1P/3r1QK1 b - - 1 29"]
+[LichessURL "https://lichess.org/2ss8IOuX#57"]
+[PuzzleId "kV4bv"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+29... Rxf1+ 30. Kxf1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "123"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/6pp/p2N4/8/P7/5n2/2r2P2/4R2K w - - 2 35"]
+[LichessURL "https://lichess.org/7SNXOEuX/black#68"]
+[PuzzleId "CND57"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+35. Rxf8+ Kxf8 36. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "124"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5p1p/6p1/2R5/2P5/8/5PPP/r5RK b - - 2 26"]
+[LichessURL "https://lichess.org/viLz680Q#51"]
+[PuzzleId "sQVb1"]
+[Themes "attraction backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Kxg1 Ra1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "125"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p1p/p2R1Ppb/1p2p3/4q3/1P4PP/P7/3R1K2 w - - 0 39"]
+[LichessURL "https://lichess.org/JKYPyodR/black#76"]
+[PuzzleId "hBMnO"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+39. Rd8+ Bf8 40. Rxf8+ Kxf8 41. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "126"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/3q2p1/1P3p2/B4p2/7P/2P2PPQ/3r1RK1 b - - 3 37"]
+[LichessURL "https://lichess.org/6w7YgSBu#73"]
+[PuzzleId "BLjRJ"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+37... Rxf1+ 38. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "127"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R2rk/6p1/5pPp/P1q1nP1P/8/8/1PP5/1K1R4 w - - 0 38"]
+[LichessURL "https://lichess.org/HVIxEaDf/black#74"]
+[PuzzleId "f0FTs"]
+[Themes "attraction crushing endgame long"]
+
+38. Rxg8+ Kxg8 39. Rd8+ Qf8 40. Rxf8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "128"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/3R1pp1/3p4/8/P7/7p/1P3P1P/4r1RK b - - 3 26"]
+[LichessURL "https://lichess.org/nsZZOE3P#51"]
+[PuzzleId "m2du7"]
+[Themes "attraction endgame mate mateIn2 rookEndgame short"]
+
+26... Rxg1+ 27. Kxg1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "129"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1Rrk1/1p3ppp/pb1p4/3p4/B7/3P1P2/PPP2P1P/4R1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/BUfen6zM/black#34"]
+[PuzzleId "4a5A7"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+18. Rxf8+ Kxf8 19. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "130"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/ppp3N1/5n2/6p1/1b6/1P6/1PP2PPP/RN2rRK1 b - - 4 21"]
+[LichessURL "https://lichess.org/siaoVftP#41"]
+[PuzzleId "zLpuK"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+21... Rxf1+ 22. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "131"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q3rk1/5p2/4pPp1/p2p3p/4p3/7P/q5P1/1R5K w - - 0 29"]
+[LichessURL "https://lichess.org/v8LATC4p/black#56"]
+[PuzzleId "lzLvP"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+29. Qxf8+ Kxf8 30. Rb8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "132"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/p7/R6Q/8/1p6/8/PPP1NPPP/3r1BK1 b - - 3 30"]
+[LichessURL "https://lichess.org/G5X9hlf6#59"]
+[PuzzleId "Zojr7"]
+[Themes "attraction backRankMate endgame mate mateIn2 sacrifice short"]
+
+30... Rxf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Kxf1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "133"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2bR1rk1/1p2nppp/1pr1p3/8/4P3/P7/1PP2PPP/2KR4 w - - 0 19"]
+[LichessURL "https://lichess.org/3PQxobwZ/black#36"]
+[PuzzleId "9DEbF"]
+[Themes "attraction backRankMate endgame mate mateIn2 short"]
+
+19. Rxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+19... Kxf8 20. Rd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "134"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5pbp/2N1p1p1/4P3/1p6/1Pn4P/P1R2PPB/3rRK2 b - - 4 28"]
+[LichessURL "https://lichess.org/4nqlZ7F4#55"]
+[PuzzleId "Soj8P"]
+[Themes "attraction mate mateIn2 middlegame short"]
+
+28... Rxe1+ 29. Kxe1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "135"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2rk1/5p1b/3p1P1p/p5p1/P1R3P1/7P/1PP3K1/2r5 w - - 0 42"]
+[LichessURL "https://lichess.org/vEDMLKij/black#82"]
+[PuzzleId "5qoYj"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+42. Rxf8+ Kxf8 43. Rc8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "136"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/2p2P2/6B1/Nb1p4/P7/1PQ2PPP/4rBK1 b - - 0 21"]
+[LichessURL "https://lichess.org/GBQFXhlt#41"]
+[PuzzleId "ck4DM"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21... Rxf1+ 22. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "137"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Rrk2r/1p3ppp/pN2p3/1b1p4/3P4/8/PP3PPP/2R3K1 w k - 4 20"]
+[LichessURL "https://lichess.org/OpRMm1rO/black#38"]
+[PuzzleId "xMQ0p"]
+[Themes "attraction crushing endgame short"]
+
+20. Rxd8+ Kxd8 21. Rc8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "138"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2p2p1p/1pp2Rbp/8/4r3/2Pn2R1/PPQ3PP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/JOWQk5CQ#51"]
+[PuzzleId "8z1mg"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame"]
+
+26... Re1+ 27. Rf1 Rxf1+ 28. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "139"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1ppb2pp/2n5/p1p2p1R/2B1Pp2/P1PP2qP/1P1N2P1/3Q1RK1 w - - 2 21"]
+[LichessURL "https://lichess.org/Vi0njTga/black#40"]
+[PuzzleId "4PeFy"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Rxh7+ Kxh7 22. Qh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "140"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Qp1q1kpp/2p1p3/8/8/8/PPP2PPP/3r1RK1 b - - 0 25"]
+[LichessURL "https://lichess.org/3YPdhSxJ#49"]
+[PuzzleId "F6MFo"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+25... Rxf1+ 26. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "141"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1b4pp/3q1p2/p1p1pP2/2B1P3/4BR1R/PPP3PP/6K1 w - - 2 21"]
+[LichessURL "https://lichess.org/aJEjvWqs/black#40"]
+[PuzzleId "Vj7VG"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Rxh7+ Kxh7 22. Rh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "142"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1rp2kp1/4p2p/p2p4/3P1P2/P4P1P/2P3P1/1r1RK2R b K - 2 27"]
+[LichessURL "https://lichess.org/sxpS3HeW#53"]
+[PuzzleId "jF6um"]
+[Themes "attraction crushing endgame exposedKing long rookEndgame skewer"]
+
+27... Rxd1+ 28. Kxd1 Rb1+ 29. Kd2 Rxh1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "143"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2r2k/pp2PB1p/3p2p1/2p5/8/2P2R1P/P5P1/7K w - - 1 24"]
+[LichessURL "https://lichess.org/sQO3yY4n/black#46"]
+[PuzzleId "Is8TD"]
+[Themes "attraction clearance crushing endgame long"]
+
+24. Bxe8 Rxe8 25. Rf8+ Kg7 26. Rxe8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "144"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p2q1p2/1p2p1pQ/4P3/1P6/P6R/5PPP/3r1BK1 b - - 4 30"]
+[LichessURL "https://lichess.org/wbSCRWTj#59"]
+[PuzzleId "wBJRj"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+30... Rxf1+ 31. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "145"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q2rk/p4p1p/1pp2Pp1/4q3/8/7P/P5P1/3R3K w - - 2 42"]
+[LichessURL "https://lichess.org/0DQ0EoYq/black#82"]
+[PuzzleId "DJi8y"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+42. Qxg8+ Kxg8 43. Rd8+ Qe8 44. Rxe8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "146"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/1p5p/p6R/3B4/6r1/8/PP2p3/4R2K b - - 1 39"]
+[LichessURL "https://lichess.org/ZjscdA8A#77"]
+[PuzzleId "RNVO3"]
+[Themes "advancedPawn attraction crushing endgame exposedKing long promotion"]
+
+39... Rg1+ 40. Rxg1 Rxg1+ 41. Kxg1 e1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "147"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/5ppp/1pp5/8/8/4P3/qP3PPP/3Q2K1 w - - 4 25"]
+[LichessURL "https://lichess.org/5mS3cNX0/black#48"]
+[PuzzleId "pLmAR"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+25. Rxf8+ Kxf8 26. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "148"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5kp/6p1/3qQ3/1P1n2P1/P6P/5P1K/4R3 b - - 4 37"]
+[LichessURL "https://lichess.org/L6lSaHv2#73"]
+[PuzzleId "AEjYp"]
+[Themes "advantage attraction endgame fork long"]
+
+37... Qxe5+ 38. Rxe5 Nf3+ 39. Kg3 Nxe5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "149"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rrk/pp5q/2np1Pp1/4p3/4P3/1NP4R/PP3P2/2KR4 w - - 0 25"]
+[LichessURL "https://lichess.org/UfnmdhU9/black#48"]
+[PuzzleId "OIBAQ"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+25. Rxh7+ Kxh7 26. Rh1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "150"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rbk1/p5p1/1p1q4/3pQ3/8/7P/PP5K/8 b - - 14 48"]
+[LichessURL "https://lichess.org/Ah3YmMXF#95"]
+[PuzzleId "PvanE"]
+[Themes "attraction clearance crushing endgame long pin"]
+
+48... Qxe5+ 49. Rxe5 Bd6 50. Kg2 Bxe5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "151"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/pp3ppp/8/8/8/1P4P1/q4P1P/3Q2K1 w - - 0 26"]
+[LichessURL "https://lichess.org/Ay7Mayij/black#50"]
+[PuzzleId "xazEV"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26. Rxf8+ Kxf8 27. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "152"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5pp1/5n1p/1n2p3/4P1P1/1P3P2/RKP4P/3R4 b - - 0 26"]
+[LichessURL "https://lichess.org/aEsTH3yQ#51"]
+[PuzzleId "OFoVt"]
+[Themes "advantage attraction endgame fork long"]
+
+26... Rxa2+ 27. Kxa2 Nc3+ 28. Ka3 Nxd1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "153"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/ppp4q/1nbp1Pp1/6P1/2B1P3/2N5/PPP5/2KR3R w - - 0 25"]
+[LichessURL "https://lichess.org/vHD12HgU/black#48"]
+[PuzzleId "MvY2T"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame short"]
+
+25. Rxh7+ Kxh7 26. Rh1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "154"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r4kp/8/4P3/5P2/6PB/2p4P/1rR2RK1 b - - 1 44"]
+[LichessURL "https://lichess.org/fBH97DbQ#87"]
+[PuzzleId "No3sK"]
+[Themes "advantage attraction clearance endgame long pin"]
+
+44... Rxc1 45. Rxc1 Rb1 46. Bf5 Rxc1+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "155"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/2P1Rrpp/p7/1pp2p2/8/4RP2/PP4PP/1K6 w - - 3 32"]
+[LichessURL "https://lichess.org/gXIKFskd/black#62"]
+[PuzzleId "dWb03"]
+[Themes "advancedPawn attraction crushing endgame long promotion rookEndgame"]
+
+32. Re8+ Rxe8 33. Rxe8+ Kxe8 34. c8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "156"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/p1b3p1/1p6/4p1P1/4Q2P/PPqR2K1/8 b - - 2 35"]
+[LichessURL "https://lichess.org/58GNd7qH#69"]
+[PuzzleId "qXOGR"]
+[Themes "advancedPawn attraction crushing discoveredAttack endgame long sacrifice"]
+
+35... Qxd2+ 36. Qxd2 e3+ 37. Kf1 exd2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "157"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rrk/1bq3pp/5p2/pp1p1P2/3PpR1Q/P1P5/1PN3PP/4R1K1 w - - 4 27"]
+[LichessURL "https://lichess.org/5zMQkccs/black#52"]
+[PuzzleId "U6jY6"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27. Qxh7+ Kxh7 28. Rh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "158"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q7/p4pk1/P5np/5Q2/2pP4/2P5/2P3RP/7K b - - 2 36"]
+[LichessURL "https://lichess.org/rUVMZTIH#71"]
+[PuzzleId "f6ZmI"]
+[Themes "attraction crushing endgame fork long sacrifice"]
+
+36... Qxg2+ 37. Kxg2 Nh4+ 38. Kf2 Nxf5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "159"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2rk1/p4p1p/1b3Bp1/4P3/6P1/8/qP4nP/2R4K w - - 0 32"]
+[LichessURL "https://lichess.org/A0EPihur/black#62"]
+[PuzzleId "pR8Gf"]
+[Themes "attraction long mate mateIn3 middlegame"]
+
+32. Rxf8+ Kxf8 33. Rc8+ Bd8 34. Rxd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "160"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/1pR2p1p/pn3Qp1/3qp3/P2r4/1P3R2/1P2BPPP/6K1 b - - 17 29"]
+[LichessURL "https://lichess.org/q7s2Jx1A#57"]
+[PuzzleId "wfNFX"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+29... Rd1+ 30. Bf1 Rxf1+ 31. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "161"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1r2pp2/6pb/4B2p/p1n1PPb1/2PR2P1/PP1R4/1K6 w - - 3 36"]
+[LichessURL "https://lichess.org/UA6ieCPx/black#70"]
+[PuzzleId "EWwaq"]
+[Themes "attraction kingsideAttack long master mate mateIn3 middlegame sacrifice"]
+
+36. Rd8+ Bf8 37. Rxf8+ Kxf8 38. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "162"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p5p1/2p4p/4pr1q/8/3P1pP1/PP3P1P/2RQ2RK b - - 5 27"]
+[LichessURL "https://lichess.org/UKobJVyb#53"]
+[PuzzleId "yFiQ8"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+27... Qxh2+ 28. Kxh2 Rh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "163"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/2pkqpp1/p1p1p3/3p4/1K1P3r/1P2B3/P1P3P1/8 w - - 6 43"]
+[LichessURL "https://lichess.org/t8gQGskJ/black#84"]
+[PuzzleId "GzCV8"]
+[Themes "advantage attraction endgame fork long"]
+
+43. Qxe7+ Kxe7 44. Bg5+ Kd6 45. Bxh4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "164"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppp3p1/4pq2/3n4/3P4/2P1B3/PP2Q1PP/5RK1 b - - 8 22"]
+[LichessURL "https://lichess.org/kbUqsR6J#43"]
+[PuzzleId "6uRLa"]
+[Themes "advantage attraction endgame long"]
+
+22... Qxf1+ 23. Qxf1 Rxf1+ 24. Kxf1 Nxe3+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "165"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p3N1p1/1p5p/8/4Qq2/7P/PPP3PK/8 w - - 2 35"]
+[LichessURL "https://lichess.org/4Uuwv6jC/black#68"]
+[PuzzleId "l3S7i"]
+[Themes "attraction crushing endgame fork long"]
+
+35. Qxf4 Rxf4 36. Ng6+ Kg8 37. Nxf4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "166"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp5Q/k2qp3/8/8/4B2P/PP3PP1/3r1RK1 b - - 0 26"]
+[LichessURL "https://lichess.org/cNF3gBIu#51"]
+[PuzzleId "c0ICl"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26... Rxf1+ 27. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "167"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/3n1rp1/p2P2p1/1pR4p/8/P7/1P3PKP/4R3 w - - 5 40"]
+[LichessURL "https://lichess.org/OdT5wf6t/black#78"]
+[PuzzleId "mwLnO"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+40. Rxe8+ Kxe8 41. Rc8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "168"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1q4/p4p1p/RbPp4/4pP2/2P4r/1Q3P2/6PP/3R3K b - - 4 32"]
+[LichessURL "https://lichess.org/gXksUAzf#63"]
+[PuzzleId "S2vuF"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+32... Rxh2+ 33. Kxh2 Qh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "169"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rbk1/3r2pp/p7/1p1r1p1Q/2pP1q2/2P4P/PP3PP1/4R1K1 w - - 6 31"]
+[LichessURL "https://lichess.org/NYBKeNhl/black#60"]
+[PuzzleId "V6LEA"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+31. Rxf8+ Kxf8 32. Qe8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "170"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2r1r/ppp3p1/7p/4RB2/6n1/2N2P2/PPP5/5K1R b - - 4 19"]
+[LichessURL "https://lichess.org/r8WZuEgX#37"]
+[PuzzleId "2LQ8s"]
+[Themes "advantage attraction exposedKing fork long middlegame pin sacrifice"]
+
+19... Rxf5 20. Rxf5 Ne3+ 21. Kf2 Nxf5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "171"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R6p/b3kp2/2p3p1/8/rN2K2P/5PP1/8 w - - 2 34"]
+[LichessURL "https://lichess.org/eCX7NV8a/black#66"]
+[PuzzleId "0YPJV"]
+[Themes "advantage attraction endgame fork long"]
+
+34. Rxa6+ Rxa6 35. Nxc5+ Ke7 36. Nxa6 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "172"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/pp3ppp/8/5b2/1BB1n3/8/PP3PPP/3RK2R b Kk - 6 21"]
+[LichessURL "https://lichess.org/JcjLgXVI#41"]
+[PuzzleId "gRGxg"]
+[Themes "advantage attraction fork long middlegame"]
+
+21... Rxd1+ 22. Kxd1 Nxf2+ 23. Ke2 Nxh1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "173"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/Ppbr1pp1/1Qp5/1pP2p2/3P2p1/R7/KP6/3q4 w - - 0 39"]
+[LichessURL "https://lichess.org/FoQXoyJK/black#76"]
+[PuzzleId "aU2PT"]
+[Themes "advancedPawn attraction endgame mate mateIn2 promotion queensideAttack short"]
+
+39. Qxb7+ Kxb7 40. a8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "174"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k3r/p1p3q1/1p1p2p1/8/2P5/1P2R1P1/P3PPQ1/6K1 b - - 6 28"]
+[LichessURL "https://lichess.org/sdXinFlV#55"]
+[PuzzleId "yzMYx"]
+[Themes "attraction crushing deflection endgame long"]
+
+28... Qa1+ 29. Qf1 Rh1+ 30. Kxh1 Qxf1+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "175"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk1r/ppR5/8/2p5/6p1/3P1bK1/PP3P2/4R3 w - - 2 33"]
+[LichessURL "https://lichess.org/jdDA1TVb/black#64"]
+[PuzzleId "WRbvN"]
+[Themes "advantage attraction endgame exposedKing long skewer"]
+
+33. Rxe8+ Kxe8 34. Rc8+ Kd7 35. Rxh8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "176"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp3p1p/3p1qp1/2pN3r/2PbP3/3Q1P2/PPR3PP/5R1K b - - 9 19"]
+[LichessURL "https://lichess.org/jwOQinwj#37"]
+[PuzzleId "MixXy"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+19... Rxh2+ 20. Kxh2 Qh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "177"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp2b3/n1p2pkr/6p1/3N4/4B3/PPP2P2/3K3R w - - 0 25"]
+[LichessURL "https://lichess.org/VS1yD9ct/black#48"]
+[PuzzleId "KmrAa"]
+[Themes "advantage attraction endgame fork long"]
+
+25. Rxh6+ Kxh6 26. Nf5+ Kg6 27. Nxe7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "178"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p4p/2r2kp1/1N1bp3/1P5P/4RPP1/5K2 b - - 7 42"]
+[LichessURL "https://lichess.org/OegozLBj#83"]
+[PuzzleId "aTDLR"]
+[Themes "attraction crushing endgame fork veryLong"]
+
+42... Rc1+ 43. Re1 Rxe1+ 44. Kxe1 Bc3+ 45. Kf1 Bxb4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "179"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/4np1k/p3p1pp/1p1p4/3QPP2/1BR4R/Pq4P1/6K1 w - - 0 28"]
+[LichessURL "https://lichess.org/Qxps7S7t/black#54"]
+[PuzzleId "YxqUF"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+28. Rxh6+ Kxh6 29. Rh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "180"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4p1bp/6p1/3Q4/Rp1P2q1/4P3/5PP1/2r2NK1 b - - 2 33"]
+[LichessURL "https://lichess.org/GR4RLtlR#65"]
+[PuzzleId "kjyZ4"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+33... Rxf1+ 34. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "181"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2kP4/2B5/1P4p1/2p4p/4p2b/2K5/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gCooUWzD/black#118"]
+[PuzzleId "b7Vwy"]
+[Themes "advancedPawn attraction bishopEndgame crushing deflection endgame promotion short"]
+
+60. b6+ Kxb6 61. d8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "182"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5ppp/p3p3/3PP3/n4P2/8/1r2B1PP/KR3R2 b - - 3 29"]
+[LichessURL "https://lichess.org/sbgBwkoU#57"]
+[PuzzleId "SraPa"]
+[Themes "attraction crushing endgame exposedKing long"]
+
+29... Rxb1+ 30. Rxb1 Rxb1+ 31. Kxb1 Nc3+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "183"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4nrk1/p1p2q2/1p1p1bb1/3Pp1R1/1PP5/4BP2/P6Q/5R1K w - - 5 34"]
+[LichessURL "https://lichess.org/CDbC4NZe/black#66"]
+[PuzzleId "ZQHh7"]
+[Themes "advantage attraction kingsideAttack long middlegame pin sacrifice"]
+
+34. Rxg6+ Qxg6 35. Rg1 Kf7 36. Rxg6 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "184"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/5pkp/p5p1/1p6/2p2P2/P1P2QPq/1PB2K2/5R2 b - - 5 37"]
+[LichessURL "https://lichess.org/RIjpCd1l#73"]
+[PuzzleId "QDvBn"]
+[Themes "advantage attraction deflection endgame long"]
+
+37... Qh2+ 38. Qg2 Re2+ 39. Kxe2 Qxg2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "185"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R4b2/2r1pk1p/3p1pp1/8/3NP3/5P2/3K2PP/8 w - - 6 44"]
+[LichessURL "https://lichess.org/KBqdQDdM/black#86"]
+[PuzzleId "TtUFN"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+44. Rxf8+ Kxf8 45. Ne6+ Ke8 46. Nxc7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "186"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p4r1k/3pR1R1/4p2p/2NpP2P/1P1P4/P3n2K/8 b - - 2 37"]
+[LichessURL "https://lichess.org/Gq04NEnc#73"]
+[PuzzleId "7uwci"]
+[Themes "attraction crushing endgame exposedKing long"]
+
+37... Rf2+ 38. Rg2 Rxg2+ 39. Kxg2 Nf4+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "187"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p1bR2r/p6p/6p1/8/8/PPP3PP/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/5qjJ2MMf/black#50"]
+[PuzzleId "hMESz"]
+[Themes "advantage attraction endgame exposedKing fork long"]
+
+26. Rxh7 Kxh7 27. Re7+ Kg6 28. Rxd7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "188"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/1rp3pk/R2pp2p/4p2r/1PN1P3/2PP2P1/5QKP/R7 b - - 0 29"]
+[LichessURL "https://lichess.org/mmRRazUW#57"]
+[PuzzleId "kRPBr"]
+[Themes "advantage attraction deflection middlegame short"]
+
+29... Rxh2+ 30. Kxh2 Qxf2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "189"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/p4ppp/2p5/5p2/5B2/7P/PPqp1PP1/4R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/1ypSYbEm/black#44"]
+[PuzzleId "PbCCN"]
+[Themes "attraction backRankMate endgame long mate mateIn3"]
+
+23. Rxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Kxf8 24. Bd6+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Kg8 25. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "190"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1pp2k2/1p5p/3p2p1/3P2Pn/P1P3N1/1P3K1P/4R3 b - - 1 31"]
+[LichessURL "https://lichess.org/DvKWeWIa#61"]
+[PuzzleId "F34sE"]
+[Themes "advantage attraction endgame exposedKing long"]
+
+31... Rxe1 32. Kxe1 Nf3+ 33. Ke2 Nxh2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "191"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2nk1/5ppp/4pP2/3pP1PP/3P4/1r6/1r6/K1R5 w - - 8 34"]
+[LichessURL "https://lichess.org/TdhFyEKt/black#66"]
+[PuzzleId "vMJvs"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+34. Rxf8+ Kxf8 35. Rc8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "192"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/8/N7/P7/1K1B4/5p1r/8 b - - 0 49"]
+[LichessURL "https://lichess.org/P3w5knKR#97"]
+[PuzzleId "77dal"]
+[Themes "advancedPawn attraction crushing endgame long pin promotion"]
+
+49... Rh3 50. Kc2 Rxd3 51. Kxd3 f1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "193"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5pp1/4p1p1/4P2q/5P1P/6Q1/rr3RP1/5R1K w - - 3 34"]
+[LichessURL "https://lichess.org/4JF2BTm4/black#66"]
+[PuzzleId "tIGch"]
+[Themes "advantage attraction endgame fork long"]
+
+34. Rxb2 Rxb2 35. Qa3+ Kg8 36. Qxb2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "194"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/7p/1R6/4pK1P/6P1/1p3P2/1r6 b - - 1 46"]
+[LichessURL "https://lichess.org/jhgHfvpq#91"]
+[PuzzleId "nfunH"]
+[Themes "attraction crushing endgame master rookEndgame short"]
+
+46... e3 47. Kxe3 Re1+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "195"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1p2krpp/p2pp3/6q1/8/2Q2R1P/PPP3P1/3R2K1 w - - 5 24"]
+[LichessURL "https://lichess.org/8pkXjthC/black#46"]
+[PuzzleId "QBDBg"]
+[Themes "attraction crushing endgame long master"]
+
+24. Qc7+ Rd7 25. Rxf7+ Kxf7 26. Qxd7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "196"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/p1p3pp/2p1N3/3n1pq1/3P4/3Q4/PPP2PPP/R3R1K1 b - - 0 16"]
+[LichessURL "https://lichess.org/ZQdjKp6g#31"]
+[PuzzleId "GBWmQ"]
+[Themes "advantage attraction fork long middlegame sacrifice"]
+
+16... Rxe6 17. Rxe6 Nf4 18. Qf3 Nxe6 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "197"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/5p1p/1p4R1/pQ1B1pp1/3q2n1/6P1/PP2PP1P/6K1 w - - 3 30"]
+[LichessURL "https://lichess.org/qTyJx70O/black#58"]
+[PuzzleId "XYbm2"]
+[Themes "advantage attraction deflection endgame long"]
+
+30. Rg8+ Kxg8 31. Qxe8+ Kg7 32. Qxf7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "198"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr5/pp3pQ1/2r1p2p/q1P4P/2pB1P2/3b4/PP4P1/K1R1R3 b - - 0 28"]
+[LichessURL "https://lichess.org/Y1iXqMFq#55"]
+[PuzzleId "B4qGf"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+28... Qxa2+ 29. Kxa2 Ra6# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "199"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1b1p3p/p2P4/4npR1/1p1q4/5R1Q/PPP1B1PP/7K w - - 2 25"]
+[LichessURL "https://lichess.org/gFWaY6Er/black#48"]
+[PuzzleId "3KvDg"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+25. Qxh7+ Kxh7 26. Rh3+ Qh4 27. Rxh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "200"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/R7/5Rp1/8/2P5/5p2/5P1P/3r1NK1 b - - 1 30"]
+[LichessURL "https://lichess.org/iHsCuk2c#59"]
+[PuzzleId "fQiMf"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+30... Rxf1+ 31. Kxf1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "201"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R2rk/5p1p/p4p1P/4p3/6P1/1P2nPK1/r7/3R4 w - - 2 37"]
+[LichessURL "https://lichess.org/DT6vDoKy/black#72"]
+[PuzzleId "MhV35"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+37. Rxg8+ Kxg8 38. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "202"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1R3pbp/p5p1/2B1p3/2P5/2P5/P3NPPP/3r1RK1 b - - 0 23"]
+[LichessURL "https://lichess.org/YxpNscES#45"]
+[PuzzleId "JmeXb"]
+[Themes "attraction backRankMate mate mateIn2 middlegame short"]
+
+23... Rxf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kxf1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "203"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R1bk2/1pP2p1p/4pP2/4P3/8/1q1p4/3K4/8 w - - 1 59"]
+[LichessURL "https://lichess.org/Ivty5SFA/black#116"]
+[PuzzleId "iWx4i"]
+[Themes "advancedPawn attraction endgame master mate mateIn2 promotion short"]
+
+59. Rxe8+ Kxe8 60. c8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "204"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/p7/1p6/4Q3/1P6/7p/P4P1P/3r2RK b - - 2 37"]
+[LichessURL "https://lichess.org/UggwqTsE#73"]
+[PuzzleId "osOsa"]
+[Themes "attraction endgame long mate mateIn3 queenRookEndgame"]
+
+37... Rxg1+ 38. Kxg1 Rd1+ 39. Qe1 Rxe1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "205"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1r/1r2ppb1/p4npp/8/2q5/P1NR4/1PPQ2PP/2KR4 w - - 0 21"]
+[LichessURL "https://lichess.org/UVs7AhQb/black#40"]
+[PuzzleId "krgxs"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+
+21. Rd8+ Ne8 22. Rxe8+ Kxe8 23. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "206"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1pR4p/5P2/2p1Pk2/2P5/p6P/P1P5/KR1r4 b - - 0 31"]
+[LichessURL "https://lichess.org/Wj86XfaP#61"]
+[PuzzleId "nHZnB"]
+[Themes "attraction endgame mate mateIn2 rookEndgame short"]
+
+31... Rxb1+ 32. Kxb1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "207"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/1b1kq1Q1/p3p3/1p2P3/2pP4/2P4R/PP5P/6K1 w - - 1 30"]
+[LichessURL "https://lichess.org/5Y49u77u/black#58"]
+[PuzzleId "Lilgm"]
+[Themes "attraction crushing endgame short"]
+
+30. Qxe7+ Kxe7 31. Rh7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "208"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p3/3pPk2/3P3R/2P2p2/p2K1B2/r1R5 b - - 1 56"]
+[LichessURL "https://lichess.org/bAaxb35g#111"]
+[PuzzleId "nDCUT"]
+[Themes "advancedPawn attraction crushing endgame promotion short"]
+
+56... Rxc1 57. Kxc1 a1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "209"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1nk1/p4ppp/7q/2p5/8/6PN/r4PP1/3Q2K1 w - - 0 33"]
+[LichessURL "https://lichess.org/GqNNpGKL/black#64"]
+[PuzzleId "gV2cE"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+33. Rxf8+ Kxf8 34. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "210"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4pk1p/pp2p3/2p1PPP1/P1P3K1/1P6/8 b - - 0 40"]
+[LichessURL "https://lichess.org/mgjGOyUB#79"]
+[PuzzleId "tUdFy"]
+[Themes "attraction crushing endgame pawnEndgame short"]
+
+40... exf4+ 41. Kxf4 e5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "211"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2n2rk/1b3p1n/3p1Pp1/pp2p1P1/4P2R/1NqBBR2/P1P4P/6K1 w - - 0 25"]
+[LichessURL "https://lichess.org/tP8mrA6g/black#48"]
+[PuzzleId "C2AGR"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+25. Rxh7+ Kxh7 26. Rh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "212"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5pb1/p2R4/7p/1P5q/4P1QP/7K/1R6 b - - 0 34"]
+[LichessURL "https://lichess.org/kgLYMibG#67"]
+[PuzzleId "hIvWO"]
+[Themes "attraction crushing endgame fork long"]
+
+34... Qxg3+ 35. Kxg3 Be5+ 36. Kf3 Bxd6 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "213"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q1bb1k/1r5p/4N1r1/pPBpP3/P1pP3P/2P2RPK/8/5R2 w - - 0 38"]
+[LichessURL "https://lichess.org/PDhm4Sz9/black#74"]
+[PuzzleId "2AnSl"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame"]
+
+38. Rxf8+ Rg8 39. Rxg8+ Kxg8 40. Rf8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "214"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5b1p/5p2/p2p1P2/4q3/7Q/P5RP/4r1RK b - - 3 31"]
+[LichessURL "https://lichess.org/IRymtQw1#61"]
+[PuzzleId "lx9jA"]
+[Themes "attraction endgame mate mateIn2 pin short"]
+
+31... Rxg1+ 32. Kxg1 Qe1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "215"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2q/p2n4/2pPP1pn/7p/2p2P2/1N6/PPP3PP/3R1RK1 w - - 3 23"]
+[LichessURL "https://lichess.org/MRZyBA4H/black#44"]
+[PuzzleId "3EJGO"]
+[Themes "advancedPawn advantage attraction middlegame short"]
+
+23. exd7+ Kxd7 24. Nc5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "216"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5p1/7k/1pp5/4qQ2/2Pr2nP/PP4P1/R4RK1 b - - 1 26"]
+[LichessURL "https://lichess.org/xJeSwJL0#51"]
+[PuzzleId "iErG8"]
+[Themes "advantage attraction endgame fork long"]
+
+26... Qxf4 27. Rxf4 Ne2+ 28. Kf2 Nxf4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "217"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/2q3pp/pn1p1p2/1p1BpP2/7R/2P2Q1P/PP3PP1/6K1 w - - 5 31"]
+[LichessURL "https://lichess.org/sEHFwVCn/black#60"]
+[PuzzleId "S6Smi"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+31. Rxh7+ Kxh7 32. Qh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "218"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/pp3ppp/8/8/2q1PQ1P/P1P2PP1/1P4K1/3RR3 b - - 0 24"]
+[LichessURL "https://lichess.org/AVCHXIDx#47"]
+[PuzzleId "QyKsi"]
+[Themes "advantage attraction endgame fork long"]
+
+24... Rxd1 25. Rxd1 Qe2+ 26. Kh3 Qxd1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "219"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5r/2k2pp1/1p3qnp/Q7/1p2P2P/8/PPP2PP1/2KR3R w - - 0 27"]
+[LichessURL "https://lichess.org/FylvnMmG/black#52"]
+[PuzzleId "RCdG4"]
+[Themes "attraction crushing deflection long middlegame"]
+
+27. Qa7+ Rb7 28. Rd7+ Kxd7 29. Qxb7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "220"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/6p1/6k1/6b1/8/1R2p2R/6P1/5K2 b - - 1 42"]
+[LichessURL "https://lichess.org/iY3t5UEA#83"]
+[PuzzleId "qDgQc"]
+[Themes "advancedPawn attraction crushing endgame long promotion"]
+
+42... e2+ 43. Ke1 Bd2+ 44. Kxd2 e1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "221"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r3k/pbq3pp/4Bp2/5P2/4p2R/2P1Q3/PP5P/R5K1 w - - 1 25"]
+[LichessURL "https://lichess.org/pYV9P5oc/black#48"]
+[PuzzleId "7tY7T"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+25. Rxh7+ Kxh7 26. Qh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "222"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n3rk1/pQ3pp1/2p4p/3p4/qP2n3/P1R1P2P/1K2BPP1/7R b - - 4 25"]
+[LichessURL "https://lichess.org/fNWw0vcI#49"]
+[PuzzleId "mbxHM"]
+[Themes "advantage attraction capturingDefender middlegame short"]
+
+25... Nxc3 26. Kxc3 Qxa3+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "223"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb5/pp3ppk/2pq2p1/8/3PR3/2P4P/PP2QPP1/6K1 w - - 6 22"]
+[LichessURL "https://lichess.org/vCjn4GUF/black#42"]
+[PuzzleId "t2d7i"]
+[Themes "advantage attraction deflection endgame veryLong"]
+
+22. Rh4+ Kg8 23. Qe8+ Qf8 24. Rh8+ Kxh8 25. Qxf8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "224"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/4Qpk1/4p3/3pP3/2pP4/2q2NK1/4R3/8 b - - 0 40"]
+[LichessURL "https://lichess.org/iU2G71FV#79"]
+[PuzzleId "5DcrB"]
+[Themes "attraction crushing deflection endgame exposedKing fork long sacrifice"]
+
+40... Rh3+ 41. Kxh3 Qxf3+ 42. Kh2 Qxe2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "225"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/Q2qkp2/p2p4/P1p1p3/3n2PP/1r4B1/5R1K w - - 10 44"]
+[LichessURL "https://lichess.org/xnsERA7B/black#86"]
+[PuzzleId "jTcIG"]
+[Themes "advantage attraction deflection endgame pin short"]
+
+44. Rxf6+ Kxf6 45. Qxd6+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "226"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/7p/4B1p1/3pn3/2qQ4/P5P1/1P3P1P/3R1RK1 b - - 2 26"]
+[LichessURL "https://lichess.org/dV82vKxf#51"]
+[PuzzleId "sSCyd"]
+[Themes "advantage attraction fork long middlegame"]
+
+26... Qxd4 27. Rxd4 Nf3+ 28. Kg2 Nxd4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "227"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4r1p/4q2r/8/5p1Q/2PP4/2PK1P2/6R1 w - - 7 34"]
+[LichessURL "https://lichess.org/KKvmggml/black#66"]
+[PuzzleId "frjW8"]
+[Themes "advantage attraction deflection endgame exposedKing long"]
+
+34. Qd8+ Qe8 35. Rg8+ Kxg8 36. Qxe8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "228"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b2qr1k1/4bppp/8/4P3/1pNp4/6P1/1PP2PBP/3QR1K1 b - - 0 21"]
+[LichessURL "https://lichess.org/O6Pgr52Z#41"]
+[PuzzleId "3698v"]
+[Themes "advantage attraction fork long master middlegame"]
+
+21... Bxg2 22. Kxg2 Qd5+ 23. Qf3 Qxc4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "229"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/2p2p1p/bpP2P2/4Q3/2p1p2R/8/P5PP/R5K1 w - - 3 27"]
+[LichessURL "https://lichess.org/qOtjFSZI/black#52"]
+[PuzzleId "Bez3o"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27. Rxh7+ Kxh7 28. Qh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "230"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/ppp3pp/2n2b2/4p3/4R3/1NP1B3/PP3PPP/3r2RK b - - 4 26"]
+[LichessURL "https://lichess.org/gSABRIbM#51"]
+[PuzzleId "jhxwy"]
+[Themes "attraction backRankMate mate mateIn2 middlegame short"]
+
+26... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Kxg1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "231"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/6pb/p2N1p1p/8/8/8/1r3PPP/4R1K1 w - - 0 33"]
+[LichessURL "https://lichess.org/lNt2wSy9/black#64"]
+[PuzzleId "Nfy3X"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+33. Rxf8+ Kxf8 34. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "232"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pR4Rp/8/8/2p5/2Pb4/P5PP/5rNK b - - 0 29"]
+[LichessURL "https://lichess.org/3H6wHPH7#57"]
+[PuzzleId "HTO6M"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+29... Rxg1+ 30. Kxg1 Rf1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "233"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp3ppp/6qn/8/8/4R2P/5PP1/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/s5Ptqg4O/black#52"]
+[PuzzleId "VeA5k"]
+[Themes "attraction backRankMate endgame long mate mateIn3"]
+
+27. Rxe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27... Ng8 28. Rxg8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Kxg8 29. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "234"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pkp3P1/2p5/8/2p1Q3/2P1B3/P2p1PPP/3q1NK1 b - - 1 32"]
+[LichessURL "https://lichess.org/tiuawQsz#63"]
+[PuzzleId "WGmvz"]
+[Themes "advancedPawn attraction endgame master mate mateIn2 promotion short"]
+
+32... Qxf1+ 33. Kxf1 d1=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "235"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/r4Bpp/p7/1p5Q/8/P2qPK2/1b6/5R1R w - - 2 27"]
+[LichessURL "https://lichess.org/GChrD3tV/black#52"]
+[PuzzleId "nq5sQ"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+
+27. Qxh7+ Qxh7 28. Rxh7+ Kxh7 29. Rh1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "236"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2p5/2R5/p5p1/4p1P1/P4p1P/5P1B/3r1RK1 b - - 0 33"]
+[LichessURL "https://lichess.org/5kSI2Pcy#65"]
+[PuzzleId "oNAmq"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+33... Rxf1+ 34. Kxf1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "237"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3rk/2q2p1n/p3pPp1/1p1pP3/5R1R/P2B3P/1PP3P1/1K6 w - - 0 27"]
+[LichessURL "https://lichess.org/Fb6rLnat/black#52"]
+[PuzzleId "gZ6MF"]
+[Themes "attraction kingsideAttack master mate mateIn2 middlegame sacrifice short"]
+
+27. Rxh7+ Kxh7 28. Rh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "238"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/5R2/b3B3/p3P3/1p6/3p4/PP6/4K3 b - - 1 36"]
+[LichessURL "https://lichess.org/uYBchob6#71"]
+[PuzzleId "kxN98"]
+[Themes "advancedPawn attraction crushing endgame exposedKing long master promotion"]
+
+36... d2+ 37. Kd1 Be2+ 38. Kxe2 d1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "239"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1n1k/5pr1/2p1pp1K/5q2/8/8/P4PPP/3R4 w - - 0 30"]
+[LichessURL "https://lichess.org/wgCCuf1T/black#58"]
+[PuzzleId "Zc3Nq"]
+[Themes "attraction endgame exposedKing hangingPiece long mate mateIn3"]
+
+30. Rxf8+ Rg8 31. Rxg8+ Kxg8 32. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "240"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Rnb1k3/1p3p1p/3bpr2/7r/3P1p2/1BPNpP2/1P2N1PP/6RK b - - 2 22"]
+[LichessURL "https://lichess.org/510MRnq4#43"]
+[PuzzleId "XvwNB"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+22... Rxh2+ 23. Kxh2 Rh6# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "241"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b1R1rk1/p4ppp/4p3/8/2p5/PP1QP1PP/5PK1/2q5 w - - 0 26"]
+[LichessURL "https://lichess.org/Yid0ezXi/black#50"]
+[PuzzleId "kdIQj"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26. Rxf8+ Kxf8 27. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "242"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pp2r1kp/8/4R1P1/1P1pK3/P2P3P/8/4R3 b - - 2 35"]
+[LichessURL "https://lichess.org/pJozc4oO#69"]
+[PuzzleId "glWkV"]
+[Themes "attraction crushing endgame long rookEndgame skewer"]
+
+35... Rxe5+ 36. Kxe5 Re8+ 37. Kxd4 Rxe1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "243"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/1P2p3/p2p2p1/2pP4/2r5/7R/P7/4K3 w - - 0 41"]
+[LichessURL "https://lichess.org/DiDcaiZS/black#80"]
+[PuzzleId "n2ryo"]
+[Themes "advancedPawn advantage attraction endgame long promotion rookEndgame"]
+
+41. Rh8+ Kf7 42. Rxe8 Kxe8 43. b8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "244"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p5p/pRr1p2r/2PpPp2/5Q2/P1R1P1Pq/5PBp/7K b - - 3 38"]
+[LichessURL "https://lichess.org/no818FjF#75"]
+[PuzzleId "ekFdk"]
+[Themes "advancedPawn attraction kingsideAttack mate mateIn2 middlegame promotion short"]
+
+38... Qxg2+ 39. Kxg2 h1=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "245"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pppb3q/3p2p1/n4pP1/3P3Q/2P4P/PPB3P1/4RR1K w - - 7 24"]
+[LichessURL "https://lichess.org/qxyK8Zan/black#46"]
+[PuzzleId "9oeS2"]
+[Themes "advantage attraction kingsideAttack middlegame short"]
+
+24. Qxh7+ Kxh7 25. Re7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "246"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pkp4p/1p6/8/8/1P6/PBR1KRr1/7r b - - 0 33"]
+[LichessURL "https://lichess.org/Hd4jBQnG#65"]
+[PuzzleId "gpRLq"]
+[Themes "attraction crushing endgame exposedKing long skewer"]
+
+33... Rxf2+ 34. Kxf2 Rh2+ 35. Ke3 Rxc2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "247"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R1rkp/p4qp1/1pr1p3/2P3Q1/1P6/1P4PP/3R2K1 w - - 2 25"]
+[LichessURL "https://lichess.org/xcyRMLz6/black#48"]
+[PuzzleId "3jd7Q"]
+[Themes "attraction clearance crushing endgame long pin"]
+
+25. Rxf7+ Qxf7 26. Rd7 Rc7 27. Rxf7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "248"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/2r3p1/4Pp1p/p2P1P1P/1p1R3K/1Br3R1/8 b - - 3 37"]
+[LichessURL "https://lichess.org/VMyYO687#73"]
+[PuzzleId "WEoJ1"]
+[Themes "attraction crushing endgame fork long"]
+
+37... Rxg2 38. Kxg2 Rc2+ 39. Kg3 Rxb2 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "249"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/p1qn1p1k/1p4p1/3p4/2p5/2P1P1P1/PPQ3PP/RB3RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/FTSAGUHL/black#34"]
+[PuzzleId "51Y0u"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+
+18. Rxf7+ Rxf7 19. Qxg6+ Kh8 20. Qxf7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "250"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr2k/p5p1/q4p1p/5N2/7N/2Q5/2P2PPP/5RK1 b - - 4 23"]
+[LichessURL "https://lichess.org/acpqfrv6#45"]
+[PuzzleId "WBPqj"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+
+23... Qxf1+ 24. Kxf1 Rd1+ 25. Qe1 Rdxe1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "251"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rR3/3P2pk/8/p1p5/Pp6/1r1p4/7B/6K1 w - - 3 43"]
+[LichessURL "https://lichess.org/ThOhxe0U/black#84"]
+[PuzzleId "pY378"]
+[Themes "advancedPawn attraction crushing endgame hangingPiece long promotion"]
+
+43. Rxd8 d2 44. Rh8+ Kxh8 45. d8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "252"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/7p/8/8/1PR5/1P3PPP/3r2RK b - - 2 23"]
+[LichessURL "https://lichess.org/Aj2xPejE#45"]
+[PuzzleId "kPs12"]
+[Themes "attraction backRankMate endgame mate mateIn2 rookEndgame short"]
+
+23... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kxg1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "253"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/1p3p1p/p5pP/r4pP1/4p1q1/2PQ4/5P2/5K2 w - - 1 32"]
+[LichessURL "https://lichess.org/6ZmbSAVG/black#62"]
+[PuzzleId "PSDt4"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+32. Rxf8+ Kxf8 33. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "254"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/2R4p/1pB1p1p1/2p1P3/8/1Pn5/5PPP/3rRK2 b - - 2 29"]
+[LichessURL "https://lichess.org/86HJpHUA#57"]
+[PuzzleId "VnFJM"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+29... Rxe1+ 30. Kxe1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "255"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp3p1p/3R1P2/6r1/4p3/2q3P1/P1P4P/3R2K1 w - - 0 33"]
+[LichessURL "https://lichess.org/3X0wGQio/black#64"]
+[PuzzleId "Da11m"]
+[Themes "attraction endgame long mate mateIn3 queenRookEndgame"]
+
+33. Rd8+ Rg8 34. Rxg8+ Kxg8 35. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "256"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/Q1P3pp/8/5p2/8/8/P2b1PPP/4rNK1 b - - 0 34"]
+[LichessURL "https://lichess.org/Li9LGdCJ#67"]
+[PuzzleId "fWa2x"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+34... Rxf1+ 35. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "257"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R1rk/2q2p1p/3p1bpP/p2P2P1/1p3P2/8/PPP1R3/2K5 w - - 1 29"]
+[LichessURL "https://lichess.org/1PQpPWp0/black#56"]
+[PuzzleId "ijCzj"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 short"]
+
+29. Rxg8+ Kxg8 30. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "258"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b1r2k/p1p1q3/3p3p/b1pP1pp1/2P5/3B1Q2/PP3PPP/1RB3K1 b - - 1 25"]
+[LichessURL "https://lichess.org/ibYFRTWl#49"]
+[PuzzleId "5u8x6"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+25... Qe1+ 26. Bf1 Qxf1+ 27. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "259"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp1bpp1p/3p2p1/qB1P4/8/1QP2P2/P4P1P/R1B1K2R w KQkq - 2 13"]
+[LichessURL "https://lichess.org/UCzRNQRt/black#24"]
+[PuzzleId "nf0pc"]
+[Themes "advantage attraction discoveredAttack middlegame short"]
+
+13. Bxd7+ Kxd7 14. Qxb7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "260"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2p3/p2p1k2/P1pP1P1q/2P1B2r/3K3p/1P2Q3/7R b - - 2 41"]
+[LichessURL "https://lichess.org/9T0kjT2z#81"]
+[PuzzleId "KZlKQ"]
+[Themes "advantage attraction endgame short"]
+
+41... Qxe2+ 42. Kxe2 Rxe4+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "261"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1nkp2/1P2p2p/pr6/8/3R1pPP/P4P2/5BK1 w - - 6 29"]
+[LichessURL "https://lichess.org/lg7b0Y6v/black#56"]
+[PuzzleId "aQCdQ"]
+[Themes "attraction crushing discoveredAttack endgame short"]
+
+29. Rxd7+ Kxd7 30. Bxb5+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "262"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/1p1p3p/4p3/1P6/P2Q2Pn/2q5/3R3K b - - 1 33"]
+[LichessURL "https://lichess.org/st3qgIsx#65"]
+[PuzzleId "tI5or"]
+[Themes "attraction crushing endgame exposedKing fork long"]
+
+33... Qxd3 34. Rxd3 Nf2+ 35. Kg2 Nxd3 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "263"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n2k1/ppp2rBp/1b2qPr1/3p4/3PpR1Q/2P4P/PP4P1/5R1K w - - 8 31"]
+[LichessURL "https://lichess.org/9ws9w6Bs/black#60"]
+[PuzzleId "kgVTX"]
+[Themes "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong"]
+
+31. Qxh7+ Kxh7 32. Rh4+ Rh6 33. Rxh6+ Kg8 34. Rh8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "264"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q3k1/1p4pp/4pb2/8/8/R3PQP1/5P1P/2r2RK1 b - - 0 26"]
+[LichessURL "https://lichess.org/CwZvZeWw#51"]
+[PuzzleId "YpBnK"]
+[Themes "advantage attraction endgame fork long"]
+
+26... Rxf1+ 27. Kxf1 Qc1+ 28. Kg2 Qxa3 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "265"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb4k/p2n1p1P/1p2q1pB/3p4/3p4/P2B4/1P2NPP1/2KR3R w - - 0 21"]
+[LichessURL "https://lichess.org/btjSLL0j/black#40"]
+[PuzzleId "HZkNw"]
+[Themes "advancedPawn attraction kingsideAttack mate mateIn2 middlegame promotion short"]
+
+21. Bg7+ Kxg7 22. h8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "266"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/5ppk/4p3/2Pr2P1/pP1b3P/Pb6/1P1NQP2/2K4R b - - 4 27"]
+[LichessURL "https://lichess.org/lGstbiHn#53"]
+[PuzzleId "Xwyh4"]
+[Themes "advantage attraction deflection discoveredAttack fork long middlegame"]
+
+27... Bxb2+ 28. Kxb2 Rxd2+ 29. Qxd2 Rxd2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "267"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/ppp1q1pp/2n3p1/8/2QPp1B1/4P3/PP3PP1/2KR3R w - - 1 20"]
+[LichessURL "https://lichess.org/ZIH34Rgy/black#38"]
+[PuzzleId "vmnY0"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+20. Rxh7+ Kxh7 21. Rh1+ Qh4 22. Rxh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "268"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/p1p2ppp/8/2b5/6b1/3P1BPq/PP3P1P/R1BQR1K1 b - - 2 16"]
+[LichessURL "https://lichess.org/sALwMYq9#31"]
+[PuzzleId "wF8X2"]
+[Themes "advantage attraction deflection kingsideAttack long middlegame"]
+
+16... Bxf2+ 17. Kxf2 Qxh2+ 18. Bg2 Bxd1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "269"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pbqpbppp/1p2pn2/8/4NP2/2PBBR2/PP2Q1PP/R6K w - - 2 16"]
+[LichessURL "https://lichess.org/wllrtmKb/black#30"]
+[PuzzleId "EkuRX"]
+[Themes "advantage attraction discoveredAttack kingsideAttack long middlegame sacrifice"]
+
+16. Nxf6+ Bxf6 17. Bxh7+ Kxh7 18. Rh3+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "270"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k3nr/1pp3pp/p1p2b2/4r3/8/NPP5/P4PPP/R1B1RK2 b - - 1 18"]
+[LichessURL "https://lichess.org/4O6WENFp#35"]
+[PuzzleId "glNdb"]
+[Themes "attraction crushing discoveredAttack middlegame short"]
+
+18... Rxe1+ 19. Kxe1 Bxc3+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "271"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/1p3p1p/p2p1Pp1/1np5/5R1Q/1PP4P/P5P1/2R3K1 w - - 2 28"]
+[LichessURL "https://lichess.org/nnkTetww/black#54"]
+[PuzzleId "9Svdc"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+28. Qxh7+ Kxh7 29. Rh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "272"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5pp1/p6p/2R1P3/8/P5B1/5PPP/1r4NK b - - 2 35"]
+[LichessURL "https://lichess.org/BV9XkldM#69"]
+[PuzzleId "eTvSe"]
+[Themes "attraction backRankMate endgame long master masterVsMaster mate mateIn3 sacrifice"]
+
+35... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+36. Kxg1 Rb1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+37. Rc1 Rxc1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "273"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rr2k/4P1pp/p4pq1/1p2n3/8/P1P5/1P3PPP/3R2K1 w - - 2 29"]
+[LichessURL "https://lichess.org/pBq3k77w/black#56"]
+[PuzzleId "8zzPa"]
+[Themes "advantage attraction clearance endgame long pin"]
+
+29. Rxe8+ Qxe8 30. Rd8 Kg8 31. Rxe8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "274"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5N2/pp6/5Q2/1k2p3/3qP3/1P6/P4PPP/3r1RK1 b - - 8 31"]
+[LichessURL "https://lichess.org/d5uRaFMU#61"]
+[PuzzleId "Imo0q"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+31... Rxf1+ 32. Kxf1 Qd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "275"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R3b2/p2r2kp/1p3np1/4B3/3P4/7P/PP3PP1/6K1 w - - 7 34"]
+[LichessURL "https://lichess.org/Z77OVAp9/black#66"]
+[PuzzleId "vPG7i"]
+[Themes "advantage attraction endgame master short"]
+
+34. Bxf6+ Kxf6 35. Rxf8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "276"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/ppb4p/2p1qp2/2P1p2Q/3nN3/5p2/PP3PPP/3R1RK1 b - - 1 28"]
+[LichessURL "https://lichess.org/KegEkhe2#55"]
+[PuzzleId "Z7yDf"]
+[Themes "advancedPawn attraction crushing fork middlegame veryLong"]
+
+28... Ne2+ 29. Kh1 fxg2+ 30. Kxg2 Nf4+ 31. Kh1 Nxh5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "277"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/kr1q4/pp1p4/2pPp1p1/2P1P2p/R5P1/PQ3P1P/1R4K1 w - - 0 42"]
+[LichessURL "https://lichess.org/eStNpoXE/black#82"]
+[PuzzleId "9uQG3"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+42. Rxa6+ Kxa6 43. Qa3+ Qa4 44. Qxa4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "278"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3p1p/2nq1p2/8/4Q1P1/P2r1P1P/1P4K1/2R2R2 b - - 0 26"]
+[LichessURL "https://lichess.org/wNZ2hoZh#51"]
+[PuzzleId "MsUya"]
+[Themes "advantage attraction endgame fork veryLong"]
+
+26... Rd2+ 27. Rf2 Rxf2+ 28. Kxf2 Qd2+ 29. Qe2 Qxc1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "279"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q1b2/2q2p1p/1k6/3pP1Pb/3P4/6K1/3B4/8 w - - 2 59"]
+[LichessURL "https://lichess.org/ZMAyLYG7/black#116"]
+[PuzzleId "ywbw6"]
+[Themes "attraction crushing deflection endgame master short"]
+
+59. Ba5+ Kxa5 60. Qxc7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "280"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/ppN3p1/8/7p/1bPP4/5Q2/PP3PPP/R1B1qRK1 b - - 0 16"]
+[LichessURL "https://lichess.org/CsP7olZ4#31"]
+[PuzzleId "Y2uCa"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+16... Qxf1+ 17. Kxf1 Re1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "281"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/4Rp1p/3p1P2/2p5/6RK/7P/6P1/7q w - - 0 36"]
+[LichessURL "https://lichess.org/06Z31aW2/black#70"]
+[PuzzleId "dsdk0"]
+[Themes "attraction endgame mate mateIn2 queenRookEndgame short"]
+
+36. Rxg8+ Kxg8 37. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "282"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/2r5/1p3p2/p1bRp2P/P3P1P1/1P2N3/4K3 b - - 1 39"]
+[LichessURL "https://lichess.org/ziOxM5ZL#77"]
+[PuzzleId "kuk4V"]
+[Themes "attraction crushing endgame exposedKing long"]
+
+39... Bxe2 40. Kxe2 Rc2+ 41. Rd2 Rxd2+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "283"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p1R1p1p/p4Kp1/2b1Pp2/P1p2P2/8/7q/3R4 w - - 0 35"]
+[LichessURL "https://lichess.org/ODZzg30J/black#68"]
+[PuzzleId "ngJA1"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+35. Rd8+ Bf8 36. Rxf8+ Kxf8 37. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "284"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p2k3p/2pp4/8/8/1PP5/P2P3P/R2KR1r1 b - - 0 21"]
+[LichessURL "https://lichess.org/f5sSO38k#41"]
+[PuzzleId "h4Oou"]
+[Themes "attraction crushing endgame long rookEndgame skewer"]
+
+21... Rxe1+ 22. Kxe1 Rg1+ 23. Kf2 Rxa1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "285"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1knR4/pp4p1/2p1N1p1/4q3/2P3P1/7P/PP3b2/1K1R4 w - - 0 28"]
+[LichessURL "https://lichess.org/q23lMgoV/black#54"]
+[PuzzleId "gx2Zr"]
+[Themes "attraction endgame mate mateIn2 queensideAttack sacrifice short"]
+
+28. Rxc8+ Kxc8 29. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "286"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p3pp/pp1p2r1/4p3/2P2n2/N1P2QPq/PP3P1P/4R1RK b - - 6 28"]
+[LichessURL "https://lichess.org/CAy5IonN#55"]
+[PuzzleId "dplfC"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+28... Qxh2+ 29. Kxh2 Rh6+ 30. Qh5 Rxh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "287"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1b1r/1pp1k3/3p1n1p/p1nP1ppB/2P1p3/1P2P2N/PB3PPP/RN1QK2R w KQ - 0 12"]
+[LichessURL "https://lichess.org/GZzfBjL4/black#22"]
+[PuzzleId "NaA57"]
+[Themes "advantage attraction long middlegame skewer"]
+
+12. Bxf6+ Kxf6 13. Qd4+ Ke7 14. Qxh8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "288"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1pp3pp/4p2q/p2pPr2/P2P1p2/2P2P2/1PQR2PP/6RK b - - 5 23"]
+[LichessURL "https://lichess.org/JwtvUOVT#45"]
+[PuzzleId "gq789"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+23... Qxh2+ 24. Kxh2 Rh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "289"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/pp3ppp/4b2R/4Q3/4P3/6RP/3p2PK/1q6 w - - 0 29"]
+[LichessURL "https://lichess.org/8oCmZwA4/black#56"]
+[PuzzleId "rxYWA"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+29. Rxh7+ Kxh7 30. Qh5# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "290"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2P2pk1/1R1B3p/6p1/P1r5/5pP1/5P1P/2r2RK1 b - - 2 44"]
+[LichessURL "https://lichess.org/GnEL9pYJ#87"]
+[PuzzleId "bAgMu"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+44... Rxf1+ 45. Kxf1 Rc1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "291"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/4Rp2/4b2K/4r2P/p1p5/P7/2P5/6R1 w - - 4 42"]
+[LichessURL "https://lichess.org/ovmXzwFF/black#82"]
+[PuzzleId "tzYWM"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+42. Rxg8+ Kxg8 43. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "292"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1k4/3p1p2/8/2PPPRQ1/3n3q/P6P/7K b - - 2 37"]
+[LichessURL "https://lichess.org/HesZ87Lu#73"]
+[PuzzleId "9wOuZ"]
+[Themes "advantage attraction endgame fork long"]
+
+37... Qxg4 38. Rxg4 Nf2+ 39. Kg1 Nxg4 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "293"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/5p1p/1p3p1P/8/1P6/P2r3P/8/2R3RK w - - 1 37"]
+[LichessURL "https://lichess.org/1gnFJMy3/black#72"]
+[PuzzleId "DqTah"]
+[Themes "attraction endgame long mate mateIn3 rookEndgame"]
+
+37. Rxg8+ Kxg8 38. Rc8+ Rd8 39. Rxd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "294"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/6pk/b5qp/4Bp2/2pP4/1P5P/P3p2K/6R1 b - - 1 40"]
+[LichessURL "https://lichess.org/DGkHj7yE#79"]
+[PuzzleId "FI5Gz"]
+[Themes "advancedPawn attraction crushing endgame promotion short"]
+
+40... Qxg1+ 41. Kxg1 e1=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "295"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/p1p3kp/2npq1p1/1p4B1/3pP3/2P2Q2/PP1N1PPP/R3K2R w KQ - 1 15"]
+[LichessURL "https://lichess.org/SJGDpZEg/black#28"]
+[PuzzleId "fgcJb"]
+[Themes "attraction crushing deflection middlegame short"]
+
+15. Bh6+ Kxh6 16. Qxf8+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "296"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1p1qbp1p/p3pp2/4p3/4P2R/2P4Q/PP3PPP/3r2NK b - - 10 23"]
+[LichessURL "https://lichess.org/Z75d0JTy#45"]
+[PuzzleId "uYoKR"]
+[Themes "attraction backRankMate endgame master mate mateIn2 sacrifice short"]
+
+23... Rxg1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kxg1 Qd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "297"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rrk2/p4ppp/2N5/2p5/4n3/2P3P1/qr2PP1P/3R2K1 w - - 4 27"]
+[LichessURL "https://lichess.org/trMxpjIS/black#52"]
+[PuzzleId "0hQeY"]
+[Themes "attraction mate mateIn2 middlegame short"]
+
+27. Rxe8+ Kxe8 28. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "298"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b3kp1/p2Bp3/1p6/7Q/P7/1P1p1PPK/3r4 b - - 0 35"]
+[LichessURL "https://lichess.org/cmcdu1RT#69"]
+[PuzzleId "UQUKJ"]
+[Themes "advancedPawn advantage attraction endgame fork long promotion"]
+
+35... Rh1+ 36. Kxh1 d1=Q+ 37. Kh2 Qxd6+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "299"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1pp2k2/pb3qp1/7Q/5N1P/P7/1P6/1K5R w - - 0 33"]
+[LichessURL "https://lichess.org/w8ARf1R8/black#64"]
+[PuzzleId "VlV4f"]
+[Themes "advantage attraction endgame fork veryLong"]
+
+33. Qh7+ Qg7 34. Qxg7+ Kxg7 35. Ne6+ Kh6 36. Nxd8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "300"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1Np4p/p1p5/4P1pb/2P2p2/1P5P/P4RP1/3rRK2 b - - 0 26"]
+[LichessURL "https://lichess.org/3JhQtaGZ#51"]
+[PuzzleId "rSmWL"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26... Rxe1+ 27. Kxe1 Rd1# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "301"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/1p3ppp/p2N1p2/8/8/8/q4PP1/4RK2 w - - 0 26"]
+[LichessURL "https://lichess.org/1hdOWij5/black#50"]
+[PuzzleId "3j1Tk"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26. Rxf8+ Kxf8 27. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "302"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/6kp/4q1n1/8/6Q1/5R1K b - - 6 43"]
+[LichessURL "https://lichess.org/t0m01U6I#85"]
+[PuzzleId "8rtlX"]
+[Themes "attraction crushing endgame exposedKing fork long master"]
+
+43... Qxg2+ 44. Kxg2 Ne3+ 45. Kg1 Nxf1 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "303"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R2rk/p4pp1/2p4p/1p6/6q1/2P5/PPB5/1K1R4 w - - 2 30"]
+[LichessURL "https://lichess.org/L4vK3hYf/black#58"]
+[PuzzleId "gGALz"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+30. Rxg8+ Kxg8 31. Rd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "304"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/p7/PpK2R2/2p1P3/6b1/7r/2q5/5R2 w - - 0 43"]
+[LichessURL "https://lichess.org/c4Nepdb8/black#84"]
+[PuzzleId "E8qsL"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+43. Rf8+ Bc8 44. Rxc8+ Kxc8 45. Rf8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "305"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R1rk/p5pp/1p6/1Q6/3p1n2/5PqP/P1PN2P1/7K w - - 8 31"]
+[LichessURL "https://lichess.org/Rhz5yFxO/black#60"]
+[PuzzleId "1VZek"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+31. Rxg8+ Kxg8 32. Qe8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "306"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R3r2/1P4k1/8/3pr3/8/4P1P1/4K3/8 w - - 1 44"]
+[LichessURL "https://lichess.org/daZlPTtv/black#86"]
+[PuzzleId "W0i1z"]
+[Themes "advancedPawn attraction crushing endgame promotion rookEndgame short"]
+
+44. Rxf8 Kxf8 45. b8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "307"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2k2/p3rP2/2pB3p/7q/2B1p3/5R1P/P5PK/8 w - - 3 31"]
+[LichessURL "https://lichess.org/kLRtgiUI/black#60"]
+[PuzzleId "vv6vE"]
+[Themes "advancedPawn attraction crushing middlegame promotion short"]
+
+31. Bxe7+ Kxe7 32. f8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "308"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1rk1/1p3ppp/p1p1b3/Q7/8/P4B1P/1q3PP1/6K1 w - - 2 26"]
+[LichessURL "https://lichess.org/EvIRcVlz/black#50"]
+[PuzzleId "PEfzD"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+26. Rxf8+ Kxf8 27. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "309"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppb3Np/2pp2pP/6P1/4P3/1P1P4/1P1K4/5R2 w - - 1 32"]
+[LichessURL "https://lichess.org/QYbZy7XJ/black#62"]
+[PuzzleId "i0BAX"]
+[Themes "attraction crushing endgame fork long"]
+
+32. Rxf8+ Kxf8 33. Ne6+ Ke7 34. Nxc7 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "310"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R1rk/1b3p1p/p4P2/1prp2Pp/7P/P7/1PP5/2K1R3 w - - 1 31"]
+[LichessURL "https://lichess.org/QkCsw7ex/black#60"]
+[PuzzleId "BqprD"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+31. Rxg8+ Kxg8 32. Re8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "311"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/3Pkp1p/3q2p1/1pQ1N3/8/7P/1P3PPK/8 w - - 6 34"]
+[LichessURL "https://lichess.org/lJ8MqcqU/black#66"]
+[PuzzleId "5a9Md"]
+[Themes "advantage attraction endgame fork long"]
+
+34. Qxd6+ Kxd6 35. Nxf7+ Kc7 36. Nxd8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "312"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p1Rrk1/7p/p5p1/P3B3/1n5P/6P1/6K1 w - - 2 39"]
+[LichessURL "https://lichess.org/ZievItW0/black#76"]
+[PuzzleId "dFmbz"]
+[Themes "advantage attraction endgame fork long master"]
+
+39. Rxf7+ Kxf7 40. Bd5+ Kf6 41. Bxb3 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "313"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3nkrp1/1p2p2r/1QppP2p/P2q3P/6P1/P5PK/1R3R2 w - - 0 24"]
+[LichessURL "https://lichess.org/CSYkxacU/black#46"]
+[PuzzleId "nhey1"]
+[Themes "attraction crushing middlegame short"]
+
+24. Rxf7+ Kxf7 25. Qxd7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "314"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p1P3p/2p3pP/2n5/8/2P2R2/4r3/1K3R2 w - - 0 39"]
+[LichessURL "https://lichess.org/KZ5k2iv6/black#76"]
+[PuzzleId "RkXg8"]
+[Themes "advancedPawn advantage attraction endgame long promotion"]
+
+39. Rf8+ Rxf8 40. Rxf8+ Kxf8 41. d8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "315"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rrk1/3Q1ppp/p2p4/2pP4/2p2q2/PP5P/6P1/7K w - - 0 29"]
+[LichessURL "https://lichess.org/a2uI3Bvb/black#56"]
+[PuzzleId "Zqty8"]
+[Themes "attraction endgame mate mateIn2 short"]
+
+29. Rxf8+ Kxf8 30. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "316"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/6p1/p2N3p/Pp1Qq3/1P6/7P/6PK/8 w - - 13 37"]
+[LichessURL "https://lichess.org/roWx6dAv/black#72"]
+[PuzzleId "Wgte9"]
+[Themes "attraction crushing endgame fork long"]
+
+37. Qxe5 Rxe5 38. Nf7+ Kg8 39. Nxe5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "317"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R1bk2/2P3pp/4K1n1/p7/5P2/8/8/8 w - - 1 46"]
+[LichessURL "https://lichess.org/eBDMQ5KJ/black#90"]
+[PuzzleId "SIcrK"]
+[Themes "advancedPawn attraction endgame mate mateIn2 promotion short"]
+
+46. Rxe8+ Kxe8 47. c8=Q# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "318"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbR1rk1/pp3pp1/2p1p3/4P1p1/2P5/1P6/P3BPPP/3R2K1 w - - 0 20"]
+[LichessURL "https://lichess.org/LTv2Emru/black#38"]
+[PuzzleId "qrIYl"]
+[Themes "advantage attraction fork long middlegame"]
+
+20. Rxf8+ Kxf8 21. Rd8+ Ke7 22. Rxc8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "319"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/7p/3PP1p1/8/6P1/3R4/6K1/q4r2 w - - 1 44"]
+[LichessURL "https://lichess.org/9U9TH5ZV/black#86"]
+[PuzzleId "ndaED"]
+[Themes "advancedPawn attraction crushing endgame exposedKing long promotion queenRookEndgame"]
+
+44. d7+ Kd8 45. e7+ Kxe7 46. d8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "320"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/3r1b2/8/8/3K2B1/8/5R2 w - - 47 69"]
+[LichessURL "https://lichess.org/SMezYl1d/black#136"]
+[PuzzleId "srtfH"]
+[Themes "attraction crushing endgame short"]
+
+69. Bxd6+ Kxd6 70. Rxf6+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "321"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/7p/Rb3k2/1r3p2/5N1P/4KPP1/8 w - - 6 37"]
+[LichessURL "https://lichess.org/AumLVn7M/black#72"]
+[PuzzleId "1txz7"]
+[Themes "attraction crushing endgame fork long sacrifice"]
+
+37. Rxb5+ Rxb5 38. Nd4+ Ke5 39. Nxb5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "322"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/pp3Bpp/8/6p1/8/3P4/PP6/2KR3R w - - 0 23"]
+[LichessURL "https://lichess.org/81e5oWzZ/black#44"]
+[PuzzleId "uPOwJ"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+23. Rxh7+ Kxh7 24. Rh1+ Bh3 25. Rxh3# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "323"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p5bR/2p1P3/1p1bp3/8/P7/1PP1K3/8 w - - 4 44"]
+[LichessURL "https://lichess.org/zx4ZvBnj/black#86"]
+[PuzzleId "CXFV7"]
+[Themes "advancedPawn advantage attraction deflection endgame master short"]
+
+44. e7+ Kxe7 45. Rxg7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "324"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/1p3p1k/p3pPpp/8/3PQ2R/1q5P/6P1/6K1 w - - 2 34"]
+[LichessURL "https://lichess.org/JT0HoQoP/black#66"]
+[PuzzleId "FlXU2"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+34. Rxh6+ Kxh6 35. Qh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "325"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/1p2kq2/p1n2p2/4p2Q/8/2P4P/PP3PP1/3R2K1 w - - 7 27"]
+[LichessURL "https://lichess.org/uRPT99RA/black#52"]
+[PuzzleId "Z4Evz"]
+[Themes "attraction crushing deflection endgame short"]
+
+27. Rd7+ Kxd7 28. Qxf7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "326"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/pp1b2pk/2p4p/3pq3/4pN2/8/PPP3P1/5RK1 w - - 4 29"]
+[LichessURL "https://lichess.org/kqbFkJb0/black#56"]
+[PuzzleId "1YKCR"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+29. Rh8+ Kxh8 30. Ng6+ Kh7 31. Nxe5 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "327"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/1p2Rr1p/p1p2pk1/8/3PN3/3K3P/PP3PP1/8 w - - 2 32"]
+[LichessURL "https://lichess.org/k68F7TgL/black#62"]
+[PuzzleId "rNX7w"]
+[Themes "attraction crushing endgame fork long"]
+
+32. Rxf7 Kxf7 33. Nd6+ Ke6 34. Nxc8 *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "328"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pb3p1p/1p3PpQ/2pp2P1/4q3/2P5/PP4R1/5RK1 w - - 2 34"]
+[LichessURL "https://lichess.org/Cn1ZiUGp/black#66"]
+[PuzzleId "yPbFb"]
+[Themes "attraction endgame kingsideAttack long mate mateIn3 sacrifice"]
+
+34. Qxh7+ Kxh7 35. Rh2+ Qh4 36. Rxh4# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "329"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2bk1/4pp1p/6p1/P2P4/8/2Q1P2P/3r1qPK/8 w - - 1 32"]
+[LichessURL "https://lichess.org/0syCI6LT/black#62"]
+[PuzzleId "nWoc2"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+32. Rxf8+ Kxf8 33. Qh8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "330"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P7/8/8/4bk2/3p1p2/1p3K2/4R3 w - - 0 51"]
+[LichessURL "https://lichess.org/UkvSiuvS/black#100"]
+[PuzzleId "DcaA3"]
+[Themes "advancedPawn attraction crushing endgame promotion short"]
+
+51. Rxe4+ Kxe4 52. a8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "331"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4bppp/qpr5/2p5/4PP2/P2R4/6PP/3Q2K1 w - - 0 29"]
+[LichessURL "https://lichess.org/ZQnUqHHx/black#56"]
+[PuzzleId "iBHre"]
+[Themes "attraction endgame long master mate mateIn3 sacrifice"]
+
+29. Rd8+ Bf8 30. Rxf8+ Kxf8 31. Qd8# *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "332"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p2b1Pr1/1p1p4/3Pn2B/8/2P1q3/P4RQP/6K1 w - - 1 40"]
+[LichessURL "https://lichess.org/rtZVA3pF/black#78"]
+[PuzzleId "IPZ0n"]
+[Themes "advancedPawn advantage attraction master middlegame promotion short"]
+
+40. Qxg7+ Kxg7 41. f8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "333"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2k2r/3qppbp/2bp1np1/2p3N1/5B2/2P1P3/P4PPP/1R2KB1R w Kk - 0 18"]
+[LichessURL "https://lichess.org/uvLsG51F/black#34"]
+[PuzzleId "06Z0u"]
+[Themes "advantage attraction long middlegame"]
+
+18. Rxb8+ Qd8 19. Rxd8+ Kxd8 20. Nxf7+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "334"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7P/2R3K1/p7/8/2r5/2kp4/8 w - - 6 63"]
+[LichessURL "https://lichess.org/WtdDwwUS/black#124"]
+[PuzzleId "JocB4"]
+[Themes "advancedPawn attraction crushing endgame master masterVsMaster promotion rookEndgame short"]
+
+63. Rxc3+ Kxc3 64. h8=Q+ *
+
+
+
+[Event "Attraction"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "335"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/6pp/1qp2p2/7R/pnBP4/1p2r3/4Q1PP/2R3K1 w - - 0 32"]
+[LichessURL "https://lichess.org/SwBU6DdN/black#62"]
+[PuzzleId "hWTuS"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+32. Rxh7+ Kxh7 33. Qh5# *
+
+
+

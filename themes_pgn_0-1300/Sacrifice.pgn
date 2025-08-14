@@ -1,0 +1,7012 @@
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/2p5/p2r1qP1/1n6/1P1P4/P3QP2/1K1RR3 w - - 0 26"]
+[LichessURL "https://lichess.org/Ivo5qM9m/black#50"]
+[PuzzleId "n2GVM"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+26. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxe8 27. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/1pp1q2p/8/5p2/2PP4/6Q1/5PPP/R5K1 b - - 2 24"]
+[LichessURL "https://lichess.org/DhfiRsJb#47"]
+[PuzzleId "gjlCN"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/p3Q1pp/1p3p2/2p5/2Pp4/3q2P1/PP3P2/4R1K1 w - - 0 28"]
+[LichessURL "https://lichess.org/lxLkAuO0/black#54"]
+[PuzzleId "4371k"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+28. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Rxe8 29. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/6pp/P1p1q3/2Qp4/8/P1P5/5PPP/R5K1 b - - 0 32"]
+[LichessURL "https://lichess.org/pCPxzMEV#63"]
+[PuzzleId "qSq7h"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+32... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p1q2ppp/2p5/1p3b2/3B1b2/1PP2N1P/1P2QPP1/4R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/cZiaRMVy/black#44"]
+[PuzzleId "uB1Jy"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+23. Qe8+ Rxe8 24. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/6pp/P1Q5/4q3/8/2P2pP1/1P3P1P/R6K b - - 0 34"]
+[LichessURL "https://lichess.org/rRPGrpBO#67"]
+[PuzzleId "OClVI"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+34... Qe1+ 35. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/p7/1p2p3/1Pb5/P3PPq1/3QN1P1/3R1K2 w - - 2 35"]
+[LichessURL "https://lichess.org/MKXrPyHZ/black#68"]
+[PuzzleId "LuhR8"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+35. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35... Rxd8 36. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b2r2k/pp2qp2/2p2np1/2Pp1BB1/3P4/2P2Q1P/P4PP1/1R4K1 b - - 1 24"]
+[LichessURL "https://lichess.org/roTjoEei#47"]
+[PuzzleId "CQz7Z"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+24... Qe1+ 25. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/p1n2rpp/8/8/8/4Q1P1/Pq5P/4R1K1 w - - 0 29"]
+[LichessURL "https://lichess.org/0kHmOoNZ/black#56"]
+[PuzzleId "FWAO8"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+29. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Nxe8 30. Rxe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Rf8 31. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/4b2Q/1ppq1pB1/p5p1/P7/2P1B3/1P3PPP/R5K1 b - - 2 30"]
+[LichessURL "https://lichess.org/R2pD5dEE#59"]
+[PuzzleId "QR2lU"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+30... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/1p1p1q2/3b4/8/8/P2NQPPP/4R1K1 w - - 0 22"]
+[LichessURL "https://lichess.org/b1rHOoIh/black#42"]
+[PuzzleId "tWFIO"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+22. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22... Rxe8 23. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p3pp1/p3q2p/5b2/3Q4/8/PBPR1PPP/3R2K1 b - - 2 20"]
+[LichessURL "https://lichess.org/4h9h4nnt#39"]
+[PuzzleId "ixCvR"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+20... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/q3p3/8/8/1P3P2/P2Q1P1P/3R2K1 w - - 0 25"]
+[LichessURL "https://lichess.org/uaYbJzBA/black#48"]
+[PuzzleId "P9mwa"]
+[Themes "backRankMate endgame master mate mateIn2 sacrifice short"]
+
+25. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxd8 26. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b1r2k1/5ppp/1Qp5/3q4/PP2p3/2P1B2P/5PP1/R5K1 b - - 0 27"]
+[LichessURL "https://lichess.org/vmfuPXFW#53"]
+[PuzzleId "F768l"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+27... Qd1+ 28. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p3ppp/pq6/3p4/1Pr5/P1b5/4QPPP/2R1R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/qRmCjXMx/black#44"]
+[PuzzleId "5HjkD"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+23. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Rxe8 24. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4bk1/q4ppp/8/2p1B3/1p2RN2/1P4Q1/5PPP/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/8usBSfzw#57"]
+[PuzzleId "qVjyD"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+29... Qa1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Bxa1 Rxa1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Re1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br2kb/p1q2p1p/6pB/2pp1pN1/5P2/4Q3/PPP3PP/4RRK1 w - - 0 20"]
+[LichessURL "https://lichess.org/HVa0WWmW/black#38"]
+[PuzzleId "Pm7gv"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20. Qe8+ Rxe8 21. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppb/2p1q2p/3p4/PP1P1Q2/7P/5PPB/2R3K1 b - - 0 29"]
+[LichessURL "https://lichess.org/0YnTNLLN#57"]
+[PuzzleId "7Q6mx"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1pp2pp1/2n2q1p/p7/P6P/2P5/1PB1QPP1/4R1K1 w - - 0 30"]
+[LichessURL "https://lichess.org/2uoF0V19/black#58"]
+[PuzzleId "tfB9k"]
+[Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+30. Qe8+ Rxe8 31. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/ppN2pbp/4q1p1/8/8/1P3Q2/P4PPP/3R2K1 b - - 2 25"]
+[LichessURL "https://lichess.org/C3oaySNQ#49"]
+[PuzzleId "R74Jc"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+25... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/pp3Qpp/n1p5/8/4P3/2qP3P/P1P3P1/5R1K w - - 1 25"]
+[LichessURL "https://lichess.org/XRiv6Ruk/black#48"]
+[PuzzleId "Zppyo"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/p6p/Bp3p1n/7P/2P2R1Q/3q4/PP3PP1/K6R b - - 8 30"]
+[LichessURL "https://lichess.org/lsA8Ho2Y#59"]
+[PuzzleId "ukcei"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+30... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3p1p/2q2bpB/3R1b2/1pB5/1r2P2P/5PP1/3R2K1 w - - 2 30"]
+[LichessURL "https://lichess.org/qOUh7RPo/black#58"]
+[PuzzleId "O0lYD"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+
+30. Rd8+ Bxd8 31. Rxd8+ Qe8 32. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p4p1p/1p2p2P/8/7Q/6P1/PPPq4/1K4R1 b - - 5 34"]
+[LichessURL "https://lichess.org/XR7x5VI6#67"]
+[PuzzleId "vHD6H"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+34... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4ppp/2R5/3Nbb2/4p3/1P2P3/P3qPPP/2R3K1 w - - 1 27"]
+[LichessURL "https://lichess.org/0qbu4jZ6/black#52"]
+[PuzzleId "xvNIC"]
+[Themes "endgame master mate mateIn2 sacrifice short"]
+
+27. Rc8+ Bxc8 28. Rxc8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q4r1k/1p2Q1bp/2p2nB1/r7/8/1P4N1/1BPP1PP1/2KR3R b - - 0 19"]
+[LichessURL "https://lichess.org/qpwqHgRr#37"]
+[PuzzleId "w3w0h"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+19... Ra1+ 20. Bxa1 Qxa1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/6p1/2pp1p1p/2p1qP2/p3P2R/P2B3Q/1PP3PP/6K1 w - - 0 33"]
+[LichessURL "https://lichess.org/QPSJleWT/black#64"]
+[PuzzleId "RHxNo"]
+[Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+33. Rxh6+ gxh6 34. Qxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/pppk4/3b3Q/3P4/4r3/2B4P/PPP3P1/7K b - - 0 26"]
+[LichessURL "https://lichess.org/EajfaAsi#51"]
+[PuzzleId "1njzU"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+26... Re1+ 27. Bxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/r4Bpp/p7/1p5Q/8/P2qPK2/1b6/5R1R w - - 2 27"]
+[LichessURL "https://lichess.org/GChrD3tV/black#52"]
+[PuzzleId "nq5sQ"]
+[Themes "attraction long mate mateIn3 middlegame sacrifice"]
+
+27. Qxh7+ Qxh7 28. Rxh7+ Kxh7 29. Rh1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/3q2pp/5B2/4pP2/1Q6/2P5/5PPP/R5K1 b - - 0 23"]
+[LichessURL "https://lichess.org/AROs4SGT#45"]
+[PuzzleId "Nosp8"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+23... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pp3Qpp/3p2p1/4p3/1P2P3/P6P/4q1P1/5RK1 w - - 2 29"]
+[LichessURL "https://lichess.org/uQmr8EVE/black#56"]
+[PuzzleId "9kfr1"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rxf8 30. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/6p1/1p1R4/2n2p2/8/4qP2/2Q3PP/3R3K b - - 6 40"]
+[LichessURL "https://lichess.org/xEDeOfWo#79"]
+[PuzzleId "FB3Ou"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+40... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+41. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/2q3pp/p4bp1/5p2/8/1Pp4P/PB2QPP1/4R1K1 w - - 0 30"]
+[LichessURL "https://lichess.org/itBCgevd/black#58"]
+[PuzzleId "h7KGY"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+30. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Rxe8 31. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/1Qp2p1p/3p4/3Pq3/8/2P5/PP3PPP/R5K1 b - - 0 23"]
+[LichessURL "https://lichess.org/Y4j7vCQZ#45"]
+[PuzzleId "EAOdx"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+23... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p3ppp/p1p2q2/8/P3Q3/1P5P/2P2PP1/4R1K1 w - - 1 24"]
+[LichessURL "https://lichess.org/51wz3iMA/black#46"]
+[PuzzleId "fsUrJ"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "36"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/5ppp/4p3/1b1pN2N/3p2QP/Pp3R2/1Pq2PP1/K6R b - - 4 25"]
+[LichessURL "https://lichess.org/hXSd4DWz#49"]
+[PuzzleId "UDlVs"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+25... Qc1+ 26. Rxc1 Rxc1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "37"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/p7/3Q4/8/5P2/PPP4q/2KR4 w - - 1 21"]
+[LichessURL "https://lichess.org/BZ6DEdRt/black#40"]
+[PuzzleId "svS47"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+21. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Rxd8 22. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "38"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k2rbr1/ppR4R/3p2p1/2pP1bP1/8/5N2/PQPNqPP1/2K5 b - - 7 21"]
+[LichessURL "https://lichess.org/DErodvuK#41"]
+[PuzzleId "I0iCG"]
+[Themes "master mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+21... Qe1+ 22. Nxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "39"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k6r/ppQ1bppp/3p4/3P4/5p1q/1P3P2/P2P2PP/2R1rBKR w - - 1 20"]
+[LichessURL "https://lichess.org/TGoPuhb6/black#38"]
+[PuzzleId "RU1S7"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+20. Qc8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+20... Rxc8 21. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "40"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/p5kp/bpp2q2/3p1r2/P7/1P1P2P1/2PQ2BP/7K b - - 1 36"]
+[LichessURL "https://lichess.org/ydT6GF70#71"]
+[PuzzleId "cZoWV"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+36... Rf1+ 37. Bxf1 Qxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "41"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p4ppp/2p5/n3r3/2P5/5Q2/Pq4PP/RN3R1K w - - 0 21"]
+[LichessURL "https://lichess.org/O4fvexDd/black#40"]
+[PuzzleId "bP86V"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+21. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Kh8 22. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22... Rxf8 23. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "42"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1b1r4/p5Q1/1p6/4Pq2/8/PPPN4/1K3R2 b - - 2 31"]
+[LichessURL "https://lichess.org/CtE2U4Lg#61"]
+[PuzzleId "Nhj6d"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+31... Qxf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+32. Nxf1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "43"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/p3b3/1p1p4/8/7P/r4rP1/2R1R1K1 w - - 2 34"]
+[LichessURL "https://lichess.org/Lc1HGmfN/black#66"]
+[PuzzleId "8LUoE"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+34. Rc8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Bxc8 35. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "44"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1n1pp/2nqPp2/7b/2B1P3/1NQ1B3/PP3PPP/R3K2R b KQ - 4 15"]
+[LichessURL "https://lichess.org/7UWfEnGG#29"]
+[PuzzleId "k6Dje"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+15... Qd1+ 16. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/pp2npp1/4b3/2q5/8/2r2P1N/PKBQ2PP/3R3R w - - 4 25"]
+[LichessURL "https://lichess.org/9GrNyc5u/black#48"]
+[PuzzleId "ETxxj"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+25. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxd8 26. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "46"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3ppp/2pbq3/6B1/3P4/5Q1P/PPP2PP1/2R3K1 b - - 4 19"]
+[LichessURL "https://lichess.org/W0BjC6X8#37"]
+[PuzzleId "mqNwh"]
+[Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+19... Qe1+ 20. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "47"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/pp3Qp1/1b5p/3pn3/1P4q1/PN1BP3/7P/5R1K w - - 2 29"]
+[LichessURL "https://lichess.org/3XoBH7So/black#56"]
+[PuzzleId "gUZEi"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+29. Qf8+ Rxf8 30. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "48"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/3k2p1/1B6/3Nn3/1bP5/1P4Pp/P4P1P/6KB b - - 4 28"]
+[LichessURL "https://lichess.org/51GuFS6A#55"]
+[PuzzleId "bN8za"]
+[Themes "clearance endgame mate mateIn2 sacrifice short"]
+
+28... Nf3+ 29. Bxf3 Re1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pp3Qp1/2p4p/3p4/3p4/P2Br1q1/1P6/3R1R1K w - - 0 28"]
+[LichessURL "https://lichess.org/5rDxMsum/black#54"]
+[PuzzleId "LsDWW"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+28. Qf8+ Rxf8 29. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "50"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/8/1p3p1p/p2brPpB/3q4/P5Q1/1P3RPP/3R3K b - - 1 32"]
+[LichessURL "https://lichess.org/scJH5POG#63"]
+[PuzzleId "19VbA"]
+[Themes "fork long mate mateIn3 middlegame sacrifice"]
+
+32... Qxd1+ 33. Bxd1 Re1+ 34. Rf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "51"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5p1p/p3p1pB/n3P3/8/2Q3P1/q6P/2R4K w - - 0 29"]
+[LichessURL "https://lichess.org/b1nqo4KY/black#56"]
+[PuzzleId "y6rNQ"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+29. Qc8+ Rxc8 30. Rxc8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p2q1ppp/1pp5/4bQ2/4P3/2P1B2P/PP3PP1/R5K1 b - - 1 21"]
+[LichessURL "https://lichess.org/jhaDpMva#41"]
+[PuzzleId "ctEFC"]
+[Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+21... Qd1+ 22. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "53"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4p3/3pP1q1/b2P4/2r4P/P4QP1/R4RK1 w - - 0 28"]
+[LichessURL "https://lichess.org/PCJDXsfu/black#54"]
+[PuzzleId "TBAhb"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Kh8 29. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rxf8 30. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "54"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3r1k/1p2R1pp/pB6/P4q2/3P4/1Q6/5PPP/3R2K1 b - - 0 27"]
+[LichessURL "https://lichess.org/Wfcvax2o#53"]
+[PuzzleId "CO1uJ"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+27... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "55"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3ppp/8/3p4/8/P2P1Q1P/1q4P1/5R1K w - - 0 24"]
+[LichessURL "https://lichess.org/8vkBQJy3/black#46"]
+[PuzzleId "ZMu1D"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+24. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Kh8 25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "56"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/Q4p1p/4p1p1/8/2B3P1/3q1P2/PP5P/K6R b - - 0 25"]
+[LichessURL "https://lichess.org/8MQwzuLx#49"]
+[PuzzleId "DPj5M"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+25... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "57"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/Q4ppp/p1p1p3/P7/2P1q3/7P/6P1/5R1K w - - 3 38"]
+[LichessURL "https://lichess.org/8r6zRyAX/black#74"]
+[PuzzleId "XxYbI"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+38. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+38... Kh8 39. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+39... Rxf8 40. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/6p1/7p/p7/2Q5/8/P3RqPP/2R4K b - - 3 23"]
+[LichessURL "https://lichess.org/EeKFb6yr#45"]
+[PuzzleId "tDhx4"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+23... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "59"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3ppp/4p3/b2pP1P1/3P4/1P2PQKP/q1r5/5R2 w - - 4 30"]
+[LichessURL "https://lichess.org/ubc033tH/black#58"]
+[PuzzleId "9dQwI"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+30. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Kh8 31. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Rxf8 32. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "60"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pppb3p/4p1p1/2bp2B1/8/2NB3Q/PPP1RqPP/R6K b - - 1 18"]
+[LichessURL "https://lichess.org/ZYtHNbYh#35"]
+[PuzzleId "fuBvB"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+18... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+19. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "61"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rqrk/1p3p2/p4Pp1/2p4p/2Pp3Q/7R/PPP1p1PP/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/7VkLKHyx/black#52"]
+[PuzzleId "uzGYn"]
+[Themes "endgame exposedKing kingsideAttack long mate mateIn3 sacrifice"]
+
+27. Qxh5+ gxh5 28. Rxh5+ Qh6 29. Rxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "62"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/pR6/5p2/4q1p1/6Q1/5P1p/PP3P1P/3R2K1 b - - 1 31"]
+[LichessURL "https://lichess.org/quitCZLm#61"]
+[PuzzleId "fBCab"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+31... Qe1+ 32. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "63"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/2q5/8/3P4/PQ1nP1P1/7P/5RK1 w - - 0 29"]
+[LichessURL "https://lichess.org/Z7aQrSFo/black#56"]
+[PuzzleId "2VN0f"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+29. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Kh8 30. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Rxf8 31. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "64"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k2r1/R7/5R2/p1p3rp/P7/3P1N2/1P3b1P/7K b - - 8 42"]
+[LichessURL "https://lichess.org/SLcUkUg6#83"]
+[PuzzleId "agS29"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+42... Rg1+ 43. Nxg1 Rxg1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "65"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/pp3ppp/3p1b2/2pq4/8/1P2Q2P/P1PBRPP1/4R1K1 w - - 0 20"]
+[LichessURL "https://lichess.org/JpwhM7Lr/black#38"]
+[PuzzleId "9k3mt"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+20. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+20... Rxe8 21. Rxe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Rxe8 22. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "66"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/p1b3p1/1p6/4p1P1/4Q2P/PPqR2K1/8 b - - 2 35"]
+[LichessURL "https://lichess.org/58GNd7qH#69"]
+[PuzzleId "qXOGR"]
+[Themes "advancedPawn attraction crushing discoveredAttack endgame long sacrifice"]
+
+35... Qxd2+ 36. Qxd2 e3+ 37. Kf1 exd2 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "67"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1pp2p2/1p6/3nQ3/b7/1RP2P2/PPq3rP/K3R3 w - - 9 32"]
+[LichessURL "https://lichess.org/UvMKHi9V/black#62"]
+[PuzzleId "c2O3d"]
+[Themes "mate mateIn4 middlegame queensideAttack sacrifice veryLong"]
+
+32. Qe8+ Bxe8 33. Rxe8+ Ka7 34. Ra3+ Qa4 35. Rxa4# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "68"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp4pp/8/3QP3/N7/PP6/5qPP/2R4K b - - 0 27"]
+[LichessURL "https://lichess.org/SEOSTXVh#53"]
+[PuzzleId "Qm6y1"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+27... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "69"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p6p/1qp1b1pB/4b2n/4P3/2N2Q2/PPP3PP/2K2R2 w - - 0 19"]
+[LichessURL "https://lichess.org/RxGDbUz9/black#36"]
+[PuzzleId "YRAtW"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+19. Qf8+ Rxf8 20. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "70"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2r1k/2p3pp/p3pq2/1p2N2n/3PB3/2P1R2Q/P4PPP/1R4K1 b - - 11 22"]
+[LichessURL "https://lichess.org/pabz11nS#43"]
+[PuzzleId "4Oh7O"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+22... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "71"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3ppp/2b1p3/q3P1bQ/8/2N5/PPP3PP/1K3R2 w - - 0 20"]
+[LichessURL "https://lichess.org/TqUnOv6n/black#38"]
+[PuzzleId "PD7BS"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+20. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+20... Kh8 21. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Rxf8 22. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "72"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4kp/1P1p4/2nP4/2P2PP1/p5KP/8/1B6 b - - 1 46"]
+[LichessURL "https://lichess.org/0mq9sLKY#91"]
+[PuzzleId "OpGoI"]
+[Themes "advancedPawn advantage endgame sacrifice short"]
+
+46... Ne4+ 47. Bxe4 a2 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "73"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bbnr1k/6pp/p1qpB3/1p4p1/4PN2/6Q1/PPP2PPP/R3R1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/9CqwPBRK/black#34"]
+[PuzzleId "IeWii"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+18. Ng6+ hxg6 19. Qh3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "74"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/4q2p/6p1/8/3Q4/3B1P2/PPP3n1/1K5R b - - 0 30"]
+[LichessURL "https://lichess.org/e3wM2Gqh#59"]
+[PuzzleId "3mQUr"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+30... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "75"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p1r2ppp/1p6/4p1PP/2q1P3/P7/1PPQ3R/2KR4 w - - 3 24"]
+[LichessURL "https://lichess.org/ye5uEw1B/black#46"]
+[PuzzleId "ayQzZ"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxd8 25. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "76"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/8/3Q2pr/p2P1q2/1p6/6R1/PPP5/1K4R1 b - - 0 33"]
+[LichessURL "https://lichess.org/fCeDlZi6#65"]
+[PuzzleId "eBLTX"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+33... Qxc2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+34. Ka1 Qc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35. Rxc1 Rxc1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "77"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/1B2r1pp/P3Pk2/b4P2/4K1R1/7r/6R1 w - - 0 38"]
+[LichessURL "https://lichess.org/KKM4U7UA/black#74"]
+[PuzzleId "yhAFD"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+38. Rg5+ hxg5 39. Rxg5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "78"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2r2/pp3q2/3bR1Np/3p2pQ/3P4/2N5/PPP2PPP/R5K1 b - - 0 19"]
+[LichessURL "https://lichess.org/zAYH6bky#37"]
+[PuzzleId "XOs5F"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+19... Qxf2+ 20. Kh1 Qf1+ 21. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/Q5pp/p7/Pq1p2P1/1Pp4r/2Pn4/7N/R4RK1 w - - 0 32"]
+[LichessURL "https://lichess.org/eRS3RdVw/black#62"]
+[PuzzleId "FnJdT"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+32. Qf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+32... Kh8 33. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33... Rxf8 34. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "80"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2r2/1pp3pp/p5r1/8/2Q5/2PPBqP1/PP3P2/5RKR b - - 0 28"]
+[LichessURL "https://lichess.org/BjgwdnUZ#55"]
+[PuzzleId "pc8C9"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+28... Rxg3+ 29. fxg3 Qxg3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "81"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1rk/pp4p1/6Qp/8/8/7R/Pq3PPP/5RK1 w - - 0 28"]
+[LichessURL "https://lichess.org/XwWFGAw8/black#54"]
+[PuzzleId "NDctU"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+28. Rxh6+ gxh6 29. Qxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "82"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p7/3Nb1pp/8/2P1Q3/2P1P1P1/P3q1PP/R5K1 b - - 2 26"]
+[LichessURL "https://lichess.org/ox88tijP#51"]
+[PuzzleId "Ypwla"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+26... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "83"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rbk1/3r2pp/p7/1p1r1p1Q/2pP1q2/2P4P/PP3PP1/4R1K1 w - - 6 31"]
+[LichessURL "https://lichess.org/NYBKeNhl/black#60"]
+[PuzzleId "V6LEA"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+31. Rxf8+ Kxf8 32. Qe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "84"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/p5p1/1p2p1Qp/2q5/2P4R/8/PP3PPP/1B1R2K1 b - - 0 24"]
+[LichessURL "https://lichess.org/BDmFa81X#47"]
+[PuzzleId "sK2TI"]
+[Themes "backRankMate fork long mate mateIn3 middlegame sacrifice"]
+
+24... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "85"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/8/3Pb1N1/1q2N3/3Q4/PP3PPP/1K5R w - - 5 20"]
+[LichessURL "https://lichess.org/VTJVeMSz/black#38"]
+[PuzzleId "ROhzS"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20. Nf6+ gxf6 21. Qxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "86"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/pp3qpp/8/3pp1N1/8/2PQ4/PP2R1PP/4R2K b - - 0 25"]
+[LichessURL "https://lichess.org/3kJsFr93#49"]
+[PuzzleId "RpxgF"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+25... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "87"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/1p3ppp/pbn5/8/KP1p4/P1r1q3/Q2N2B1/5RR1 w - - 6 27"]
+[LichessURL "https://lichess.org/K3d24fak/black#52"]
+[PuzzleId "ATfpi"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+27. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+27... Kh8 28. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Rxf8 29. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "88"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/4Qpkp/6p1/q3p3/4P3/1B6/1PP2PPP/rNKR3R b - - 0 21"]
+[LichessURL "https://lichess.org/0LoEE7u4#41"]
+[PuzzleId "rk6gD"]
+[Themes "attraction mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+21... Rxb1+ 22. Kxb1 Qa1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "89"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3ppp/3p4/1R2b3/4P3/3P1Q1P/r1q3P1/5R1K w - - 5 23"]
+[LichessURL "https://lichess.org/LtmSbCFm/black#44"]
+[PuzzleId "L2A62"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+23. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Kh8 24. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxf8 25. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "90"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/3B3p/P3r3/2Pp1rP1/1Q1P4/1P2n1PK/R7 b - - 1 33"]
+[LichessURL "https://lichess.org/BkcxnxGc#65"]
+[PuzzleId "0Gm6u"]
+[Themes "anastasiaMate endgame mate mateIn2 sacrifice short"]
+
+33... Rh5+ 34. gxh5 Rh4# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "91"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n3k1/1p1q1pbp/p2P2p1/2pQ4/5B2/7P/BP4P1/7K w - - 2 39"]
+[LichessURL "https://lichess.org/hKNGXUpb/black#76"]
+[PuzzleId "ujJBx"]
+[Themes "advancedPawn advantage endgame promotion sacrifice veryLong"]
+
+39. Qxf7+ Qxf7 40. Bxf7+ Kxf7 41. d7 Ne7 42. d8=Q *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "92"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p1pp2pp/1p6/8/4Q3/P1B5/1P1q2PP/R5K1 b - - 4 27"]
+[LichessURL "https://lichess.org/GNP8OEfJ#53"]
+[PuzzleId "pWo6e"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+27... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "93"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p5p1/1p1R3p/2r1P3/5P1Q/P1q3PK/8/8 w - - 0 39"]
+[LichessURL "https://lichess.org/2T9YVTzr/black#76"]
+[PuzzleId "LnpfW"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+39. Rxh6+ gxh6 40. Qxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "94"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p4B1/p2bpq2/3p4/1P4Q1/2P4P/P5P1/R6K b - - 0 29"]
+[LichessURL "https://lichess.org/y08DayAL#57"]
+[PuzzleId "HrmQP"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+29... Qf1+ 30. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "95"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pppn2rp/2qn1p2/7Q/5P1N/1P1P3R/P3p1PP/4R1K1 w - - 6 31"]
+[LichessURL "https://lichess.org/Fb34KyUF/black#60"]
+[PuzzleId "eSuI5"]
+[Themes "deflection kingsideAttack mate mateIn2 middlegame pin sacrifice short"]
+
+31. Ng6+ Rxg6 32. Qxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "96"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp3p1p/3p1qp1/2pN3r/2PbP3/3Q1P2/PPR3PP/5R1K b - - 9 19"]
+[LichessURL "https://lichess.org/jwOQinwj#37"]
+[PuzzleId "MixXy"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+19... Rxh2+ 20. Kxh2 Qh4# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "97"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r2q1kp/2QpPp2/p1p3p1/8/7P/P1P1R1PK/8 w - - 6 45"]
+[LichessURL "https://lichess.org/HRakP3Hx/black#88"]
+[PuzzleId "r5WLU"]
+[Themes "advancedPawn advantage endgame promotion sacrifice veryLong"]
+
+45. Qxb7 Qxb7 46. e7 Qb5 47. e8=Q Qxe8 48. Rxe8 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/ppp3Qp/5n2/8/8/1Nq5/P1P2PPP/R5K1 b - - 0 20"]
+[LichessURL "https://lichess.org/VP0Er65u#39"]
+[PuzzleId "tNVqm"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+20... Qxa1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Nxa1 Rd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "99"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/pp1b2pk/2p4p/3pq3/4pN2/8/PPP3P1/5RK1 w - - 4 29"]
+[LichessURL "https://lichess.org/kqbFkJb0/black#56"]
+[PuzzleId "1YKCR"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+29. Rh8+ Kxh8 30. Ng6+ Kh7 31. Nxe5 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "100"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R2r1b1r/2kb1ppp/1B2pn2/1p1p4/3P4/4P3/1P3PPP/4KBNR b K - 0 16"]
+[LichessURL "https://lichess.org/5BGu7Aty#31"]
+[PuzzleId "DlMlD"]
+[Themes "advantage discoveredAttack long middlegame sacrifice"]
+
+16... Kxb6 17. Rxd8 Bb4+ 18. Kd1 Rxd8 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "101"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rbk1/1p1n1pB1/2p2np1/2qp4/p5P1/P1NB1P2/1PPQ4/2KR3R w - - 3 21"]
+[LichessURL "https://lichess.org/rngW9Fay/black#40"]
+[PuzzleId "GICHV"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Rh8+ Kxg7 22. Qh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "102"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/1Q2p3/8/PP6/3q4/2r2PPP/1RR3K1 b - - 0 26"]
+[LichessURL "https://lichess.org/Ajj8m9VI#51"]
+[PuzzleId "wNSjN"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+26... Rxc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxc1 Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "103"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4p1/p5p1/3kP3/PP2R1P1/3r4/8/6K1 w - - 1 47"]
+[LichessURL "https://lichess.org/wuS10EED/black#92"]
+[PuzzleId "jW3FB"]
+[Themes "advancedPawn advantage endgame long promotion rookEndgame sacrifice"]
+
+47. e6 Kxe4 48. e7 Kf4 49. e8=Q *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "104"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp1q1pp1/7p/2P5/3b1P2/2N1r2P/PP4P1/R2Q1R1K b - - 5 20"]
+[LichessURL "https://lichess.org/9dlQihMY#39"]
+[PuzzleId "M99VS"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20... Rxh3+ 21. gxh3 Qxh3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "105"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp2bpp1/2b4p/3q4/3PN3/3QBP1P/PnB3P1/R4RK1 w - - 0 21"]
+[LichessURL "https://lichess.org/iYx4C90W/black#40"]
+[PuzzleId "wbSwz"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Nf6+ gxf6 22. Qh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "106"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/p4pp1/1p1Q3p/4PP2/3R3P/6B1/PPP1qP2/1K1R4 b - - 0 29"]
+[LichessURL "https://lichess.org/oovoN5jo#57"]
+[PuzzleId "yW3iJ"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+29... Qxc2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Ka1 Qc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Rxc1 Rxc1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "107"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/6pp/4Qp2/p7/2pq4/7P/P5P1/4R2K w - - 4 39"]
+[LichessURL "https://lichess.org/uFyZiIpz/black#76"]
+[PuzzleId "EOgoh"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+39. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+39... Rxe8 40. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "108"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/5p1p/p2p1p2/4qP2/1ppQ4/8/PPP2PPP/3R1K1R b - - 0 23"]
+[LichessURL "https://lichess.org/14TbjUMY#45"]
+[PuzzleId "Dl5og"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+23... Qe2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kg1 Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "109"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2nk1/5ppp/2p5/8/5nP1/3Q3P/5q2/7K w - - 0 34"]
+[LichessURL "https://lichess.org/hvPyPnLw/black#66"]
+[PuzzleId "sj2tp"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+34. Rxf8+ Kxf8 35. Qd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "110"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pkp5/2n1K3/2P5/P3Q3/8/5r2/8 b - - 4 41"]
+[LichessURL "https://lichess.org/poWFRs7f#81"]
+[PuzzleId "4pdbw"]
+[Themes "attraction crushing endgame fork long pin sacrifice"]
+
+41... Re2 42. Qxe2 Nd4+ 43. Kd7 Nxe2 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "111"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/bpp2ppp/2p5/P3q3/8/1N3P2/P2Q2PP/3R3K w - - 0 24"]
+[LichessURL "https://lichess.org/Sjzy4u6e/black#46"]
+[PuzzleId "v5ZGH"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+24. Qd7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Kb8 25. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxd8 26. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "112"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Qnk1/5p1p/p2N2p1/B1pP1q1n/R2b1P2/1r4P1/6BP/5R1K b - - 2 29"]
+[LichessURL "https://lichess.org/0VYGjHgX#57"]
+[PuzzleId "2Az8d"]
+[Themes "clearance kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+29... Nxg3+ 30. hxg3 Qh5+ 31. Bh3 Qxh3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "113"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2nppp/2p5/q3p3/4N3/2PB3Q/PP3PPP/3R1RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/53MGWy5B/black#34"]
+[PuzzleId "3cDsU"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+18. Nf6+ gxf6 19. Qxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "114"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/2pR1pp1/p4r1p/Q7/4P2q/1P6/P1P2PPP/4R1K1 b - - 11 22"]
+[LichessURL "https://lichess.org/0XuRba27#43"]
+[PuzzleId "8rRrE"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+22... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "115"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3rk/pp2nqpp/4p3/3pP3/5PR1/4B2Q/PP3P1P/6RK w - - 3 26"]
+[LichessURL "https://lichess.org/tLjtHttZ/black#50"]
+[PuzzleId "MmoYF"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+26. Qxh7+ Kxh7 27. Rh4+ Qh5 28. Rxh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "116"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/4R1p1/5p1p/3k4/PN1n2PP/KP6/8/8 b - - 5 47"]
+[LichessURL "https://lichess.org/nRW6wnq0#93"]
+[PuzzleId "ERmug"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+47... Rxb4 48. Kxb4 Nc6+ 49. Kb5 Nxe7 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "117"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3r/p1p1q1k1/1bR5/6p1/2QNPp2/P4P2/5KP1/5R2 w - - 1 30"]
+[LichessURL "https://lichess.org/lc2lVTzS/black#58"]
+[PuzzleId "2Hk5e"]
+[Themes "crushing exposedKing fork long middlegame sacrifice"]
+
+30. Rxb6 cxb6 31. Nf5+ Kf6 32. Nxe7 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "118"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp4pp/2p1Q3/8/P7/2P3bP/1P2b1P1/RN3rBK b - - 6 24"]
+[LichessURL "https://lichess.org/TPUSLluQ#47"]
+[PuzzleId "zxbB4"]
+[Themes "attraction kingsideAttack master mate mateIn2 middlegame sacrifice short"]
+
+24... Rxg1+ 25. Kxg1 Rf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "119"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/pp3Qpp/2p1p3/4q3/2P5/1P2P2P/P5P1/5RK1 w - - 1 21"]
+[LichessURL "https://lichess.org/E8R3NXkZ/black#40"]
+[PuzzleId "oynVr"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+21. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Rxf8 22. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "120"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1pp3pp/4p2q/p2pPr2/P2P1p2/2P2P2/1PQR2PP/6RK b - - 5 23"]
+[LichessURL "https://lichess.org/JwtvUOVT#45"]
+[PuzzleId "gq789"]
+[Themes "attraction endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+23... Qxh2+ 24. Kxh2 Rh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "121"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2nk1/5ppp/4pP2/3pP1PP/3P4/1r6/1r6/K1R5 w - - 8 34"]
+[LichessURL "https://lichess.org/TdhFyEKt/black#66"]
+[PuzzleId "vMJvs"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+34. Rxf8+ Kxf8 35. Rc8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "122"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/6p1/p6p/1pp1P3/2pPR1nq/P1P4P/2QB2P1/R5K1 b - - 0 26"]
+[LichessURL "https://lichess.org/VjXx06eU#51"]
+[PuzzleId "kzbx9"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+26... Qf2+ 27. Kh1 Qf1+ 28. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "123"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbr2k1/pp2qpp1/4p1n1/3pP1PQ/3P4/3p4/PPP2PP1/RN4KR w - - 2 17"]
+[LichessURL "https://lichess.org/6bwcvqhJ/black#32"]
+[PuzzleId "JoJml"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+17. Qh7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+17... Kf8 18. Qh8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+18... Nxh8 19. Rxh8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "124"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/p1pp1p2/1p2p3/4PPq1/3QB3/8/PPP4P/2R2R1K b - - 0 20"]
+[LichessURL "https://lichess.org/OO9VDlkN#39"]
+[PuzzleId "YaRIb"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20... Rxh2+ 21. Kxh2 Rh8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "125"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4kr1/ppq2p2/2pbpQ2/8/2n5/4B2P/PPP2PP1/3RR1K1 w - - 4 26"]
+[LichessURL "https://lichess.org/7nVkuVgB/black#50"]
+[PuzzleId "1T1V1"]
+[Themes "crushing discoveredAttack fork middlegame sacrifice veryLong"]
+
+26. Bh6+ Ke8 27. Rxe6+ fxe6 28. Qxe6+ Qe7 29. Qxg8+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "126"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/4k2B/1r4p1/4p3/2nn4/6PP/5RK1 b - - 4 48"]
+[LichessURL "https://lichess.org/GN9q1pJX#95"]
+[PuzzleId "R0LXI"]
+[Themes "backRankMate endgame master mate mateIn4 sacrifice veryLong"]
+
+48... Ne2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+49. Kh1 Nf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+50. Rxf2 Rb1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+51. Rf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "127"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/5p1p/4qPr1/3pPR1Q/2pP2p1/PpP5/7P/2B3K1 w - - 4 36"]
+[LichessURL "https://lichess.org/NXrNxKaa/black#70"]
+[PuzzleId "2vxm9"]
+[Themes "attraction endgame kingsideAttack long master mate mateIn3 sacrifice"]
+
+36. Qxh7+ Kxh7 37. Rh5+ Rh6 38. Rxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "128"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp4p1/2p2n2/4r3/3q4/1B4Q1/PP3PPP/1R1R2K1 b - - 5 25"]
+[LichessURL "https://lichess.org/K1f2VKRX#49"]
+[PuzzleId "5bfya"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+25... Qxd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxd1 Re1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "129"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/pb3p1p/1p3PpQ/2pp2P1/4q3/2P5/PP4R1/5RK1 w - - 2 34"]
+[LichessURL "https://lichess.org/Cn1ZiUGp/black#66"]
+[PuzzleId "yPbFb"]
+[Themes "attraction endgame kingsideAttack long mate mateIn3 sacrifice"]
+
+34. Qxh7+ Kxh7 35. Rh2+ Qh4 36. Rxh4# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "130"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr5/pp3pQ1/2r1p2p/q1P4P/2pB1P2/3b4/PP4P1/K1R1R3 b - - 0 28"]
+[LichessURL "https://lichess.org/Y1iXqMFq#55"]
+[PuzzleId "B4qGf"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+28... Qxa2+ 29. Kxa2 Ra6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "131"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/2pKP3/1p3p2/p1B2np1/8/8/8 w - - 0 43"]
+[LichessURL "https://lichess.org/i3IR9O5D/black#84"]
+[PuzzleId "keK4s"]
+[Themes "advancedPawn advantage endgame exposedKing long sacrifice"]
+
+43. e7+ Ke8 44. Bf7+ Kxf7 45. Kd7 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "132"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kBb1/1p2P1K1/pPp3p1/P1P2p2/5P2/8/8 b - - 3 40"]
+[LichessURL "https://lichess.org/ZRYB0UiZ#79"]
+[PuzzleId "gvi6u"]
+[Themes "advancedPawn bishopEndgame crushing endgame long sacrifice"]
+
+40... g4 41. fxg4 f3 42. Kxg7 f2 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "133"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp4pp/2p1p3/6qP/3P4/2P2Q2/PP4P1/5RK1 w - - 1 25"]
+[LichessURL "https://lichess.org/pW4sD2fs/black#48"]
+[PuzzleId "JtqMy"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "134"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p2n4/2p4p/1p1pPqpp/3P3N/1BP3Q1/PP4PP/R6K b - - 1 28"]
+[LichessURL "https://lichess.org/m7flRVra#55"]
+[PuzzleId "ErdyH"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+28... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "135"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pb3ppp/6q1/1Ppr4/8/7P/P2NQPP1/R3R1K1 w - - 2 24"]
+[LichessURL "https://lichess.org/T1Dzaj3s/black#46"]
+[PuzzleId "ADbuX"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "136"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/pp3p1p/4q1p1/8/8/P1PP1Q1R/2P2PPP/1R5K b - - 0 27"]
+[LichessURL "https://lichess.org/w2CQJn0G#53"]
+[PuzzleId "Qjglm"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+27... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "137"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/6p1/1p5p/p2p2q1/P1p5/2P4b/1PB2QP1/5RK1 w - - 0 35"]
+[LichessURL "https://lichess.org/WSs6Ucpt/black#68"]
+[PuzzleId "tR3Eh"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+35. Qf8+ Rxf8 36. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "138"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2r2/ppp2qp1/4p3/1b1p4/3P4/Q3B3/PPP3PP/4R1K1 b - - 3 21"]
+[LichessURL "https://lichess.org/w2hmJhXJ#41"]
+[PuzzleId "fkBdX"]
+[Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
+
+21... Qf1+ 22. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "139"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/1p5n/5q2/5B2/4Q2P/P4PP1/4R1K1 w - - 2 24"]
+[LichessURL "https://lichess.org/mAt9zW1g/black#46"]
+[PuzzleId "WiXDR"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "140"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/2p2p2/1p1bq3/p7/P2P4/5Q1P/1PB2PP1/3R2K1 b - - 2 35"]
+[LichessURL "https://lichess.org/H4ipM6dh#69"]
+[PuzzleId "l81C4"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+35... Qe1+ 36. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "141"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1n3p2/p3pBr1/1p4p1/1r6/8/2PR4/2KR4 w - - 4 29"]
+[LichessURL "https://lichess.org/QoZpRIUi/black#56"]
+[PuzzleId "rLhS2"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+29. Rd8+ Nxd8 30. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "142"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp2qppp/2n5/3Q4/8/P6N/1PP2PPP/R5K1 b - - 2 21"]
+[LichessURL "https://lichess.org/h2xegBeC#41"]
+[PuzzleId "zsATm"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+21... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "143"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2kr/ppp2pp1/2n4p/3q2N1/8/4Q3/PP3PPP/R3R1K1 w - - 0 20"]
+[LichessURL "https://lichess.org/UtDuuoWS/black#38"]
+[PuzzleId "XlIZ6"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20. Qe8+ Rxe8 21. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "144"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/ppp2QRp/8/3p1P2/4q3/2P4P/PP5B/K5R1 b - - 2 29"]
+[LichessURL "https://lichess.org/b2otRGQQ#57"]
+[PuzzleId "Nx0Vn"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "145"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pq3ppp/8/P7/8/4Q3/2r2PPP/R3R1K1 w - - 3 27"]
+[LichessURL "https://lichess.org/GEcn1zQ1/black#52"]
+[PuzzleId "rf4PZ"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+27. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27... Rxe8 28. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "146"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n4k1/4rpp1/pQ1Nqp1p/2p5/2P5/5B2/PP3PPP/3R2K1 b - - 0 23"]
+[LichessURL "https://lichess.org/BAxhSoDE#45"]
+[PuzzleId "dyaLf"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+23... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "147"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k2r4/1p4pp/pP3b2/3q4/3P1P2/2Q1P3/P7/1KR5 w - - 1 34"]
+[LichessURL "https://lichess.org/Ap5513lb/black#66"]
+[PuzzleId "moN3X"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+34. Qc8+ Rxc8 35. Rxc8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "148"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/1pq3np/pP2p1p1/1b2N3/3P1PP1/4P3/3N1QP1/R3K2R b KQk - 0 23"]
+[LichessURL "https://lichess.org/zKujWE6n#45"]
+[PuzzleId "nFuSC"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+23... Qc1+ 24. Rxc1 Rxc1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "149"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p4ppp/1p6/2p1Q3/2P5/5qPb/PP3P1P/4R1K1 w - - 0 24"]
+[LichessURL "https://lichess.org/Iu6pkiH3/black#46"]
+[PuzzleId "TYxfl"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "150"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p2b1k2/4p3/3p4/3P1N2/Pp2B3/1PqR1P1P/K6R b - - 6 38"]
+[LichessURL "https://lichess.org/3ZQDx1dK#75"]
+[PuzzleId "NsmR0"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+38... Qc1+ 39. Rxc1 Rxc1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "151"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1b3ppp/2p2q2/pp1p4/8/P1P1QB2/1P3PPP/4R1K1 w - - 0 21"]
+[LichessURL "https://lichess.org/2ZyAbArQ/black#40"]
+[PuzzleId "SvHPH"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+21. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Rxe8 22. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "152"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/8/2Q3B1/3Rp3/P3P3/1P3qPP/R6K b - - 0 21"]
+[LichessURL "https://lichess.org/xjYr8ozL#41"]
+[PuzzleId "9WUrQ"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+21... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "153"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/2pQ4/pp6/8/P1P2q2/1P3P1P/3R2K1 w - - 0 30"]
+[LichessURL "https://lichess.org/kF4qimUO/black#58"]
+[PuzzleId "JkeR9"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+30. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Rxd8 31. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "154"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr1k2/5pp1/4p3/2p5/p2qP1NN/P6Q/1PR3PP/2R4K b - - 2 42"]
+[LichessURL "https://lichess.org/4F4SHKq9#83"]
+[PuzzleId "Rg8Hd"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+42... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+43. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "155"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/p7/3Pr1P1/pPq5/P4Q1P/5R1K/8 w - - 0 38"]
+[LichessURL "https://lichess.org/c8d6TRic/black#74"]
+[PuzzleId "qgITD"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+38. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+38... Kh8 39. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+39... Rxf8 40. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "156"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6p1/4p3/5qB1/8/1Q6/6PP/4R2K b - - 0 44"]
+[LichessURL "https://lichess.org/4zevo61D#87"]
+[PuzzleId "AGkyd"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+44... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+45. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "157"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r1b/pppQ4/4p3/4n1p1/1qP2p2/2N2P1B/PP3P2/2KR4 w - - 0 25"]
+[LichessURL "https://lichess.org/PqsrVbgP/black#48"]
+[PuzzleId "mwVFO"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+25. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxd8 26. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "158"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p1p2q1p/6pB/Q2N4/4P3/8/PPP2PPP/R5K1 b - - 0 23"]
+[LichessURL "https://lichess.org/hFuDF6TE#45"]
+[PuzzleId "n6Egy"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+23... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "159"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1pp2ppp/p7/5q2/8/P1P1Q2P/1P4P1/4R1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/Q9CSbIQt/black#50"]
+[PuzzleId "Ounvq"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+26. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxe8 27. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "160"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/pp6/5kp1/4r1q1/6P1/4P3/PPP3P1/2K4R b - - 0 28"]
+[LichessURL "https://lichess.org/Sj8JV9wy#55"]
+[PuzzleId "qJoJr"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+28... Qxe3+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kb1 Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "161"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbk3r/ppppnQ2/8/2b1P1qp/2B5/8/PPP3PP/RN3R1K w - - 0 15"]
+[LichessURL "https://lichess.org/H3dljAoe/black#28"]
+[PuzzleId "aWwOT"]
+[Themes "backRankMate mate mateIn2 opening sacrifice short"]
+
+15. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+15... Rxf8 16. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "162"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1Bk1/5ppp/p3p3/3q4/P1Q5/1P6/4NPPP/1R4K1 b - - 0 26"]
+[LichessURL "https://lichess.org/p0SnKVhm#51"]
+[PuzzleId "PFw4d"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+26... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "163"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5pp1/2p2q1p/1p1b4/6P1/1P1BQ2P/2P5/1K2R3 w - - 2 30"]
+[LichessURL "https://lichess.org/ovunN89a/black#58"]
+[PuzzleId "RYSi0"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+30. Qe8+ Rxe8 31. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "164"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/p4ppp/1p3n2/4q3/3P4/1PN2Q2/P1R2PPP/2R3K1 b - - 0 22"]
+[LichessURL "https://lichess.org/YxGAqKsP#43"]
+[PuzzleId "oCsxm"]
+[Themes "backRankMate master mate mateIn2 middlegame sacrifice short"]
+
+22... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "165"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3ppp/2p5/4p3/4n1P1/3q3P/5QB1/5R1K w - - 0 24"]
+[LichessURL "https://lichess.org/0HxeBADM/black#46"]
+[PuzzleId "q1iFE"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+24. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Kh8 25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "166"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p1p/3p1npb/3P4/qR6/4rB2/1Q4PP/3R3K b - - 1 30"]
+[LichessURL "https://lichess.org/ONt55MKw#59"]
+[PuzzleId "DtF5f"]
+[Themes "backRankMate master mate mateIn2 middlegame sacrifice short"]
+
+30... Qxd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Bxd1 Re1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "167"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5kr/pp1N1ppp/5b2/3p4/1Pn2q2/P7/4QPPP/R3R1K1 w - - 2 23"]
+[LichessURL "https://lichess.org/mzU8Z46o/black#44"]
+[PuzzleId "9x4TW"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+23. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Rxe8 24. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "168"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/ppp4p/r4p2/6p1/8/2Q2PBP/1PPqPPB1/1K4R1 b - - 7 27"]
+[LichessURL "https://lichess.org/W3bXlmAk#53"]
+[PuzzleId "WhmhH"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+27... Qd1+ 28. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "169"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqr2b/pp2pn1k/3p1nRB/6Qp/4P3/2N2P1P/PPP2P2/2KR4 w - - 0 18"]
+[LichessURL "https://lichess.org/q1knEVFM/black#34"]
+[PuzzleId "AIgZv"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+18. Rg7+ Bxg7 19. Qxg7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "170"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp1Rb2Q/2p1kr2/2q1p3/4P3/2N5/PPP2PPP/3R2K1 b - - 0 22"]
+[LichessURL "https://lichess.org/uZe2U14d#43"]
+[PuzzleId "Zy1yz"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+22... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "171"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5ppp/p3p3/8/P4qP1/3Qn1NP/1P1R4/6K1 w - - 11 38"]
+[LichessURL "https://lichess.org/zxBp5H6h/black#74"]
+[PuzzleId "ftsNY"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+38. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+38... Rxd8 39. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "172"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6kr/pp1b1ppq/1b6/7r/3NQ3/2P3BP/PP2RPPK/6R1 b - - 0 31"]
+[LichessURL "https://lichess.org/ZifAdVkG#61"]
+[PuzzleId "BvpOB"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+31... Rxh3+ 32. gxh3 Qxh3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "173"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3k1/1p3ppp/p1q1pb1n/8/P1BQ4/5N2/1B3PPP/3R2K1 w - - 2 20"]
+[LichessURL "https://lichess.org/ZHON1jUd/black#38"]
+[PuzzleId "ZdFc7"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+20. Qd8+ Bxd8 21. Rxd8+ Qe8 22. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "174"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pp4pp/4Q3/3BR3/3q4/8/P4PPP/2R3K1 b - - 2 28"]
+[LichessURL "https://lichess.org/aKmj58Yp#55"]
+[PuzzleId "V9rEm"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "175"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/Q3b3/2p1P3/1rP5/1p2q3/P4NPP/3R1RK1 w - - 0 26"]
+[LichessURL "https://lichess.org/JB9xYjVX/black#50"]
+[PuzzleId "04x6j"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+26. Qxc8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Bxc8 27. Rd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "176"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/1pR2p1p/pn3Qp1/3qp3/P2r4/1P3R2/1P2BPPP/6K1 b - - 17 29"]
+[LichessURL "https://lichess.org/q7s2Jx1A#57"]
+[PuzzleId "wfNFX"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+29... Rd1+ 30. Bf1 Rxf1+ 31. Kxf1 Qd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "177"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/5r1p/3q4/1p1p2Q1/4p2P/P1p1P1RK/6R1/8 w - - 0 37"]
+[LichessURL "https://lichess.org/9co6t9Mh/black#72"]
+[PuzzleId "Pr5fy"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+37. Qg8+ Rxg8 38. Rxg8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "178"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp6/5q2/2R1p1p1/P3Q3/8/5PPP/R5K1 b - - 0 34"]
+[LichessURL "https://lichess.org/sW8IjHVI#67"]
+[PuzzleId "Bcu3W"]
+[Themes "backRankMate endgame fork long mate mateIn3 sacrifice"]
+
+34... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+35. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+36. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "179"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rq1rb1k/6pp/5p2/pppB1P2/3n1R1N/P1N3P1/1P5P/2BR2K1 w - - 0 33"]
+[LichessURL "https://lichess.org/9OCP1wbu/black#64"]
+[PuzzleId "fL68O"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+33. Ng6+ hxg6 34. Rh4# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "180"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/pp3N2/4PK2/4R3/2p2P1r/6Q1/P1q5/R6r b - - 3 35"]
+[LichessURL "https://lichess.org/R5cNDq8x#69"]
+[PuzzleId "gmAPH"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+
+35... Rh6+ 36. Nxh6 Rxh6+ 37. Qg6+ Rxg6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "181"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/2pq2k1/1p1b2p1/p5Qn/3P4/4R3/PP3PP1/4R1K1 w - - 0 28"]
+[LichessURL "https://lichess.org/CQg6xWGR/black#54"]
+[PuzzleId "9j4lT"]
+[Themes "advantage fork long middlegame sacrifice"]
+
+28. Re7+ Bxe7 29. Rxe7+ Qxe7 30. Qxe7+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "182"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q4k1/1p1N3p/p4r2/P1pP1np1/2P2p2/1Q2bP2/6PP/3R1R1K b - - 1 29"]
+[LichessURL "https://lichess.org/DHfkDWIG#57"]
+[PuzzleId "Gl1VY"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+29... Ng3+ 30. hxg3 Rh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "183"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rb3r1k/1R2N1pp/4p3/p1p5/8/3P1N2/2q2PPP/Q5K1 w - - 0 21"]
+[LichessURL "https://lichess.org/eaDh6Lsj/black#40"]
+[PuzzleId "9LIdE"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+21. Ng6+ hxg6 22. Qxg7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "184"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1br2rk1/ppq2ppp/8/3Bn3/1P1Q4/P7/1B3PPP/R4RK1 b - - 1 20"]
+[LichessURL "https://lichess.org/hYwLTvpe#39"]
+[PuzzleId "2d0KK"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20... Nf3+ 21. gxf3 Qxh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "185"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/3b1Bp1/p3pR1p/3p3Q/8/2q5/6PP/4R2K w - - 2 28"]
+[LichessURL "https://lichess.org/NOyGoZQ2/black#54"]
+[PuzzleId "yhuI9"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+28. Rxh6+ gxh6 29. Qxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "186"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2QR4/6pk/2p2q1p/p1b5/Pp6/4rN2/1PP3PP/7K b - - 3 30"]
+[LichessURL "https://lichess.org/GYqbkdUy#59"]
+[PuzzleId "UrZw3"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+30... Re1+ 31. Nxe1 Qf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "187"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3ppp/8/2p1q3/P1Qp4/3P2P1/1PP3P1/5RK1 w - - 0 25"]
+[LichessURL "https://lichess.org/0Mda5iIi/black#48"]
+[PuzzleId "rBp1q"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+25. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Kh8 26. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxf8 27. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "188"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1pp3p1/1p1p1q1p/1P6/3pP1Q1/P2P2R1/1BP3PP/R5K1 b - - 4 23"]
+[LichessURL "https://lichess.org/oz44tZWE#45"]
+[PuzzleId "xlACP"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+23... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "189"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/p2nbppp/1p2p3/6Q1/4n2R/4B2P/PPP2PP1/4R1K1 w - - 0 21"]
+[LichessURL "https://lichess.org/Zy6P7xyx/black#40"]
+[PuzzleId "jQGYB"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+21. Rxh7+ Kxh7 22. Qh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "190"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pp4p1/4R2p/8/3q4/1Q6/P4PPP/3R2K1 b - - 1 20"]
+[LichessURL "https://lichess.org/vF7hXFNp#39"]
+[PuzzleId "pNAkJ"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+20... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "191"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbr1/pp3p1n/2p1b3/4n3/P1q1P2B/2N4P/1PPQ2P1/3R1R1K w q - 0 18"]
+[LichessURL "https://lichess.org/cUYUO21G/black#34"]
+[PuzzleId "IzdXp"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+18. Qd8+ Rxd8 19. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "192"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rkr/p1p1Q2p/1p6/8/8/2N1R3/P2q1PPP/4R1K1 b - - 8 28"]
+[LichessURL "https://lichess.org/0m8u5kD0#55"]
+[PuzzleId "B3i44"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "193"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/pb2bppp/2p1p3/qp5Q/3PNn2/P1P1P3/1PB2PPP/R3K2R w KQ - 0 17"]
+[LichessURL "https://lichess.org/Ua9fcEhx/black#32"]
+[PuzzleId "cvkPF"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+17. Nf6+ gxf6 18. Qxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "194"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1r/1p1b1pR1/p2p1k2/2pP3P/2P1Pp1K/1P1B1P2/P7/6R1 b - - 7 34"]
+[LichessURL "https://lichess.org/On5uBEKd#67"]
+[PuzzleId "Nlm1Q"]
+[Themes "attraction endgame long mate mateIn3 sacrifice"]
+
+34... Rxh5+ 35. Kxh5 Rh8+ 36. Rh7 Rxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "195"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3ppp/3Pp3/8/1P1bN2Q/P2B4/2P1KPqP/8 w - - 0 19"]
+[LichessURL "https://lichess.org/w4UhQubh/black#36"]
+[PuzzleId "t6jBC"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+19. Nf6+ gxf6 20. Qxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "196"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p3pp/pp1p2r1/4p3/2P2n2/N1P2QPq/PP3P1P/4R1RK b - - 6 28"]
+[LichessURL "https://lichess.org/CAy5IonN#55"]
+[PuzzleId "dplfC"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+28... Qxh2+ 29. Kxh2 Rh6+ 30. Qh5 Rxh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "197"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/p1q1bQp1/1p2P1Pp/4p3/8/P7/1PPK3R/6r1 w - - 0 28"]
+[LichessURL "https://lichess.org/6Zd8kD1l/black#54"]
+[PuzzleId "aC24j"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+28. Rxh6+ gxh6 29. Qh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "198"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pR2Q1pp/8/2p5/2P5/3P4/q5PP/4R1K1 b - - 2 27"]
+[LichessURL "https://lichess.org/K1Es1omR#53"]
+[PuzzleId "2RcXH"]
+[Themes "backRankMate endgame long master mate mateIn3 sacrifice"]
+
+27... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "199"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pp3pp1/2R1p3/8/3qB3/PQ3P2/1P5r/1K5n w - - 0 29"]
+[LichessURL "https://lichess.org/0O1HwzyW/black#56"]
+[PuzzleId "z1AY6"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+29. Rc8+ Rxc8 30. Qxb7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "200"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/pp4p1/4P1Q1/8/2p4q/P1P5/2Bn1rPP/R3R1K1 b - - 0 28"]
+[LichessURL "https://lichess.org/G4Y3jYLV#55"]
+[PuzzleId "jf5ri"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+28... Nf3+ 29. gxf3 Qxh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "201"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1bk1/1q3p1p/5Bp1/6P1/3R1P2/p2K3P/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/BLcRHNtZ/black#106"]
+[PuzzleId "d5OAK"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+54. Rxf8+ Kxf8 55. Rd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "202"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/ppb2ppp/2nq1n2/2pp3B/8/P2Pr1PP/1BPN1P1N/R2Q1RK1 b - - 0 15"]
+[LichessURL "https://lichess.org/plCIuqUh#29"]
+[PuzzleId "L3HF5"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+15... Rxg3+ 16. fxg3 Qxg3+ 17. Kh1 Qxh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "203"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/pp2q1pp/5p2/4pP1Q/2Bb4/3R4/P1P2PPP/5RK1 w - - 2 23"]
+[LichessURL "https://lichess.org/gP0Ux6Ym/black#44"]
+[PuzzleId "ZSobt"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+23. Qxh7+ Kxh7 24. Rh3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "204"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/6kp/1p4p1/r6n/3q4/2PB1P2/PP1Q2PP/R4R1K b - - 0 28"]
+[LichessURL "https://lichess.org/5Z1kf7Es#55"]
+[PuzzleId "WN3Ak"]
+[Themes "clearance mate mateIn2 middlegame sacrifice short"]
+
+28... Ng3+ 29. hxg3 Rh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "205"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/p1p2ppp/3p4/1p1P4/2n5/2q3BP/P3QPP1/4RK2 w - - 0 23"]
+[LichessURL "https://lichess.org/fEl3BZcH/black#44"]
+[PuzzleId "1jTLj"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+23. Qe7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Kg8 24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "206"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5qP1/pn1pb3/1pp1p1Q1/2P1P3/1P1P2R1/1P4PP/R5K1 b - - 0 28"]
+[LichessURL "https://lichess.org/tQ3Pm203#55"]
+[PuzzleId "SjAh6"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "207"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/2p2p1p/bpP2P2/4Q3/2p1p2R/8/P5PP/R5K1 w - - 3 27"]
+[LichessURL "https://lichess.org/qOtjFSZI/black#52"]
+[PuzzleId "Bez3o"]
+[Themes "attraction kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27. Rxh7+ Kxh7 28. Qh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "208"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4q1p1/4p1r1/p2PQ1Pp/2p4P/PrBb4/1P6/K2RR3 b - - 2 33"]
+[LichessURL "https://lichess.org/a54OCXY3#65"]
+[PuzzleId "J5Z6z"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+33... Rxa3+ 34. bxa3 Qxa3# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "209"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pbqpbppp/1p2pn2/8/4NP2/2PBBR2/PP2Q1PP/R6K w - - 2 16"]
+[LichessURL "https://lichess.org/wllrtmKb/black#30"]
+[PuzzleId "EkuRX"]
+[Themes "advantage attraction discoveredAttack kingsideAttack long middlegame sacrifice"]
+
+16. Nxf6+ Bxf6 17. Bxh7+ Kxh7 18. Rh3+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "210"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pQ4pk/6pP/8/2B4P/2nP4/P1q1rP2/K6R b - - 1 34"]
+[LichessURL "https://lichess.org/0mcWY16s#67"]
+[PuzzleId "2eZ2h"]
+[Themes "arabianMate endgame mate mateIn2 sacrifice short"]
+
+34... Qxa2+ 35. Bxa2 Rxa2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "211"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqr1k1/p4p2/3bpnnQ/1p1p2N1/6P1/2Pb2NP/PP3PB1/R3K2R w KQ - 2 19"]
+[LichessURL "https://lichess.org/DtYfPhho/black#36"]
+[PuzzleId "uikEr"]
+[Themes "fork long mate mateIn3 middlegame sacrifice"]
+
+19. Nh5 Nxh5 20. Qh7+ Kf8 21. Qxf7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "212"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rr1k1/1Qb2ppp/p7/2P1q3/1P6/P3BBnP/5P2/5RK1 b - - 0 22"]
+[LichessURL "https://lichess.org/pyK6Nyya#43"]
+[PuzzleId "QgVZn"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+22... Ne2+ 23. Bxe2 Qh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "213"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/1p6/2p3pp/p3P3/P3NPn1/1P4PQ/4q1BK/8 w - - 5 40"]
+[LichessURL "https://lichess.org/GIdb3lLs/black#78"]
+[PuzzleId "Xp0pR"]
+[Themes "advantage attraction endgame exposedKing fork long master sacrifice"]
+
+40. Qxg4 Qxg4 41. Nf6+ Kf7 42. Nxg4 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "214"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/ppp1q1pp/3p4/3P1p2/5P2/2N3R1/PQ4PP/R6K b - - 0 26"]
+[LichessURL "https://lichess.org/H05d3VUg#51"]
+[PuzzleId "uaDs3"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+26... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "215"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2r2ppp/1p3nq1/1Ppp4/8/6P1/N3RP1P/4R1K1 w - - 0 28"]
+[LichessURL "https://lichess.org/R2eBiE8k/black#54"]
+[PuzzleId "o9KhE"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+28. Re8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Nxe8 29. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "216"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r1r1/ppp3Pp/4qp1B/8/2pQ4/N7/PPP2PPP/R5K1 b - - 0 18"]
+[LichessURL "https://lichess.org/RfUi6aut#35"]
+[PuzzleId "qTLwT"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+18... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+19. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "217"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/1ppb2pp/pn1p4/4n1q1/4P3/P1NP1Q2/BPP3PN/5RK1 w - - 5 20"]
+[LichessURL "https://lichess.org/O1ReDSyA/black#38"]
+[PuzzleId "lyUtR"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+20. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+20... Rxf8 21. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "218"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/Q1pq1p2/1B6/7p/4bPp1/1P6/P4P1P/2R3K1 b - - 3 27"]
+[LichessURL "https://lichess.org/g28qzw5I#53"]
+[PuzzleId "Nd1aQ"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+27... Qd1+ 28. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "219"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p2qr2p/6pB/4p3/3p4/1P3Q2/P1P3PP/5RK1 w - - 0 23"]
+[LichessURL "https://lichess.org/0hsJeQXa/black#44"]
+[PuzzleId "HMY8K"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+23. Qf8+ Rxf8 24. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "220"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/p3Q1p1/2p4p/2pq1b2/4p3/6R1/PP3PPP/2R3K1 b - - 2 27"]
+[LichessURL "https://lichess.org/tXstIGCE#53"]
+[PuzzleId "6P3NX"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+27... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "221"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1r3p1p/p5p1/3p1q2/1P1B4/P1PPQP1b/2N4P/4R1K1 w - - 4 36"]
+[LichessURL "https://lichess.org/ljjKsBQh/black#70"]
+[PuzzleId "aPnuI"]
+[Themes "kingsideAttack master mate mateIn2 middlegame sacrifice short"]
+
+36. Qe8+ Rxe8 37. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "222"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rr1k/1pp1q1pp/p7/3Q2B1/8/3P4/PPP2RPP/R5K1 b - - 0 20"]
+[LichessURL "https://lichess.org/beDCYkhS#39"]
+[PuzzleId "3p3VP"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+20... Qe1+ 21. Rxe1 Rxe1+ 22. Rf1 Rexf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "223"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2rb1k1/1p5p/1q1pp1pb/p7/P3P2P/4PRP1/1PP1NQ2/5RK1 w - - 0 23"]
+[LichessURL "https://lichess.org/DEjxxbcX/black#44"]
+[PuzzleId "4P3Xq"]
+[Themes "kingsideAttack master mate mateIn2 middlegame sacrifice short"]
+
+23. Rf8+ Bxf8 24. Qxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "224"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp3q1p/4R1p1/3Qp3/1P6/P3P3/5PPP/2R3K1 b - - 0 36"]
+[LichessURL "https://lichess.org/HartEfFu#71"]
+[PuzzleId "ncxHk"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+36... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+37. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+38. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "225"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppq2pp1/5n1p/3pRB2/3P1P2/2r1Q2P/P5P1/7K w - - 0 29"]
+[LichessURL "https://lichess.org/iAjQ13so/black#56"]
+[PuzzleId "vBh7f"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+29. Re8+ Nxe8 30. Qxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "226"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1pQ2pp1/p3p2p/4P3/3q4/8/PP3PPP/2R3K1 b - - 1 23"]
+[LichessURL "https://lichess.org/13nNVUBi#45"]
+[PuzzleId "EZbTy"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+23... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "227"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4p1p/6p1/4B2n/8/3QPq1P/P4P2/1K1R4 w - - 4 29"]
+[LichessURL "https://lichess.org/62bGJjnx/black#56"]
+[PuzzleId "ZkvQo"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+29. Qd8+ Rxd8 30. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "228"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/3nkr2/p2Rp2Q/1pq1P3/P1p5/8/BP3PPP/3R2K1 b - - 0 33"]
+[LichessURL "https://lichess.org/H4VSqGgh#65"]
+[PuzzleId "rLDiA"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+33... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+34. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "229"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/5ppp/p4b2/8/1P3qP1/1B6/3RR1P1/3Q2K1 w - - 0 32"]
+[LichessURL "https://lichess.org/25ox6h9n/black#62"]
+[PuzzleId "oQA9a"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+
+32. Rxd8+ Rxd8 33. Qxd8+ Bxd8 34. Re8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "230"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/p5pp/1p3q2/3p4/3Rp3/1Q2P3/PP3PPP/3R2K1 b - - 1 21"]
+[LichessURL "https://lichess.org/fuATkGga#41"]
+[PuzzleId "8ZOHx"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+21... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "231"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1r2/1np3pk/2b5/1p2pPp1/1P6/4B1K1/B1P1p3/R4R2 w - - 0 28"]
+[LichessURL "https://lichess.org/JaRsmb9u/black#54"]
+[PuzzleId "Ovvkh"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+28. Rh1+ Bxh1 29. Rxh1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "232"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1Q4p1/4p3/2P2p2/3qpP2/6Pp/R6P/1R5K b - - 1 33"]
+[LichessURL "https://lichess.org/wU5o3NTY#65"]
+[PuzzleId "vCr8l"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+33... Qd1+ 34. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "233"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3ppp/8/3Qq3/4n3/1Pr3PP/P5PK/R4R2 w - - 0 24"]
+[LichessURL "https://lichess.org/mHI7Dadn/black#46"]
+[PuzzleId "CRYGP"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+24. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Kh8 25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "234"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/ppp2ppp/3b3q/3PnN2/8/P7/1P2BNPP/R2Q1RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/E8ziEvwe#35"]
+[PuzzleId "3BZNz"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+18... Nf3+ 19. gxf3 Qxh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "235"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1pp3pp/p7/P7/1P3Q2/8/2q3PP/5RK1 w - - 0 25"]
+[LichessURL "https://lichess.org/AarU6bID/black#48"]
+[PuzzleId "qkIqo"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+25. Qf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Kh8 26. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxf8 27. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "236"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/2r5/Q1P2q2/1N1P1pp1/4p3/8/PPK3P1/3R4 b - - 4 29"]
+[LichessURL "https://lichess.org/VWp4UKXw#57"]
+[PuzzleId "Hasl3"]
+[Themes "advantage endgame fork long sacrifice"]
+
+29... Rxc6+ 30. dxc6 Rxc6+ 31. Qxc6 Qxc6+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "237"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r3k/3Q2pp/4Rb2/5p2/8/2q5/P4PP1/3R2K1 w - - 4 36"]
+[LichessURL "https://lichess.org/gXzZIlXf/black#70"]
+[PuzzleId "MgrCH"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+36. Qxd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+36... Rxd8 37. Rxd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+37... Bxd8 38. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "238"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p3Qpkp/P5p1/4P3/1Pp2B2/4P2P/2rq1nP1/R4RK1 b - - 0 24"]
+[LichessURL "https://lichess.org/5FteDdzW#47"]
+[PuzzleId "cqasK"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+24... Nxh3+ 25. gxh3 Qg2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "239"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R4b2/2r1pk1p/3p1pp1/8/3NP3/5P2/3K2PP/8 w - - 6 44"]
+[LichessURL "https://lichess.org/KBqdQDdM/black#86"]
+[PuzzleId "TtUFN"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+44. Rxf8+ Kxf8 45. Ne6+ Ke8 46. Nxc7+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "240"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5rpp/p2R4/1p2Q1b1/8/1PP5/q4PPP/4R1K1 b - - 0 29"]
+[LichessURL "https://lichess.org/LmAz3zAw#57"]
+[PuzzleId "lgrRz"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+29... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "241"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp1b2pp/3p4/2p1q2Q/8/2PP4/PP4PP/5RK1 w - - 4 22"]
+[LichessURL "https://lichess.org/7uOuFr6Z/black#42"]
+[PuzzleId "spSHr"]
+[Themes "backRankMate endgame fork long mate mateIn3 sacrifice"]
+
+22. Qf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+22... Kh8 23. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23... Rxf8 24. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "242"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/ppp1b2Q/2nk2p1/4p3/4Pq2/NBPP4/PP4PP/R5K1 b - - 3 21"]
+[LichessURL "https://lichess.org/IvgmbehC#41"]
+[PuzzleId "RnfWt"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+21... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "243"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/pp3ppp/4b2R/4Q3/4P3/6RP/3p2PK/1q6 w - - 0 29"]
+[LichessURL "https://lichess.org/8oCmZwA4/black#56"]
+[PuzzleId "rxYWA"]
+[Themes "attraction mate mateIn2 middlegame sacrifice short"]
+
+29. Rxh7+ Kxh7 30. Qh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "244"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1r3p2/3B2pp/2pP3n/1P1bPPq1/r7/2QN2PP/4RR1K b - - 0 27"]
+[LichessURL "https://lichess.org/DQx3hyHt#53"]
+[PuzzleId "xAul8"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27... Ng3+ 28. hxg3 Qh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "245"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2bk1/4pp1p/6p1/P2P4/8/2Q1P2P/3r1qPK/8 w - - 1 32"]
+[LichessURL "https://lichess.org/0syCI6LT/black#62"]
+[PuzzleId "nWoc2"]
+[Themes "attraction endgame mate mateIn2 sacrifice short"]
+
+32. Rxf8+ Kxf8 33. Qh8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "246"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/1p6/p3qr1p/5ppQ/2R5/1P6/P4PPP/2R3K1 b - - 0 34"]
+[LichessURL "https://lichess.org/gt1ehARV#67"]
+[PuzzleId "cXL8P"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+34... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "247"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rk2/pp3pp1/2p1p1n1/5qBQ/1b3P2/7R/PP4PP/R5K1 w - - 0 22"]
+[LichessURL "https://lichess.org/Xa3KQLy7/black#42"]
+[PuzzleId "ulNh4"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+22. Qh8+ Nxh8 23. Rxh8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "248"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/P2n1ppp/3b4/8/3p4/NP5P/PQ1PqPP1/R5KR b - - 4 22"]
+[LichessURL "https://lichess.org/gupqKjao#43"]
+[PuzzleId "53D0I"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+22... Qe1+ 23. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "249"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/1q3ppp/3Qp3/p7/2P4P/5P2/P5P1/3R2K1 w - - 3 33"]
+[LichessURL "https://lichess.org/ISzSXwwX/black#64"]
+[PuzzleId "vS56Q"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+33. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33... Rxd8 34. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "250"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/pQp2p2/7p/4P1p1/2b5/P1P3B1/2Pq1PPP/R5KR b k - 6 20"]
+[LichessURL "https://lichess.org/8QeqodZI#39"]
+[PuzzleId "V9pSe"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+20... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "251"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/1p3Qpp/p1n5/2P1p3/8/2p1p1P1/P2q3P/5R1K w - - 0 34"]
+[LichessURL "https://lichess.org/6L0aXs49/black#66"]
+[PuzzleId "1FykB"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+34. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Rxf8 35. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "252"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r2k/6p1/4qpQ1/3N2p1/PRPP4/5PPp/7P/1R5K b - - 1 31"]
+[LichessURL "https://lichess.org/qDXRVqmV#61"]
+[PuzzleId "tlMvu"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+31... Qe1+ 32. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "253"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p5pp/3p4/3Bp1q1/2P1P1b1/Pr4P1/5Q1P/R4RK1 w - - 0 25"]
+[LichessURL "https://lichess.org/M8f9I74P/black#48"]
+[PuzzleId "IBclN"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "254"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/3R1R2/p1r1k1p1/1p2b2p/4p3/1P2B2P/P4PP1/6K1 b - - 7 34"]
+[LichessURL "https://lichess.org/JHDQLShJ#67"]
+[PuzzleId "F3UYI"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+
+34... Rc1+ 35. Bxc1 Rxc1+ 36. Rd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "255"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k1r/1qp2p2/4b2p/1pb1pNp1/p3n3/2PQ1N2/PP2BPPP/2KR3R w - - 0 21"]
+[LichessURL "https://lichess.org/WPuECcZk/black#40"]
+[PuzzleId "KcwHV"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+21. Qd8+ Rxd8 22. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "256"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/R1p2pp1/2p1qn1p/2P5/1P1B4/3P2Q1/2N2PPP/6K1 b - - 0 25"]
+[LichessURL "https://lichess.org/Je9zefH2#49"]
+[PuzzleId "4ZLm4"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+25... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Nxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "257"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r1r/1bp5/1p6/8/1P6/2PqB1p1/R5Q1/R5K1 w - - 1 38"]
+[LichessURL "https://lichess.org/BZAK49GS/black#74"]
+[PuzzleId "h9lKA"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+38. Ra8+ Bxa8 39. Rxa8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "258"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5rpk/6pp/3QP3/5q2/1P2R3/P5PP/4R1K1 b - - 0 40"]
+[LichessURL "https://lichess.org/Dp3ND9Sd#79"]
+[PuzzleId "XQmjk"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+40... Qf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+41. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+42. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "259"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/2pp1ppp/1b6/pp2n1N1/3nN2P/3Q4/PPPB1PP1/2KR3R w - - 0 16"]
+[LichessURL "https://lichess.org/ffSmx1hn/black#30"]
+[PuzzleId "PFuwO"]
+[Themes "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+16. Nf6+ gxf6 17. Qxh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "260"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3r1p/2p2ppQ/3p4/3P1B2/2P4R/P1q2PPP/2R3K1 b - - 3 22"]
+[LichessURL "https://lichess.org/h9iWeJeU#43"]
+[PuzzleId "NCLM9"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+22... Qxc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Bxc1 Re1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "261"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp3ppp/1qp5/7b/8/PB3P2/1P2Q1PP/4R2K w - - 3 25"]
+[LichessURL "https://lichess.org/iEGuQA2O/black#48"]
+[PuzzleId "PMK8d"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+25. Qe8+ Rxe8 26. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "262"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/2k3p1/4R3/6r1/4B1n1/3P4/PPP4p/5R1K b - - 0 40"]
+[LichessURL "https://lichess.org/cWDbb4eI#79"]
+[PuzzleId "1xRAz"]
+[Themes "clearance endgame mate mateIn2 sacrifice short"]
+
+40... Nf2+ 41. Rxf2 Rg1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "263"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/8/p6p/6p1/PPbrppB1/Q2p4/5PPP/2R2RK1 w - - 3 33"]
+[LichessURL "https://lichess.org/HqdKnVpG/black#64"]
+[PuzzleId "PQI2v"]
+[Themes "advantage attraction exposedKing fork long middlegame sacrifice"]
+
+33. Rxc4 Rxc4 34. Be6+ Kg7 35. Bxc4 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "264"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/Qp4pp/3qp3/6P1/2B4P/bP6/P1P5/1K3R2 b - - 0 26"]
+[LichessURL "https://lichess.org/yAUWm1aV#51"]
+[PuzzleId "k7MJH"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+26... Qd1+ 27. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "265"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2p2p1p/1p3Pp1/3q1r2/1P6/4QRP1/P6P/4R2K w - - 3 32"]
+[LichessURL "https://lichess.org/OJc4j2MV/black#62"]
+[PuzzleId "3iH9c"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+32. Qe8+ Rxe8 33. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "266"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2p1q1p1/p2p1nQ1/1p4B1/3P4/8/PP3PPP/R5K1 b - - 2 26"]
+[LichessURL "https://lichess.org/WOPy38K2#51"]
+[PuzzleId "3rcMs"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+26... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "267"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k6r/pp5p/3Q4/1Pp3p1/5p2/2q4P/Pn3PPB/3R2K1 w - - 6 29"]
+[LichessURL "https://lichess.org/whOBigIL/black#56"]
+[PuzzleId "VHNie"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rxd8 30. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "268"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/pp3p2/4pQp1/8/8/3q4/PP3PPP/K6R b - - 3 25"]
+[LichessURL "https://lichess.org/4PSmioNQ#49"]
+[PuzzleId "SAZic"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+25... Qd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "269"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3ppp/4p3/3pq2B/6P1/7r/P1n2Q2/5RK1 w - - 0 25"]
+[LichessURL "https://lichess.org/wTvLlJXz/black#48"]
+[PuzzleId "LJXye"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+25. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Kh8 26. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxf8 27. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "270"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k4r2/pp1Q4/1qpB4/8/4P1p1/2N5/PPP2PPP/3R2K1 b - - 4 25"]
+[LichessURL "https://lichess.org/oxf2BMWw#49"]
+[PuzzleId "T6FLk"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+25... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "271"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6np/2n3pQ/6P1/8/7P/pKPq4/4R3 w - - 0 38"]
+[LichessURL "https://lichess.org/mJBAkfH8/black#74"]
+[PuzzleId "UCKFB"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+38. Re8+ Nxe8 39. Qf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "272"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R3R2/6p1/p1r1b3/4r2p/4B2P/P4PP1/6K1 b - - 0 25"]
+[LichessURL "https://lichess.org/kOUMhG4v#49"]
+[PuzzleId "1gFvb"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+25... Rc1+ 26. Bxc1 Re1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "273"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/1Q3b2/8/p1q5/r4N1P/5PP1/4R1K1 w - - 0 35"]
+[LichessURL "https://lichess.org/cFVDa4yx/black#68"]
+[PuzzleId "w4G77"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+35. Qxd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35... Bxd8 36. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "274"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4qpp1/Q6p/8/2R5/1P1P4/P4PPP/2R2K2 b - - 2 32"]
+[LichessURL "https://lichess.org/G9MUerj5#63"]
+[PuzzleId "VtkOD"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+32... Qe2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+33. Kg1 Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "275"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp4pp/8/n3p3/8/PPp2Q1P/2Pq2P1/5R1K w - - 0 24"]
+[LichessURL "https://lichess.org/YVujbNjD/black#46"]
+[PuzzleId "x19DY"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+24. Qf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Kh8 25. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25... Rxf8 26. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "276"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/p7/r2nQN1P/5Pp1/Pp6/1Pq5/KR6 b - - 0 36"]
+[LichessURL "https://lichess.org/OOzcKndC#71"]
+[PuzzleId "sBcZ3"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+36... Rxa3+ 37. bxa3 Qa2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "277"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/2pp3r/p6Q/1pb1q1p1/4P3/6P1/PPP3PP/R4R1K w - - 0 20"]
+[LichessURL "https://lichess.org/HmSpx7HD/black#38"]
+[PuzzleId "Stky8"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+20. Rf8+ Bxf8 21. Qxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "278"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3r3p/k5p1/p7/PnRN4/KP3P2/7P/8 b - - 8 40"]
+[LichessURL "https://lichess.org/OWU5hbRB#79"]
+[PuzzleId "p5xyF"]
+[Themes "attraction crushing endgame fork long master sacrifice"]
+
+40... Rxd4 41. Rxd4 Nc2+ 42. Ka2 Nxd4 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "279"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/p4p1p/4p1pP/4PqP1/5P2/5b2/P2Q4/K2R4 w - - 0 38"]
+[LichessURL "https://lichess.org/NV6tPm9i/black#74"]
+[PuzzleId "EBd1O"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+38. Qd8+ Rxd8 39. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "280"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pp3q2/2n3kp/4b1p1/3pN1Q1/P2P3P/1P1B2P1/R6K b - - 6 30"]
+[LichessURL "https://lichess.org/yJqawpyc#59"]
+[PuzzleId "KeLVX"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+30... Qf1+ 31. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "281"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p1p2pp1/3p3p/3b1qN1/8/4Q1PP/PP3P2/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/Aalg0MOU/black#48"]
+[PuzzleId "3SFtg"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+25. Qe8+ Rxe8 26. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "282"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/p1pq4/Bp6/5p2/8/2Q2b2/PPP2P2/2K1R3 b - - 1 24"]
+[LichessURL "https://lichess.org/05mxq0gf#47"]
+[PuzzleId "9ttPV"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+24... Qd1+ 25. Rxd1 Rxd1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "283"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/p1p4q/8/3Nb3/2Pn4/P4QPP/5RK1 w - - 0 34"]
+[LichessURL "https://lichess.org/h9tyOBBM/black#66"]
+[PuzzleId "KNQEL"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+34. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Kh8 35. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35... Rxf8 36. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "284"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/k1b1q3/p5p1/3Q2Bp/3p4/7P/1P3PP1/2R3K1 b - - 2 30"]
+[LichessURL "https://lichess.org/seV5uHOM#59"]
+[PuzzleId "cYdJW"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+30... Qe1+ 31. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "285"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/ppp4p/1n1b2p1/3P4/5q2/1B1Q1N2/PBK2P2/6R1 w - - 0 27"]
+[LichessURL "https://lichess.org/ruw2ROYp/black#52"]
+[PuzzleId "XB0Cj"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27. Rxg6+ hxg6 28. Qxg6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "286"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p3q1p1/1p1p2Qp/3P4/P7/2P3RP/1P3rP1/2K4R b - - 0 22"]
+[LichessURL "https://lichess.org/26UejJvw#43"]
+[PuzzleId "oUyU9"]
+[Themes "endgame master mate mateIn2 queensideAttack sacrifice short"]
+
+22... Qe1+ 23. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "287"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/1p2N1pp/p7/7P/1b4P1/1B2pn2/PPP1K3/R6R w - - 0 21"]
+[LichessURL "https://lichess.org/unNkczrt/black#40"]
+[PuzzleId "Gw9Jx"]
+[Themes "discoveredAttack kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+21. Ng6+ hxg6 22. hxg6+ Nh2 23. Rxh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "288"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/p5p1/8/8/P7/7Q/5qPP/R1R4K b - - 1 23"]
+[LichessURL "https://lichess.org/ObePFoaG#45"]
+[PuzzleId "IDohI"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+23... Rxc1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Rxc1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "289"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2q1kp1/Prp4p/2Qp4/3Pp3/4P1PP/5P2/R5K1 w - - 3 36"]
+[LichessURL "https://lichess.org/HkHPXjK4/black#70"]
+[PuzzleId "28oLX"]
+[Themes "advancedPawn crushing endgame long sacrifice"]
+
+36. Qxb6 axb6 37. a7 Qxa7 38. Rxa7+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "290"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r2n1/ppp5/6Qp/1q1r1P2/4N3/2B1b3/PPP5/1K3R1R b - - 0 30"]
+[LichessURL "https://lichess.org/FVPRJyHv#59"]
+[PuzzleId "HGNhx"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+30... Qxf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31. Rxf1 Rd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+32. Rxd1 Rxd1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "291"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5ppp/4p3/p7/P3P2P/1qpQ1P2/6PK/3R4 w - - 2 31"]
+[LichessURL "https://lichess.org/UEvwBlkd/black#60"]
+[PuzzleId "ycNsh"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+31. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Rxd8 32. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "292"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r2k/ppp1q1p1/7p/5Q2/3P4/6R1/P1P2PPP/R5K1 b - - 0 20"]
+[LichessURL "https://lichess.org/Y2t9snxC#39"]
+[PuzzleId "gWJNV"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+20... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "293"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/r4ppp/8/pp3q2/3p4/P2P2PP/1PP1Q2K/2R1R3 w - - 0 31"]
+[LichessURL "https://lichess.org/pKAr6R42/black#60"]
+[PuzzleId "ITi8y"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+31. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Rxe8 32. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "294"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/2Bk2pp/pQ1b4/8/3Rq3/8/PPP2PPP/R5K1 b - - 0 20"]
+[LichessURL "https://lichess.org/Gf07ryJ4#39"]
+[PuzzleId "CrJGP"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+20... Qe1+ 21. Rxe1 Rxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "295"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5pp1/1r1qp1n1/2N4R/1p1P4/P4P2/7Q/1K5R w - - 0 36"]
+[LichessURL "https://lichess.org/4clZ7i9j/black#70"]
+[PuzzleId "7Wmqj"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+36. Rh8+ Nxh8 37. Qxh8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "296"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp6/3pR2p/6p1/1n1q4/1QNP4/PP3PPP/R5K1 b - - 4 23"]
+[LichessURL "https://lichess.org/jYVHAbAa#45"]
+[PuzzleId "tsGBS"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+23... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+24. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "297"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/Q6p/2p3p1/2p1p3/2PpP2q/3P4/PP3PR1/2K3R1 w - - 1 21"]
+[LichessURL "https://lichess.org/aYt0Bcjw/black#40"]
+[PuzzleId "VH8lG"]
+[Themes "endgame kingsideAttack long mate mateIn3 sacrifice"]
+
+21. Rxg6+ hxg6 22. Rxg6+ Kh8 23. Qg7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "298"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr3/1Q3pk1/p5p1/1p5p/2nq2N1/1B3P2/P5PP/R2R3K b - - 1 28"]
+[LichessURL "https://lichess.org/dSvFLi86#55"]
+[PuzzleId "i0J0b"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28... Qxd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Rxd1 Rxd1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Bxd1 Re1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "299"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/pp4p1/3p1pQp/q2BpP2/2P1Pn2/1P5R/P5PP/5R1K w - - 6 24"]
+[LichessURL "https://lichess.org/NzjetvpZ/black#46"]
+[PuzzleId "oLiyT"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+24. Rxh6+ gxh6 25. Qxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "300"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/ppb1q1pp/2p2p2/2P5/1P3B2/P1N2Q2/5PPP/3R2K1 b - - 0 22"]
+[LichessURL "https://lichess.org/8TE3Yjfr#43"]
+[PuzzleId "uEeHh"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+22... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+23. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "301"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r2k2/4qpp1/3p2n1/4p3/1p2P3/pP3P1R/P1P4R/1K1Q4 w - - 9 39"]
+[LichessURL "https://lichess.org/s37BkA5H/black#76"]
+[PuzzleId "p3LdD"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+39. Rh8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+39... Nxh8 40. Rxh8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "302"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3ppp/2p1q3/3p4/3PrN1P/6P1/PPP3Q1/1K3R1R b - - 4 25"]
+[LichessURL "https://lichess.org/ca17804q#49"]
+[PuzzleId "X84rC"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+25... Re1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxe1 Qxe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "303"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/8/1p6/1Pp2q2/P1P2P1P/4Q1K1/4R3 w - - 0 30"]
+[LichessURL "https://lichess.org/M2KU4Ikq/black#58"]
+[PuzzleId "6LRzc"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+30. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30... Rxe8 31. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "304"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2k1r2/bp2p3/3p1q2/3P4/4Q2N/PP4PP/4R1K1 b - - 2 35"]
+[LichessURL "https://lichess.org/kxaylG3m#69"]
+[PuzzleId "vIsYu"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+35... Qf1+ 36. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "305"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q4rk1/3rbpp1/2b1p2p/2p1P1N1/Pp1pN3/1P1Q3P/2P2PP1/R3R1K1 w - - 0 23"]
+[LichessURL "https://lichess.org/nLeGJO9H/black#44"]
+[PuzzleId "gcW1T"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+23. Nf6+ gxf6 24. Qh7# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "306"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p3rpp/2b5/p4q2/3R4/6Q1/PP4PP/2B1R1K1 b - - 3 31"]
+[LichessURL "https://lichess.org/PKdwArx2#61"]
+[PuzzleId "0MRCP"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+31... Qf1+ 32. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "307"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1k4r/1p1nQ1p1/p1qP4/3p3p/2pP3P/5P2/PPP3P1/2KRR3 w - - 5 21"]
+[LichessURL "https://lichess.org/OjIQxOoc/black#40"]
+[PuzzleId "yEzHy"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+21. Qe8+ Rxe8 22. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "308"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B4r1k/p5pp/1p6/2p5/P3p3/1QP1P3/1P3qPP/R6K b - - 0 24"]
+[LichessURL "https://lichess.org/l0E60HhU#47"]
+[PuzzleId "uupQp"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+25. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "309"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/ppp2p1p/2n5/2br3p/5P2/1P6/PBP4P/R4R1K w - - 0 20"]
+[LichessURL "https://lichess.org/NVqWWzUj/black#38"]
+[PuzzleId "7sGMC"]
+[Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
+
+20. Rg1+ Bxg1 21. Rxg1+ Rg5 22. Rxg5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "310"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r1r/ppp5/3p1q2/8/6p1/2N3Q1/PP2R1PP/4R2K b - - 9 29"]
+[LichessURL "https://lichess.org/rSbIdx8X#57"]
+[PuzzleId "kA4qW"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+29... Qf1+ 30. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "311"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r2/ppp4p/3b2p1/q7/8/3P4/PPK2QPP/4R3 w - - 4 27"]
+[LichessURL "https://lichess.org/tJ1JgGtS/black#52"]
+[PuzzleId "ZaJMa"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+27. Qxf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27... Bxf8 28. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "312"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/1p4pp/p4nB1/4r3/2Pp4/4qP1Q/P5PP/R2R3K b - - 12 26"]
+[LichessURL "https://lichess.org/TSiSn8Sz#51"]
+[PuzzleId "URpYS"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+26... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27. Rxe1 Rxe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "313"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r2/p1qn1p1k/1p4p1/3p4/2p5/2P1P1P1/PPQ3PP/RB3RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/FTSAGUHL/black#34"]
+[PuzzleId "51Y0u"]
+[Themes "attraction crushing fork long middlegame sacrifice"]
+
+18. Rxf7+ Rxf7 19. Qxg6+ Kh8 20. Qxf7 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "314"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Q4ppk/4p2p/4qb2/8/4P2P/P3BPP1/2R2nK1 b - - 0 24"]
+[LichessURL "https://lichess.org/9M5q7IJT#47"]
+[PuzzleId "VBqIZ"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+24... Qh2+ 25. Kxf1 Qh1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "315"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p3ppp/5b2/p4b2/P1P2P1q/1P2R2P/6B1/1N1Q3K w - - 3 26"]
+[LichessURL "https://lichess.org/XnF22cMF/black#50"]
+[PuzzleId "r4CPK"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+26. Qxd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Bxd8 27. Re8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "316"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rrk2/pb3pp1/2p5/1p2qB2/8/P1P4R/2Q2PPP/R5K1 b - - 1 25"]
+[LichessURL "https://lichess.org/4kGSoJBC#49"]
+[PuzzleId "8pHgW"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+25... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "317"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1p2ppbp/1pp2p2/8/4q1P1/8/1PPQ1P1P/2KR1B1R w kq - 0 19"]
+[LichessURL "https://lichess.org/6XcJxauB/black#36"]
+[PuzzleId "hsQQ5"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+19. Qd7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+19... Kf8 20. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+20... Rxd8 21. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "318"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp4bp/3QP1p1/2p1p3/4P3/2P5/PP3qPP/RN1R3K b - - 1 18"]
+[LichessURL "https://lichess.org/UGXGDDxP#35"]
+[PuzzleId "g2gvu"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+18... Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+19. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "319"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/p2Qp1bp/1p3qp1/8/2B2n2/2P2P2/PP3P1P/3R2K1 w - - 0 27"]
+[LichessURL "https://lichess.org/ceTyM024/black#52"]
+[PuzzleId "rZYzj"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+27. Qd8+ Rxd8 28. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "320"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/1pp3pp/p4q2/8/4P3/8/PQPPN1PP/1R1K3R b - - 0 23"]
+[LichessURL "https://lichess.org/LnpbSwza#45"]
+[PuzzleId "FPQbU"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+23... Qf1+ 24. Rxf1 Rxf1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "321"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q3k/3P2p1/p4N1p/4Q3/8/8/P5PP/2r3K1 w - - 1 36"]
+[LichessURL "https://lichess.org/HIA2MYwc/black#70"]
+[PuzzleId "M2P1Y"]
+[Themes "advancedPawn crushing endgame long promotion sacrifice"]
+
+36. Kf2 gxf6 37. Qe8+ Qxe8 38. dxe8=Q+ *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "322"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/p1Q3pp/8/3p2P1/3P4/4q3/PP4PP/R6K b - - 2 32"]
+[LichessURL "https://lichess.org/IxmLx0iR#63"]
+[PuzzleId "mOzTQ"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+32... Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+33. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "323"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/5Qp1/6Bp/p7/1p1nP3/1P4P1/4q2P/5R1K w - - 14 46"]
+[LichessURL "https://lichess.org/XYC7TUQX/black#90"]
+[PuzzleId "zS0x9"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+46. Qf8+ Rxf8 47. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "324"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/pp5r/5p2/3R4/8/5QN1/1PP2PPq/3R1K2 b - - 3 27"]
+[LichessURL "https://lichess.org/NPqLuqur#53"]
+[PuzzleId "IW2v3"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+27... Qh1+ 28. Nxh1 Rxh1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "325"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/6Pp/3Bp3/1p2P3/1P1b3R/2r2r2/3K2R1 w - - 4 38"]
+[LichessURL "https://lichess.org/Czfy1CtQ/black#74"]
+[PuzzleId "hZrn4"]
+[Themes "advancedPawn endgame long mate mateIn3 promotion sacrifice"]
+
+38. Rxh6+ gxh6 39. g7+ Kh7 40. g8=Q# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "326"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pb2qpp1/1ppb3p/3P4/3Pr3/5N1P/PPQ2PP1/RB4K1 b - - 0 19"]
+[LichessURL "https://lichess.org/L263VnlH#37"]
+[PuzzleId "U1fmC"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+19... Re1+ 20. Nxe1 Qxe1# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "327"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/3Q1ppp/4pP2/1p6/4b1Pq/P7/5R2/3RK3 w - - 5 31"]
+[LichessURL "https://lichess.org/xcP9Gf8R/black#60"]
+[PuzzleId "pj8sR"]
+[Themes "endgame master masterVsMaster mate mateIn2 sacrifice short"]
+
+31. Qd8+ Rxd8 32. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "328"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1R3/1p1p1rpk/pqnQ3p/6B1/7N/2P5/P4PPP/R5K1 b - - 3 17"]
+[LichessURL "https://lichess.org/X04liSKz#33"]
+[PuzzleId "QipoD"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+17... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+18. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+19. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "329"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/pp4pk/3p1n1p/3r4/q7/P1P3P1/1K2B2P/4R3 w - - 2 34"]
+[LichessURL "https://lichess.org/xKZEkUPh/black#66"]
+[PuzzleId "vCm15"]
+[Themes "advantage attraction endgame fork long sacrifice"]
+
+34. Bd3+ Rxd3 35. Qf5+ Kh8 36. Qxd3 *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "330"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/1pp2ppp/p1p5/7q/5Q2/1P6/PBPP1PPP/R4K1R b - - 0 20"]
+[LichessURL "https://lichess.org/tgMVpErQ#39"]
+[PuzzleId "lZp7W"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+20... Qe2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Kg1 Qe1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Rxe1 Rxe1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "331"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4n1k1/3r1pp1/2p2n1q/1p1pQ1N1/p2P4/3P4/PP3PP1/2KNR3 w - - 12 25"]
+[LichessURL "https://lichess.org/EGayNu5g/black#48"]
+[PuzzleId "8bsHC"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+25. Qxe8+ Nxe8 26. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "332"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kr2/1pp4p/p1p1b1pQ/5qB1/4R3/8/PPP2PPP/4R1K1 b q - 2 18"]
+[LichessURL "https://lichess.org/aWcA4lbO#35"]
+[PuzzleId "lC4kb"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+18... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+19. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+20. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "333"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pbp2pp1/1p5p/6q1/8/7P/PPB1QPP1/4R1K1 w - - 4 24"]
+[LichessURL "https://lichess.org/MBq2y9R6/black#46"]
+[PuzzleId "kIpGv"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+24. Qe8+ Rxe8 25. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "334"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/pp1n1R2/2p1Q3/7r/P5p1/1P1P2Bq/2P4P/6RK b - - 0 29"]
+[LichessURL "https://lichess.org/ta6AqabA#57"]
+[PuzzleId "y5Yfw"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+29... Qxh2+ 30. Bxh2 Rxh2# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "335"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3r1ppp/pq1n4/2r5/5P2/8/1P2R1PP/1R2Q1K1 w - - 2 34"]
+[LichessURL "https://lichess.org/r4Z30ijt/black#66"]
+[PuzzleId "MklhG"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+34. Re8+ Nxe8 35. Qxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "336"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1b2R2p/pq2B1pQ/1p2p3/4P3/P1N5/1P3PPP/2R3K1 b - - 0 20"]
+[LichessURL "https://lichess.org/41gmJDZH#39"]
+[PuzzleId "2i87a"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+20... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+21. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "337"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/6pp/p7/8/5Q2/n1P1P1P1/5RKP/3q4 w - - 0 34"]
+[LichessURL "https://lichess.org/U1cTVClq/black#66"]
+[PuzzleId "xNhPU"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+34. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+34... Rxf8 35. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "338"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2rk1/p3pp1p/2pp2p1/2q4n/N2bP3/P4P2/1PPBB1PP/1R1Q1R1K b - - 6 15"]
+[LichessURL "https://lichess.org/lm20QhE2#29"]
+[PuzzleId "kOtRN"]
+[Themes "clearance kingsideAttack mate mateIn2 opening sacrifice short"]
+
+15... Ng3+ 16. hxg3 Qh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "339"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1q3ppp/8/8/p7/1P2Q3/1K3P2/3rR3 w - - 0 45"]
+[LichessURL "https://lichess.org/twZRjnuk/black#88"]
+[PuzzleId "cba28"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+45. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+45... Rxe8 46. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "340"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p3Q2p/8/2p1R2B/3p4/8/P1q2PPP/R5K1 b - - 3 28"]
+[LichessURL "https://lichess.org/xeNqt00Q#55"]
+[PuzzleId "GHBLn"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+
+28... Qxf2+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+29. Kh1 Qf1+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+30. Rxf1 Rxf1#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "341"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br2k1/1p1p1ppp/p1nB4/q7/8/8/P3QPPP/4RRK1 w - - 6 22"]
+[LichessURL "https://lichess.org/Z8J7OaJr/black#42"]
+[PuzzleId "RwlYx"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+22. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+22... Rxe8 23. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "342"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rq1rk/1p1bb3/pPp1p2p/P1PpNppn/3P4/3NPP2/1QB3PP/5RRK b - - 5 30"]
+[LichessURL "https://lichess.org/V2GXxzb0#59"]
+[PuzzleId "hQZdk"]
+[Themes "clearance kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+30... Ng3+ 31. hxg3 Qh5# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "343"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1n1k1/pp1nr2p/4p1pP/3p2q1/5R2/2N2Q2/PPP5/1K3R2 w - - 2 26"]
+[LichessURL "https://lichess.org/tuIpQ8t5/black#50"]
+[PuzzleId "wqvWw"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+26. Rf8+ Nxf8 27. Qxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "344"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3ppp/8/3q4/8/PPr4P/K3Q1P1/1R2R3 w - - 3 28"]
+[LichessURL "https://lichess.org/NRbrHQpd/black#54"]
+[PuzzleId "j9q0q"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+28. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+28... Rxe8 29. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "345"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1qrk/5p2/p3pPp1/7p/1ppPP2Q/P6R/1P4PP/3R2K1 w - - 0 31"]
+[LichessURL "https://lichess.org/UnBJVj7Q/black#60"]
+[PuzzleId "sOjRs"]
+[Themes "endgame exposedKing kingsideAttack long mate mateIn3 sacrifice"]
+
+31. Qxh5+ gxh5 32. Rxh5+ Qh6 33. Rxh6# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "346"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1b3ppp/pp6/8/8/P3Q1P1/2q2P1P/4R1K1 w - - 0 29"]
+[LichessURL "https://lichess.org/IG3JtpHx/black#56"]
+[PuzzleId "vXrPt"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rxe8 30. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "347"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/pp2qr1P/4p1Q1/1p3n2/2nP4/2P5/PP3K2/6RR w - - 1 28"]
+[LichessURL "https://lichess.org/BSVH25Fl/black#54"]
+[PuzzleId "rYJ9D"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+28. Qg8+ Rxg8 29. Rxg8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "348"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1k3r/2ppn1p1/2p4p/p3q3/4P3/1B2P3/PPP2Q2/2KR1R2 w - - 0 19"]
+[LichessURL "https://lichess.org/iWnBol3l/black#36"]
+[PuzzleId "HEiPA"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+19. Qf8+ Rxf8 20. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "349"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k6r/pp6/2pQ1npb/6N1/8/8/P1q2PPP/3R2K1 w - - 4 26"]
+[LichessURL "https://lichess.org/eL02pBhA/black#50"]
+[PuzzleId "T6YcS"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+26. Qd8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Rxd8 27. Rxd8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "350"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/p4p1p/2p2Pp1/q1Pp4/8/P3Q1P1/7P/4R1K1 w - - 1 31"]
+[LichessURL "https://lichess.org/4d7uoZha/black#60"]
+[PuzzleId "T3hJn"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+31. Qe8+ Rxe8 32. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "351"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/prp2ppp/2p5/3b4/3q1B2/1P1P3P/P3Q1P1/4RR1K w - - 3 24"]
+[LichessURL "https://lichess.org/8bxKczhG/black#46"]
+[PuzzleId "cTexa"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "352"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/p1p3pp/1p2Q3/8/8/8/PP1q1PPP/4R1K1 w - - 1 21"]
+[LichessURL "https://lichess.org/oUR5L8xp/black#40"]
+[PuzzleId "h2bQe"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+21. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+21... Rxe8 22. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "353"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/4nppp/p3pb2/1p6/2q5/P5BP/1P1Q1PP1/1B1R2K1 w - - 3 27"]
+[LichessURL "https://lichess.org/FvhttrW6/black#52"]
+[PuzzleId "iCP2C"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+27. Qd8+ Rxd8 28. Rxd8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "354"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/1pp2Qp1/p1bp3p/8/1P1P3q/P1n3bP/6P1/1BB2RK1 w - - 3 28"]
+[LichessURL "https://lichess.org/Wy1wJcnf/black#54"]
+[PuzzleId "1oqJ4"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+28. Qf8+ Rxf8 29. Rxf8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "355"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5ppp/2p1p3/8/4q3/7P/rQ4P1/1R5K w - - 4 35"]
+[LichessURL "https://lichess.org/aLY0rHlS/black#68"]
+[PuzzleId "VEe1b"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+35. Qb8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+35... Rxb8 36. Rxb8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "356"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp3rb1/2p5/3p1qpR/3P4/4P1PQ/PP2K1P1/7R w - - 0 26"]
+[LichessURL "https://lichess.org/KD0MIHY0/black#50"]
+[PuzzleId "baxoQ"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+
+26. Rh8+ Bxh8 27. Qxh8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "357"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5ppp/1qp5/3pQP2/8/5N1P/1r2R1PK/8 w - - 1 31"]
+[LichessURL "https://lichess.org/zKyS61Eu/black#60"]
+[PuzzleId "eIArg"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+31. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+31... Rxe8 32. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "358"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/p7/1p6/2pq4/5P1P/PP2QP2/4R1K1 w - - 0 29"]
+[LichessURL "https://lichess.org/v7lUnwAz/black#56"]
+[PuzzleId "GCfdv"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rxe8 30. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "359"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/pbpp3q/1p6/1BbP1pn1/P1P4r/1P3P2/4Q1RP/4RN1K w - - 1 29"]
+[LichessURL "https://lichess.org/0JxZvmjI/black#56"]
+[PuzzleId "ktxGD"]
+[Themes "mate mateIn2 middlegame queensideAttack sacrifice short"]
+
+29. Qe8+ Rxe8 30. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "360"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pb4pp/np2Q3/2pP2p1/1Pq5/P7/5PPP/4R1K1 w - - 2 24"]
+[LichessURL "https://lichess.org/lP344NXb/black#46"]
+[PuzzleId "vNHrw"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+24. Qe8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+24... Rxe8 25. Rxe8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "361"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppb/1p3n2/4R2p/1P3P2/1qPpQ2P/6PK/8 w - - 9 33"]
+[LichessURL "https://lichess.org/0ddyQh3f/black#64"]
+[PuzzleId "PHbc9"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+
+33. Re8+ Nxe8 34. Qxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "362"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/2q2pp1/7p/p2p4/2bP4/2P1Q3/1rB3PP/R3R1K1 w - - 3 31"]
+[LichessURL "https://lichess.org/790jry06/black#60"]
+[PuzzleId "mjwE9"]
+[Themes "mate mateIn2 middlegame sacrifice short"]
+
+31. Qe8+ Rxe8 32. Rxe8# *
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "363"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/ppp2ppp/8/6q1/2P3n1/4P3/PP3QPP/5RK1 w - - 5 26"]
+[LichessURL "https://lichess.org/UVUDmbuB/black#50"]
+[PuzzleId "45g95"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+
+26. Qxf7+
+{ Check — the king remains boxed in behind its pawn shield on the back rank. }
+26... Kh8 27. Qf8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+27... Rxf8 28. Rxf8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+
+[Event "Sacrifice"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "364"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/5ppp/2Q1p3/p2p4/8/P7/7q/2R2K2 w - - 0 29"]
+[LichessURL "https://lichess.org/4KD2L7vl/black#56"]
+[PuzzleId "K1mbr"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+29. Qc8+
+{ Infiltrates the back rank, tying down the king and threatening mate. Check — the king remains boxed in behind its pawn shield on the back rank. }
+29... Rxc8 30. Rxc8#
+{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
+*
+
+
+

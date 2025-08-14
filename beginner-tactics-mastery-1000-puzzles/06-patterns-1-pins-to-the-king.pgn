@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Pin"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,66 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "6k1/p1r2npp/8/1p1R4/4p3/P1p4P/B4P2/4K3 w - - 0 41"]
+[LichessURL "https://lichess.org/SMTKq7l0/black#80"]
+[PuzzleId "wQp5K"]
+[Themes "endgame master mate mateIn1 oneMove pin"]
+
 {{Patterns 1: Pins to the King
 
 This section focuses on Absolute pins, winning pinned pieces.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+41. Rd8# *
+
+
+
+[Event "Pin"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/pr3p1p/p3p1p1/3b2P1/N1pPpP2/P3P2R/2P4P/1RQ3K1 b - - 0 23"]
+[LichessURL "https://lichess.org/6KMPNgmR#45"]
+[PuzzleId "x89pv"]
+[Themes "crushing master middlegame pin short"]
+
+23... Rxb1 24. Qxb1 Rxb1+ *
+
+
+
+[Event "Pin"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/7b/p3p3/4P3/6P1/5P1P/3Q2K1 b - - 0 26"]
+[LichessURL "https://lichess.org/4fDwkc1K#51"]
+[PuzzleId "MTHWe"]
+[Themes "crushing endgame pin short"]
+
+26... Rc1 27. Qxc1 Bxc1 *
+
+
+
+[Event "Pin"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rpp/3R4/1p2p3/1P2P3/1BPK1nP1/4R2P/5q2 w - - 0 35"]
+[LichessURL "https://lichess.org/ngEkUqoz/black#68"]
+[PuzzleId "s2Wvc"]
+[Themes "endgame mate mateIn1 oneMove pin"]
+
+35. Rd8# *
