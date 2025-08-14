@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Endgame 4: Rook Endings"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,390 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
 {{Endgame 4: Rook Endings
 
-This section focuses on Box technique, cutting off.
+This section focuses on Rook vs rook tactics.
 
-Improve technique and calculation in simplified positions where precision matters.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+37. Rf8# { Rook endgame! Back rank mate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3pp1p/1p4p1/8/1P6/P2RP3/5PPP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/w15Hfqln#51"]
+[PuzzleId "ui6iw"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26... Rc1+ { Rook endgame! Infiltrating the back rank. }
+27. Rd1 Rxd1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/2R5/6Pk/5K2/8/7r w - - 8 51"]
+[LichessURL "https://lichess.org/VuJnrAdL/black#100"]
+[PuzzleId "F51ej"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+51. Rh5# { Rook endgame! Direct checkmate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/1p2Rpp1/p2r3p/8/P7/2P5/R4PPP/6K1 b - - 1 25"]
+[LichessURL "https://lichess.org/BwWGi9HR#49"]
+[PuzzleId "Mzvdr"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+25... Rd1+ { Rook endgame! Infiltrating the back rank. }
+26. Re1 Rxe1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/1P2p3/3rP3/8/7P/5PP1/R5K1 w - - 1 31"]
+[LichessURL "https://lichess.org/UnEs9KWr/black#60"]
+[PuzzleId "pQFzV"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+31. Ra8+ { Rook endgame! Infiltrating the back rank. }
+31... Rd8 32. Rxd8# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37... Rf8# { Rook endgame! Back rank mate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3pp1p/1p4p1/8/1P6/P2RP3/5PPP/6K1 w - - 0 26"]
+[LichessURL "https://lichess.org/w15Hfqln#51"]
+[PuzzleId "ui6iw"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26. Rc1+ { Rook endgame! Infiltrating the back rank. }
+26... Rd1 27. Rxd1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/2R5/6Pk/5K2/8/7r b - - 8 51"]
+[LichessURL "https://lichess.org/VuJnrAdL/black#100"]
+[PuzzleId "F51ej"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+51... Rh5# { Rook endgame! Direct checkmate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/1p2Rpp1/p2r3p/8/P7/2P5/R4PPP/6K1 w - - 1 25"]
+[LichessURL "https://lichess.org/BwWGi9HR#49"]
+[PuzzleId "Mzvdr"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+25. Rd1+ { Rook endgame! Infiltrating the back rank. }
+25... Re1 26. Rxe1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/1P2p3/3rP3/8/7P/5PP1/R5K1 b - - 1 31"]
+[LichessURL "https://lichess.org/UnEs9KWr/black#60"]
+[PuzzleId "pQFzV"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+31... Ra8+ { Rook endgame! Infiltrating the back rank. }
+31... Rd8 32. Rxd8# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37. Rf8# { Rook endgame! Back rank mate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3pp1p/1p4p1/8/1P6/P2RP3/5PPP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/w15Hfqln#51"]
+[PuzzleId "ui6iw"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26... Rc1+ { Rook endgame! Infiltrating the back rank. }
+27. Rd1 Rxd1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/2R5/6Pk/5K2/8/7r w - - 8 51"]
+[LichessURL "https://lichess.org/VuJnrAdL/black#100"]
+[PuzzleId "F51ej"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+51. Rh5# { Rook endgame! Direct checkmate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/1p2Rpp1/p2r3p/8/P7/2P5/R4PPP/6K1 b - - 1 25"]
+[LichessURL "https://lichess.org/BwWGi9HR#49"]
+[PuzzleId "Mzvdr"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+25... Rd1+ { Rook endgame! Infiltrating the back rank. }
+26. Re1 Rxe1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/1P2p3/3rP3/8/7P/5PP1/R5K1 w - - 1 31"]
+[LichessURL "https://lichess.org/UnEs9KWr/black#60"]
+[PuzzleId "pQFzV"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+31. Ra8+ { Rook endgame! Infiltrating the back rank. }
+31... Rd8 32. Rxd8# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37... Rf8# { Rook endgame! Back rank mate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3pp1p/1p4p1/8/1P6/P2RP3/5PPP/6K1 w - - 0 26"]
+[LichessURL "https://lichess.org/w15Hfqln#51"]
+[PuzzleId "ui6iw"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26. Rc1+ { Rook endgame! Infiltrating the back rank. }
+26... Rd1 27. Rxd1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/2R5/6Pk/5K2/8/7r b - - 8 51"]
+[LichessURL "https://lichess.org/VuJnrAdL/black#100"]
+[PuzzleId "F51ej"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+51... Rh5# { Rook endgame! Direct checkmate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/1p2Rpp1/p2r3p/8/P7/2P5/R4PPP/6K1 w - - 1 25"]
+[LichessURL "https://lichess.org/BwWGi9HR#49"]
+[PuzzleId "Mzvdr"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+25. Rd1+ { Rook endgame! Infiltrating the back rank. }
+25... Re1 26. Rxe1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/1P2p3/3rP3/8/7P/5PP1/R5K1 b - - 1 31"]
+[LichessURL "https://lichess.org/UnEs9KWr/black#60"]
+[PuzzleId "pQFzV"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+31... Ra8+ { Rook endgame! Infiltrating the back rank. }
+31... Rd8 32. Rxd8# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37. Rf8# { Rook endgame! Back rank mate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p3pp1p/1p4p1/8/1P6/P2RP3/5PPP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/w15Hfqln#51"]
+[PuzzleId "ui6iw"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+26... Rc1+ { Rook endgame! Infiltrating the back rank. }
+27. Rd1 Rxd1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5p1p/2R5/6Pk/5K2/8/7r w - - 8 51"]
+[LichessURL "https://lichess.org/VuJnrAdL/black#100"]
+[PuzzleId "F51ej"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+
+51. Rh5# { Rook endgame! Direct checkmate with the rook. }
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/1p2Rpp1/p2r3p/8/P7/2P5/R4PPP/6K1 b - - 1 25"]
+[LichessURL "https://lichess.org/BwWGi9HR#49"]
+[PuzzleId "Mzvdr"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+25... Rd1+ { Rook endgame! Infiltrating the back rank. }
+26. Re1 Rxe1# *
+
+[Event "Endgame 4: Rook Endings"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/1P2p3/3rP3/8/7P/5PP1/R5K1 w - - 1 31"]
+[LichessURL "https://lichess.org/UnEs9KWr/black#60"]
+[PuzzleId "pQFzV"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+31. Ra8+ { Rook endgame! Infiltrating the back rank. }
+31... Rd8 32. Rxd8# *

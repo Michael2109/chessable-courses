@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,391 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "3k4/3P4/3KP3/p5p1/P5P1/8/8/5q2 w - - 0 42"]
+[LichessURL "https://lichess.org/oS67JI41/black#82"]
+[PuzzleId "YQAhT"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+
 {{Endgame 5: Passed Pawn Power
 
 This section focuses on Creating, advancing, defending.
 
-Improve technique and calculation in simplified positions where precision matters.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+42. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6pk/7p/5R1K b - - 0 73"]
+[LichessURL "https://lichess.org/lPGhpG1H#145"]
+[PuzzleId "TQFHp"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove rookEndgame"]
+
+73... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6np/7P/6k1/5p2/5K2 w - - 0 67"]
+[LichessURL "https://lichess.org/uf9YvDkW/black#132"]
+[PuzzleId "thmSN"]
+[Themes "advancedPawn crushing endgame long master"]
+
+67. hxg5 { Passed pawn power! Creating a passed pawn. }
+67... h4 68. g6 h3 69. g7 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/N7/8/6pK/5k2/2P5/8 b - - 0 45"]
+[LichessURL "https://lichess.org/dMCxIhrU#89"]
+[PuzzleId "uHki1"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+45... g3 { Passed pawn power! Advancing the passed pawn. }
+46. Nc7 g2 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/1p6/p7/k6P/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/Q4JOV3Gz/black#112"]
+[PuzzleId "NE4qD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. h5 { Passed pawn power! Advancing the passed pawn. }
+57... b5 58. h6 b4 59. h7 b3 60. h8=Q *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/2r2pbp/p2Rp1p1/8/4PP2/1P4P1/Pp2Q2P/1K1R4 b - - 3 25"]
+[LichessURL "https://lichess.org/5BAAD41s#49"]
+[PuzzleId "Pumc0"]
+[Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
+
+25... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
+26. Rxc1 bxc1=Q# *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/3KP3/p5p1/P5P1/8/8/5q2 w - - 0 42"]
+[LichessURL "https://lichess.org/oS67JI41/black#82"]
+[PuzzleId "YQAhT"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+
+42. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6pk/7p/5R1K b - - 0 73"]
+[LichessURL "https://lichess.org/lPGhpG1H#145"]
+[PuzzleId "TQFHp"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove rookEndgame"]
+
+73... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6np/7P/6k1/5p2/5K2 w - - 0 67"]
+[LichessURL "https://lichess.org/uf9YvDkW/black#132"]
+[PuzzleId "thmSN"]
+[Themes "advancedPawn crushing endgame long master"]
+
+67. hxg5 { Passed pawn power! Creating a passed pawn. }
+67... h4 68. g6 h3 69. g7 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/N7/8/6pK/5k2/2P5/8 b - - 0 45"]
+[LichessURL "https://lichess.org/dMCxIhrU#89"]
+[PuzzleId "uHki1"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+45... g3 { Passed pawn power! Advancing the passed pawn. }
+46. Nc7 g2 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/1p6/p7/k6P/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/Q4JOV3Gz/black#112"]
+[PuzzleId "NE4qD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. h5 { Passed pawn power! Advancing the passed pawn. }
+57... b5 58. h6 b4 59. h7 b3 60. h8=Q *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/2r2pbp/p2Rp1p1/8/4PP2/1P4P1/Pp2Q2P/1K1R4 b - - 3 25"]
+[LichessURL "https://lichess.org/5BAAD41s#49"]
+[PuzzleId "Pumc0"]
+[Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
+
+25... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
+26. Rxc1 bxc1=Q# *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/3KP3/p5p1/P5P1/8/8/5q2 w - - 0 42"]
+[LichessURL "https://lichess.org/oS67JI41/black#82"]
+[PuzzleId "YQAhT"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+
+42. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6pk/7p/5R1K b - - 0 73"]
+[LichessURL "https://lichess.org/lPGhpG1H#145"]
+[PuzzleId "TQFHp"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove rookEndgame"]
+
+73... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6np/7P/6k1/5p2/5K2 w - - 0 67"]
+[LichessURL "https://lichess.org/uf9YvDkW/black#132"]
+[PuzzleId "thmSN"]
+[Themes "advancedPawn crushing endgame long master"]
+
+67. hxg5 { Passed pawn power! Creating a passed pawn. }
+67... h4 68. g6 h3 69. g7 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/N7/8/6pK/5k2/2P5/8 b - - 0 45"]
+[LichessURL "https://lichess.org/dMCxIhrU#89"]
+[PuzzleId "uHki1"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+45... g3 { Passed pawn power! Advancing the passed pawn. }
+46. Nc7 g2 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/1p6/p7/k6P/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/Q4JOV3Gz/black#112"]
+[PuzzleId "NE4qD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. h5 { Passed pawn power! Advancing the passed pawn. }
+57... b5 58. h6 b4 59. h7 b3 60. h8=Q *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/2r2pbp/p2Rp1p1/8/4PP2/1P4P1/Pp2Q2P/1K1R4 b - - 3 25"]
+[LichessURL "https://lichess.org/5BAAD41s#49"]
+[PuzzleId "Pumc0"]
+[Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
+
+25... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
+26. Rxc1 bxc1=Q# *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/3KP3/p5p1/P5P1/8/8/5q2 w - - 0 42"]
+[LichessURL "https://lichess.org/oS67JI41/black#82"]
+[PuzzleId "YQAhT"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+
+42. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6pk/7p/5R1K b - - 0 73"]
+[LichessURL "https://lichess.org/lPGhpG1H#145"]
+[PuzzleId "TQFHp"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove rookEndgame"]
+
+73... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6np/7P/6k1/5p2/5K2 w - - 0 67"]
+[LichessURL "https://lichess.org/uf9YvDkW/black#132"]
+[PuzzleId "thmSN"]
+[Themes "advancedPawn crushing endgame long master"]
+
+67. hxg5 { Passed pawn power! Creating a passed pawn. }
+67... h4 68. g6 h3 69. g7 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/N7/8/6pK/5k2/2P5/8 b - - 0 45"]
+[LichessURL "https://lichess.org/dMCxIhrU#89"]
+[PuzzleId "uHki1"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
+
+45... g3 { Passed pawn power! Advancing the passed pawn. }
+46. Nc7 g2 *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/1p6/p7/k6P/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/Q4JOV3Gz/black#112"]
+[PuzzleId "NE4qD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. h5 { Passed pawn power! Advancing the passed pawn. }
+57... b5 58. h6 b4 59. h7 b3 60. h8=Q *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/2r2pbp/p2Rp1p1/8/4PP2/1P4P1/Pp2Q2P/1K1R4 b - - 3 25"]
+[LichessURL "https://lichess.org/5BAAD41s#49"]
+[PuzzleId "Pumc0"]
+[Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
+
+25... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
+26. Rxc1 bxc1=Q# *
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/3KP3/p5p1/P5P1/8/8/5q2 w - - 0 42"]
+[LichessURL "https://lichess.org/oS67JI41/black#82"]
+[PuzzleId "YQAhT"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+
+42. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }

@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,395 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
+[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
+[PuzzleId "umPpQ"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+
 {{Endgame 2: King vs King & Pawn
 
 This section focuses on Opposition, key squares.
 
-Improve technique and calculation in simplified positions where precision matters.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+52. e7# { King vs pawn! The pawn promotes with checkmate. }
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { King vs pawn! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/Hp7keymc/black#110"]
+[PuzzleId "iO9oS"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+56. g5 { King vs pawn! Advancing the pawn to create opposition. }
+56... Kc3 57. g6 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
+[LichessURL "https://lichess.org/Su4ejMYC#85"]
+[PuzzleId "uQzmv"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+43... g4 { King vs pawn! Advancing the pawn to create opposition. }
+44. c4 g3 45. c5 g2 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
+[PuzzleId "tyQKY"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+44. a5 { King vs pawn! Advancing the pawn to create opposition. }
+44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/T8946uuZ#95"]
+[PuzzleId "1vrby"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+48... f5 { King vs pawn! Advancing the pawn to create opposition. }
+49. Kh6 f4 50. Kxh5 f3 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
+[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
+[PuzzleId "umPpQ"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+
+52. e7# { King vs pawn! The pawn promotes with checkmate. }
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { King vs pawn! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/Hp7keymc/black#110"]
+[PuzzleId "iO9oS"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+56. g5 { King vs pawn! Advancing the pawn to create opposition. }
+56... Kc3 57. g6 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
+[LichessURL "https://lichess.org/Su4ejMYC#85"]
+[PuzzleId "uQzmv"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+43... g4 { King vs pawn! Advancing the pawn to create opposition. }
+44. c4 g3 45. c5 g2 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
+[PuzzleId "tyQKY"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+44. a5 { King vs pawn! Advancing the pawn to create opposition. }
+44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/T8946uuZ#95"]
+[PuzzleId "1vrby"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+48... f5 { King vs pawn! Advancing the pawn to create opposition. }
+49. Kh6 f4 50. Kxh5 f3 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
+[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
+[PuzzleId "umPpQ"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+
+52. e7# { King vs pawn! The pawn promotes with checkmate. }
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { King vs pawn! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/Hp7keymc/black#110"]
+[PuzzleId "iO9oS"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+56. g5 { King vs pawn! Advancing the pawn to create opposition. }
+56... Kc3 57. g6 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
+[LichessURL "https://lichess.org/Su4ejMYC#85"]
+[PuzzleId "uQzmv"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+43... g4 { King vs pawn! Advancing the pawn to create opposition. }
+44. c4 g3 45. c5 g2 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
+[PuzzleId "tyQKY"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+44. a5 { King vs pawn! Advancing the pawn to create opposition. }
+44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/T8946uuZ#95"]
+[PuzzleId "1vrby"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+48... f5 { King vs pawn! Advancing the pawn to create opposition. }
+49. Kh6 f4 50. Kxh5 f3 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
+[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
+[PuzzleId "umPpQ"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+
+52. e7# { King vs pawn! The pawn promotes with checkmate. }
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { King vs pawn! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/Hp7keymc/black#110"]
+[PuzzleId "iO9oS"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+56. g5 { King vs pawn! Advancing the pawn to create opposition. }
+56... Kc3 57. g6 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
+[LichessURL "https://lichess.org/Su4ejMYC#85"]
+[PuzzleId "uQzmv"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+43... g4 { King vs pawn! Advancing the pawn to create opposition. }
+44. c4 g3 45. c5 g2 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
+[PuzzleId "tyQKY"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+44. a5 { King vs pawn! Advancing the pawn to create opposition. }
+44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/T8946uuZ#95"]
+[PuzzleId "1vrby"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+48... f5 { King vs pawn! Advancing the pawn to create opposition. }
+49. Kh6 f4 50. Kxh5 f3 *
+
+[Event "Endgame 2: King vs King & Pawn"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
+[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
+[PuzzleId "umPpQ"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+
+52. e7# { King vs pawn! The pawn promotes with checkmate. }

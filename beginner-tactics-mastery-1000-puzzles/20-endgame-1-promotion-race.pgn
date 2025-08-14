@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Endgame 1: Promotion Race"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,395 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Endgame 1: Promotion Race!
+[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gdol97AU/black#118"]
+[PuzzleId "c2Qdj"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
 
-This section focuses on Who promotes first? Counting tempos.
+{{Endgame 1: Promotion Race
 
-Improve technique and calculation in simplified positions where precision matters.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+This section focuses on Pawn promotion races.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+60. f8=Q# { Promotion race! The pawn promotes with checkmate. }
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/2PK4/5p2/4k3/8 b - - 0 60"]
+[LichessURL "https://lichess.org/zMi7a63K#119"]
+[PuzzleId "IQhQI"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion short"]
+
+60... f2 { Promotion race! Advancing the pawn to start the race. }
+61. d7 f1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1P5p/2K3pP/8/7k/8 w - - 1 54"]
+[LichessURL "https://lichess.org/QSYrEzkH/black#106"]
+[PuzzleId "BZdlg"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+54. b6 { Promotion race! Advancing the pawn to start the race. }
+54... Kh1 55. b7 g3 56. b8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { Promotion race! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
+[LichessURL "https://lichess.org/q6a998e4/black#126"]
+[PuzzleId "2Vebh"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+
+64. g7 { Promotion race! Advancing the pawn to start the race. }
+64... Nd5 65. g8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 b - - 2 53"]
+[LichessURL "https://lichess.org/u6ToCOVX#105"]
+[PuzzleId "d2iuX"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... a4 { Promotion race! Advancing the pawn to start the race. }
+54. h5 a3 55. h6 a2 56. Kf7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gdol97AU/black#118"]
+[PuzzleId "c2Qdj"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+
+60. f8=Q# { Promotion race! The pawn promotes with checkmate. }
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/2PK4/5p2/4k3/8 b - - 0 60"]
+[LichessURL "https://lichess.org/zMi7a63K#119"]
+[PuzzleId "IQhQI"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion short"]
+
+60... f2 { Promotion race! Advancing the pawn to start the race. }
+61. d7 f1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1P5p/2K3pP/8/7k/8 w - - 1 54"]
+[LichessURL "https://lichess.org/QSYrEzkH/black#106"]
+[PuzzleId "BZdlg"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+54. b6 { Promotion race! Advancing the pawn to start the race. }
+54... Kh1 55. b7 g3 56. b8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { Promotion race! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
+[LichessURL "https://lichess.org/q6a998e4/black#126"]
+[PuzzleId "2Vebh"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+
+64. g7 { Promotion race! Advancing the pawn to start the race. }
+64... Nd5 65. g8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 b - - 2 53"]
+[LichessURL "https://lichess.org/u6ToCOVX#105"]
+[PuzzleId "d2iuX"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... a4 { Promotion race! Advancing the pawn to start the race. }
+54. h5 a3 55. h6 a2 56. Kf7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gdol97AU/black#118"]
+[PuzzleId "c2Qdj"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+
+60. f8=Q# { Promotion race! The pawn promotes with checkmate. }
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/2PK4/5p2/4k3/8 b - - 0 60"]
+[LichessURL "https://lichess.org/zMi7a63K#119"]
+[PuzzleId "IQhQI"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion short"]
+
+60... f2 { Promotion race! Advancing the pawn to start the race. }
+61. d7 f1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1P5p/2K3pP/8/7k/8 w - - 1 54"]
+[LichessURL "https://lichess.org/QSYrEzkH/black#106"]
+[PuzzleId "BZdlg"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+54. b6 { Promotion race! Advancing the pawn to start the race. }
+54... Kh1 55. b7 g3 56. b8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { Promotion race! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
+[LichessURL "https://lichess.org/q6a998e4/black#126"]
+[PuzzleId "2Vebh"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+
+64. g7 { Promotion race! Advancing the pawn to start the race. }
+64... Nd5 65. g8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 b - - 2 53"]
+[LichessURL "https://lichess.org/u6ToCOVX#105"]
+[PuzzleId "d2iuX"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... a4 { Promotion race! Advancing the pawn to start the race. }
+54. h5 a3 55. h6 a2 56. Kf7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gdol97AU/black#118"]
+[PuzzleId "c2Qdj"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+
+60. f8=Q# { Promotion race! The pawn promotes with checkmate. }
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3P4/8/2PK4/5p2/4k3/8 b - - 0 60"]
+[LichessURL "https://lichess.org/zMi7a63K#119"]
+[PuzzleId "IQhQI"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion short"]
+
+60... f2 { Promotion race! Advancing the pawn to start the race. }
+61. d7 f1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1P5p/2K3pP/8/7k/8 w - - 1 54"]
+[LichessURL "https://lichess.org/QSYrEzkH/black#106"]
+[PuzzleId "BZdlg"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+
+54. b6 { Promotion race! Advancing the pawn to start the race. }
+54... Kh1 55. b7 g3 56. b8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { Promotion race! Advancing the pawn to start the race. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
+[LichessURL "https://lichess.org/q6a998e4/black#126"]
+[PuzzleId "2Vebh"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+
+64. g7 { Promotion race! Advancing the pawn to start the race. }
+64... Nd5 65. g8=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 b - - 2 53"]
+[LichessURL "https://lichess.org/u6ToCOVX#105"]
+[PuzzleId "d2iuX"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... a4 { Promotion race! Advancing the pawn to start the race. }
+54. h5 a3 55. h6 a2 56. Kf7 a1=Q *
+
+[Event "Endgame 1: Promotion Race"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gdol97AU/black#118"]
+[PuzzleId "c2Qdj"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+
+60. f8=Q# { Promotion race! The pawn promotes with checkmate. }

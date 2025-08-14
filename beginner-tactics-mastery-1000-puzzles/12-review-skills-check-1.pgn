@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,300 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "5r1k/p1p3pp/1pn5/4p3/1P2P3/2P2R2/P3q1PP/R6K w - - 0 23"]
+[LichessURL "https://lichess.org/t921Riyq/black#44"]
+[PuzzleId "F4tRS"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+
 {{Review: Skills Check #1
 
 This section focuses on Combining previous themes.
 
 A mixed check-up to reinforce retention across previously learned themes.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+}}
+23. Rxf8# { Back rank mate! The rook delivers checkmate while the king is trapped by its own pawns. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/7p/3Q2p1/p7/2P1p3/P7/6PP/5R1K b - - 0 38"]
+[LichessURL "https://lichess.org/A7NXmOKi#75"]
+[PuzzleId "Nc9zc"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+
+38... Rxf1# { Back rank mate! The rook captures with checkmate, exploiting the king's lack of escape squares. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
+[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
+[PuzzleId "wTFX8"]
+[Themes "mate mateIn1 middlegame oneMove"]
+
+15. Rd8# { Rook checkmate! The rook slides to d8, delivering mate while the king has no escape. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2knr/p2ppp2/2p3pb/q1p1P1Np/4N3/3P1Q2/PPP2PPP/R1B1R1K1 b - - 4 12"]
+[LichessURL "https://lichess.org/jl4N1VVl#23"]
+[PuzzleId "52I2M"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+
+12... Qxe1# { Queen checkmate! The queen captures the rook with mate, exploiting the exposed king. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
+[LichessURL "https://lichess.org/hDibIiAO/black#54"]
+[PuzzleId "92Oqp"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+
+28. Rxd8# { Back rank mate! The rook captures the defender and delivers checkmate. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
+[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
+[PuzzleId "5sWvq"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+34. Nf7# { Smothered mate! The knight delivers checkmate while the king is trapped by its own pieces. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
+[LichessURL "https://lichess.org/ng2ueKxW#41"]
+[PuzzleId "N0S5f"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+
+21... Nxf2# { Smothered mate! The knight checkmates while the king is surrounded by its own pieces. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pb1pnp1p/1pn1p1p1/2p1P3/4NP2/3P1N2/PPP3PP/R1BQKB1R w KQkq - 1 8"]
+[LichessURL "https://lichess.org/HLTnd2Nu/black#14"]
+[PuzzleId "Ce9yv"]
+[Themes "master mate mateIn1 oneMove opening smotheredMate"]
+
+8. Nd6# { Smothered mate! The knight delivers checkmate in the opening, a rare early smothered mate. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2k5/B2pP2p/3P2p1/b2n4/P4PPP/1R4NK b - - 0 32"]
+[LichessURL "https://lichess.org/Suwj1uz0#63"]
+[PuzzleId "qT0qy"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+32... Nxf2# { Smothered mate! The knight checkmates while the king is trapped by its own pawns. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 33"]
+[LichessURL "https://lichess.org/QgTnF4DD/black#64"]
+[PuzzleId "j1GFb"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+
+33. Nxf7# { Smothered mate! The knight delivers checkmate while the king is surrounded. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p2r2k1/1p5p/4pppP/8/3n1P2/6PQ/1R4NK b - - 0 37"]
+[LichessURL "https://lichess.org/JznEtHRk#73"]
+[PuzzleId "ojsIc"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+37... Nf2# { Smothered mate! The knight checkmates while the king is trapped by its own pieces. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
+[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
+[PuzzleId "wTFX8"]
+[Themes "mate mateIn1 middlegame oneMove"]
+
+15. Rd8# { Rook checkmate! The rook slides to d8 for the decisive blow. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1b2bpp1/2q1pn1p/p1p1N3/Nn5B/1B1P4/1PP2PPP/R3QRK1 b - - 0 18"]
+[LichessURL "https://lichess.org/ng2ueKxW#35"]
+[PuzzleId "N0S5f"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+
+18... Qxe1# { Queen checkmate! The queen captures the rook with mate. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
+[LichessURL "https://lichess.org/hDibIiAO/black#54"]
+[PuzzleId "92Oqp"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+
+28. Rxd8# { Back rank mate! The rook captures and delivers checkmate. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
+[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
+[PuzzleId "5sWvq"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+34. Nf7# { Smothered mate! The knight delivers checkmate. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
+[LichessURL "https://lichess.org/ng2ueKxW#41"]
+[PuzzleId "N0S5f"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+
+21... Nxf2# { Smothered mate! The knight checkmates. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pb1pnp1p/1pn1p1p1/2p1P3/4NP2/3P1N2/PPP3PP/R1BQKB1R w KQkq - 1 8"]
+[LichessURL "https://lichess.org/HLTnd2Nu/black#14"]
+[PuzzleId "Ce9yv"]
+[Themes "master mate mateIn1 oneMove opening smotheredMate"]
+
+8. Nd6# { Smothered mate! Early checkmate in the opening. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2k5/B2pP2p/3P2p1/b2n4/P4PPP/1R4NK b - - 0 32"]
+[LichessURL "https://lichess.org/Suwj1uz0#63"]
+[PuzzleId "qT0qy"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+32... Nxf2# { Smothered mate! The knight delivers checkmate. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 33"]
+[LichessURL "https://lichess.org/QgTnF4DD/black#64"]
+[PuzzleId "j1GFb"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+
+33. Nxf7# { Smothered mate! The knight checkmates. }
+
+[Event "Review: Skills Check #1"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p2r2k1/1p5p/4pppP/8/3n1P2/6PQ/1R4NK b - - 0 37"]
+[LichessURL "https://lichess.org/JznEtHRk#73"]
+[PuzzleId "ojsIc"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+
+37... Nf2# { Smothered mate! The knight delivers checkmate. }

@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,379 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
 {{Tactics 4: Surprise Check!
 
 This section focuses on Discoveries with check.
 
-Practice spotting forcing sequences—checks, captures, and threats—to win material or mate.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
+[LichessURL "https://lichess.org/5pPfcHh9#59"]
+[PuzzleId "02NvQ"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+
+30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
+[PuzzleId "cg7r3"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
+[LichessURL "https://lichess.org/PJKKkqjI#71"]
+[PuzzleId "dTxZJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
+[PuzzleId "6P7X6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+29... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
+[LichessURL "https://lichess.org/Ptkq55Ir#59"]
+[PuzzleId "qFETP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
+[LichessURL "https://lichess.org/5pPfcHh9#59"]
+[PuzzleId "02NvQ"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+
+30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
+[PuzzleId "cg7r3"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
+[LichessURL "https://lichess.org/PJKKkqjI#71"]
+[PuzzleId "dTxZJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
+[PuzzleId "6P7X6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+29... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
+[LichessURL "https://lichess.org/Ptkq55Ir#59"]
+[PuzzleId "qFETP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
+[LichessURL "https://lichess.org/5pPfcHh9#59"]
+[PuzzleId "02NvQ"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+
+30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
+[PuzzleId "cg7r3"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
+[LichessURL "https://lichess.org/PJKKkqjI#71"]
+[PuzzleId "dTxZJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
+[PuzzleId "6P7X6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+29... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
+[LichessURL "https://lichess.org/Ptkq55Ir#59"]
+[PuzzleId "qFETP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
+[LichessURL "https://lichess.org/5pPfcHh9#59"]
+[PuzzleId "02NvQ"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+
+30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
+[PuzzleId "cg7r3"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
+
+25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
+[LichessURL "https://lichess.org/PJKKkqjI#71"]
+[PuzzleId "dTxZJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+
+36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
+[PuzzleId "6P7X6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+
+29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+29... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
+[LichessURL "https://lichess.org/Ptkq55Ir#59"]
+[PuzzleId "qFETP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+
+30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
