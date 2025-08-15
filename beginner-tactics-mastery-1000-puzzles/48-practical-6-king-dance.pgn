@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Practical 6: King Dance"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,240 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "8/8/2k5/p3p2p/Pp2P2P/1P1K4/8/8 w - - 0 47"]
+[LichessURL "https://lichess.org/7Jl4HRUj/black#92"]
+[PuzzleId "bpo2w"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
 {{Practical 6: King Dance
 
-This section focuses on Opposition & zugzwang in endgames.
+This section focuses on Opposition and Zugzwang in Endgames.
 
-Game-like scenarios emphasizing decision-making, safety, and resourcefulness.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize king opposition and zugzwang positions that create winning opportunities.
+}}
+47. Kc4 { King dance! Creating opposition and zugzwang. }
+47... Kb6 48. Kd5 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/pPp1k1p1/P1P2pP1/3P1P2/3K4/8 b - - 1 39"]
+[LichessURL "https://lichess.org/kC18IC5o#77"]
+[PuzzleId "fLH5m"]
+[Themes "advantage endgame pawnEndgame short zugzwang"]
+
+39... Kd4 { King dance! Creating opposition and zugzwang. }
+40. Kc2 Ke3 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/5k2/pPp3p1/P1P2Pp1/5K2/8 w - - 0 46"]
+[LichessURL "https://lichess.org/5jOGDcOU/black#90"]
+[PuzzleId "rflh3"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+46. Kxg3 { King dance! Creating opposition and zugzwang. }
+46... gxf3 47. Kxf3 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k1p1/1p1p2Pp/1P1P3P/5K2/8/8 b - - 6 67"]
+[LichessURL "https://lichess.org/aQBIXVdz#133"]
+[PuzzleId "zLO0T"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+67... Kf5 { King dance! Creating opposition and zugzwang. }
+68. Kg3 Ke4 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1k6/p2p2p1/pP1Pp1Pp/1K2P2P/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/fE2q0oW5/black#86"]
+[PuzzleId "3JJpa"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+44. Kxa4 { King dance! Creating opposition and zugzwang. }
+44... axb4 45. Kxb4 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1k1/3pP2p/3P3P/5K2/8/8 b - - 8 49"]
+[LichessURL "https://lichess.org/3l53MH4X#97"]
+[PuzzleId "fnnv6"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+49... Kf5 { King dance! Creating opposition and zugzwang. }
+50. Ke3 Kg4 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/4p3/4P1Kp/8/8/8/8 w - - 1 50"]
+[LichessURL "https://lichess.org/45udRw5n/black#98"]
+[PuzzleId "yGOYs"]
+[Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
+
+50. Kxh5 { King dance! Creating opposition and zugzwang. }
+50... Kg7 51. Kg5 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p1p1k1/p1PpP2p/P2P3P/5K2/8/8 b - - 1 48"]
+[LichessURL "https://lichess.org/jitqKA4c#95"]
+[PuzzleId "X6A4u"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+48... Kf5 { King dance! Creating opposition and zugzwang. }
+49. Ke3 Kg4 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/1p3p2/pP3Pp1/P2K2P1/8/8/8 w - - 5 43"]
+[LichessURL "https://lichess.org/qBpGlxZH/black#84"]
+[PuzzleId "BF3Y7"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+43. Kd5 { King dance! Creating opposition and zugzwang. }
+43... Ke7 44. Kc6 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5b2/8/p2Nk2p/Pp2P2P/1P1K4/8/8 b - - 10 53"]
+[LichessURL "https://lichess.org/WqnFwQZB#105"]
+[PuzzleId "AuatB"]
+[Themes "crushing endgame short zugzwang"]
+
+53... Bxd5 { King dance! Creating opposition and zugzwang. }
+54. exd5 Kxd5 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/k5p1/1p1p1pP1/Pp1P1P2/K7/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/EXrXQZVi/black#100"]
+[PuzzleId "v3ebE"]
+[Themes "crushing defensiveMove endgame long pawnEndgame zugzwang"]
+
+51. Kxb4 { King dance! Creating opposition and zugzwang. }
+51... bxa4 52. Kxa4 Kb6 53. Kb4 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/1p3p2/pP3P2/P2K4/8/8/8 b - - 6 50"]
+[LichessURL "https://lichess.org/dsP2zZCA#99"]
+[PuzzleId "l45l1"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+
+50... Kd6 { King dance! Creating opposition and zugzwang. }
+51. Ke4 Kc5 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p2k1/3P1pPp/7P/5K2/8/8 w - - 1 58"]
+[LichessURL "https://lichess.org/Xc4rHSfM/black#114"]
+[PuzzleId "AozTu"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+58. Kf4 { King dance! Creating opposition and zugzwang. }
+58... Kg7 59. Kxf5 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2k4p/1p3p1P/1P3P2/3K4/8 b - - 4 62"]
+[LichessURL "https://lichess.org/epQyWpaB#123"]
+[PuzzleId "aJWsz"]
+[Themes "crushing endgame master pawnEndgame short zugzwang"]
+
+62... Kd4 { King dance! Creating opposition and zugzwang. }
+63. Ke2 Kc3 { The king dance creates winning chances. }
+
+[Event "Practical 6: King Dance"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/4p3/2p3p1/2P1K1P1/8/8/8 w - - 6 45"]
+[LichessURL "https://lichess.org/Fyrb6927/black#88"]
+[PuzzleId "PiTMb"]
+[Themes "crushing endgame long pawnEndgame zugzwang"]
+
+45. Ke5 { King dance! Creating opposition and zugzwang. }
+45... Kf7 46. Kd6 Kf6 47. Kxc5 { The king dance creates winning chances. }

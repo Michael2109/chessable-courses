@@ -1,7 +1,195 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+{{Mastery 2: Skills Challenge
+
+This section focuses on Medium Difficulty Combinations.
+
+Challenging mixed puzzles that combine several ideas—aim for clean, forcing solutions. These puzzles test your ability to recognize and execute complex tactical combinations.
+}}
+37. Rf8# { Skills challenge! Back rank mate with the king trapped by its own pawns. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pp4p1/3p3q/8/4N2Q/1P3p2/P1P2P2/6RK b - - 0 33"]
+[LichessURL "https://lichess.org/3lYQ7nLQ#65"]
+[PuzzleId "l7OYo"]
+[Themes "endgame master"]
+
+33... Qxh4# { Skills challenge! Queen mate exploiting the exposed king. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2rk/pp2R3/5p2/2Pp4/1P6/2P2Pq1/P1Q4p/5R1K w - - 5 36"]
+[LichessURL "https://lichess.org/0Xo6pQkH/black#70"]
+[PuzzleId "oHA6T"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+36. Rh7# { Skills challenge! Rook mate exploiting the exposed king. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/7p/Q3bpk1/1p6/8/P7/1P5P/K7 b - - 0 40"]
+[LichessURL "https://lichess.org/B9D41E5d#79"]
+[PuzzleId "ttBko"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+40... Rc1# { Skills challenge! Rook mate on the back rank. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/pp3p1p/3R1Pp1/8/8/4B3/4q1PP/3R3K w - - 1 28"]
+[LichessURL "https://lichess.org/8XlfXvEd/black#54"]
+[PuzzleId "4KLOw"]
+[Themes "endgame master mate mateIn2 short"]
+
+28. Rd8+ { Skills challenge! Rook sacrifice to force mate. }
+28... Rxd8 29. Rxd8# { The back rank mate. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R3nk1/p4ppp/b3p3/3pP3/Q7/P7/5PPP/r3R1K1 b - - 0 28"]
+[LichessURL "https://lichess.org/KHzevsMG#55"]
+[PuzzleId "kwdWc"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove"]
+
+28... Rxe1# { Skills challenge! Back rank mate with the king trapped. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Qr1k1/pr3ppp/8/3p4/5P2/1PP3P1/P2KN1q1/4R3 w - - 2 38"]
+[LichessURL "https://lichess.org/ycHZI5js/black#74"]
+[PuzzleId "liMHw"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+38. Qxe8# { Skills challenge! Queen mate exploiting the hanging rook. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/kpr2p2/p7/4N1P1/nP6/8/P7/K7 b - - 0 39"]
+[LichessURL "https://lichess.org/CzpOUncD#77"]
+[PuzzleId "YDD67"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+39... Rc1# { Skills challenge! Rook mate on the back rank. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Rr1k2/1B3pb1/3P2p1/4p3/3p2P1/P7/5P2/6K1 w - - 3 37"]
+[LichessURL "https://lichess.org/RWjPc6Qa/black#72"]
+[PuzzleId "WogRX"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+37. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p4k1/1N2p1p1/4P2p/6n1/6Pb/7P/3rQ1KB b - - 2 41"]
+[LichessURL "https://lichess.org/WlWi3Imo#81"]
+[PuzzleId "eqHGK"]
+[Themes "endgame master"]
+
+41... Rxe1# { Skills challenge! Rook mate exploiting the hanging queen. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/2R4p/8/8/rr1BK3/5PPP/8 w - - 7 32"]
+[LichessURL "https://lichess.org/JweB97jY/black#62"]
+[PuzzleId "9ljaO"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+32. Rc8# { Skills challenge! Rook mate on the back rank. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p5bp/1p1P2p1/5q2/3p4/6B1/PP1Q2PP/R6K b - - 1 24"]
+[LichessURL "https://lichess.org/gSP80FRU#47"]
+[PuzzleId "JIngM"]
+[Themes "backRankMate endgame master masterVsMaster mate mateIn2 sacrifice short"]
+
+24... Qf1+ { Skills challenge! Queen sacrifice to force mate. }
+25. Rxf1 Rxf1# { The back rank mate. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -10,10 +198,187 @@
 [LichessURL "https://lichess.org/rmtlhGXo/black#76"]
 [PuzzleId "fImTO"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Mastery 2: Skills Challenge
 
-This section focuses on Medium difficulty combinations.
+39. Re8# { Skills challenge! Back rank mate with the king trapped. }
 
-Challenging mixed puzzles that combine several ideas—aim for clean, forcing solutions.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1Q2n1bp/8/P3p3/1Pq1p3/2P3pP/6P1/5R1K b - - 0 31"]
+[LichessURL "https://lichess.org/wvbMOtol#61"]
+[PuzzleId "C5WLb"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+31... Qxf1# { Skills challenge! Queen mate exploiting the hanging rook. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/2p2ppp/8/8/2p1P3/2P1r3/1R4PP/2R3K1 w - - 0 26"]
+[LichessURL "https://lichess.org/GtakGNfl/black#50"]
+[PuzzleId "HsnWP"]
+[Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove rookEndgame"]
+
+26. Rxb8# { Skills challenge! Back rank mate with the king trapped. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp2pp1p/3p3q/3P1Np1/5bP1/2P2P2/PP2Q1KP/3R1R2 b - - 1 24"]
+[LichessURL "https://lichess.org/s0EnjpEW#47"]
+[PuzzleId "TSamE"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+
+24... Qxh2# { Skills challenge! Queen mate exploiting the exposed king. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/8/8/8/5K1k/8/8/6q1 w - - 0 81"]
+[LichessURL "https://lichess.org/F5mxmAQ5/black#160"]
+[PuzzleId "DzVeS"]
+[Themes "endgame master mate mateIn1 oneMove queenEndgame"]
+
+81. Qh8# { Skills challenge! Queen mate in the endgame. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1p1n1ppp/1qp2n2/3NP3/p4B2/b2QPN2/1PP2PPP/1K1R3R b kq - 0 12"]
+[LichessURL "https://lichess.org/Kz4nPXQb#23"]
+[PuzzleId "R2U3b"]
+[Themes "master mate mateIn1 middlegame oneMove queensideAttack"]
+
+12... Qxb2# { Skills challenge! Queen mate exploiting the exposed king. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1pp4p/p3pKp1/8/4qP2/2B5/PP6/3R3R w - - 0 29"]
+[LichessURL "https://lichess.org/eLdusjke/black#56"]
+[PuzzleId "Xob7F"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+29. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/7p/6p1/8/3B4/1B5b/P4P1P/4R2K b - - 0 32"]
+[LichessURL "https://lichess.org/t0N3WonQ#63"]
+[PuzzleId "ySRLf"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+
+32... Rxe1# { Skills challenge! Rook mate exploiting the hanging rook. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r1nk1/1q3ppp/4p3/1PB1P3/p3PP2/6P1/P2Q2BP/3R2K1 w - - 1 27"]
+[LichessURL "https://lichess.org/8L3vzCl7/black#52"]
+[PuzzleId "Mj1II"]
+[Themes "advantage master middlegame short"]
+
+27. Qxd8 { Skills challenge! Queen sacrifice to win material. }
+27... Rxd8 28. Rxd8 { Converting the advantage. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/1b1P1Bp1/6Kp/1p5P/1P4P1/8/8 b - - 4 66"]
+[LichessURL "https://lichess.org/Y7qhiqxc#131"]
+[PuzzleId "9ezWS"]
+[Themes "bishopEndgame endgame master mate mateIn1 oneMove"]
+
+66... Be3# { Skills challenge! Bishop mate in the endgame. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1P6/1Kp1k3/P1Pn4/8/8 w - - 3 71"]
+[LichessURL "https://lichess.org/asfEOPOl/black#140"]
+[PuzzleId "PfGL9"]
+[Themes "crushing defensiveMove endgame knightEndgame master short"]
+
+71. Kxc4 { Skills challenge! King move to win the pawn. }
+71... Ne5+ 72. Kc5 { Converting the advantage. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r2r1/ppp2p1p/2np4/2b1p3/2N1P3/1BP4Q/PP2R3/3R1K2 b - - 0 24"]
+[LichessURL "https://lichess.org/4tG1eoBu#47"]
+[PuzzleId "AlVB3"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+
+24... Rg1# { Skills challenge! Rook mate exploiting the exposed king. }
+
+[Event "Mastery 2: Skills Challenge"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3R2p1/8/8/4B2P/3p2K1/1rb4P/8 w - - 0 36"]
+[LichessURL "https://lichess.org/i14sLVeE/black#70"]
+[PuzzleId "J63kX"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+36. Rd8# { Skills challenge! Rook mate on the back rank. }

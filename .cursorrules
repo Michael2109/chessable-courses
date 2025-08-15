@@ -11,4 +11,6 @@ Each puzzle should have annotations for the key winning moves only. Keep annotat
 
 Actually read each puzzle and understand the position before selecting it. Don't assume puzzles are appropriate just because they're in a theme file. Choose puzzles that clearly demonstrate the theme and have clean, instructive solutions.
 
+Ensure that the puzzle event name matches the chapter name in the README.md.
+
 Ultrathink. Be extra careful that each of your puzzle choices match the chapter category and difficulty.

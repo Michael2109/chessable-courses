@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,389 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Final Boss - Tournament-Level Challenge
+[FEN "2r3k1/5p1p/Q3p1pP/p2p4/5q2/8/5PP1/3R2K1 w - - 1 41"]
+[LichessURL "https://lichess.org/WdGj7npt/black#80"]
+[PuzzleId "wHhU7"]
+[Themes "endgame hangingPiece master masterVsMaster mate mateIn1 oneMove superGM"]
+
+{{Mastery 4: Final Boss
+
+This section focuses on Tournament-Level Challenges.
 
 The ultimate test! These tournament-level puzzles combine all tactical themes in complex, realistic positions. Only those who have mastered all previous sections should attempt these challenges.
 
 Completing this section means you've achieved tactical mastery worthy of serious competitive play. Congratulations on your chess journey!
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+}}
+41. Qxc8# { Final boss! Queen mate exploiting the hanging rook. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p3kp1p/1p2p3/6p1/2Pr4/1P4P1/PR2RP1P/4K3 b - - 2 26"]
+[LichessURL "https://lichess.org/b5n4LYkK#51"]
+[PuzzleId "uNwsM"]
+[Themes "endgame master superGM"]
+
+26... Rd1# { Final boss! Rook mate on the back rank. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p5p1/1p2R3/2p3N1/7P/1P1r4/1Pn2K2/8 w - - 0 36"]
+[LichessURL "https://lichess.org/03p08jFQ/black#70"]
+[PuzzleId "Z2Mvd"]
+[Themes "endgame master mate mateIn1 oneMove superGM"]
+
+36. Re8# { Final boss! Rook mate on the back rank. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4pp1/7p/8/6Q1/8/P4PPP/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/jLrvqEZg#55"]
+[PuzzleId "NNwVD"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame superGM"]
+
+28... Re1# { Final boss! Back rank mate with the king trapped. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5N2/pp2k1p1/6bp/8/2KN3r/PP6/8/8 w - - 2 47"]
+[LichessURL "https://lichess.org/8ejQQ3cf/black#92"]
+[PuzzleId "YMd85"]
+[Themes "advantage endgame fork hangingPiece master masterVsMaster short superGM"]
+
+47. Nxg6+ { Final boss! Knight fork to win material. }
+47... Kf6 48. Nxh4 { Converting the advantage. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3pb1/2pq2p1/5pB1/p2P4/P1nQ1B2/5P2/K3R3 b - - 0 28"]
+[LichessURL "https://lichess.org/7QHcDYuQ#55"]
+[PuzzleId "yTtCQ"]
+[Themes "master mate mateIn1 middlegame oneMove superGM"]
+
+28... Qxa3# { Final boss! Queen mate exploiting the exposed king. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/5kP1/5P2/4R1K1/3q2P1/8 w - - 9 48"]
+[LichessURL "https://lichess.org/reJN3eGm/black#94"]
+[PuzzleId "tFADL"]
+[Themes "endgame master mate mateIn1 oneMove queenRookEndgame superGM"]
+
+48. Re5# { Final boss! Rook mate exploiting the exposed king. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3pk1/3p2p1/1P1Pp3/8/1P3QPp/1r3P1P/1R4K1 b - - 0 35"]
+[LichessURL "https://lichess.org/DcFJ88B1#69"]
+[PuzzleId "PaXzD"]
+[Themes "endgame master masterVsMaster superGM"]
+
+35... Rxb1+ { Final boss! Rook sacrifice to force mate. }
+36. Qd1 Rxd1# { The mate after the sacrifice. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K5/1P6/2k2b2/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/L6sU7Rac/black#118"]
+[PuzzleId "UIRx0"]
+[Themes "advancedPawn bishopEndgame crushing endgame master masterVsMaster promotion short superGM"]
+
+60. b7 { Final boss! Pawn advance to force promotion. }
+60... Be4 61. b8=Q { The promotion creates winning chances. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/6k1/5Qp1/5pP1/8/8/5PK1/8 b - - 2 65"]
+[LichessURL "https://lichess.org/OHp8E4Nb#129"]
+[PuzzleId "xsbmQ"]
+[Themes "crushing endgame master masterVsMaster short superGM"]
+
+65... Rxf6 { Final boss! Rook sacrifice to win material. }
+66. gxf6+ Kxf6 { Converting the advantage. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1n1k2/p1n1p2p/1p5b/2pBPp2/P1N2P2/1PP1BK1P/6R1/8 w - - 1 32"]
+[LichessURL "https://lichess.org/2sH3P9XZ/black#62"]
+[PuzzleId "pTkKm"]
+[Themes "master mate mateIn1 middlegame oneMove superGM"]
+
+32. Rg8# { Final boss! Rook mate exploiting the exposed king. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/3r1pk1/1p4p1/p3p3/P3P1P1/Q2RKP2/8/8 b - - 0 36"]
+[LichessURL "https://lichess.org/l5cVNugy#71"]
+[PuzzleId "iZokY"]
+[Themes "advantage endgame fork master queenRookEndgame short superGM"]
+
+36... Rxd3+ { Final boss! Rook fork to win material. }
+37. Qxd3 Rxd3+ { Converting the advantage. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/7p/2p5/5N2/2P1R1P1/7P/3rpK2/r7 w - - 4 39"]
+[LichessURL "https://lichess.org/gsOwkuMX/black#76"]
+[PuzzleId "KFx5y"]
+[Themes "endgame master mate mateIn1 oneMove superGM"]
+
+39. Re8# { Final boss! Rook mate on the back rank. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p3p1/1p1r2Rk/7p/4B2P/2P2PK1/PP6/8 b - - 0 33"]
+[LichessURL "https://lichess.org/RMT9ID6t#65"]
+[PuzzleId "n4eEg"]
+[Themes "crushing endgame master short superGM"]
+
+33... Rxg6+ { Final boss! Rook sacrifice to win material. }
+34. Bxg6 Kxg6 { Converting the advantage. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p2p/3kPp1P/4rP2/8/2pKN3/2B5 w - - 14 70"]
+[LichessURL "https://lichess.org/07xjuCFm/black#138"]
+[PuzzleId "JYip8"]
+[Themes "crushing endgame fork master short superGM"]
+
+70. Nc3+ { Final boss! Knight fork to win material. }
+70... Kd4 71. Nxe4 { Converting the advantage. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/r5p1/P6p/7P/R1Pk1KP1/6P1/8 b - - 8 57"]
+[LichessURL "https://lichess.org/Ad3ON1bi#113"]
+[PuzzleId "i8DVo"]
+[Themes "endgame master mate mateIn1 oneMove rookEndgame superGM"]
+
+57... Rf6# { Final boss! Rook mate exploiting the exposed king. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4nR2/3N2p1/7p/8/6PP/2r1QK2/4q3 w - - 3 39"]
+[LichessURL "https://lichess.org/dYwuo2uM/black#76"]
+[PuzzleId "KZ5pP"]
+[Themes "crushing endgame master masterVsMaster short superGM"]
+
+39. Kxe1 { Final boss! King move to win material. }
+39... Rxe2+ 40. Kxe2 { Converting the advantage. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R1ppk/7p/8/3B1n2/7P/3r1PP1/5K2 b - - 9 32"]
+[LichessURL "https://lichess.org/WkuWFHDQ#63"]
+[PuzzleId "GC5MP"]
+[Themes "endgame master mate mateIn1 oneMove superGM"]
+
+32... Rd1# { Final boss! Rook mate on the back rank. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p1Q2ppp/8/p4n2/8/P7/1q3PPP/4N1K1 w - - 0 26"]
+[LichessURL "https://lichess.org/Zs567wGM/black#50"]
+[PuzzleId "EDmbR"]
+[Themes "backRankMate endgame master masterVsMaster mate mateIn1 oneMove superGM"]
+
+26. Qd8# { Final boss! Back rank mate with the king trapped. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3Rb1k1/6P1/5P1K/r7/8/3B4 b - - 8 51"]
+[LichessURL "https://lichess.org/ItHAWAv8#101"]
+[PuzzleId "jt3ze"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove superGM"]
+
+51... Rh3# { Final boss! Rook mate exploiting the exposed king. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/2q2pp1/1p3b1p/pBp4P/P3Q3/2P3P1/1P3PK1/8 w - - 0 38"]
+[LichessURL "https://lichess.org/wFPKanvG/black#74"]
+[PuzzleId "iFGxp"]
+[Themes "endgame master masterVsMaster mate mateIn1 oneMove superGM"]
+
+38. Qe8# { Final boss! Queen mate exploiting the exposed king. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rbb2r1k/1p4p1/4Pq1p/p1pp2N1/6Q1/2P5/PPBB2P1/R4R1K b - - 3 31"]
+[LichessURL "https://lichess.org/3vA7cnKb#61"]
+[PuzzleId "Hw9qa"]
+[Themes "kingsideAttack master mate mateIn2 middlegame short superGM"]
+
+31... Qxf1+ { Final boss! Queen sacrifice to force mate. }
+32. Rxf1 Rxf1# { The mate after the sacrifice. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4k/1r3Rp1/4p2p/1q1pP3/p2P2p1/2P5/1PQ2R1P/6K1 w - - 4 31"]
+[LichessURL "https://lichess.org/IbF5ooIx/black#60"]
+[PuzzleId "PqB9e"]
+[Themes "endgame master mate mateIn2 short superGM"]
+
+31. Rf8+ { Final boss! Rook sacrifice to force mate. }
+31... Rxf8 32. Rxf8# { The mate after the sacrifice. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/3Q1pb1/p5p1/1prBp1P1/8/5P2/PP6/K2R4 b - - 0 36"]
+[LichessURL "https://lichess.org/mlZJZA52#71"]
+[PuzzleId "j9POj"]
+[Themes "backRankMate endgame master masterVsMaster mate mateIn2 short superGM"]
+
+36... Rc1+ { Final boss! Rook sacrifice to force back rank mate. }
+37. Rxc1 Rxc1# { The back rank mate after the sacrifice. }
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4rp2/5kp1/7p/5N1P/3B1KP1/8/8 w - - 5 45"]
+[LichessURL "https://lichess.org/cmIR2QUM/black#88"]
+[PuzzleId "tbypB"]
+[Themes "crushing endgame fork master masterVsMaster short superGM"]
+
+45. Nd5+ { Final boss! Knight fork to win material. }
+45... Ke6 46. Nxe7 { Converting the advantage. }
