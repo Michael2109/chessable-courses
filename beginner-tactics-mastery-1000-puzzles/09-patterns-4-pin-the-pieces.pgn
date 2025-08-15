@@ -147,7 +147,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing endgame master pin short"]
 
 1. Rxc6 { Pin! The rook pins the bishop to the king. }
-3... Kf6 47. Rxd6+ *
+1... Kf6 2. Rxd6+ *
 
 
 
@@ -233,7 +233,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage endgame pin rookEndgame short"]
 
 1. Rd8 { Pin! The rook pins the rook to the king. }
-3... f5 27. Rxe8+ *
+1... f5 2. Rxe8+ *
 
 
 

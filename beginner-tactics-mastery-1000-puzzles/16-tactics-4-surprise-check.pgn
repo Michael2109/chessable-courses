@@ -102,7 +102,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
 
 1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-3... Rb8 30. axb8=Q# { Promotion checkmate! }
+1... Rb8 2. axb8=Q# { Promotion checkmate! }
 
 
 

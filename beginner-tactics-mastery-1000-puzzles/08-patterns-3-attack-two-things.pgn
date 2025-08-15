@@ -18,7 +18,7 @@ This section focuses on Queen forks, rook forks, two threats.
 Sharpen named motif recognition and learn how to exploit them fast.
 }
 1. Rf8+ { Fork! The rook attacks both the queen and threatens checkmate. }
-3... Qxf8 38. Rxf8# *
+1... Qxf8 2. Rxf8# *
 
 
 
@@ -62,7 +62,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "backRankMate fork mate mateIn2 middlegame short"]
 
 1. Rd8+ { Fork! The rook attacks both the queen and threatens back rank mate. }
-3... Qe8 26. Rxe8# *
+1... Qe8 2. Rxe8# *
 
 
 
@@ -106,7 +106,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "backRankMate endgame fork mate mateIn2 short"]
 
 1. Rd8+ { Fork! The rook attacks both the rook and threatens back rank mate. }
-3... Re8 28. Rxe8# *
+1... Re8 2. Rxe8# *
 
 
 
@@ -150,7 +150,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "backRankMate fork master mate mateIn2 middlegame short"]
 
 1. Rxe8+ { Fork! The rook attacks both the rook and threatens back rank mate. }
-3... Rf8 39. Rxf8# *
+1... Rf8 2. Rxf8# *
 
 
 
@@ -194,7 +194,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing endgame fork short"]
 
 1. Nf6+ { Fork! The knight attacks both the king and the rook. }
-3... Ke7 67. Nxg8+ *
+1... Ke7 2. Nxg8+ *
 
 
 
@@ -238,7 +238,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "endgame fork mate mateIn2 short"]
 
 1. Rf8+ { Fork! The rook attacks both the queen and threatens mate. }
-3... Qxf8 36. Rxf8# *
+1... Qxf8 2. Rxf8# *
 
 
 

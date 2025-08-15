@@ -36,7 +36,7 @@
 [PuzzleId "QTxwg"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... a4 48. h5 a3 49. h6 a2 50. h7 a1=Q *
+1... a4 2. h5 a3 3. h6 a2 4. h7 a1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares determine the outcome! }
 
@@ -61,7 +61,7 @@
 [PuzzleId "iO9oS"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-1. g5 Kc3 57. g6 *
+1. g5 Kc3 2. g6 *
 
 { King vs pawn! Creating opposition with g2. The king must control key squares to win! }
 
@@ -86,7 +86,7 @@
 [PuzzleId "uQzmv"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-1... g4 44. c4 g3 45. c5 g2 *
+1... g4 2. c4 g3 3. c5 g2 *
 
 { King vs pawn! Advancing the pawn to create opposition. Key squares control the outcome! }
 
@@ -111,7 +111,7 @@
 [PuzzleId "tyQKY"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. a5 Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+1. a5 Kh4 2. a6 g4 3. a7 g3 4. a8=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -136,7 +136,7 @@
 [PuzzleId "1vrby"]
 [Themes "crushing endgame long pawnEndgame quietMove"]
 
-1... f5 49. Kh6 f4 50. Kxh5 f3 *
+1... f5 2. Kh6 f4 3. Kxh5 f3 *
 
 { King vs pawn! Advancing the pawn to create opposition. Key squares control the outcome! }
 
@@ -161,7 +161,7 @@
 [PuzzleId "x36AN"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-1. a6 b4 51. a7 *
+1. a6 b4 2. a7 *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -186,7 +186,7 @@
 [PuzzleId "YsJBB"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... a4 61. Kh5 a3 62. g5 a2 63. g6 a1=Q *
+1... a4 2. Kh5 a3 3. g5 a2 4. g6 a1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -211,7 +211,7 @@
 [PuzzleId "baL97"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
 
-1. f7 Kb2 51. f8=Q *
+1. f7 Kb2 2. f8=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -236,7 +236,7 @@
 [PuzzleId "xjPbB"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1... b3 46. h6 b2 47. h7 b1=Q+ *
+1... b3 2. h6 b2 3. h7 b1=Q+ *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -261,7 +261,7 @@
 [PuzzleId "qT432"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-1. b6 h3 55. b7 h2 56. b8=Q+ *
+1. b6 h3 2. b7 h2 3. b8=Q+ *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -286,7 +286,7 @@
 [PuzzleId "WIYYh"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... h4 59. b5 h3 60. Kc7 h2 61. b6 h1=Q *
+1... h4 2. b5 h3 3. Kc7 h2 4. b6 h1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -311,7 +311,7 @@
 [PuzzleId "ngBTW"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. a5 g4 60. a6 g3 61. a7 g2 62. a8=Q+ *
+1. a5 g4 2. a6 g3 3. a7 g2 4. a8=Q+ *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -336,7 +336,7 @@
 [PuzzleId "nUap0"]
 [Themes "crushing endgame pawnEndgame short"]
 
-1... Kb4 61. Kd4 Kxa4 *
+1... Kb4 2. Kd4 Kxa4 *
 
 { King vs pawn! Creating opposition with Kb1. Key squares control the outcome! }
 
@@ -361,7 +361,7 @@
 [PuzzleId "cN3m4"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1. d6 a4 54. d7 g2 55. d8=Q+ *
+1. d6 a4 2. d7 g2 3. d8=Q+ *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -386,7 +386,7 @@
 [PuzzleId "nadTW"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-1... h3 49. a6 h2 50. a7 h1=Q *
+1... h3 2. a6 h2 3. a7 h1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -411,7 +411,7 @@
 [PuzzleId "VwoKr"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-1. a5 c5 42. a6 *
+1. a5 c5 2. a6 *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -436,7 +436,7 @@
 [PuzzleId "YC4bk"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1... h3 56. g5 h2 57. g6 h1=Q *
+1... h3 2. g5 h2 3. g6 h1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -461,7 +461,7 @@
 [PuzzleId "YC4bk"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1. g5 h3 56. g6 h2 57. g7 h1=Q *
+1. g5 h3 2. g6 h2 3. g7 h1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
 
@@ -486,6 +486,6 @@
 [PuzzleId "ObTyd"]
 [Themes "advancedPawn crushing endgame knightEndgame long promotion"]
 
-1... g3+ 68. Kxf3 g2 69. Nc1 g1=Q *
+1... g3+ 2. Kxf3 g2 3. Nc1 g1=Q *
 
 { King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }

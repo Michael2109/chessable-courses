@@ -18,7 +18,7 @@ This section focuses on Simple discoveries, setup moves.
 Sharpen named motif recognition and learn how to exploit them fast.
 }
 1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-3... Bxe8 31. Qxd4 *
+1... Bxe8 2. Qxd4 *
 
 
 
@@ -62,7 +62,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
 1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-3... Rxd8 30. Qxe6+ *
+1... Rxd8 2. Qxe6+ *
 
 
 
@@ -106,7 +106,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
 1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-3... Kxh7 23. Rxd7 *
+1... Kxh7 2. Rxd7 *
 
 
 

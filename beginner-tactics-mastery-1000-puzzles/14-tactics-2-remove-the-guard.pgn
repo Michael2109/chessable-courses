@@ -18,7 +18,7 @@ This section focuses on Removing defenders to win material.
 Sharpen named motif recognition and learn how to exploit them fast.
 }
 1. Qxe6 { Remove the guard! Capturing the defender of the rook. }
-3... fxe6 30. Rxc8+ *
+1... fxe6 2. Rxc8+ *
 
 
 
@@ -62,7 +62,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage capturingDefender discoveredAttack endgame short"]
 
 1. Nxd8 { Remove the guard! Capturing the defender of the queen. }
-3... Rxd8 27. Rxe7 *
+1... Rxd8 2. Rxe7 *
 
 
 
@@ -106,7 +106,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
 
 1. Qxd5 { Remove the guard! Capturing the defender of the rook. }
-3... Rxd5 30. Rxe6 *
+1... Rxd5 2. Rxe6 *
 
 
 
@@ -150,7 +150,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender crushing discoveredAttack endgame master short"]
 
 1. Qxb7 { Remove the guard! Capturing the defender of the rook. }
-3... Rxb7 31. Rxc8+ *
+1... Rxb7 2. Rxc8+ *
 
 
 
@@ -194,7 +194,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender crushing discoveredAttack opening short"]
 
 1. Nxe5 { Remove the guard! Capturing the defender of the queen. }
-3... Qxe5 10. Bxg4+ *
+1... Qxe5 2. Bxg4+ *
 
 
 
@@ -238,7 +238,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
 1. Nxc8 { Remove the guard! Capturing the defender of the rook. }
-3... Rxc8 33. Rxd7 *
+1... Rxc8 2. Rxd7 *
 
 
 
@@ -282,7 +282,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender crushing discoveredAttack opening short"]
 
 1. Nxd5 { Remove the guard! Capturing the defender of the bishop. }
-3... Qxd5 11. Bxb4 *
+1... Qxd5 2. Bxb4 *
 
 
 
@@ -326,7 +326,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender crushing master middlegame short"]
 
 1. Rxd4 { Remove the guard! Capturing the defender of the rook. }
-3... Bxd4 22. Rxe4 *
+1... Bxd4 2. Rxe4 *
 
 
 
@@ -370,7 +370,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage capturingDefender endgame short"]
 
 1. Qxe5 { Remove the guard! Capturing the defender of the knight. }
-3... fxe5 36. Nxf5 *
+1... fxe5 2. Nxf5 *
 
 
 
@@ -414,7 +414,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender opening short"]
 
 1. Bxd5 { Remove the guard! Capturing the defender of the pawn. }
-3... cxd5 8. cxd5 *
+1... cxd5 2. cxd5 *
 
 
 
@@ -458,7 +458,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender opening short"]
 
 1. dxe5 { Remove the guard! Capturing the defender of the knight. }
-3... Nxe4 5. Qd5 *
+1... Nxe4 2. Qd5 *
 
 
 
@@ -502,7 +502,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender opening short"]
 
 1. Nxe5 { Remove the guard! Capturing the defender of the pawn. }
-3... Nxe4 5. Qe2 *
+1... Nxe4 2. Qe2 *
 
 
 
@@ -546,7 +546,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender opening short"]
 
 1. e3 { Remove the guard! Protecting the pawn. }
-3... exd4 5. exd4 *
+1... exd4 2. exd4 *
 
 
 
@@ -590,7 +590,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender opening short"]
 
 1. Bg5 { Remove the guard! Attacking the defender. }
-3... Be7 5. Bxf6 *
+1... Be7 2. Bxf6 *
 
 
 
@@ -634,7 +634,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "capturingDefender opening short"]
 
 1. a3 { Remove the guard! Protecting the knight. }
-3... Be7 5. dxe5 *
+1... Be7 2. dxe5 *
 
 
 

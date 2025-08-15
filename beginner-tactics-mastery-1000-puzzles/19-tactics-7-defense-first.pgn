@@ -11,7 +11,7 @@
 [PuzzleId "QrqhB"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. a4 Kf2 54. a5 *
+1. a4 Kf2 2. a5 *
 
 { Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped by the enemy king. Sometimes the best defense is a strong counter-attack! }
 
@@ -36,7 +36,7 @@
 [PuzzleId "bYqhT"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1... h5 53. a4 h4 *
+1... h5 2. a4 h4 *
 
 { Defensive pawn advance! By playing h5, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
 
@@ -61,7 +61,7 @@
 [PuzzleId "UPrBD"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. a4 Kf2 54. a5 *
+1. a4 Kf2 2. a5 *
 
 { Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
 
@@ -86,7 +86,7 @@
 [PuzzleId "hmIaq"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1... Rd3 59. Kf4 Rxe3 *
+1... Rd3 2. Kf4 Rxe3 *
 
 { Defensive pin! By playing Rd3, we pin the queen to the king, preventing it from escaping. The rook defends by attacking! }
 
