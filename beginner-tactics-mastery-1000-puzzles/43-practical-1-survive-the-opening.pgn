@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Practical 1: Survive the Opening"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,300 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Practical 1: Survive the Opening!
+[FEN "r2qk2r/p2nppbp/2p3p1/2p1P3/8/2N2Q1P/PPPP2P1/R1B2RK1 w kq - 1 12"]
+[LichessURL "https://lichess.org/nd7MS8V5/black#22"]
+[PuzzleId "SstWE"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
 
-This section focuses on Defending against Scholar's mate, traps.
+{{Practical 1: Survive the Opening
 
-Game-like scenarios emphasizing decision-making, safety, and resourcefulness.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+This section focuses on Defending against Scholar's Mate and Early Traps.
+
+Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize and defend against common opening traps and tactical threats.
+}}
+12. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3pp/2Nbpqp1/3p4/3P4/1PP1P1P1/P2N1PP1/R2QK2R b KQ - 0 13"]
+[LichessURL "https://lichess.org/ZPoWm1IV#25"]
+[PuzzleId "FLN2R"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+13... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/p2p1ppp/2p5/bp2P3/2B5/B1P2Q2/P1P2PPP/R3K2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/TUcBS2RW/black#22"]
+[PuzzleId "GM910"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3p1/2nppq1p/4p3/4P3/2PP4/PP3PPP/RN1QK1NR b KQ - 0 11"]
+[LichessURL "https://lichess.org/Wr5UrIzt#21"]
+[PuzzleId "OR1YH"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+11... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/1p3ppp/p1nbpn2/3pN2Q/3P1B2/2N5/PPP2PPP/R3KB1R w KQkq - 6 9"]
+[LichessURL "https://lichess.org/7wOYTPFx/black#16"]
+[PuzzleId "ZYrQC"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p4ppp/1qp5/3pP3/4n3/1P3N2/P1PB1PPP/RN1QK2R b KQkq - 0 12"]
+[LichessURL "https://lichess.org/6ZChXbck#23"]
+[PuzzleId "U5dWk"]
+[Themes "attackingF2F7 master mate mateIn1 oneMove opening"]
+
+12... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp3ppp/3bp3/3nN3/5Q2/7P/PPnB1PP1/5RK1 w kq - 0 16"]
+[LichessURL "https://lichess.org/MI9jof9U/black#30"]
+[PuzzleId "EGoHa"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+16. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppp3pp/3ppq2/8/2PPp3/4P3/PP3PPP/R1NQKB1R b KQ - 0 11"]
+[LichessURL "https://lichess.org/c6fzigN6#21"]
+[PuzzleId "6blAp"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+11... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk1r1/p1p2p2/1pn1p3/3pP3/3P1Q1b/2N4P/PPP3P1/R4RK1 w q - 0 19"]
+[LichessURL "https://lichess.org/3wKZ8Jbv/black#36"]
+[PuzzleId "1WZSy"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+19. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1Rp3p1/3ppq1p/p3p3/1B2P3/3P3P/2P2PP1/3QK2R b K - 0 17"]
+[LichessURL "https://lichess.org/jiyCwDnO#33"]
+[PuzzleId "2EEgk"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+17... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1n1ppp/3bp3/3p4/B2P4/P3BQ1P/1PP3P1/R4RK1 w kq - 4 15"]
+[LichessURL "https://lichess.org/kE9q2bwf/black#28"]
+[PuzzleId "ckx7w"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/pp2p1p1/2p4p/3p1qP1/2P1n2N/P3P3/1P1PBP2/RNBQK2R b KQkq - 2 10"]
+[LichessURL "https://lichess.org/nXze0Eoc#19"]
+[PuzzleId "ARuH5"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+10... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp3p2/2pp2p1/6B1/3bP1n1/5QP1/P1P3KP/1R3R2 w kq - 0 18"]
+[LichessURL "https://lichess.org/ApqQv6Np/black#34"]
+[PuzzleId "IwmzO"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+18. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/1p1p1ppp/4pq2/P1b5/8/2N5/P1PBPPPP/R2QKBNR b KQkq - 3 6"]
+[LichessURL "https://lichess.org/20WRfokf#11"]
+[PuzzleId "ISWp4"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+6... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/5ppp/p3p3/1p1nN3/2pPb3/5Q2/PP3PPP/R1B1K2R w KQkq - 0 15"]
+[LichessURL "https://lichess.org/GtOfkvvs/black#28"]
+[PuzzleId "VrC7n"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+15. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3pp/3ppq2/n3p3/1P1NP3/P2P3P/2P2PP1/R1BQK2R b KQ - 0 12"]
+[LichessURL "https://lichess.org/IBYWMnEZ#23"]
+[PuzzleId "eDBcX"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+12... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp3ppp/8/2p1PbN1/2Qp1n2/8/PPP1BPPP/R3K2R w KQkq - 0 14"]
+[LichessURL "https://lichess.org/hj4ExQwR/black#26"]
+[PuzzleId "156hJ"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+14. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp1nb3/1qppp2p/P3p3/1PP1P1n1/3P1N2/3BNPP1/R2QK2R b KQkq - 0 15"]
+[LichessURL "https://lichess.org/NE74WWmG#29"]
+[PuzzleId "GFyjg"]
+[Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
+
+15... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/ppp2ppp/2bbp3/3pN3/3Pn1P1/4PQ2/PPP2P1P/RNB1K2R w KQkq - 1 9"]
+[LichessURL "https://lichess.org/GehpfBTW/black#16"]
+[PuzzleId "lXbaJ"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+9. Qxf7# { Scholar's mate! The queen attacks the vulnerable f7 square. }
+
+[Event "Practical 1: Survive the Opening"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pkp4p/3p1q2/2p1p3/3NP3/P2P4/2P2PrP/R2QK2R b KQ - 0 18"]
+[LichessURL "https://lichess.org/AAvS6lXE#35"]
+[PuzzleId "kWJYQ"]
+[Themes "attackingF2F7 endgame mate mateIn1 oneMove"]
+
+18... Qxf2# { Scholar's mate! The queen attacks the vulnerable f2 square. }

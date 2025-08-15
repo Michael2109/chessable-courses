@@ -11,13 +11,11 @@
 [PuzzleId "umPpQ"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
 
-{{Endgame 2: King vs King & Pawn
+52. e7# *
 
-This section focuses on Opposition, key squares.
+{ King vs pawn! The pawn promotes with checkmate. Opposition and key squares are crucial in pawn endgames! }
 
-Sharpen named motif recognition and learn how to exploit them fast.
-}}
-52. e7# { King vs pawn! The pawn promotes with checkmate. }
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -32,8 +30,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "QTxwg"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-47... a4 { King vs pawn! Advancing the pawn to start the race. }
-48. h5 a3 49. h6 a2 50. h7 a1=Q *
+47... a4 48. h5 a3 49. h6 a2 50. h7 a1=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares determine the outcome! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -48,8 +49,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "iO9oS"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-56. g5 { King vs pawn! Advancing the pawn to create opposition. }
-56... Kc3 57. g6 *
+56. g5 Kc3 57. g6 *
+
+{ King vs pawn! Creating opposition with g5. The king must control key squares to win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -64,8 +68,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "uQzmv"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-43... g4 { King vs pawn! Advancing the pawn to create opposition. }
-44. c4 g3 45. c5 g2 *
+43... g4 44. c4 g3 45. c5 g2 *
+
+{ King vs pawn! Advancing the pawn to create opposition. Key squares control the outcome! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -80,8 +87,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "tyQKY"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-44. a5 { King vs pawn! Advancing the pawn to create opposition. }
-44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+44. a5 Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -96,8 +106,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "1vrby"]
 [Themes "crushing endgame long pawnEndgame quietMove"]
 
-48... f5 { King vs pawn! Advancing the pawn to create opposition. }
-49. Kh6 f4 50. Kxh5 f3 *
+48... f5 49. Kh6 f4 50. Kxh5 f3 *
+
+{ King vs pawn! Advancing the pawn to create opposition. Key squares control the outcome! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -107,12 +120,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
-[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
-[PuzzleId "umPpQ"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+[FEN "8/8/8/Pp4K1/3k4/8/8/8 w - - 0 50"]
+[LichessURL "https://lichess.org/08LAmnjZ/black#98"]
+[PuzzleId "x36AN"]
+[Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-52. e7# { King vs pawn! The pawn promotes with checkmate. }
+50. a6 b4 51. a7 *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -122,13 +139,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
-[LichessURL "https://lichess.org/3cY276LH#93"]
-[PuzzleId "QTxwg"]
+[FEN "8/8/8/pk4K1/6PP/8/8/8 b - - 0 60"]
+[LichessURL "https://lichess.org/qV8DxwCU#119"]
+[PuzzleId "YsJBB"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-47... a4 { King vs pawn! Advancing the pawn to start the race. }
-48. h5 a3 49. h6 a2 50. h7 a1=Q *
+60... a4 61. Kh5 a3 62. g5 a2 63. g6 a1=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -138,13 +158,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
-[LichessURL "https://lichess.org/Hp7keymc/black#110"]
-[PuzzleId "iO9oS"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
+[FEN "8/4K3/5P2/8/p7/1k6/8/8 w - - 1 50"]
+[LichessURL "https://lichess.org/vuE4Ja8s/black#98"]
+[PuzzleId "baL97"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
 
-56. g5 { King vs pawn! Advancing the pawn to create opposition. }
-56... Kc3 57. g6 *
+50. f7 Kb2 51. f8=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -154,13 +177,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
-[LichessURL "https://lichess.org/Su4ejMYC#85"]
-[PuzzleId "uQzmv"]
-[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[FEN "8/8/6K1/7P/1pk3p1/6P1/5P2/8 b - - 1 45"]
+[LichessURL "https://lichess.org/7ma2m8bA#89"]
+[PuzzleId "xjPbB"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-43... g4 { King vs pawn! Advancing the pawn to create opposition. }
-44. c4 g3 45. c5 g2 *
+45... b3 46. h6 b2 47. h7 b1=Q+ *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -170,13 +196,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
-[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
-[PuzzleId "tyQKY"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/5p2/K7/1P5p/7p/6k1/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/vQhHh9Df/black#106"]
+[PuzzleId "qT432"]
+[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-44. a5 { King vs pawn! Advancing the pawn to create opposition. }
-44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+54. b6 h3 55. b7 h2 56. b8=Q+ *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -186,13 +215,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/T8946uuZ#95"]
-[PuzzleId "1vrby"]
-[Themes "crushing endgame long pawnEndgame quietMove"]
+[FEN "8/8/2K5/7p/1P3k2/8/8/8 b - - 1 58"]
+[LichessURL "https://lichess.org/xe2DfiLJ#115"]
+[PuzzleId "WIYYh"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-48... f5 { King vs pawn! Advancing the pawn to create opposition. }
-49. Kh6 f4 50. Kxh5 f3 *
+58... h4 59. b5 h3 60. Kc7 h2 61. b6 h1=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -202,12 +234,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
-[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
-[PuzzleId "umPpQ"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+[FEN "8/8/8/1K4p1/P7/5k2/8/8 w - - 1 59"]
+[LichessURL "https://lichess.org/9u0BPKbC/black#116"]
+[PuzzleId "ngBTW"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-52. e7# { King vs pawn! The pawn promotes with checkmate. }
+59. a5 g4 60. a6 g3 61. a7 g2 62. a8=Q+ *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -217,13 +253,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
-[LichessURL "https://lichess.org/3cY276LH#93"]
-[PuzzleId "QTxwg"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/1p6/pPk5/P7/3K4/8/8 b - - 4 60"]
+[LichessURL "https://lichess.org/ZrAcEe3o#119"]
+[PuzzleId "nUap0"]
+[Themes "crushing endgame pawnEndgame short"]
 
-47... a4 { King vs pawn! Advancing the pawn to start the race. }
-48. h5 a3 49. h6 a2 50. h7 a1=Q *
+60... Kb4 61. Kd4 Kxa4 *
+
+{ King vs pawn! Creating opposition with Kb4. Key squares control the outcome! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -233,13 +272,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
-[LichessURL "https://lichess.org/Hp7keymc/black#110"]
-[PuzzleId "iO9oS"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
+[FEN "8/8/8/p2PKpk1/8/6p1/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/wesg785b/black#104"]
+[PuzzleId "cN3m4"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-56. g5 { King vs pawn! Advancing the pawn to create opposition. }
-56... Kc3 57. g6 *
+53. d6 a4 54. d7 g2 55. d8=Q+ *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -249,13 +291,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
-[LichessURL "https://lichess.org/Su4ejMYC#85"]
-[PuzzleId "uQzmv"]
-[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[FEN "8/8/8/P7/P1K3kp/8/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/Y8EQBUr1#95"]
+[PuzzleId "nadTW"]
+[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-43... g4 { King vs pawn! Advancing the pawn to create opposition. }
-44. c4 g3 45. c5 g2 *
+48... h3 49. a6 h2 50. a7 h1=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -265,13 +310,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
-[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
-[PuzzleId "tyQKY"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/2p5/8/P3k3/4p3/4K3/8 w - - 1 41"]
+[LichessURL "https://lichess.org/zbAcN4nU/black#80"]
+[PuzzleId "VwoKr"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
 
-44. a5 { King vs pawn! Advancing the pawn to create opposition. }
-44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+41. a5 c5 42. a6 *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -281,13 +329,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/T8946uuZ#95"]
-[PuzzleId "1vrby"]
-[Themes "crushing endgame long pawnEndgame quietMove"]
+[FEN "8/8/8/8/5PKp/8/6k1/8 b - - 0 55"]
+[LichessURL "https://lichess.org/ILamApKA#109"]
+[PuzzleId "YC4bk"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-48... f5 { King vs pawn! Advancing the pawn to create opposition. }
-49. Kh6 f4 50. Kxh5 f3 *
+55... h3 56. g5 h2 57. g6 h1=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -297,12 +348,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
-[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
-[PuzzleId "umPpQ"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
+[FEN "8/8/8/8/5PKp/8/6k1/8 w - - 1 55"]
+[LichessURL "https://lichess.org/ILamApKA#109"]
+[PuzzleId "YC4bk"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-52. e7# { King vs pawn! The pawn promotes with checkmate. }
+55. g5 h3 56. g6 h2 57. g7 h1=Q *
+
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }
+
+
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -312,89 +367,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
-[LichessURL "https://lichess.org/3cY276LH#93"]
-[PuzzleId "QTxwg"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/8/8/6p1/3N1p2/5K1k/8 b - - 3 67"]
+[LichessURL "https://lichess.org/DUA4KAoD#133"]
+[PuzzleId "ObTyd"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
 
-47... a4 { King vs pawn! Advancing the pawn to start the race. }
-48. h5 a3 49. h6 a2 50. h7 a1=Q *
+67... g3+ 68. Kxf3 g2 69. Nc1 g1=Q *
 
-[Event "Endgame 2: King vs King & Pawn"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "21"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
-[LichessURL "https://lichess.org/Hp7keymc/black#110"]
-[PuzzleId "iO9oS"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
-
-56. g5 { King vs pawn! Advancing the pawn to create opposition. }
-56... Kc3 57. g6 *
-
-[Event "Endgame 2: King vs King & Pawn"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "22"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/8/8/pK4p1/P7/2P5/8/8 b - - 1 43"]
-[LichessURL "https://lichess.org/Su4ejMYC#85"]
-[PuzzleId "uQzmv"]
-[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
-
-43... g4 { King vs pawn! Advancing the pawn to create opposition. }
-44. c4 g3 45. c5 g2 *
-
-[Event "Endgame 2: King vs King & Pawn"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "23"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
-[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
-[PuzzleId "tyQKY"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
-
-44. a5 { King vs pawn! Advancing the pawn to create opposition. }
-44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
-
-[Event "Endgame 2: King vs King & Pawn"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/T8946uuZ#95"]
-[PuzzleId "1vrby"]
-[Themes "crushing endgame long pawnEndgame quietMove"]
-
-48... f5 { King vs pawn! Advancing the pawn to create opposition. }
-49. Kh6 f4 50. Kxh5 f3 *
-
-[Event "Endgame 2: King vs King & Pawn"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "25"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5k2/5P2/p3PK2/8/1p6/8/1p6/8 w - - 0 52"]
-[LichessURL "https://lichess.org/tpKdAgvc/black#102"]
-[PuzzleId "umPpQ"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove pawnEndgame"]
-
-52. e7# { King vs pawn! The pawn promotes with checkmate. }
+{ King vs pawn! Your pawn is closer to promotion. Opposition and key squares win! }

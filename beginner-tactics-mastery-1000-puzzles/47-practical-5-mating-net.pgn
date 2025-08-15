@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,320 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 w - - 2 48"]
+[LichessURL "https://lichess.org/nceY4y01/black#94"]
+[PuzzleId "GNtc9"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
 {{Practical 5: Mating Net
 
-This section focuses on Quiet moves creating inevitable mate.
+This section focuses on Quiet Moves Creating Inevitable Mate.
 
-Game-like scenarios emphasizing decision-making, safety, and resourcefulness.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize quiet moves that create mating nets and inevitable checkmate sequences.
+}}
+48. h5 { Mating net! Quiet move creating inevitable mate. }
+48... Ka2 49. h6 Kb1 50. h7 a4 51. h8=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+47... a4 { Mating net! Quiet move creating inevitable mate. }
+48. h5 a3 49. h6 a2 50. h7 a1=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/Hp7keymc/black#110"]
+[PuzzleId "iO9oS"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+56. g5 { Mating net! Quiet move creating inevitable mate. }
+56... Kc3 57. g6 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1pk4K/5P2/8/8/8 b - - 0 69"]
+[LichessURL "https://lichess.org/jlqCa6uH#89"]
+[PuzzleId "7SaVn"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+69... f4 { Mating net! Quiet move creating inevitable mate. }
+70. b5 f3 71. b6 f2 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/1p6/p7/k6P/8/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/Q4JOV3Gz/black#112"]
+[PuzzleId "NE4qD"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. h5 { Mating net! Quiet move creating inevitable mate. }
+57... b5 58. h6 b4 59. h7 b3 60. h8=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/T8946uuZ#95"]
+[PuzzleId "1vrby"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+
+48... f5 { Mating net! Quiet move creating inevitable mate. }
+49. Kh6 f4 50. Kxh5 f3 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/1p4K1/7P/2k5/8/8 w - - 1 49"]
+[LichessURL "https://lichess.org/p8ypLh30/black#96"]
+[PuzzleId "oIjzZ"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+49. h5 { Mating net! Quiet move creating inevitable mate. }
+49... Kc2 50. h6 b4 51. h7 b3 52. h8=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/3K4/7p/P7/8/8/8 b - - 0 54"]
+[LichessURL "https://lichess.org/HltJcU7B#107"]
+[PuzzleId "HYrir"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+54... h4 { Mating net! Quiet move creating inevitable mate. }
+55. Kc7 h3 56. a5 h2 57. Kb8 h1=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K6/6p1/7p/P6k/8/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/11upt0Hi/black#110"]
+[PuzzleId "WaGjF"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+56. a5 { Mating net! Quiet move creating inevitable mate. }
+56... g5 57. a6 g4 58. a7 g3 59. a8=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3K2k1/7p/P7/8/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/ZDZMCX5C#95"]
+[PuzzleId "qDdAT"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48... h4 { Mating net! Quiet move creating inevitable mate. }
+49. Kc7 h3 50. a5 h2 51. a6 h1=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/PK6/6k1/8/8 w - - 1 57"]
+[LichessURL "https://lichess.org/uNkDPNzR/black#112"]
+[PuzzleId "iQ6Qk"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+57. a5 { Mating net! Quiet move creating inevitable mate. }
+57... h4 58. a6 h3 59. a7 Kg2 60. a8=Q+ { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/2K5/7p/1P6/8/8/8 b - - 1 53"]
+[LichessURL "https://lichess.org/aECkMrFX#105"]
+[PuzzleId "qPHAw"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+53... h4 { Mating net! Quiet move creating inevitable mate. }
+54. Kc7 h3 55. b5 h2 56. b6 h1=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1pk4K/5P2/8/8/8 w - - 0 69"]
+[LichessURL "https://lichess.org/eW7nC0FP/black#136"]
+[PuzzleId "Swu0W"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+69. f5 { Mating net! Quiet move creating inevitable mate. }
+69... b4 70. f6 b3 71. f7 b2 72. f8=Q+ { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2K3p1/1P5k/8/8/8 b - - 1 53"]
+[LichessURL "https://lichess.org/yIzUHYiO#105"]
+[PuzzleId "dfbvn"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+53... g4 { Mating net! Quiet move creating inevitable mate. }
+54. b5 g3 55. b6 g2 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6K1/1p6/7P/2k5/8/8 w - - 2 51"]
+[LichessURL "https://lichess.org/XtWz6pGW/black#100"]
+[PuzzleId "GT9Zy"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+51. h5 { Mating net! Quiet move creating inevitable mate. }
+51... b4 52. h6 Kc2 53. h7 b3 54. h8=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p5K1/1k4P1/5P2/8/8 b - - 0 59"]
+[LichessURL "https://lichess.org/QKnILYtW#117"]
+[PuzzleId "yXnYR"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+
+59... a4 { Mating net! Quiet move creating inevitable mate. }
+60. Kh5 a3 61. g5 a2 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/8/P3k3/4p3/4K3/8 w - - 1 41"]
+[LichessURL "https://lichess.org/zbAcN4nU/black#80"]
+[PuzzleId "VwoKr"]
+[Themes "crushing endgame pawnEndgame quietMove short"]
+
+41. a5 { Mating net! Quiet move creating inevitable mate. }
+41... c5 42. a6 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/1K6/P6p/6k1/1P6/8/8 b - - 1 52"]
+[LichessURL "https://lichess.org/9cDkVOLc#103"]
+[PuzzleId "KLcl4"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+52... h4 { Mating net! Quiet move creating inevitable mate. }
+53. Kxb7 h3 54. Kb8 h2 55. a6 h1=Q { The pawn promotion creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/6p1/1K5p/P6k/8/8/8 w - - 0 47"]
+[LichessURL "https://lichess.org/SA0bOIPl/black#92"]
+[PuzzleId "vAGd9"]
+[Themes "advancedPawn crushing endgame long master pawnEndgame quietMove"]
+
+47. a5 { Mating net! Quiet move creating inevitable mate. }
+47... g5 48. a6 g4 49. a7 { The pawn advance creates mate. }
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p2K3p/P1P5/6k1/8/8 b - - 1 48"]
+[LichessURL "https://lichess.org/KDVwVoN6#95"]
+[PuzzleId "RE0OS"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+
+48... h4 { Mating net! Quiet move creating inevitable mate. }
+49. c5 h3 50. c6 h2 51. c7 h1=Q+ { The pawn promotion creates mate. }

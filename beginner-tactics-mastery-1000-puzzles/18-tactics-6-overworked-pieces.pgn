@@ -6,19 +6,16 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "2r3k1/5ppp/4q3/p7/1pQ1P3/P2P3P/KP6/2R5 w - - 4 29"]
+[LichessURL "https://lichess.org/tNlaMmUf/black#56"]
+[PuzzleId "a0LbN"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-{{Tactics 6: Overworked Pieces
+29. Qxe6 fxe6 30. Rxc8+ *
 
-This section focuses on One piece guards too much.
+{ The queen on e6 is overworked - it's defending both the rook on c8 and the f7 pawn. By capturing the queen with Qxe6, we force fxe6, then capture the undefended rook with Rxc8+. One piece can't guard everything! }
 
-Sharpen named motif recognition and learn how to exploit them fast.
-}}
-27. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-27... Kb8 28. Rxd8+ *
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -28,13 +25,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "3r4/4k3/3q2p1/6P1/1Q1N1P2/2P5/P2K4/8 b - - 0 43"]
+[LichessURL "https://lichess.org/QuBDCdp4#85"]
+[PuzzleId "x2e2f"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-62... h2+ { Deflection! The pawn deflects the king from protecting the knight. }
-63. Kh1 Kxf2 *
+43... Qxb4 44. cxb4 Rxd4+ *
+
+{ The queen on b4 is overworked - it's defending both the pawn on b4 and the knight on d4. By capturing the queen with Qxb4, we force cxb4, then capture the undefended knight with Rxd4+. Overworked pieces crack under pressure! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -44,13 +44,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "3qr1k1/pb2p2p/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 w - - 2 26"]
+[LichessURL "https://lichess.org/IyouuyvD/black#50"]
+[PuzzleId "6LyUQ"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
 
-27. Nf6+ { Deflection! The knight deflects the rook from protecting the other rook. }
-27... Rxf6 28. Rxe8+ *
+26. Nxd8 Rxd8 27. Rxe7 *
+
+{ The rook on d8 is overworked - it's defending both the queen on e8 and the knight on d8. By capturing the knight with Nxd8, we force Rxd8, then capture the undefended queen with Rxe7. One piece can't do two jobs! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -60,13 +63,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "1r6/nR3pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/QabW2atH#55"]
+[PuzzleId "vVN1I"]
+[Themes "capturingDefender crushing endgame short"]
 
-28... Nc5+ { Deflection! The knight deflects the king from protecting the bishop. }
-29. Ke2 Nxe4 *
+28... Rxb7 29. Bxb7 Nxb5 *
+
+{ The rook on b7 is overworked - it's defending both the pawn on b7 and the knight on b5. By capturing the rook with Rxb7, we force Bxb7, then capture the undefended knight with Nxb5. Overworked pieces always break! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -76,13 +82,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "xcSSX"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+[FEN "3r2k1/pp4pp/2p1r3/3q4/4Q1P1/7P/2P1R1K1/4R3 w - - 0 29"]
+[LichessURL "https://lichess.org/4v5HIK5U/black#56"]
+[PuzzleId "Wob5X"]
+[Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
 
-51. d6 { Deflection! The pawn deflects the king from protecting the promotion square. }
-51... g3 52. d7+ Kb7 53. d8=Q *
+29. Qxd5 Rxd5 30. Rxe6 *
+
+{ The queen on d5 is overworked - it's defending both the rook on d5 and the rook on e6. By capturing the queen with Qxd5, we force Rxd5, then capture the undefended rook with Rxe6. One piece can't guard everything! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -92,13 +101,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short"]
+[FEN "4b3/3r2k1/p1NR1p2/2P2P1p/1P5K/P7/8/8 b - - 0 44"]
+[LichessURL "https://lichess.org/yaUD9B2C#87"]
+[PuzzleId "QpIOg"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
 
-44... Nc6+ { Deflection! The knight deflects the king from protecting the bishop. }
-45. Kf4 Nxd4 *
+44... Rxd6 45. cxd6 Bxc6 *
+
+{ The rook on d6 is overworked - it's defending both the pawn on d6 and the bishop on c6. By capturing the rook with Rxd6, we force cxd6, then capture the undefended bishop with Bxc6. Overworked pieces always fail! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -108,13 +120,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "1rr3k1/1q4p1/p1Q2p1p/4p3/8/1P4P1/P4PKP/2R1R3 w - - 4 30"]
+[LichessURL "https://lichess.org/2tNxx57F/black#58"]
+[PuzzleId "Mylsy"]
+[Themes "capturingDefender crushing discoveredAttack endgame master short"]
 
-27. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-27... Kb8 28. Rxd8+ *
+30. Qxb7 Rxb7 31. Rxc8+ *
+
+{ The queen on b7 is overworked - it's defending both the rook on b7 and the rook on c8. By capturing the queen with Qxb7, we force Rxb7, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -124,13 +139,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "rnbq1rk1/pp2b1pp/5n2/2p3B1/3pN3/1N4P1/PPP1PPBP/R2Q1RK1 b - - 0 11"]
+[LichessURL "https://lichess.org/u6hrU08f#21"]
+[PuzzleId "oPVA2"]
+[Themes "advantage capturingDefender discoveredAttack opening short"]
 
-62... h2+ { Deflection! The pawn deflects the king from protecting the knight. }
-63. Kh1 Kxf2 *
+11... Nxe4 12. Bxe4 Bxg5 *
+
+{ The bishop on e4 is overworked - it's defending both the knight on e4 and the bishop on g5. By capturing the knight with Nxe4, we force Bxe4, then capture the undefended bishop with Bxg5. Overworked pieces always break! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -140,13 +158,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "2kr1bnr/ppp1pppp/8/1P2n2q/6b1/2N2N2/P1PPBPPP/R1BQ1RK1 w - - 1 9"]
+[LichessURL "https://lichess.org/UQxwm6gP/black#16"]
+[PuzzleId "2VJwa"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
 
-27. Nf6+ { Deflection! The knight deflects the rook from protecting the other rook. }
-27... Rxf6 28. Rxe8+ *
+9. Nxe5 Qxe5 10. Bxg4+ *
+
+{ The queen on e5 is overworked - it's defending both the knight on e5 and the bishop on g4. By capturing the knight with Nxe5, we force Qxe5, then capture the undefended bishop with Bxg4+. One piece can't guard everything! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -156,13 +177,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "5r1k/5qpp/8/p2Q1N2/4P3/P2P3P/1P4P1/1K6 b - - 3 33"]
+[LichessURL "https://lichess.org/l0gjOmd4#65"]
+[PuzzleId "JZcjh"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-28... Nc5+ { Deflection! The knight deflects the king from protecting the bishop. }
-29. Ke2 Nxe4 *
+33... Qxd5 34. exd5 Rxf5 *
+
+{ The queen on d5 is overworked - it's defending both the pawn on d5 and the knight on f5. By capturing the queen with Qxd5, we force exd5, then capture the undefended knight with Rxf5. Overworked pieces always fail! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -172,13 +196,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "xcSSX"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+[FEN "r1b2k2/3nnpb1/p2N4/1pp5/4PP2/2P3P1/PPK5/3RR3 w - - 0 32"]
+[LichessURL "https://lichess.org/k9O3AlTi/black#62"]
+[PuzzleId "O1hxk"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
-51. d6 { Deflection! The pawn deflects the king from protecting the promotion square. }
-51... g3 52. d7+ Kb7 53. d8=Q *
+32. Nxc8 Rxc8 33. Rxd7 *
+
+{ The rook on c8 is overworked - it's defending both the knight on c8 and the bishop on d7. By capturing the knight with Nxc8, we force Rxc8, then capture the undefended bishop with Rxd7. One piece can't do two jobs! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -188,13 +215,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short"]
+[FEN "2r1k3/2q2pr1/p2b2bp/3Pp3/2p1N2P/2P2PB1/PP2Q3/2KR3R b - - 1 23"]
+[LichessURL "https://lichess.org/nqNPFBgB#45"]
+[PuzzleId "Ic7CX"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
-44... Nc6+ { Deflection! The knight deflects the king from protecting the bishop. }
-45. Kf4 Nxd4 *
+23... Qxe2 24. Rxe2 Rxc1 *
+
+{ The queen on e2 is overworked - it's defending both the rook on e2 and the rook on c1. By capturing the queen with Qxe2, we force Rxe2, then capture the undefended rook with Rxc1. Overworked pieces always break! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -209,8 +239,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "MjjYD"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-27. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-27... Kb8 28. Rxd8+ *
+27. Bxf5+ Kb8 28. Rxd8+ *
+
+{ The king on c8 is overworked - it's defending both the rook on d8 and the bishop on f5. By capturing the bishop with Bxf5+, we force Kb8, then capture the undefended rook with Rxd8+. One piece can't guard everything! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -225,8 +258,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UEKwS"]
 [Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
 
-62... h2+ { Deflection! The pawn deflects the king from protecting the knight. }
-63. Kh1 Kxf2 *
+62... h2+ 63. Kh1 Kxf2 *
+
+{ The king on g3 is overworked - it's defending both the pawn on h2 and the knight on f2. By advancing the pawn with h2+, we force Kh1, then capture the undefended knight with Kxf2. Overworked pieces always fail! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -241,8 +277,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "CT01B"]
 [Themes "advantage deflection discoveredAttack endgame short"]
 
-27. Nf6+ { Deflection! The knight deflects the rook from protecting the other rook. }
-27... Rxf6 28. Rxe8+ *
+27. Nf6+ Rxf6 28. Rxe8+ *
+
+{ The rook on f6 is overworked - it's defending both the knight on f6 and the rook on e8. By capturing the knight with Nf6+, we force Rxf6, then capture the undefended rook with Rxe8+. One piece can't do two jobs! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -257,8 +296,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "CxmD7"]
 [Themes "crushing deflection endgame master short"]
 
-28... Nc5+ { Deflection! The knight deflects the king from protecting the bishop. }
-29. Ke2 Nxe4 *
+28... Nc5+ 29. Ke2 Nxe4 *
+
+{ The king on e2 is overworked - it's defending both the knight on c5 and the bishop on e4. By checking with Nc5+, we force Ke2, then capture the undefended bishop with Nxe4. Overworked pieces always break! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -268,13 +310,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "xcSSX"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/Ab0KdMec#87"]
+[PuzzleId "kKSIl"]
+[Themes "crushing deflection endgame master short"]
 
-51. d6 { Deflection! The pawn deflects the king from protecting the promotion square. }
-51... g3 52. d7+ Kb7 53. d8=Q *
+44. Nc6+ Kf4 45. Nxd4 *
+
+{ The king on f4 is overworked - it's defending both the knight on c6 and the bishop on d4. By checking with Nc6+, we force Kf4, then capture the undefended bishop with Nxd4. One piece can't guard everything! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -284,13 +329,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short"]
+[FEN "3r2k1/3r1pp1/p3p3/1p1bN3/8/P1P5/1P1R2PP/3R3K b - - 6 39"]
+[LichessURL "https://lichess.org/JWVspfjq#77"]
+[PuzzleId "iIhw7"]
+[Themes "advantage deflection discoveredAttack endgame short"]
 
-44... Nc6+ { Deflection! The knight deflects the king from protecting the bishop. }
-45. Kf4 Nxd4 *
+39... Bxg2+ 40. Rxg2 Rxd1+ *
+
+{ The rook on g2 is overworked - it's defending both the bishop on g2 and the rook on d1. By capturing the bishop with Bxg2+, we force Rxg2, then capture the undefended rook with Rxd1+. Overworked pieces always fail! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -300,13 +348,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "3r4/5k2/2n5/4ppp1/7p/2PNK2P/2PR2P1/8 w - - 0 34"]
+[LichessURL "https://lichess.org/httdyaJQ/black#66"]
+[PuzzleId "Vq7Es"]
+[Themes "advantage deflection discoveredAttack endgame master short"]
 
-27. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-27... Kb8 28. Rxd8+ *
+34. Nxe5+ Nxe5 35. Rxd8 *
+
+{ The knight on e5 is overworked - it's defending both the pawn on e5 and the rook on d8. By capturing the pawn with Nxe5+, we force Nxe5, then capture the undefended rook with Rxd8. One piece can't do two jobs! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -316,13 +367,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "8/p1p5/8/3k4/2R5/P2K1p2/3N1P2/3r4 b - - 2 46"]
+[LichessURL "https://lichess.org/JdfcCNYx#91"]
+[PuzzleId "fme3d"]
+[Themes "crushing deflection endgame master short"]
 
-62... h2+ { Deflection! The pawn deflects the king from protecting the knight. }
-63. Kh1 Kxf2 *
+46... Rxd2+ 47. Kxd2 Kxc4 *
+
+{ The king on d2 is overworked - it's defending both the rook on d2 and the rook on c4. By capturing the rook with Rxd2+, we force Kxd2, then capture the undefended rook with Kxc4. Overworked pieces always break! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -332,13 +386,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "5bk1/p4p1p/6p1/2p1q3/2Qp4/1B3P1P/PPP3P1/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/rae7zzht/black#56"]
+[PuzzleId "J4Ezx"]
+[Themes "deflection endgame mate mateIn2 short"]
 
-27. Nf6+ { Deflection! The knight deflects the rook from protecting the other rook. }
-27... Rxf6 28. Rxe8+ *
+29. Qxf7+ Kh8 30. Qxf8# *
+
+{ The king on g8 is overworked - it's defending both the pawn on f7 and the pawn on f8. By capturing the pawn with Qxf7+, we force Kh8, then deliver checkmate with Qxf8#. One piece can't guard everything! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -348,13 +405,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "6k1/1p3p1p/p1r1p1p1/3p4/3P4/1Pn2P1P/2R3P1/2R3K1 b - - 1 35"]
+[LichessURL "https://lichess.org/ys3WZmol#69"]
+[PuzzleId "Tq05t"]
+[Themes "crushing deflection discoveredAttack endgame short"]
 
-28... Nc5+ { Deflection! The knight deflects the king from protecting the bishop. }
-29. Ke2 Nxe4 *
+35... Rxc3 36. bxc3 Rxd3 *
+
+{ The rook on c3 is overworked - it's defending both the pawn on c3 and the pawn on d3. By capturing the rook with Rxc3, we force bxc3, then capture the undefended pawn with Rxd3. Overworked pieces always fail! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -364,13 +424,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "xcSSX"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+[FEN "2r2k2/p1n2ppp/q3p3/8/1PQ1P3/P4P2/6PP/2R2K2 w - - 1 26"]
+[LichessURL "https://lichess.org/rpkS3N8C/black#50"]
+[PuzzleId "TnOa7"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-51. d6 { Deflection! The pawn deflects the king from protecting the promotion square. }
-51... g3 52. d7+ Kb7 53. d8=Q *
+26. Qxa6 Nxa6 27. Rxc8+ *
+
+{ The queen on a6 is overworked - it's defending both the pawn on a6 and the rook on c8. By capturing the queen with Qxa6, we force Nxa6, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -380,13 +443,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 5 28"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short"]
+[FEN "8/pp1r2k1/7p/8/3q1p2/P1QNpP2/1P4KP/4R3 b - - 3 35"]
+[LichessURL "https://lichess.org/xbbHb4KH#69"]
+[PuzzleId "3NmL7"]
+[Themes "advantage capturingDefender discoveredAttack endgame short"]
 
-44... Nc6+ { Deflection! The knight deflects the king from protecting the bishop. }
-45. Kf4 Nxd4 *
+35... Qxc3 36. bxc3 Rxd3 *
+
+{ The queen on c3 is overworked - it's defending both the pawn on c3 and the knight on d3. By capturing the queen with Qxc3, we force bxc3, then capture the undefended knight with Rxd3. Overworked pieces always break! }
+
+
 
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
@@ -396,10 +462,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "8/p1b1kp2/6p1/2PP3p/3P4/2K2P1P/P5P1/8 w - - 1 31"]
+[LichessURL "https://lichess.org/0ECv411C/black#60"]
+[PuzzleId "YXRiP"]
+[Themes "bishopEndgame crushing endgame short"]
 
-27. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-27... Kb8 28. Rxd8+ *
+31. d6+ Bxd6 32. cxd6+ *
+
+{ The bishop on d6 is overworked - it's defending both the pawn on d6 and the pawn on c6. By capturing the bishop with d6+, we force Bxd6, then capture the undefended pawn with cxd6+. One piece can't guard everything! }

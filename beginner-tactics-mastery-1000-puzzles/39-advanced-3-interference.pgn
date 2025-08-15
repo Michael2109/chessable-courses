@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,240 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "6rk/7p/p2N4/2p1p1r1/p2p4/5P1P/1PP2KP1/R7 w - - 2 32"]
+[LichessURL "https://lichess.org/teHrmzMp/black#62"]
+[PuzzleId "60cHo"]
+[Themes "advantage endgame fork interference short"]
+
 {{Advanced 3: Interference
 
-This section focuses on Blocking defensive lines.
+This section focuses on Blocking Defensive Lines.
 
-Tougher, sometimes disguised ideas—calculate accurately and trust the pattern.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Learn to recognize when interfering with your opponent's defensive coordination creates tactical opportunities. These moves often block communication between pieces or cut off defensive lines.
+}}
+32. Nf7+ { Knight interference! The knight blocks the king's escape. }
+32... Kg7 33. Nxg5 { Winning the rook with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/2p2pp1/p2p3p/1p1P4/4P1R1/3n4/PP1N1P1P/6RK b - - 4 26"]
+[LichessURL "https://lichess.org/erXAbJPn#51"]
+[PuzzleId "Lm7Jr"]
+[Themes "crushing endgame fork interference short"]
+
+26... Nxf2+ { Knight interference! The knight blocks the king's defense. }
+27. Kg2 Nxg4 { Winning the rook with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2r4p/4k3/3ppp2/8/1PPK4/2P3P1/7R w - - 0 43"]
+[LichessURL "https://lichess.org/AUhQ06UP/black#84"]
+[PuzzleId "JJJPL"]
+[Themes "crushing endgame interference master rookEndgame short"]
+
+43. Rh6+ { Rook interference! The rook blocks the king's escape. }
+43... Ke7 44. Rxh7+ { Winning the pawn with check! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/pp3pkp/6p1/P1nN3n/1P6/3PP3/3KN1PP/R4R2 b - - 0 22"]
+[LichessURL "https://lichess.org/eLsBrxP7#43"]
+[PuzzleId "2yy6K"]
+[Themes "crushing fork interference middlegame short"]
+
+22... Nb3+ { Knight interference! The knight blocks the king's defense. }
+23. Kd1 Nxa1 { Winning the rook with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/5pp1/1N6/1Pp1qp1p/Pn1p4/6P1/1BPP1P2/2K4R w - - 0 27"]
+[LichessURL "https://lichess.org/oVPqOh9o/black#52"]
+[PuzzleId "FirDB"]
+[Themes "crushing endgame fork interference master masterVsMaster short"]
+
+27. Nd7+ { Knight interference! The knight blocks the king's escape. }
+27... Ke7 28. Nxe5 { Winning the queen with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/8/r3k3/6pP/4K1P1/P6R/8 b - - 7 46"]
+[LichessURL "https://lichess.org/c4meaQVx#91"]
+[PuzzleId "ZaWgo"]
+[Themes "crushing endgame interference rookEndgame short"]
+
+46... Ra3+ { Rook interference! The rook blocks the king's defense. }
+47. Kf2 Rxa2+ { Winning the pawn with check! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/ppr3rq/2p1p1p1/2PpPpQp/1P1B1P1P/P3PR2/6P1/6K1 w - - 1 32"]
+[LichessURL "https://lichess.org/SPABAZrG/black#62"]
+[PuzzleId "k9dwn"]
+[Themes "crushing endgame interference short"]
+
+32. Qd8+ { Queen interference! The queen blocks the king's escape. }
+32... Kf7 33. Qxc7+ { Winning the rook with check! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/P4R2/4KP2/4P3/8/r7 b - - 0 40"]
+[LichessURL "https://lichess.org/p77V1BS4#79"]
+[PuzzleId "PXbCP"]
+[Themes "crushing endgame interference rookEndgame short"]
+
+40... Ra4+ { Rook interference! The rook blocks the king's defense. }
+41. Ke5 Rxa5+ { Winning the pawn with check! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5r/4k2p/p3p1p1/1p4P1/2nNK3/P7/7P/1R1R4 w - - 1 34"]
+[LichessURL "https://lichess.org/0cKQXpY9/black#66"]
+[PuzzleId "wQj6s"]
+[Themes "crushing endgame fork interference short"]
+
+34. Nc6+ { Knight interference! The knight blocks the king's escape. }
+34... Ke8 35. Nxb8 { Winning the rook with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/5kp1/2p1p3/1p2P3/1P1PK3/P1R4P/8/8 b - - 6 39"]
+[LichessURL "https://lichess.org/qKMm26vL#77"]
+[PuzzleId "aEFsd"]
+[Themes "crushing endgame interference rookEndgame short"]
+
+39... Rh4+ { Rook interference! The rook blocks the king's defense. }
+40. Kd3 Rxh3+ { Winning the pawn with check! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/p1p4r/P4k2/1PRP4/5K2/8 w - - 5 53"]
+[LichessURL "https://lichess.org/gqOqFs2w/black#104"]
+[PuzzleId "TzTEr"]
+[Themes "crushing endgame interference rookEndgame short"]
+
+53. Rc4+ { Rook interference! The rook blocks the king's defense. }
+53... Kg5 54. Rxc5+ { Winning the pawn with check! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqrbk1/p4p2/1p2p1p1/3pP3/2p1nBQ1/2P1PN2/PPB2P1P/R5RK b - - 2 19"]
+[LichessURL "https://lichess.org/8ZOm0YY9#37"]
+[PuzzleId "KfaoJ"]
+[Themes "advantage fork interference middlegame short"]
+
+19... Nxf2+ { Knight interference! The knight blocks the king's defense. }
+20. Kg2 Nxg4 { Winning the queen with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5r/4kp1p/4bb2/pp3p2/2pN4/4P3/PPK2PPP/3R1B1R w - - 2 20"]
+[LichessURL "https://lichess.org/0EC7ZXBp/black#38"]
+[PuzzleId "lH4Dg"]
+[Themes "advantage fork interference middlegame short"]
+
+20. Nc6+ { Knight interference! The knight blocks the king's escape. }
+20... Kf8 21. Nxb8 { Winning the rook with a fork! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p3bk1p/2p5/6p1/2P5/2P3P1/P3p1KP/1R2B3 b - - 1 33"]
+[LichessURL "https://lichess.org/k7bdGA0i#65"]
+[PuzzleId "WSv62"]
+[Themes "crushing endgame interference master short"]
+
+33... Rd1 { Rook interference! The rook blocks the king's defense. }
+34. Rb2 Rxe1 { Winning the bishop! }
+
+[Event "Advanced 3: Interference"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q6/p3k3/2p1pppp/3pb3/3N4/2NP2P1/P1P4P/5R1K w - - 0 28"]
+[LichessURL "https://lichess.org/9qIPkTZr/black#54"]
+[PuzzleId "gPyVt"]
+[Themes "advantage endgame fork interference short"]
+
+28. Nxc6+ { Knight interference! The knight blocks the king's escape. }
+28... Kd6 29. Nxb8 { Winning the queen with a fork! }

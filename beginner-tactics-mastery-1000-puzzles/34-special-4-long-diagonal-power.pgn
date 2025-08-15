@@ -6,19 +6,18 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL1"]
-[Themes "long opening"]
+[FEN "6k1/6P1/5PK1/8/8/2b5/8/8 w - - 3 75"]
+[LichessURL "https://lichess.org/JjmHHZ4T/black#148"]
+[PuzzleId "r7AUK"]
+[Themes "advancedPawn bishopEndgame endgame mate mateIn1 oneMove"]
 
 {{Special 4: Long Diagonal Power
 
-This section focuses on Bishop Dominance.
+This section focuses on Bishop Dominance on Long Diagonals.
 
-Sharpen named motif recognition and learn how to exploit them fast.
+Learn to recognize and exploit the power of bishops controlling the long diagonals.
 }}
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+75. f7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -28,13 +27,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL2"]
-[Themes "long opening"]
+[FEN "8/8/8/8/5B2/6pk/7p/7K b - - 0 61"]
+[LichessURL "https://lichess.org/bNbkKN1F#121"]
+[PuzzleId "drO80"]
+[Themes "advancedPawn bishopEndgame endgame master masterVsMaster mate mateIn1 oneMove"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+61... g2# { The bishop's long diagonal control creates the mating threat! }
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -44,13 +42,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL3"]
-[Themes "long opening"]
+[FEN "8/8/1b6/2kp2P1/4p3/4P3/4K3/8 w - - 1 67"]
+[LichessURL "https://lichess.org/1ecusN3H/black#132"]
+[PuzzleId "JvlS4"]
+[Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+67. g6 { The bishop controls the long diagonal, but the pawn advance wins! }
+67... Bc7 68. g7 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -60,13 +58,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL4"]
-[Themes "long opening"]
+[FEN "8/8/8/8/3B1p2/3Pp3/4K1k1/8 b - - 1 55"]
+[LichessURL "https://lichess.org/2OD72Y9Q#109"]
+[PuzzleId "2WIna"]
+[Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+55... f3+ { The bishop's long diagonal control creates tactical opportunities! }
+56. Kxe3 f2 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -76,13 +74,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL5"]
-[Themes "long opening"]
+[FEN "1k6/1P6/PK6/5p1p/4bP1P/8/8/8 w - - 11 54"]
+[LichessURL "https://lichess.org/ImnKMqaC/black#106"]
+[PuzzleId "nfFBb"]
+[Themes "advancedPawn bishopEndgame endgame mate mateIn1 oneMove"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+54. a7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -92,13 +89,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL6"]
-[Themes "long opening"]
+[FEN "4k3/8/3KP3/8/6Pp/B7/8/8 b - - 0 69"]
+[LichessURL "https://lichess.org/d4jzNGkl#137"]
+[PuzzleId "yGS9C"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master promotion"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+69... h3 { The bishop's long diagonal control supports the pawn advance! }
+70. g5 h2 71. Bb2 h1=Q *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -108,13 +105,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL7"]
-[Themes "long opening"]
+[FEN "3k4/3P4/3KP3/7p/b6P/8/8/8 w - - 5 68"]
+[LichessURL "https://lichess.org/dqqh8nar/black#134"]
+[PuzzleId "lZXeK"]
+[Themes "advancedPawn bishopEndgame endgame master mate mateIn1 oneMove"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+68. e7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -124,13 +120,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL8"]
-[Themes "long opening"]
+[FEN "8/6Bk/7P/4PK2/8/1p3P2/6P1/8 b - - 0 53"]
+[LichessURL "https://lichess.org/iVW9izEq#105"]
+[PuzzleId "TxfPa"]
+[Themes "advancedPawn advantage bishopEndgame endgame master promotion short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+53... b2 { The bishop's long diagonal control supports the pawn advance! }
+54. e6 b1=Q+ *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -140,13 +136,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL9"]
-[Themes "long opening"]
+[FEN "8/2K3p1/6b1/1Pkp4/8/8/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/fC3esY3f/black#94"]
+[PuzzleId "FLvwL"]
+[Themes "advancedPawn advantage bishopEndgame endgame long promotion"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+48. b6 { The bishop controls the long diagonal, but the pawn advance wins! }
+48... Be4 49. b7 d4 50. b8=Q *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -156,13 +152,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL10"]
-[Themes "long opening"]
+[FEN "8/8/4k3/4PpBK/5P2/6p1/8/8 b - - 1 76"]
+[LichessURL "https://lichess.org/UfE8dmTg#151"]
+[PuzzleId "wwo0S"]
+[Themes "advancedPawn bishopEndgame crushing endgame promotion short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+76... g2 { The bishop's long diagonal control supports the pawn advance! }
+77. Kg6 g1=Q *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -172,13 +168,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL11"]
-[Themes "long opening"]
+[FEN "1b4k1/1P4P1/6KP/8/8/8/4p3/8 w - - 0 118"]
+[LichessURL "https://lichess.org/0CMlEQnx/black#234"]
+[PuzzleId "hv0vq"]
+[Themes "advancedPawn bishopEndgame endgame master mate mateIn1 oneMove"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+118. h7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -188,13 +183,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL12"]
-[Themes "long opening"]
+[FEN "8/8/6K1/2k2p2/8/8/p1P4P/B7 b - - 1 50"]
+[LichessURL "https://lichess.org/pnedeLGf#99"]
+[PuzzleId "S4sfQ"]
+[Themes "advancedPawn bishopEndgame crushing endgame long quietMove"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+50... f4 { The bishop's long diagonal control supports the pawn advance! }
+51. Kf5 f3 52. Ke4 f2 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -204,13 +199,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL13"]
-[Themes "long opening"]
+[FEN "8/1K1k4/3P4/p1P5/P7/2b5/8/8 w - - 7 75"]
+[LichessURL "https://lichess.org/QeBwO3cw/black#148"]
+[PuzzleId "uXimL"]
+[Themes "advancedPawn bishopEndgame crushing endgame short"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+75. c6+ { The bishop controls the long diagonal, but the pawn advance wins! }
+75... Kxd6 76. c7 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -220,13 +215,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL14"]
-[Themes "long opening"]
+[FEN "8/6k1/b1B2p2/1p1p1K2/1P1P1P2/8/8/8 b - - 4 47"]
+[LichessURL "https://lichess.org/e5nkDDUu#93"]
+[PuzzleId "luF5r"]
+[Themes "bishopEndgame endgame mate mateIn2 short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+47... Bc8+ { The bishop's long diagonal control creates a mating sequence! }
+48. Bd7 Bxd7# *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -236,13 +231,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL15"]
-[Themes "long opening"]
+[FEN "1b6/8/8/3KP3/5p2/5P2/6k1/8 w - - 0 62"]
+[LichessURL "https://lichess.org/9LAIm73q/black#122"]
+[PuzzleId "4lRJs"]
+[Themes "advancedPawn bishopEndgame crushing endgame long promotion"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+62. e6 { The bishop controls the long diagonal, but the pawn advance wins! }
+62... Kxf3 63. e7 Kg2 64. e8=Q *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -252,13 +247,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL16"]
-[Themes "long opening"]
+[FEN "8/2p3k1/1p3pB1/1PpP1P1K/8/8/8/8 b - - 4 63"]
+[LichessURL "https://lichess.org/vDqei15P#125"]
+[PuzzleId "xa2VK"]
+[Themes "bishopEndgame crushing endgame quietMove short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+63... c4 { The bishop's long diagonal control supports the pawn advance! }
+64. Kg4 c3 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -268,13 +263,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL17"]
-[Themes "long opening"]
+[FEN "8/b7/P7/8/7P/5k2/8/5K2 w - - 0 60"]
+[LichessURL "https://lichess.org/1oe4eIgz/black#118"]
+[PuzzleId "WVuXD"]
+[Themes "advancedPawn bishopEndgame crushing endgame long quietMove"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+60. h5 { The bishop controls the long diagonal, but the pawn advance wins! }
+60... Ke4 61. h6 Kf5 62. h7 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -284,13 +279,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL18"]
-[Themes "long opening"]
+[FEN "8/8/8/5B2/6p1/8/5k1K/8 b - - 1 79"]
+[LichessURL "https://lichess.org/CeBBBuPb#157"]
+[PuzzleId "WWPVD"]
+[Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
+79... g3+ { The bishop's long diagonal control creates tactical opportunities! }
+80. Kh3 g2 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -300,13 +295,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL19"]
-[Themes "long opening"]
+[FEN "8/8/ppb2k1p/2p3p1/P1P1P1P1/1P2KB2/8/8 w - - 4 39"]
+[LichessURL "https://lichess.org/lhMEWMIn/black#76"]
+[PuzzleId "Guot3"]
+[Themes "bishopEndgame crushing discoveredAttack endgame short"]
 
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+39. e5+ { The bishop's long diagonal control creates a discovered attack! }
+39... Kxe5 40. Bxc6 *
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -316,90 +311,10 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL20"]
-[Themes "long opening"]
+[FEN "8/4k3/7p/4PP2/2B1K3/7p/8/8 b - - 0 59"]
+[LichessURL "https://lichess.org/xXzezuRG#117"]
+[PuzzleId "BY4Nc"]
+[Themes "advancedPawn bishopEndgame crushing endgame master promotion short"]
 
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
-
-[Event "Special 4: Long Diagonal Power"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "21"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL21"]
-[Themes "long opening"]
-
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
-
-[Event "Special 4: Long Diagonal Power"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "22"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL22"]
-[Themes "long opening"]
-
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
-
-[Event "Special 4: Long Diagonal Power"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "23"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL23"]
-[Themes "long opening"]
-
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
-
-[Event "Special 4: Long Diagonal Power"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "DIAGONAL24"]
-[Themes "long opening"]
-
-3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
-4. Kxf2 Nxe4+ *
-
-[Event "Special 4: Long Diagonal Power"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "25"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "DIAGONAL25"]
-[Themes "long opening"]
-
-4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
-4... Kxf7 5. Ne5+ *
+59... h2 { The bishop's long diagonal control supports the pawn advance! }
+60. Ke3 h1=Q *

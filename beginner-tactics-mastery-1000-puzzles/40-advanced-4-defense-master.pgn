@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,401 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
+[PuzzleId "QrqhB"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
 {{Advanced 4: Defense Master
 
-This section focuses on Counter-threats, perpetual check.
+This section focuses on Counter-Threats and Defensive Tactics.
 
-Tougher, sometimes disguised ideas—calculate accurately and trust the pattern.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Learn to recognize defensive opportunities and counter-threats that can turn the tables. These puzzles teach you to defend actively and create your own threats when under pressure.
+}}
+53. a4 { Defensive counter-threat! Creating a passed pawn. }
+53... Kf2 54. a5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/8/8/PK4k1/8/8 b - - 0 52"]
+[LichessURL "https://lichess.org/6b5bPuyC#103"]
+[PuzzleId "bYqhT"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+52... h5 { Defensive counter-threat! Creating a passed pawn. }
+53. a4 h4 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/1K6/8/P5k1/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/rgPo6m4Y/black#104"]
+[PuzzleId "UPrBD"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+53. a4 { Defensive counter-threat! Creating a passed pawn. }
+53... Kf2 54. a5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/2pr4/2k1QK2/5P2/8 b - - 7 58"]
+[LichessURL "https://lichess.org/WrzczQb9#115"]
+[PuzzleId "hmIaq"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+58... Rd3 { Defensive pin! Blocking the queen's defense. }
+59. Kf4 Rxe3 { Winning the queen with the pin. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/2K5/8/5k2/1P6/8/8 w - - 1 62"]
+[LichessURL "https://lichess.org/TXd2UjGW/black#122"]
+[PuzzleId "haY0a"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+62. b4 { Defensive counter-threat! Creating a passed pawn. }
+62... g5 63. b5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p2/1p6/1P4k1/1K6/P7/8 b - - 1 70"]
+[LichessURL "https://lichess.org/s0bcsxd2#139"]
+[PuzzleId "xEBE4"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+70... f5 { Defensive counter-threat! Creating a passed pawn. }
+71. Kc3 f4 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
+[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
+[PuzzleId "IHYtG"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
+
+48. Qxc4+ { Defensive exchange! Eliminating the threat. }
+48... Kxc4 49. h5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/p7/8/q5QK/6P1/7P/8 b - - 0 71"]
+[LichessURL "https://lichess.org/CQCEugOH#141"]
+[PuzzleId "GIZHQ"]
+[Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
+
+71... Qxg4+ { Defensive exchange! Eliminating the threat. }
+72. Kxg4 a5 { The pawn advance creates winning chances. }
+73. Kf5 a4 { Creating a passed pawn. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
+[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
+[PuzzleId "BawTl"]
+[Themes "advantage defensiveMove endgame master masterVsMaster short"]
+
+44. Bxf1 { Defensive exchange! Eliminating the threat. }
+44... Nxf1 45. a5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p3/5p2/2kPpP1p/4K2P/1p1N2P1/8 b - - 1 55"]
+[LichessURL "https://lichess.org/YzxX791a#109"]
+[PuzzleId "EMda2"]
+[Themes "crushing defensiveMove endgame knightEndgame master short"]
+
+55... Kc3 { Defensive counter-threat! Creating zugzwang. }
+56. Nb1+ Kc2 { The king blockade wins. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/K7/5k2/1P6/8/8 w - - 1 55"]
+[LichessURL "https://lichess.org/YXTDSJrp/black#108"]
+[PuzzleId "U9Lbt"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+55. b4 { Defensive counter-threat! Creating a passed pawn. }
+55... g5 56. b5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/p7/5PK1/8/8/8/8 b - - 0 71"]
+[LichessURL "https://lichess.org/XGDvwCZ2#141"]
+[PuzzleId "coA5i"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+
+71... a5 { Defensive counter-threat! Creating a passed pawn. }
+72. Kf4 a4 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k2p3/1p2P3/1P6/1Kr5/8/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/NZTkEcLQ/black#108"]
+[PuzzleId "b9qJ1"]
+[Themes "crushing defensiveMove endgame master short"]
+
+55. Kxc4 { Defensive exchange! Eliminating the threat. }
+55... Kc7 56. Kd5 { The king advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1R1/8/3p2N1/6r1/7p/8/7K b - - 3 51"]
+[LichessURL "https://lichess.org/65JdZwcu#101"]
+[PuzzleId "5YS3t"]
+[Themes "advantage defensiveMove endgame master short"]
+
+51... Kf6 { Defensive counter-threat! Creating a fork. }
+52. Rf7+ Kxg5 { Winning the knight with the fork. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7k/7p/7P/6rK/6P1/8 w - - 0 59"]
+[LichessURL "https://lichess.org/mhOtLHed/black#116"]
+[PuzzleId "oqYLQ"]
+[Themes "crushing defensiveMove endgame short"]
+
+59. Kxg3 { Defensive exchange! Eliminating the threat. }
+59... Kg6 60. Kf4 { The king advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/4k1Q1/p1p2p2/4pP2/2p1P1N1/7R/P1q3PP/1r3R1K b - - 0 36"]
+[LichessURL "https://lichess.org/6U5K9p0R#71"]
+[PuzzleId "zSrJS"]
+[Themes "crushing defensiveMove middlegame short"]
+
+36... Rf7 { Defensive counter-threat! Creating a pin. }
+37. Qxf7+ Kxf7 { Winning the queen with the pin. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/7p/3p2kP/3P4/2PK4/8/8 w - - 2 57"]
+[LichessURL "https://lichess.org/KwWQjT1p/black#112"]
+[PuzzleId "CYOq7"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
+
+57. c4 { Defensive counter-threat! Creating a breakthrough. }
+57... dxc4+ 58. Kxc4 Kxh5 59. d5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/p7/5P1p/8/1P6/2r5/1k1Q1KP1/8 b - - 6 52"]
+[LichessURL "https://lichess.org/n8JOLG8b#103"]
+[PuzzleId "yJJnD"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+52... Rc2 { Defensive pin! Blocking the queen's defense. }
+53. Qxc2+ Kxc2 { Winning the queen with the pin. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1p1/1k4r1/1P5P/1K6/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/nf75huzl/black#104"]
+[PuzzleId "XNR7I"]
+[Themes "crushing defensiveMove endgame master short"]
+
+53. hxg5 { Defensive exchange! Eliminating the threat. }
+53... e5 54. Kc3 { The king advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/r2R1kp1/3K4/8/P1P5/8 b - - 0 47"]
+[LichessURL "https://lichess.org/8XuVBHQ3#93"]
+[PuzzleId "lInES"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+
+47... Rxd5+ { Defensive exchange! Eliminating the threat. }
+48. Kxd5 g4 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/5p2/2r4R/3k3P/6K1/6P1/8 w - - 1 51"]
+[LichessURL "https://lichess.org/FHBSoDod/black#100"]
+[PuzzleId "0DWW4"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+
+51. Rxc5 { Defensive exchange! Eliminating the threat. }
+51... Kxc5 52. h5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/5r2/3KQ1k1/P6p/8 b - - 3 53"]
+[LichessURL "https://lichess.org/oKT1b5im#105"]
+[PuzzleId "xmPOv"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+53... Rf3 { Defensive pin! Blocking the queen's defense. }
+54. Qxf3+ Kxf3 { Winning the queen with the pin. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/4K3/8/2k5/7P/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/4oQYHNCm/black#100"]
+[PuzzleId "9h4aW"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+
+51. h4 { Defensive counter-threat! Creating a passed pawn. }
+51... a5 52. h5 { The pawn advance creates winning chances. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2N4/5k1p/1P2pprP/PB1p4/3K1P2/8 b - - 6 52"]
+[LichessURL "https://lichess.org/MBtAhL8c#103"]
+[PuzzleId "9T59M"]
+[Themes "crushing defensiveMove endgame short"]
+
+52... Ke5 { Defensive counter-threat! Creating a fork. }
+53. Nxe4 Kxe4 { Winning the knight with the fork. }
+
+[Event "Advanced 4: Defense Master"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/1r3p2/1K4pp/2P5/6P1/7P/8 w - - 0 39"]
+[LichessURL "https://lichess.org/d2pw2TvB/black#76"]
+[PuzzleId "nJY6X"]
+[Themes "crushing defensiveMove endgame short"]
+
+39. Kxb6 { Defensive exchange! Eliminating the threat. }
+39... Ke7 40. c5 { The pawn advance creates winning chances. }

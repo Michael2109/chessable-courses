@@ -6,19 +6,16 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
-[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
-[PuzzleId "IHYtG"]
-[Themes "crushing defensiveMove endgame queenEndgame short"]
+[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
+[PuzzleId "QrqhB"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-{{Tactics 7: Defense First
+53. a4 Kf2 54. a5 *
 
-This section focuses on Blocking, interposing, escaping.
+{ Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped by the enemy king. Sometimes the best defense is a strong counter-attack! }
 
-Sharpen named motif recognition and learn how to exploit them fast.
-}}
-48. Qxc4+ { Defensive move! Blocking the queen's attack by capturing it. }
-48... Kxc4 49. h5 *
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -28,13 +25,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "k7/8/p7/8/q5QK/6P1/7P/8 b - - 0 71"]
-[LichessURL "https://lichess.org/CQCEugOH#141"]
-[PuzzleId "GIZHQ"]
-[Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
+[FEN "8/8/7p/8/8/PK4k1/8/8 b - - 0 52"]
+[LichessURL "https://lichess.org/6b5bPuyC#103"]
+[PuzzleId "bYqhT"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-71... Qxg4+ { Defensive move! Blocking the queen's attack by capturing it. }
-72. Kxg4 a5 73. Kf5 a4 *
+52... h5 53. a4 h4 *
+
+{ Defensive pawn advance! By playing h5, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -44,13 +44,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
-[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
-[PuzzleId "BawTl"]
-[Themes "advantage defensiveMove endgame master masterVsMaster short"]
+[FEN "8/8/7p/1K6/8/P5k1/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/rgPo6m4Y/black#104"]
+[PuzzleId "UPrBD"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-44. Bxf1 { Defensive move! Blocking the queen's attack by capturing it. }
-44... Nxf1 45. a5 *
+53. a4 Kf2 54. a5 *
+
+{ Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -60,13 +63,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/4p3/5p2/2kPpP1p/4K2P/1p1N2P1/8 b - - 1 55"]
-[LichessURL "https://lichess.org/YzxX791a#109"]
-[PuzzleId "EMda2"]
-[Themes "crushing defensiveMove endgame knightEndgame master short"]
+[FEN "8/8/8/5p2/2pr4/2k1QK2/5P2/8 b - - 7 58"]
+[LichessURL "https://lichess.org/WrzczQb9#115"]
+[PuzzleId "hmIaq"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-55... Kc3 { Defensive move! Escaping the knight's attack. }
-56. Nb1+ Kc2 *
+58... Rd3 59. Kf4 Rxe3 *
+
+{ Defensive pin! By playing Rd3, we pin the queen to the king, preventing it from escaping. The rook defends by attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -76,13 +82,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6p1/K7/5k2/1P6/8/8 w - - 1 55"]
-[LichessURL "https://lichess.org/YXTDSJrp/black#108"]
-[PuzzleId "U9Lbt"]
+[FEN "8/6p1/2K5/8/5k2/1P6/8/8 w - - 1 62"]
+[LichessURL "https://lichess.org/TXd2UjGW/black#122"]
+[PuzzleId "haY0a"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-55. b4 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-55... g5 56. b5 *
+62. b4 g5 63. b5 *
+
+{ Defensive pawn advance! By playing b4, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -92,13 +101,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5k2/p7/5PK1/8/8/8/8 b - - 0 71"]
-[LichessURL "https://lichess.org/XGDvwCZ2#141"]
-[PuzzleId "coA5i"]
-[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+[FEN "8/8/5p2/1p6/1P4k1/1K6/P7/8 b - - 1 70"]
+[LichessURL "https://lichess.org/s0bcsxd2#139"]
+[PuzzleId "xEBE4"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-71... a5 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-72. Kf6 a4 *
+70... f5 71. Kc3 f4 *
+
+{ Defensive pawn advance! By playing f5, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -113,8 +125,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "IHYtG"]
 [Themes "crushing defensiveMove endgame queenEndgame short"]
 
-48. Qxc4+ { Defensive move! Blocking the queen's attack by capturing it. }
-48... Kxc4 49. h5 *
+48. Qxc4+ Kxc4 49. h5 *
+
+{ Defensive exchange! By playing Qxc4+, we force the exchange of queens, then advance our pawn. Sometimes the best defense is simplification! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -129,8 +144,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GIZHQ"]
 [Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
 
-71... Qxg4+ { Defensive move! Blocking the queen's attack by capturing it. }
-72. Kxg4 a5 73. Kf5 a4 *
+71... Qxg4+ 72. Kxg4 a5 73. Kf5 a4 *
+
+{ Defensive exchange! By playing Qxg4+, we force the exchange of queens, then advance our pawn. Sometimes the best defense is simplification! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -145,8 +163,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "BawTl"]
 [Themes "advantage defensiveMove endgame master masterVsMaster short"]
 
-44. Bxf1 { Defensive move! Blocking the queen's attack by capturing it. }
-44... Nxf1 45. a5 *
+44. Bxf1 Nxf1 45. a5 *
+
+{ Defensive exchange! By playing Bxf1, we force the exchange of pieces, then advance our pawn. Sometimes the best defense is simplification! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -161,8 +182,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "EMda2"]
 [Themes "crushing defensiveMove endgame knightEndgame master short"]
 
-55... Kc3 { Defensive move! Escaping the knight's attack. }
-56. Nb1+ Kc2 *
+55... Kc3 56. Nb1+ Kc2 *
+
+{ Defensive king move! By playing Kc3, we escape the knight fork and maintain control. Sometimes the best defense is escaping! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -177,8 +201,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "U9Lbt"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-55. b4 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-55... g5 56. b5 *
+55. b4 g5 56. b5 *
+
+{ Defensive pawn advance! By playing b4, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -193,8 +220,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "coA5i"]
 [Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
 
-71... a5 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-72. Kf6 a4 *
+71... a5 72. Kf4 a4 *
+
+{ Defensive pawn advance! By playing a5, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -204,13 +234,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
-[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
-[PuzzleId "IHYtG"]
-[Themes "crushing defensiveMove endgame queenEndgame short"]
+[FEN "6rk/7p/p2N4/2p1p1r1/p2p4/5P1P/1PP2KP1/R7 w - - 2 32"]
+[LichessURL "https://lichess.org/teHrmzMp/black#62"]
+[PuzzleId "60cHo"]
+[Themes "advantage endgame fork interference short"]
 
-48. Qxc4+ { Defensive move! Blocking the queen's attack by capturing it. }
-48... Kxc4 49. h5 *
+32. Nf7+ Kg7 33. Nxg5 *
+
+{ Defensive interference! By playing Nf7+, we interfere with the connection between the rooks, then capture the undefended rook. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -220,13 +253,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "k7/8/p7/8/q5QK/6P1/7P/8 b - - 0 71"]
-[LichessURL "https://lichess.org/CQCEugOH#141"]
-[PuzzleId "GIZHQ"]
-[Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
+[FEN "4r1k1/2p2pp1/p2p3p/1p1P4/4P1R1/3n4/PP1N1P1P/6RK b - - 4 26"]
+[LichessURL "https://lichess.org/erXAbJPn#51"]
+[PuzzleId "Lm7Jr"]
+[Themes "crushing endgame fork interference short"]
 
-71... Qxg4+ { Defensive move! Blocking the queen's attack by capturing it. }
-72. Kxg4 a5 73. Kf5 a4 *
+26... Nxf2+ 27. Kg2 Nxg4 *
+
+{ Defensive fork! By playing Nxf2+, we create a fork that forces the king to move, then capture the undefended piece. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -236,13 +272,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
-[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
-[PuzzleId "BawTl"]
-[Themes "advantage defensiveMove endgame master masterVsMaster short"]
+[FEN "8/2r4p/4k3/3ppp2/8/1PPK4/2P3P1/7R w - - 0 43"]
+[LichessURL "https://lichess.org/AUhQ06UP/black#84"]
+[PuzzleId "JJJPL"]
+[Themes "crushing endgame interference master rookEndgame short"]
 
-44. Bxf1 { Defensive move! Blocking the queen's attack by capturing it. }
-44... Nxf1 45. a5 *
+43. Rh6+ Ke7 44. Rxh7+ *
+
+{ Defensive interference! By playing Rh6+, we interfere with the king's escape, then capture the undefended pawn. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -252,13 +291,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/4p3/5p2/2kPpP1p/4K2P/1p1N2P1/8 b - - 1 55"]
-[LichessURL "https://lichess.org/YzxX791a#109"]
-[PuzzleId "EMda2"]
-[Themes "crushing defensiveMove endgame knightEndgame master short"]
+[FEN "2r1r3/pp3pkp/6p1/P1nN3n/1P6/3PP3/3KN1PP/R4R2 b - - 0 22"]
+[LichessURL "https://lichess.org/eLsBrxP7#43"]
+[PuzzleId "2yy6K"]
+[Themes "crushing fork interference middlegame short"]
 
-55... Kc3 { Defensive move! Escaping the knight's attack. }
-56. Nb1+ Kc2 *
+22... Nb3+ 23. Kd1 Nxa1 *
+
+{ Defensive fork! By playing Nb3+, we create a fork that forces the king to move, then capture the undefended piece. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -268,13 +310,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6p1/K7/5k2/1P6/8/8 w - - 1 55"]
-[LichessURL "https://lichess.org/YXTDSJrp/black#108"]
-[PuzzleId "U9Lbt"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "4rk2/5pp1/1N6/1Pp1qp1p/Pn1p4/6P1/1BPP1P2/2K4R w - - 0 27"]
+[LichessURL "https://lichess.org/oVPqOh9o/black#52"]
+[PuzzleId "FirDB"]
+[Themes "crushing endgame fork interference master masterVsMaster short"]
 
-55. b4 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-55... g5 56. b5 *
+27. Nd7+ Ke7 28. Nxe5 *
+
+{ Defensive interference! By playing Nd7+, we interfere with the king's escape, then capture the undefended piece. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -284,13 +329,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5k2/p7/5PK1/8/8/8/8 b - - 0 71"]
-[LichessURL "https://lichess.org/XGDvwCZ2#141"]
-[PuzzleId "coA5i"]
-[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+[FEN "8/p7/8/r3k3/6pP/4K1P1/P6R/8 b - - 7 46"]
+[LichessURL "https://lichess.org/c4meaQVx#91"]
+[PuzzleId "ZaWgo"]
+[Themes "crushing endgame interference rookEndgame short"]
 
-71... a5 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-72. Kf6 a4 *
+46... Ra3+ 47. Kf2 Rxa2+ *
+
+{ Defensive interference! By playing Ra3+, we interfere with the king's escape, then capture the undefended pawn. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -300,13 +348,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
-[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
-[PuzzleId "IHYtG"]
-[Themes "crushing defensiveMove endgame queenEndgame short"]
+[FEN "6k1/ppr3rq/2p1p1p1/2PpPpQp/1P1B1P1P/P3PR2/6P1/6K1 w - - 1 32"]
+[LichessURL "https://lichess.org/SPABAZrG/black#62"]
+[PuzzleId "k9dwn"]
+[Themes "crushing endgame interference short"]
 
-48. Qxc4+ { Defensive move! Blocking the queen's attack by capturing it. }
-48... Kxc4 49. h5 *
+32. Qd8+ Kf7 33. Qxc7+ *
+
+{ Defensive interference! By playing Qd8+, we interfere with the king's escape, then capture the undefended piece. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -316,13 +367,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "k7/8/p7/8/q5QK/6P1/7P/8 b - - 0 71"]
-[LichessURL "https://lichess.org/CQCEugOH#141"]
-[PuzzleId "GIZHQ"]
-[Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
+[FEN "8/8/6k1/P4R2/4KP2/4P3/8/r7 b - - 0 40"]
+[LichessURL "https://lichess.org/p77V1BS4#79"]
+[PuzzleId "PXbCP"]
+[Themes "crushing endgame interference rookEndgame short"]
 
-71... Qxg4+ { Defensive move! Blocking the queen's attack by capturing it. }
-72. Kxg4 a5 73. Kf5 a4 *
+40... Ra4+ 41. Ke5 Rxa5+ *
+
+{ Defensive interference! By playing Ra4+, we interfere with the king's escape, then capture the undefended pawn. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -332,13 +386,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
-[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
-[PuzzleId "BawTl"]
-[Themes "advantage defensiveMove endgame master masterVsMaster short"]
+[FEN "1r5r/4k2p/p3p1p1/1p4P1/2nNK3/P7/7P/1R1R4 w - - 1 34"]
+[LichessURL "https://lichess.org/0cKQXpY9/black#66"]
+[PuzzleId "wQj6s"]
+[Themes "crushing endgame fork interference short"]
 
-44. Bxf1 { Defensive move! Blocking the queen's attack by capturing it. }
-44... Nxf1 45. a5 *
+34. Nc6+ Ke8 35. Nxb8 *
+
+{ Defensive interference! By playing Nc6+, we interfere with the king's escape, then capture the undefended piece. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -348,13 +405,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/4p3/5p2/2kPpP1p/4K2P/1p1N2P1/8 b - - 1 55"]
-[LichessURL "https://lichess.org/YzxX791a#109"]
-[PuzzleId "EMda2"]
-[Themes "crushing defensiveMove endgame knightEndgame master short"]
+[FEN "7r/5kp1/2p1p3/1p2P3/1P1PK3/P1R4P/8/8 b - - 6 39"]
+[LichessURL "https://lichess.org/qKMm26vL#77"]
+[PuzzleId "aEFsd"]
+[Themes "crushing endgame interference rookEndgame short"]
 
-55... Kc3 { Defensive move! Escaping the knight's attack. }
-56. Nb1+ Kc2 *
+39... Rh4+ 40. Kd3 Rxh3+ *
+
+{ Defensive interference! By playing Rh4+, we interfere with the king's escape, then capture the undefended pawn. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -364,13 +424,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6p1/K7/5k2/1P6/8/8 w - - 1 55"]
-[LichessURL "https://lichess.org/YXTDSJrp/black#108"]
-[PuzzleId "U9Lbt"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/8/2p5/p1p4r/P4k2/1PRP4/5K2/8 w - - 5 53"]
+[LichessURL "https://lichess.org/gqOqFs2w/black#104"]
+[PuzzleId "TzTEr"]
+[Themes "crushing endgame interference rookEndgame short"]
 
-55. b4 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-55... g5 56. b5 *
+53. Rc4+ Kg5 54. Rxc5+ *
+
+{ Defensive interference! By playing Rc4+, we interfere with the king's escape, then capture the undefended pawn. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -380,13 +443,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5k2/p7/5PK1/8/8/8/8 b - - 0 71"]
-[LichessURL "https://lichess.org/XGDvwCZ2#141"]
-[PuzzleId "coA5i"]
-[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+[FEN "r1bqrbk1/p4p2/1p2p1p1/3pP3/2p1nBQ1/2P1PN2/PPB2P1P/R5RK b - - 2 19"]
+[LichessURL "https://lichess.org/8ZOm0YY9#37"]
+[PuzzleId "KfaoJ"]
+[Themes "advantage fork interference middlegame short"]
 
-71... a5 { Defensive move! Advancing the pawn to prevent the opponent's plan. }
-72. Kf6 a4 *
+19... Nxf2+ 20. Kxf2 Bxg4 *
+
+{ Defensive fork! By playing Nxf2+, we create a fork that forces the king to move, then capture the undefended piece. Sometimes the best defense is attacking! }
+
+
 
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
@@ -396,10 +462,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
-[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
-[PuzzleId "IHYtG"]
-[Themes "crushing defensiveMove endgame queenEndgame short"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
 
-48. Qxc4+ { Defensive move! Blocking the queen's attack by capturing it. }
-48... Kxc4 49. h5 *
+62. h2+ Kh1 63. Kxf2 *
+
+{ Defensive pawn advance! By playing h2+, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }

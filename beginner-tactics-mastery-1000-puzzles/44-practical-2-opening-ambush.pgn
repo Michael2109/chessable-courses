@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,160 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "3qr1k1/p5bp/1p3pp1/n3p3/P6Q/R2P2P1/3NPPbP/1rBR1K2 w - - 0 24"]
+[LichessURL "https://lichess.org/xRULhrsi/black#46"]
+[PuzzleId "eDwzg"]
+[Themes "crushing master middlegame short trappedPiece"]
+
 {{Practical 2: Opening Ambush
 
-This section focuses on Legal's trap, queen traps, quick wins.
+This section focuses on Legal's Trap, Queen Traps, and Quick Wins.
 
-Game-like scenarios emphasizing decision-making, safety, and resourcefulness.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize and execute opening traps that can quickly win material or create decisive advantages.
+}}
+24. Kxg2 { Legal's trap! Capturing the bishop with the king. }
+24... Rxc1 25. Rxc1 { Winning the trapped rook. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7P/2k3P1/p6K/N7 b - - 0 53"]
+[LichessURL "https://lichess.org/VJSO7c4c#105"]
+[PuzzleId "NskoT"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
+
+53... Kb2 { Trapping the knight! }
+54. g4 Kxa1 { Winning the trapped knight. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppq2ppp/1b2p1n1/P2p4/1P6/2Pn1N2/4QPPP/RNB1K2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/wPU0NR0v/black#22"]
+[PuzzleId "SUEla"]
+[Themes "advantage middlegame short trappedPiece"]
+
+12. Qxd3 { Queen trap! Capturing the trapped pawn. }
+12... Bxf2+ 13. Kxf2 { Winning the trapped bishop. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/Rb1nk3/3RN3/1p1P1p1p/1P3P2/7P/5NP1/5K2 b - - 0 39"]
+[LichessURL "https://lichess.org/RJNyPDGt#77"]
+[PuzzleId "E16tz"]
+[Themes "advantage master middlegame short trappedPiece"]
+
+39... Rxa7 { Trapping the rook! }
+40. Rxd7+ Kxd7 { Winning the trapped rook. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7b/5k2/7P/5KP1/5P2/8/8/8 w - - 1 58"]
+[LichessURL "https://lichess.org/S3GDPT4f/black#114"]
+[PuzzleId "NwSlE"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
+
+58. g6+ { Trapping the bishop! }
+58... Ke7 59. g7 Bxg7 60. hxg7 { Winning the trapped bishop. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q3r/5k2/p4bp1/1p1BnQ2/1P1p1B2/7P/P1P2PP1/R4RK1 b - - 1 27"]
+[LichessURL "https://lichess.org/tOpclHAR#53"]
+[PuzzleId "7i8hC"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
+
+27... Qxd5 { Queen trap! Capturing the trapped queen. }
+28. Qxf6+ Kxf6 { Winning the trapped queen. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4ppp/1n2p3/7b/3PP3/PB3P2/1r1N2PP/2rK3R w - - 0 22"]
+[LichessURL "https://lichess.org/NqoDDvIe/black#42"]
+[PuzzleId "xMeus"]
+[Themes "crushing middlegame short trappedPiece"]
+
+22. Kxc1 { Trapping the rook! }
+22... Rxb3 23. Nxb3 { Winning the trapped rook. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q1r3/1p3kr1/p4nBQ/2Pp2p1/8/2P1P2P/PP3PP1/3R1RK1 b - - 8 29"]
+[LichessURL "https://lichess.org/iuVo7jwi#57"]
+[PuzzleId "Lxj5n"]
+[Themes "crushing middlegame short trappedPiece"]
+
+29... Rxg6 { Trapping the queen! }
+30. Qxg6+ Kxg6 { Winning the trapped queen. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp3ppp/2n2n2/3p4/8/2NNPbb1/PPPBK1Pq/R2Q3R w - - 0 18"]
+[LichessURL "https://lichess.org/fy5OhxZ4/black#34"]
+[PuzzleId "LmWls"]
+[Themes "advantage middlegame short trappedPiece"]
+
+18. Kxf3 { Trapping the queen! }
+18... Qh4 19. Rxh4 { Winning the trapped queen. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5p1/4p2p/4Pb2/8/2PR4/1P1k1PPP/5QK1 b - - 0 35"]
+[LichessURL "https://lichess.org/DoqyVESE#69"]
+[PuzzleId "fWZoK"]
+[Themes "advantage endgame short trappedPiece"]
+
+35... Bxd3 { Trapping the queen! }
+36. Qxd3+ Kxd3 { Winning the trapped queen. }

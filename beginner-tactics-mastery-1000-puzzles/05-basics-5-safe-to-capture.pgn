@@ -1,4 +1,4 @@
-[Event "Pin"]
+[Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,22 +6,18 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/1q4rp/pp6/2b5/2B2n2/1P6/PB3PbP/3R2K1 w - - 0 31"]
-[LichessURL "https://lichess.org/AV9jETaW/black#60"]
-[PuzzleId "aWHyE"]
-[Themes "mate mateIn2 middlegame pin short"]
+[FEN "2r5/p4pk1/1b2b1pp/np1p4/3P1P2/PPRKPP2/3N3P/2R5 w - - 4 28"]
+[LichessURL "https://lichess.org/uYhDervm/black#54"]
+[PuzzleId "HanPh"]
+[Themes "advantage master middlegame short"]
 
-{{Basics 5: Safe to Capture?
+28. Rxc8 Bxc8 29. Rxc8 *
 
-This section focuses on Is it safe to take? Simple counting.
-
-Build core habits and quick recognition by checking forcing moves first.
-}
-31. Rd8+ Bf8 32. Rxf8# *
+{ Simple counting: Black's rook on c8 is defended by the bishop on b6, but after Rxc8 Bxc8, we can capture the bishop with Rxc8, winning a piece. Always count defenders before capturing! }
 
 
 
-[Event "Hanging Piece"]
+[Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
@@ -29,60 +25,258 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/pp4p1/2p5/4p2p/2qbQ3/2N5/PPP4P/5R1K b - - 7 30"]
-[LichessURL "https://lichess.org/7lNmjwdu#59"]
-[PuzzleId "u1cg2"]
-[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
+[FEN "3r4/p1R2p1p/4pkp1/1p6/8/5PP1/P4PNP/6K1 b - - 1 27"]
+[LichessURL "https://lichess.org/tc1A2N3W#53"]
+[PuzzleId "hsWEO"]
+[Themes "advantage endgame short"]
 
-30... Qxf1# *
+27... Rd1+ 28. Ne1 Rxe1+ *
+
+{ The rook on d8 can safely capture the pawn on d1 because after Rd1+ Ne1, we can capture the knight with Rxe1+, winning material. Count the defenders! }
 
 
 
-[Event "Capturing Defender"]
+[Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
+[Round "3"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r2k2/p1n2ppp/q3p3/8/1PQ1P3/P4P2/6PP/2R2K2 w - - 1 26"]
-[LichessURL "https://lichess.org/rpkS3N8C/black#50"]
-[PuzzleId "TnOa7"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "2r3k1/1p1q2pp/p3pn2/3p4/bP1Pp3/P1Q1P1P1/3BBPP1/2R3K1 w - - 1 22"]
+[LichessURL "https://lichess.org/RhiSz75e/black#42"]
+[PuzzleId "NSXvg"]
+[Themes "advantage middlegame short"]
 
-26. Qxa6 Nxa6 27. Rxc8+ *
+22. Qxc8+ Qxc8 23. Rxc8+ *
+
+{ The queen can safely capture the rook on c8 because after Qxc8+ Qxc8, our rook can capture the queen with Rxc8+, winning a piece. Always look for recaptures! }
 
 
 
-[Event "Capturing Defender"]
+[Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "2"]
+[Round "4"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/pp1r2k1/7p/8/3q1p2/P1QNpP2/1P4KP/4R3 b - - 3 35"]
-[LichessURL "https://lichess.org/xbbHb4KH#69"]
-[PuzzleId "3NmL7"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "2r5/B2k1p2/2r5/4Pp2/2R2Pp1/P5Pp/7P/2R3K1 b - - 0 36"]
+[LichessURL "https://lichess.org/BfuiE5gw#71"]
+[PuzzleId "IO5Ap"]
+[Themes "advantage endgame master short"]
 
-35... Qxc3 36. bxc3 Rxd3 *
+36... Rxc4 37. Rxc4 Rxc4 *
+
+{ The rook on c5 can safely capture the rook on c4 because after Rxc4 Rxc4, we can capture back with Rxc4, maintaining equality. Simple counting! }
 
 
 
-[Event "Fork"]
+[Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
+[Round "5"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/p1b1kp2/6p1/2PP3p/3P4/2K2P1P/P5P1/8 w - - 1 31"]
-[LichessURL "https://lichess.org/0ECv411C/black#60"]
-[PuzzleId "YXRiP"]
-[Themes "bishopEndgame crushing endgame fork short"]
+[FEN "r2r4/p4pkp/6p1/6P1/3R4/K4b2/2P1NP2/3R4 w - - 6 31"]
+[LichessURL "https://lichess.org/XED3dIjA/black#60"]
+[PuzzleId "ZxEdX"]
+[Themes "advantage endgame master short"]
 
-31. d6+ Bxd6 32. cxd6+ *
+31. Rxd8 Rxd8 32. Rxd8 *
+
+{ The rook on d4 can safely capture the rook on d8 because after Rxd8 Rxd8, we can capture back with Rxd8, winning a piece. Count the defenders! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5pp1/1R2p2p/4P3/8/8/5BPP/2R3K1 b - - 0 37"]
+[LichessURL "https://lichess.org/fVYZX3jx#73"]
+[PuzzleId "XMAuS"]
+[Themes "advantage endgame short"]
+
+37... Rxc1+ 38. Be1 Rxe1+ *
+
+{ The rook on c8 can safely capture the rook on c1 because after Rxc1+ Be1, we can capture the bishop with Rxe1+, winning material. Always check for interpositions! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1q2bk1p/p4p2/1p6/8/1P1R1P2/1PP3PP/3Q2K1 w - - 1 27"]
+[LichessURL "https://lichess.org/yZYmFoaQ/black#52"]
+[PuzzleId "0Dg5M"]
+[Themes "advantage endgame short"]
+
+27. Rxd8 Bxd8 28. Qxd8 *
+
+{ The rook on d3 can safely capture the rook on d8 because after Rxd8 Bxd8, our queen can capture the bishop with Qxd8, winning a piece. Simple counting! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1pp2R1p/3p1Npq/p2Pp3/P1P5/5QN1/1b4PP/7K b - - 3 28"]
+[LichessURL "https://lichess.org/F7uasWgU#55"]
+[PuzzleId "HwNfp"]
+[Themes "advantage middlegame short"]
+
+28... Kxf7 29. Nxe8+ Kxe8 *
+
+{ The king can safely capture the rook on f7 because after Kxf7 Nxe8+, we can capture the knight with Kxe8, maintaining equality. Count the defenders! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq2k1/pp3nbp/2p5/2n1p3/2P1P3/1BN5/PP1Q1PP1/2KR3R w - - 2 20"]
+[LichessURL "https://lichess.org/NHJjgRmj/black#38"]
+[PuzzleId "B6oDh"]
+[Themes "advantage kingsideAttack middlegame short"]
+
+20. Qxd8+ Nxd8 21. Rxd8+ *
+
+{ The queen can safely capture the queen on d8 because after Qxd8+ Nxd8, our rook can capture the knight with Rxd8+, winning a piece. Always look for recaptures! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/4B1pp/1p2B3/4Pp2/P1p1bP2/1P2P3/6q1/2K1Q3 b - - 0 38"]
+[LichessURL "https://lichess.org/mSkwegZw#75"]
+[PuzzleId "XzBW4"]
+[Themes "advantage endgame short"]
+
+38... Kxe7 39. Qb4+ Kxe6 *
+
+{ The king can safely capture the bishop on e7 because after Kxe7 Qb4+, we can capture the queen with Kxe6, maintaining equality. Simple counting! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/5qbp/3p1np1/1p2p3/1Q2P3/3b3P/2RN1PPB/2R3K1 w - - 4 30"]
+[LichessURL "https://lichess.org/qpv1GfkG/black#58"]
+[PuzzleId "CpwNm"]
+[Themes "advantage middlegame short"]
+
+30. Rxc8+ Rxc8 31. Rxc8+ *
+
+{ The rook on c1 can safely capture the rook on c8 because after Rxc8+ Rxc8, our other rook can capture with Rxc8+, winning a piece. Count the defenders! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p3pp1/p1qn1b1p/3p4/3PN3/PP2P2P/4QPP1/R1R3K1 b - - 0 28"]
+[LichessURL "https://lichess.org/1wtjep4C#55"]
+[PuzzleId "iDkgc"]
+[Themes "advantage middlegame short"]
+
+28... Qxe2 29. Rxe2 Rxc1 *
+
+{ The queen can safely capture the queen on e2 because after Qxe2 Rxe2, our rook can capture the rook on c1, winning material. Always look for recaptures! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rr1k/2R4p/p7/4Pb2/1P6/P4qP1/5P2/6K1 w - - 2 31"]
+[LichessURL "https://lichess.org/PLVTTBXJ/black#60"]
+[PuzzleId "M3Uum"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+31. Rxf8# *
+
+{ The rook on e8 can safely capture the rook on f8 because it's checkmate! The black king has no escape squares. Sometimes the simplest captures are the best! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/p1p3pp/5n2/8/8/P7/NPP2PPP/R1BqQ1K1 b - - 2 18"]
+[LichessURL "https://lichess.org/7UA3H6hW#35"]
+[PuzzleId "6nsLJ"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+
+18... Qxe1# *
+
+{ The queen can safely capture the queen on e1 because it's checkmate! The white king has no escape squares. Always check for mate! }
+
+
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Rr1k/p1R4p/8/P2r4/6p1/5P1b/1P5P/6K1 w - - 2 34"]
+[LichessURL "https://lichess.org/jZghBMuD/black#66"]
+[PuzzleId "2cAVm"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+
+34. Rxf8# *
+
+{ The rook on e8 can safely capture the rook on f8 because it's checkmate! The black king is trapped on the back rank. Simple counting leads to mate! }
