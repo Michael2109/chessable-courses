@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Intermediate 5: In-Between Moves"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN1"]
+[Themes "intermezzo opening"]
+
 {{Intermediate 5: In-Between Moves
 
 This section focuses on Zwischenzug, desperado moves.
 
-Expect 2–3 move ideas that combine themes and require clear calculation.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN2"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN3"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN4"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN5"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN6"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN7"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN8"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN9"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN10"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN11"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN12"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN13"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN14"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN15"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN16"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN17"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN18"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN19"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN20"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN21"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN22"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN23"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "ZWISCHEN24"]
+[Themes "intermezzo opening"]
+
+3... Nxe4 { In-between move! The knight creates a zwischenzug. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "ZWISCHEN25"]
+[Themes "intermezzo opening"]
+
+4. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+4... Kxf7 5. Ne5+ *

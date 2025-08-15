@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Attack the Weak Point - f7 and f2 Targets
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK1"]
+[Themes "attackingF2F7 opening"]
 
-The f7 and f2 squares are naturally weak in the opening because they're only defended by the king. These squares become prime targets for early attacks, especially with pieces like the queen and bishop.
+{{Special 3: Attack the Weak Point
 
-Learn to exploit these fundamental weaknesses and you'll win many games in the opening phase. Many beginners fall victim to attacks on these vulnerable squares.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+This section focuses on f7 and f2 Targets.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK2"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK3"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK4"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK5"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK6"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK7"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK8"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK9"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK10"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK11"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK12"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK13"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK14"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK15"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK16"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK17"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK18"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK19"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK20"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK21"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK22"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK23"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "WEAK24"]
+[Themes "attackingF2F7 opening"]
+
+3... Bxf2+ { Attack the weak point! Targeting f2. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 3: Attack the Weak Point"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "WEAK25"]
+[Themes "attackingF2F7 opening"]
+
+4. Bxf7+ { Attack the weak point! Targeting f7. }
+4... Kxf7 5. Ne5+ *

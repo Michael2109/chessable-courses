@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Special 2: The Greek Gift"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK1"]
+[Themes "sacrifice opening"]
+
 {{Special 2: The Greek Gift
 
 This section focuses on Classic bishop sacrifice Bxh7+.
 
-Iconic patterns and instructive ideas you will see again and again.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK2"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK3"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK4"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK5"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK6"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK7"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK8"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK9"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK10"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK11"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK12"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK13"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK14"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK15"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK16"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK17"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK18"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK19"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK20"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK21"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK22"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK23"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "GREEK24"]
+[Themes "sacrifice opening"]
+
+3... Bxf2+ { Greek Gift! The classic bishop sacrifice. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "GREEK25"]
+[Themes "sacrifice opening"]
+
+4. Bxf7+ { Greek Gift! The classic bishop sacrifice. }
+4... Kxf7 5. Ne5+ *

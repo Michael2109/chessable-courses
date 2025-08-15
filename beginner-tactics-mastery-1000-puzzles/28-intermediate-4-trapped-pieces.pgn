@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED1"]
+[Themes "trappedPiece opening"]
+
 {{Intermediate 4: Trapped Pieces
 
 This section focuses on Trapped bishops (15), queens (10), rooks (10).
 
-Expect 2–3 move ideas that combine themes and require clear calculation.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED2"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED3"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED4"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED5"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED6"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED7"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED8"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED9"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED10"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED11"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED12"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED13"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED14"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED15"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED16"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED17"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED18"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED19"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED20"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED21"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED22"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED23"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED24"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED25"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *

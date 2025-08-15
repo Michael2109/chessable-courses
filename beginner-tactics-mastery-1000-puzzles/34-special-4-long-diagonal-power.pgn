@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Long Diagonal Power - Bishop Dominance
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL1"]
+[Themes "long opening"]
 
-Bishops reach their full potential when they control long diagonals, especially the a1-h8 and h1-a8 diagonals. From these commanding positions, bishops can influence both sides of the board.
+{{Special 4: Long Diagonal Power
 
-Learn to harness the power of the long diagonal and your bishops will become fearsome attacking pieces. Many games are won through superior bishop placement.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+This section focuses on Bishop Dominance.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL2"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL3"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL4"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL5"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL6"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL7"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL8"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL9"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL10"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL11"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL12"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL13"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL14"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL15"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL16"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL17"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL18"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL19"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL20"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL21"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL22"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL23"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "DIAGONAL24"]
+[Themes "long opening"]
+
+3... Bxf2+ { Long diagonal power! The bishop dominates the long diagonal. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 4: Long Diagonal Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "DIAGONAL25"]
+[Themes "long opening"]
+
+4. Bxf7+ { Long diagonal power! The bishop dominates the long diagonal. }
+4... Kxf7 5. Ne5+ *

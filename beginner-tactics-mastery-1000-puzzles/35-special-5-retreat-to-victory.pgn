@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Special 5: Retreat to Victory"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Retreat to Victory - Backward Winning Moves
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT1"]
+[Themes "quietMove opening"]
 
-Sometimes the winning move is a retreat! Moving a piece backward can set up devastating threats, improve its position, or create space for other pieces to shine.
+{{Special 5: Retreat to Victory
 
-These counter-intuitive moves separate strong players from beginners. Learn to consider retreat moves and you'll find winning ideas that others miss completely.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+This section focuses on Backward Winning Moves.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT2"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT3"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT4"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT5"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT6"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT7"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT8"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT9"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT10"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT11"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT12"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT13"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT14"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT15"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT16"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT17"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT18"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT19"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT20"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT21"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT22"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT23"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "RETREAT24"]
+[Themes "quietMove opening"]
+
+3... Bxf2+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4. Kxf2 Nxe4+ *
+
+[Event "Special 5: Retreat to Victory"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "RETREAT25"]
+[Themes "quietMove opening"]
+
+4. Bxf7+ { Retreat to victory! The bishop retreats to create a winning attack. }
+4... Kxf7 5. Ne5+ *

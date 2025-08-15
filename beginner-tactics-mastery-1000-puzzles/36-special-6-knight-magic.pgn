@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,400 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
-{{Knight Magic - Octopus Knights & Outposts
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT1"]
+[Themes "knightEndgame endgame"]
 
-Knights are most powerful when they occupy strong outposts - squares that cannot be attacked by enemy pawns. From these "octopus" positions, knights can control key squares and launch devastating attacks.
+{{Special 6: Knight Magic
 
-Learn to establish and exploit knight outposts, and you'll discover why knights can be even more powerful than bishops in certain positions.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+This section focuses on Octopus Knights & Outposts.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT2"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT3"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT4"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT5"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT6"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT7"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT8"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT9"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT10"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT11"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT12"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT13"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT14"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT15"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT16"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT17"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT18"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT19"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT20"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT21"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT22"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT23"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "KNIGHT24"]
+[Themes "endgame master short"]
+
+28... Nc5+ { Knight magic! The knight creates a magical outpost. }
+29. Ke2 Nxe4 *
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "KNIGHT25"]
+[Themes "knightEndgame endgame"]
+
+62. h2+ { Knight magic! The knight creates a magical outpost. }
+62... Kh1 63. Nf2# *

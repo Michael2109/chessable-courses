@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Intermediate 3: Double Check Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,14 +6,391 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
 {{Intermediate 3: Double Check Power
 
 This section focuses on Forcing king moves, mate threats.
 
-Expect 2–3 move ideas that combine themes and require clear calculation.
-}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+27. Bxf5+ { Double check! The bishop delivers a discovered attack. }
+27... Kb8 28. Rxd8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+62... h2+ { Double check! The pawn delivers a discovered attack. }
+63. Kh1 Kxf2 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+27. Nf6+ { Double check! The knight delivers a discovered attack. }
+27... Rxf6 28. Rxe8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short"]
+
+28... Nc5+ { Double check! The knight delivers a discovered attack. }
+29. Ke2 Nxe4 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+27. Bxf5+ { Double check! The bishop delivers a discovered attack. }
+27... Kb8 28. Rxd8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+62... h2+ { Double check! The pawn delivers a discovered attack. }
+63. Kh1 Kxf2 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+27. Nf6+ { Double check! The knight delivers a discovered attack. }
+27... Rxf6 28. Rxe8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short"]
+
+28... Nc5+ { Double check! The knight delivers a discovered attack. }
+29. Ke2 Nxe4 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+27. Bxf5+ { Double check! The bishop delivers a discovered attack. }
+27... Kb8 28. Rxd8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+62... h2+ { Double check! The pawn delivers a discovered attack. }
+63. Kh1 Kxf2 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+27. Nf6+ { Double check! The knight delivers a discovered attack. }
+27... Rxf6 28. Rxe8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short"]
+
+28... Nc5+ { Double check! The knight delivers a discovered attack. }
+29. Ke2 Nxe4 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+
+37... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+27. Bxf5+ { Double check! The bishop delivers a discovered attack. }
+27... Kb8 28. Rxd8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+62... h2+ { Double check! The pawn delivers a discovered attack. }
+63. Kh1 Kxf2 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+27. Nf6+ { Double check! The knight delivers a discovered attack. }
+27... Rxf6 28. Rxe8+ *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short"]
+
+28... Nc5+ { Double check! The knight delivers a discovered attack. }
+29. Ke2 Nxe4 *
+
+[Event "Intermediate 3: Double Check Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
+[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
+[PuzzleId "2wMMN"]
+[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+
+29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
