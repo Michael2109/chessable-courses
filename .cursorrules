@@ -13,4 +13,6 @@ Actually read each puzzle and understand the position before selecting it. Don't
 
 Ensure that the puzzle event name matches the chapter name in the README.md.
 
+Ensure each puzzle is valid pgn format.
+
 Ultrathink. Be extra careful that each of your puzzle choices match the chapter category and difficulty.

@@ -108,13 +108,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4q3/p7/1pQ1P3/P2P3P/KP6/2R5 w - - 4 29"]
-[LichessURL "https://lichess.org/tNlaMmUf/black#56"]
-[PuzzleId "a0LbN"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "1rr3k1/1q4p1/p1Q2p1p/4p3/8/1P4P1/P4PKP/2R1R3 w - - 4 30"]
+[LichessURL "https://lichess.org/2tNxx57F/black#58"]
+[PuzzleId "Mylsy"]
+[Themes "capturingDefender crushing discoveredAttack endgame master short"]
 
-29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
-29... fxe6 30. Rxc8+ *
+30. Qxb7 { Remove the guard! Capturing the defender of the rook. }
+30... Rxb7 31. Rxc8+ *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -124,13 +124,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r4/4k3/3q2p1/6P1/1Q1N1P2/2P5/P2K4/8 b - - 0 43"]
-[LichessURL "https://lichess.org/QuBDCdp4#85"]
-[PuzzleId "x2e2f"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "rnbq1rk1/pp2b1pp/5n2/2p3B1/3pN3/1N4P1/PPP1PPBP/R2Q1RK1 b - - 0 11"]
+[LichessURL "https://lichess.org/u6hrU08f#21"]
+[PuzzleId "oPVA2"]
+[Themes "advantage capturingDefender discoveredAttack opening short"]
 
-43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
-44. cxb4 Rxd4+ *
+11... Nxe4 { Remove the guard! Capturing the defender of the bishop. }
+12. Bxe4 Bxg5 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -140,13 +140,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3qr1k1/pb2p2p/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 w - - 2 26"]
-[LichessURL "https://lichess.org/IyouuyvD/black#50"]
-[PuzzleId "6LyUQ"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "2kr1bnr/ppp1pppp/8/1P2n2q/6b1/2N2N2/P1PPBPPP/R1BQ1RK1 w - - 1 9"]
+[LichessURL "https://lichess.org/UQxwm6gP/black#16"]
+[PuzzleId "2VJwa"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
 
-26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
-26... Rxd8 27. Rxe7 *
+9. Nxe5 { Remove the guard! Capturing the defender of the queen. }
+9... Qxe5 10. Bxg4+ *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -156,13 +156,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r6/nR3pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 b - - 0 28"]
-[LichessURL "https://lichess.org/QabW2atH#55"]
-[PuzzleId "vVN1I"]
-[Themes "capturingDefender crushing endgame short"]
+[FEN "5r1k/5qpp/8/p2Q1N2/4P3/P2P3P/1P4P1/1K6 b - - 3 35"]
+[LichessURL "https://lichess.org/l0gjOmd4#65"]
+[PuzzleId "JZcjh"]
+[Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
-29. Bxb7 Nxb5 *
+33... Qxd5 { Remove the guard! Capturing the defender of the knight. }
+34. exd5 Rxf5 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -172,13 +172,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/pp4pp/2p1r3/3q4/4Q1P1/7P/2P1R1K1/4R3 w - - 0 29"]
-[LichessURL "https://lichess.org/4v5HIK5U/black#56"]
-[PuzzleId "Wob5X"]
-[Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
+[FEN "r1b2k2/3nnpb1/p2N4/1pp5/4PP2/2P3P1/PPK5/3RR3 w - - 0 32"]
+[LichessURL "https://lichess.org/k9O3AlTi/black#62"]
+[PuzzleId "O1hxk"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
-29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
-29... Rxd5 30. Rxe6 *
+32. Nxc8 { Remove the guard! Capturing the defender of the rook. }
+32... Rxc8 33. Rxd7 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -188,13 +188,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4b3/3r2k1/p1NR1p2/2P2P1p/1P5K/P7/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/yaUD9B2C#87"]
-[PuzzleId "QpIOg"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "2r1k3/2q2pr1/p2b2bp/3Pp3/2p1N2P/2P2PB1/PP2Q3/2KR3R b - - 1 23"]
+[LichessURL "https://lichess.org/nqNPFBgB#45"]
+[PuzzleId "Ic7CX"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
-44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
-45. cxd6 Bxc6 *
+23... Bxe4 { Remove the guard! Capturing the defender of the rook. }
+24. fxe4 Rxg3 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -204,13 +204,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4q3/p7/1pQ1P3/P2P3P/KP6/2R5 w - - 4 29"]
-[LichessURL "https://lichess.org/tNlaMmUf/black#56"]
-[PuzzleId "a0LbN"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "rnb1k2r/pp1p1ppp/8/q2n4/1b6/2N2N2/PP1BP1PP/R2QKB1R w KQkq - 2 10"]
+[LichessURL "https://lichess.org/z40OPm2Q/black#18"]
+[PuzzleId "iDU1a"]
+[Themes "capturingDefender crushing discoveredAttack opening short"]
 
-29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
-29... fxe6 30. Rxc8+ *
+10. Nxd5 { Remove the guard! Capturing the defender of the bishop. }
+10... Qxd5 11. Bxb4 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -220,13 +220,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r4/4k3/3q2p1/6P1/1Q1N1P2/2P5/P2K4/8 b - - 0 43"]
-[LichessURL "https://lichess.org/QuBDCdp4#85"]
-[PuzzleId "x2e2f"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "2rr4/4k1pp/4pp2/p1pb4/2B4P/NP1N4/P4PP1/2R3K1 b - - 3 27"]
+[LichessURL "https://lichess.org/Nr4GLq94#53"]
+[PuzzleId "iDDxW"]
+[Themes "capturingDefender crushing discoveredAttack middlegame short"]
 
-43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
-44. cxb4 Rxd4+ *
+27... Bxc4 { Remove the guard! Capturing the defender of the rook. }
+28. Nxc4 Rxd3 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -236,13 +236,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3qr1k1/pb2p2p/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 w - - 2 26"]
-[LichessURL "https://lichess.org/IyouuyvD/black#50"]
-[PuzzleId "6LyUQ"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "5rk1/pp3nbp/4b1p1/8/3rp3/6BP/PP3PPN/3RRBK1 w - - 0 21"]
+[LichessURL "https://lichess.org/dsZLSt3v/black#40"]
+[PuzzleId "T2C31"]
+[Themes "capturingDefender crushing master middlegame short"]
 
-26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
-26... Rxd8 27. Rxe7 *
+21. Rxd4 { Remove the guard! Capturing the defender of the rook. }
+21... Bxd4 22. Rxe4 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -252,13 +252,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r6/nR3pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 b - - 0 28"]
-[LichessURL "https://lichess.org/QabW2atH#55"]
-[PuzzleId "vVN1I"]
-[Themes "capturingDefender crushing endgame short"]
+[FEN "8/pp4pk/3qp1rp/3p4/3P1PQ1/2P4P/PP3K2/R4R2 b - - 2 24"]
+[LichessURL "https://lichess.org/5YXi25S5#47"]
+[PuzzleId "s53Tm"]
+[Themes "advantage capturingDefender endgame short"]
 
-28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
-29. Bxb7 Nxb5 *
+24... Rxg4 { Remove the guard! Capturing the defender of the queen. }
+25. hxg4 Qxf4+ *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -268,13 +268,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/pp4pp/2p1r3/3q4/4Q1P1/7P/2P1R1K1/4R3 w - - 0 29"]
-[LichessURL "https://lichess.org/4v5HIK5U/black#56"]
-[PuzzleId "Wob5X"]
-[Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
+[FEN "4Q3/6pk/5p1p/3pqn2/8/6NP/5PPK/8 w - - 9 35"]
+[LichessURL "https://lichess.org/AFpC7Js5/black#68"]
+[PuzzleId "XRAot"]
+[Themes "advantage capturingDefender endgame short"]
 
-29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
-29... Rxd5 30. Rxe6 *
+35. Qxe5 { Remove the guard! Capturing the defender of the knight. }
+35... fxe5 36. Nxf5 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -284,13 +284,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4b3/3r2k1/p1NR1p2/2P2P1p/1P5K/P7/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/yaUD9B2C#87"]
-[PuzzleId "QpIOg"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "2k1r3/1pp5/6pb/1N2R3/5P2/2P1B1Pb/PP6/6K1 b - - 2 31"]
+[LichessURL "https://lichess.org/WOy35Ryz#61"]
+[PuzzleId "NvhtJ"]
+[Themes "capturingDefender crushing endgame short"]
 
-44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
-45. cxd6 Bxc6 *
+31... Bxe3 { Remove the guard! Capturing the defender of the rook. }
+32. fxe3 Rxe5 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -300,13 +300,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4q3/p7/1pQ1P3/P2P3P/KP6/2R5 w - - 4 29"]
-[LichessURL "https://lichess.org/tNlaMmUf/black#56"]
-[PuzzleId "a0LbN"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 7"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example19"]
+[Themes "capturingDefender opening short"]
 
-29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
-29... fxe6 30. Rxc8+ *
+7. Bxd5 { Remove the guard! Capturing the defender of the pawn. }
+7... cxd5 8. cxd5 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -316,13 +316,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r4/4k3/3q2p1/6P1/1Q1N1P2/2P5/P2K4/8 b - - 0 43"]
-[LichessURL "https://lichess.org/QuBDCdp4#85"]
-[PuzzleId "x2e2f"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "r1bqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example20"]
+[Themes "capturingDefender opening short"]
 
-43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
-44. cxb4 Rxd4+ *
+5... Nxd4 { Remove the guard! Capturing the defender of the pawn. }
+6. exd4 exd4 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -332,13 +332,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3qr1k1/pb2p2p/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 w - - 2 26"]
-[LichessURL "https://lichess.org/IyouuyvD/black#50"]
-[PuzzleId "6LyUQ"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example21"]
+[Themes "capturingDefender opening short"]
 
-26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
-26... Rxd8 27. Rxe7 *
+4. dxe5 { Remove the guard! Capturing the defender of the knight. }
+4... Nxe4 5. Qd5 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -348,13 +348,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r6/nR3pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 b - - 0 28"]
-[LichessURL "https://lichess.org/QabW2atH#55"]
-[PuzzleId "vVN1I"]
-[Themes "capturingDefender crushing endgame short"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example22"]
+[Themes "capturingDefender opening short"]
 
-28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
-29. Bxb7 Nxb5 *
+4... exd4 { Remove the guard! Capturing the defender of the knight. }
+5. Nxd4 Nxe4 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -364,13 +364,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/pp4pp/2p1r3/3q4/4Q1P1/7P/2P1R1K1/4R3 w - - 0 29"]
-[LichessURL "https://lichess.org/4v5HIK5U/black#56"]
-[PuzzleId "Wob5X"]
-[Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example23"]
+[Themes "capturingDefender opening short"]
 
-29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
-29... Rxd5 30. Rxe6 *
+4. Nxe5 { Remove the guard! Capturing the defender of the pawn. }
+4... Nxe4 5. Qe2 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -380,13 +380,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4b3/3r2k1/p1NR1p2/2P2P1p/1P5K/P7/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/yaUD9B2C#87"]
-[PuzzleId "QpIOg"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example24"]
+[Themes "capturingDefender opening short"]
 
-44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
-45. cxd6 Bxc6 *
+4... Nxe4 { Remove the guard! Capturing the defender of the pawn. }
+5. dxe5 Nxc3 *
 
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
@@ -396,10 +396,90 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4q3/p7/1pQ1P3/P2P3P/KP6/2R5 w - - 4 29"]
-[LichessURL "https://lichess.org/tNlaMmUf/black#56"]
-[PuzzleId "a0LbN"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example25"]
+[Themes "capturingDefender opening short"]
 
-29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
-29... fxe6 30. Rxc8+ *
+4. e3 { Remove the guard! Protecting the pawn. }
+4... exd4 5. exd4 *
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example26"]
+[Themes "capturingDefender opening short"]
+
+4... Bb4+ { Remove the guard! Attacking the defender. }
+5. Bd2 Bxd2+ *
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example27"]
+[Themes "capturingDefender opening short"]
+
+4. Bg5 { Remove the guard! Attacking the defender. }
+4... Be7 5. Bxf6 *
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example28"]
+[Themes "capturingDefender opening short"]
+
+4... Bg4 { Remove the guard! Attacking the defender. }
+5. f3 Bxf3 *
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example29"]
+[Themes "capturingDefender opening short"]
+
+4. a3 { Remove the guard! Protecting the knight. }
+4... Be7 5. dxe5 *
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example30"]
+[Themes "capturingDefender opening short"]
+
+4... d5 { Remove the guard! Attacking the center. }
+5. exd5 Nxd5 *

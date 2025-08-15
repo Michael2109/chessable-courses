@@ -91,10 +91,10 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [FEN "3q2k1/2p2ppp/2p5/4p3/8/2P1Q3/P1P2PPP/6K1 b - - 0 20"]
 [LichessURL "https://lichess.org/kNfuMTqN#39"]
 [PuzzleId "UIZTQ"]
-[Themes "endgame queenEndgame"]
+[Themes "endgame mate mateIn2 queenEndgame short"]
 
-20... Qxe3 { Queen endgame! Capturing the opponent's queen. }
-21. cxe3 *
+20... Qd1+ { Queen endgame! Back rank mate threat. }
+21. Qe1 Qxe1# *
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -104,12 +104,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/Qp3ppp/2p5/4P3/4pPP1/P5KP/1q6/8 w - - 0 27"]
-[LichessURL "https://lichess.org/FHYOHBKE/black#52"]
-[PuzzleId "bk1AB"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
+[FEN "3Q1q1k/pp5p/4p3/2p1p3/P1P5/7P/1P4P1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/uksoOlQz/black#56"]
+[PuzzleId "P13lh"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
 
-27. Qa8# { Queen endgame! Back rank mate with the queen. }
+29. Qxf8# { Queen endgame! Hanging piece tactic. }
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -119,12 +119,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/7p/6p1/p3p3/8/3P4/2P3PP/qQ5K b - - 3 32"]
-[LichessURL "https://lichess.org/5ULAJNd6#63"]
-[PuzzleId "vqbdB"]
-[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
+[FEN "6k1/6p1/p6p/2q5/P7/8/6PP/2Q4K b - - 0 42"]
+[LichessURL "https://lichess.org/iSsozujA#83"]
+[PuzzleId "1vaM6"]
+[Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
 
-32... Qxb1# { Queen endgame! Back rank mate with the queen. }
+42... Qxc1# { Queen endgame! Back rank mate with the queen. }
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -134,13 +134,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/1p6/3pq3/1P6/P6P/5PP1/2Q3K1 w - - 0 26"]
-[LichessURL "https://lichess.org/0WB68Gv5/black#50"]
-[PuzzleId "Vrku8"]
-[Themes "endgame mate mateIn2 queenEndgame short"]
+[FEN "k7/2Q5/1Kp5/3p4/4p3/8/P7/2q5 w - - 0 64"]
+[LichessURL "https://lichess.org/s438jAsB/black#126"]
+[PuzzleId "Miv7E"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-26. Qc8+ { Queen endgame! Check to force the queen to block. }
-26... Qe8 27. Qxe8# *
+64. Qd8# { Queen endgame! Direct checkmate with the queen. }
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -150,12 +149,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5Q2/8/8/8/8/6pk/7p/7K b - - 0 82"]
-[LichessURL "https://lichess.org/tDE4CFaY#163"]
-[PuzzleId "Q16st"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
+[FEN "8/1p1q1k1p/p1p2ppQ/2P5/1P6/P6P/5PP1/5K2 b - - 4 32"]
+[LichessURL "https://lichess.org/x0vKb8Sc#63"]
+[PuzzleId "sE1tF"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-82... g2# { Queen endgame! Pawn promotes with checkmate. }
+32... Qd1# { Queen endgame! Back rank mate with the queen. }
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -165,12 +164,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k6/pp3p1p/5p2/8/3Q4/1q5P/5PPK/8 w - - 0 31"]
-[LichessURL "https://lichess.org/r7ZI7myd/black#60"]
-[PuzzleId "oabTr"]
-[Themes "endgame mate mateIn1 oneMove queenEndgame"]
+[FEN "3Q4/1pP2ppk/p6p/8/8/2q1K3/P5PP/8 w - - 11 36"]
+[LichessURL "https://lichess.org/wz7it566/black#70"]
+[PuzzleId "h7u6B"]
+[Themes "crushing endgame queenEndgame short"]
 
-31. Qd8# { Queen endgame! Direct checkmate with the queen. }
+36. Qd3+ { Queen endgame! Forcing queen trade to win. }
+36... Qxd3+ 37. Kxd3 *
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -180,13 +180,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3q2k1/2p2ppp/2p5/4p3/8/2P1Q3/P1P2PPP/6K1 b - - 0 20"]
-[LichessURL "https://lichess.org/kNfuMTqN#39"]
-[PuzzleId "UIZTQ"]
-[Themes "endgame queenEndgame"]
+[FEN "2k5/pp3Qp1/2pqp2p/7P/8/8/PPP2PP1/1K6 b - - 0 28"]
+[LichessURL "https://lichess.org/RpQpMVA8#55"]
+[PuzzleId "rAznU"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-20... Qxe3 { Queen endgame! Capturing the opponent's queen. }
-21. cxe3 *
+28... Qd1# { Queen endgame! Back rank mate with the queen. }
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -196,12 +195,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/Qp3ppp/2p5/4P3/4pPP1/P5KP/1q6/8 w - - 0 27"]
-[LichessURL "https://lichess.org/FHYOHBKE/black#52"]
-[PuzzleId "bk1AB"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
+[FEN "8/8/8/8/8/6Q1/5K2/6qk w - - 0 67"]
+[LichessURL "https://lichess.org/v6H9ise7/black#132"]
+[PuzzleId "BhrRA"]
+[Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-27. Qa8# { Queen endgame! Back rank mate with the queen. }
+67. Qxg1# { Queen endgame! Capturing the hanging queen. }
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -211,12 +210,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/7p/6p1/p3p3/8/3P4/2P3PP/qQ5K b - - 3 32"]
-[LichessURL "https://lichess.org/5ULAJNd6#63"]
-[PuzzleId "vqbdB"]
-[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
+[FEN "8/1p4k1/p2p1qp1/7p/2P1QP2/1P6/P5PP/7K b - - 0 38"]
+[LichessURL "https://lichess.org/dlUk2txe#75"]
+[PuzzleId "bfby3"]
+[Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
 
-32... Qxb1# { Queen endgame! Back rank mate with the queen. }
+38... Qa1+ { Queen endgame! Back rank mate threat. }
+39. Qb1 Qxb1# *
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -226,163 +226,10 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/1p6/3pq3/1P6/P6P/5PP1/2Q3K1 w - - 0 26"]
-[LichessURL "https://lichess.org/0WB68Gv5/black#50"]
-[PuzzleId "Vrku8"]
-[Themes "endgame mate mateIn2 queenEndgame short"]
+[FEN "6k1/1p3ppp/p7/8/3q4/1P4P1/P1Q2P1P/6K1 w - - 0 26"]
+[LichessURL "https://lichess.org/1JXuKMR1/black#50"]
+[PuzzleId "FERt4"]
+[Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
 
-26. Qc8+ { Queen endgame! Check to force the queen to block. }
-26... Qe8 27. Qxe8# *
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "16"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5Q2/8/8/8/8/6pk/7p/7K b - - 0 82"]
-[LichessURL "https://lichess.org/tDE4CFaY#163"]
-[PuzzleId "Q16st"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
-
-82... g2# { Queen endgame! Pawn promotes with checkmate. }
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "17"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1k6/pp3p1p/5p2/8/3Q4/1q5P/5PPK/8 w - - 0 31"]
-[LichessURL "https://lichess.org/r7ZI7myd/black#60"]
-[PuzzleId "oabTr"]
-[Themes "endgame mate mateIn1 oneMove queenEndgame"]
-
-31. Qd8# { Queen endgame! Direct checkmate with the queen. }
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "18"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3q2k1/2p2ppp/2p5/4p3/8/2P1Q3/P1P2PPP/6K1 b - - 0 20"]
-[LichessURL "https://lichess.org/kNfuMTqN#39"]
-[PuzzleId "UIZTQ"]
-[Themes "endgame queenEndgame"]
-
-20... Qxe3 { Queen endgame! Capturing the opponent's queen. }
-21. cxe3 *
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "19"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/Qp3ppp/2p5/4P3/4pPP1/P5KP/1q6/8 w - - 0 27"]
-[LichessURL "https://lichess.org/FHYOHBKE/black#52"]
-[PuzzleId "bk1AB"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
-
-27. Qa8# { Queen endgame! Back rank mate with the queen. }
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "20"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5k2/7p/6p1/p3p3/8/3P4/2P3PP/qQ5K b - - 3 32"]
-[LichessURL "https://lichess.org/5ULAJNd6#63"]
-[PuzzleId "vqbdB"]
-[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
-
-32... Qxb1# { Queen endgame! Back rank mate with the queen. }
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "21"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/1p3ppp/1p6/3pq3/1P6/P6P/5PP1/2Q3K1 w - - 0 26"]
-[LichessURL "https://lichess.org/0WB68Gv5/black#50"]
-[PuzzleId "Vrku8"]
-[Themes "endgame mate mateIn2 queenEndgame short"]
-
-26. Qc8+ { Queen endgame! Check to force the queen to block. }
-26... Qe8 27. Qxe8# *
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "22"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5Q2/8/8/8/8/6pk/7p/7K b - - 0 82"]
-[LichessURL "https://lichess.org/tDE4CFaY#163"]
-[PuzzleId "Q16st"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
-
-82... g2# { Queen endgame! Pawn promotes with checkmate. }
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "23"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1k6/pp3p1p/5p2/8/3Q4/1q5P/5PPK/8 w - - 0 31"]
-[LichessURL "https://lichess.org/r7ZI7myd/black#60"]
-[PuzzleId "oabTr"]
-[Themes "endgame mate mateIn1 oneMove queenEndgame"]
-
-31. Qd8# { Queen endgame! Direct checkmate with the queen. }
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3q2k1/2p2ppp/2p5/4p3/8/2P1Q3/P1P2PPP/6K1 b - - 0 20"]
-[LichessURL "https://lichess.org/kNfuMTqN#39"]
-[PuzzleId "UIZTQ"]
-[Themes "endgame queenEndgame"]
-
-20... Qxe3 { Queen endgame! Capturing the opponent's queen. }
-21. cxe3 *
-
-[Event "Endgame 3: Queen Endings"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "25"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/Qp3ppp/2p5/4P3/4pPP1/P5KP/1q6/8 w - - 0 27"]
-[LichessURL "https://lichess.org/FHYOHBKE/black#52"]
-[PuzzleId "bk1AB"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
-
-27. Qa8# { Queen endgame! Back rank mate with the queen. }
+26. Qc8+ { Queen endgame! Back rank mate threat. }
+26... Qd8 27. Qxd8# *

@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
+[LichessURL "https://lichess.org/hufGGxJF/black#56"]
+[PuzzleId "wGXNF"]
+[Themes "endgame mate mateIn2 short"]
 
 {{Tactics 3: Two-Move Checkmate
 
@@ -17,8 +17,8 @@ This section focuses on Forcing checks, simple sequences.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }}
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+29. Rd8+ { A forcing check that leads to mate! }
+29... Re8 30. Rxe8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -28,13 +28,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
+[LichessURL "https://lichess.org/t5ulNBPV#87"]
+[PuzzleId "l1iNq"]
+[Themes "endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+44... Rc1+ { A forcing check that leads to mate! }
+45. Rd1 Rxd1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -44,13 +44,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
+[LichessURL "https://lichess.org/cQBqU53F/black#42"]
+[PuzzleId "3O3kc"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+22. Rxf8+ { A forcing check that leads to back rank mate! }
+22... Qd8 23. Rxd8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -60,13 +60,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
+[LichessURL "https://lichess.org/ZzONJuGy#93"]
+[PuzzleId "hTYme"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+47... Ra1+ { A forcing check that leads to back rank mate! }
+48. Rb1 Rxb1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -76,29 +76,29 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
+[LichessURL "https://lichess.org/PH6ExC04/black#70"]
+[PuzzleId "NyZDw"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+36. Rb8+ { A forcing check that leads to back rank mate! }
+36... Ne8 37. Rxe8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "6"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "6k1/ppr5/3N4/P7/1P1P2pp/8/4RPPP/6K1 b - - 0 36"]
+[LichessURL "https://lichess.org/VvjPvO02#71"]
+[PuzzleId "0sRkd"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+36... Rc1+ { A forcing check that leads to back rank mate! }
+37. Re1 Rxe1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -108,13 +108,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "7k/7p/n2p1rpP/p2P4/2q2P2/2P2N2/1P3PP1/2K1R3 w - - 0 27"]
+[LichessURL "https://lichess.org/ezYdR1ug/black#52"]
+[PuzzleId "hOeeC"]
+[Themes "endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+27. Re8+ { A forcing check that leads to mate! }
+27... Rf8 28. Rxf8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -124,13 +124,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "2r3k1/5ppp/p3p3/Rp6/8/4PN2/5PPP/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/lOSVVJSp#57"]
+[PuzzleId "25iUy"]
+[Themes "backRankMate endgame master mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+29... Rc1+ { A forcing check that leads to back rank mate! }
+30. Ne1 Rxe1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -140,13 +140,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "rn1qr1k1/p1p2ppp/1p6/3p4/3P4/P1B4P/1PbNQPP1/R3R1K1 w - - 0 18"]
+[LichessURL "https://lichess.org/YY7aGvfm/black#34"]
+[PuzzleId "xT5ql"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+18. Qxe8+ { A forcing check that leads to back rank mate! }
+18... Qxe8 19. Rxe8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -156,13 +156,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "4Q3/2p2B2/3b1q2/1P3pkp/6p1/6P1/6PP/7K b - - 2 41"]
+[LichessURL "https://lichess.org/2pSbDaVB#81"]
+[PuzzleId "7TEUu"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+41... Qa1+ { A forcing check that leads to back rank mate! }
+42. Qe1 Qxe1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -172,13 +172,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "rn4k1/ppp2ppp/8/4r1B1/8/2N5/PPP2PPP/3R1K2 w - - 0 15"]
+[LichessURL "https://lichess.org/2XAeTOTK/black#28"]
+[PuzzleId "0DSKt"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+15. Rd8+ { A forcing check that leads to back rank mate! }
+15... Re8 16. Rxe8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -188,13 +188,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "3r2k1/Rb3ppp/2p1p3/8/2Nr4/1P6/1P3PPP/2R3K1 b - - 0 18"]
+[LichessURL "https://lichess.org/EYf0H0sE#35"]
+[PuzzleId "66t8g"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+18... Rd1+ { A forcing check that leads to back rank mate! }
+19. Rxd1 Rxd1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -204,13 +204,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "7k/3R2p1/7p/8/1P2B3/2n1p2P/5rPK/8 w - - 2 38"]
+[LichessURL "https://lichess.org/G2dmxk5r/black#74"]
+[PuzzleId "xfrDe"]
+[Themes "endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+38. Rd8+ { A forcing check that leads to mate! }
+38... Rf8 39. Rxf8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -220,13 +220,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "8/4n3/7k/2N1pr1p/Pp6/5r2/1Q4PP/R6K b - - 0 41"]
+[LichessURL "https://lichess.org/zxMOIXJ8#81"]
+[PuzzleId "aFkbL"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+41... Rf1+ { A forcing check that leads to back rank mate! }
+42. Rxf1 Rxf1# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -236,13 +236,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
-[Themes "mate mateIn2 opening short"]
+[FEN "2r1r1k1/1n2Rppp/3p1q2/5P2/8/6P1/PP4BP/4R2K w - - 0 28"]
+[LichessURL "https://lichess.org/Kn1qZFaB/black#54"]
+[PuzzleId "6gMeL"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+28. Rxe8+ { A forcing check that leads to back rank mate! }
+28... Rxe8 29. Rxe8# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -253,11 +253,11 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example16"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
+4. Bxc6+ { A forcing check that leads to mate! }
 4... bxc6 5. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
@@ -269,12 +269,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example17"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. Bxf7+ { A forcing check that leads to mate! }
+4... Kxf7 5. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -284,13 +284,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example18"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... Nxe4 { A forcing move that leads to mate! }
+5. Bxf7+ Kxf7 6. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -301,12 +301,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example19"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. Nxe5 { A forcing move that leads to mate! }
+4... Nxe5 5. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -316,13 +316,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example20"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... Bc5 { A forcing move that leads to mate! }
+5. Bxf7+ Kxf7 6. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -333,12 +333,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example21"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. Qe2 { A forcing move that leads to mate! }
+4... Nxe4 5. Bxf7# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -348,13 +348,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example22"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... d6 { A forcing move that leads to mate! }
+5. Bxc6+ bxc6 6. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -365,12 +365,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example23"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. d3 { A forcing move that leads to mate! }
+4... Nxe4 5. Bxf7# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -380,13 +380,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example24"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... Bb4+ { A forcing check that leads to mate! }
+5. Bd2 Bxd2+ 6. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -397,12 +397,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example25"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. Bg5 { A forcing move that leads to mate! }
+4... Be7 5. Bxf6# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -412,13 +412,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example26"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... Bg4 { A forcing move that leads to mate! }
+5. f3 Bxf3 6. Qe2# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -429,12 +429,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example27"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. a3 { A forcing move that leads to mate! }
+4... Be7 5. Bxf7# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -444,13 +444,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example28"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... d5 { A forcing move that leads to mate! }
+5. exd5 Nxd5 6. Bxf7# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -461,12 +461,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Result "*"]
 [SetUp "1"]
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example29"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4. c3 { A forcing move that leads to mate! }
+4... Nxe4 5. Bxf7# *
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -476,10 +476,10 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/8kOyjapn/black#8"]
-[PuzzleId "3uX0x"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 4 4"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example30"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that wins material. }
-4... bxc6 5. Qe2# *
+4... c6 { A forcing move that leads to mate! }
+5. Bxc6+ bxc6 6. Qe2# *

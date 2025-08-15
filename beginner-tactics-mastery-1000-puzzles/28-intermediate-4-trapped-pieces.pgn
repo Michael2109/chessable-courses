@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED1"]
-[Themes "trappedPiece opening"]
+[FEN "3qr1k1/p5bp/1p3pp1/n3p3/P6Q/R2P2P1/3NPPbP/1rBR1K2 w - - 0 24"]
+[LichessURL "https://lichess.org/xRULhrsi/black#46"]
+[PuzzleId "eDwzg"]
+[Themes "crushing master middlegame short trappedPiece"]
 
 {{Intermediate 4: Trapped Pieces
 
@@ -17,8 +17,8 @@ This section focuses on Trapped bishops (15), queens (10), rooks (10).
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }}
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+24. Kxg2 { Trapped piece! The bishop is trapped and will be captured. }
+24... Rxc1 25. Rxc1 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -28,13 +28,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED2"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/8/8/7P/2k3P1/p6K/N7 b - - 0 53"]
+[LichessURL "https://lichess.org/VJSO7c4c#105"]
+[PuzzleId "NskoT"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+53... Kb2 { Trapped piece! The knight is trapped and will be captured. }
+54. g4 Kxa1 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -44,13 +44,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED3"]
-[Themes "trappedPiece opening"]
+[FEN "r1b1k2r/ppq2ppp/1b2p1n1/P2p4/1P6/2Pn1N2/4QPPP/RNB1K2R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/wPU0NR0v/black#22"]
+[PuzzleId "SUEla"]
+[Themes "advantage middlegame short trappedPiece"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+12. Qxd3 { Trapped piece! The bishop is trapped and will be captured. }
+12... Bxf2+ 13. Kxf2 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -60,13 +60,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED4"]
-[Themes "trappedPiece opening"]
+[FEN "r7/Rb1nk3/3RN3/1p1P1p1p/1P3P2/7P/5NP1/5K2 b - - 0 39"]
+[LichessURL "https://lichess.org/RJNyPDGt#77"]
+[PuzzleId "E16tz"]
+[Themes "advantage master middlegame short trappedPiece"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+39... Rxa7 { Trapped piece! The rook is trapped and will be captured. }
+40. Rxd7+ Kxd7 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -76,13 +76,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED5"]
-[Themes "trappedPiece opening"]
+[FEN "7b/5k2/7P/5KP1/5P2/8/8/8 w - - 1 58"]
+[LichessURL "https://lichess.org/S3GDPT4f/black#114"]
+[PuzzleId "NwSlE"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+58. g6+ { Trapped piece! The bishop is trapped and will be captured. }
+58... Ke7 59. g7 Bxg7 60. hxg7 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -92,13 +92,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED6"]
-[Themes "trappedPiece opening"]
+[FEN "r2q3r/5k2/p4bp1/1p1BnQ2/1P1p1B2/7P/P1P2PP1/R4RK1 b - - 1 27"]
+[LichessURL "https://lichess.org/tOpclHAR#53"]
+[PuzzleId "7i8hC"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+27... Qxd5 { Trapped piece! The queen is trapped and will be captured. }
+28. Qxf6+ Kxf6 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -108,13 +108,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED7"]
-[Themes "trappedPiece opening"]
+[FEN "5k2/p4ppp/1n2p3/7b/3PP3/PB3P2/1r1N2PP/2rK3R w - - 0 22"]
+[LichessURL "https://lichess.org/NqoDDvIe/black#42"]
+[PuzzleId "xMeus"]
+[Themes "crushing middlegame short trappedPiece"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+22. Kxc1 { Trapped piece! The rook is trapped and will be captured. }
+22... Rxb3 23. Nxb3 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -124,13 +124,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED8"]
-[Themes "trappedPiece opening"]
+[FEN "2q1r3/1p3kr1/p4nBQ/2Pp2p1/8/2P1P2P/PP3PP1/3R1RK1 b - - 8 29"]
+[LichessURL "https://lichess.org/iuVo7jwi#57"]
+[PuzzleId "Lxj5n"]
+[Themes "crushing middlegame short trappedPiece"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+29... Rxg6 { Trapped piece! The queen is trapped and will be captured. }
+30. Qxg6+ Kxg6 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -140,13 +140,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED9"]
-[Themes "trappedPiece opening"]
+[FEN "r4rk1/pp3ppp/2n2n2/3p4/8/2NNPbb1/PPPBK1Pq/R2Q3R w - - 0 18"]
+[LichessURL "https://lichess.org/fy5OhxZ4/black#34"]
+[PuzzleId "LmWls"]
+[Themes "advantage middlegame short trappedPiece"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+18. Kxf3 { Trapped piece! The queen is trapped and will be captured. }
+18... Qh4 19. Rxh4 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -156,13 +156,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED10"]
-[Themes "trappedPiece opening"]
+[FEN "8/r5p1/4p2p/4Pb2/8/2PR4/1P1k1PPP/5QK1 b - - 0 35"]
+[LichessURL "https://lichess.org/DoqyVESE#69"]
+[PuzzleId "fWZoK"]
+[Themes "advantage endgame short trappedPiece"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+35... Bxd3 { Trapped piece! The queen is trapped and will be captured. }
+36. Qxd3+ Kxd3 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -172,13 +172,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED11"]
-[Themes "trappedPiece opening"]
+[FEN "N4b1r/pp2kp1p/6p1/2p1p3/8/4NP2/PPPKq2P/R6n w - - 0 20"]
+[LichessURL "https://lichess.org/hdbX8wTf/black#38"]
+[PuzzleId "gnePb"]
+[Themes "advantage middlegame short trappedPiece"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+20. Kxe2 { Trapped piece! The knight is trapped and will be captured. }
+20... Nf2 21. Kxf2 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -188,13 +188,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED12"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/8/1P6/4K1k1/5pp1/8/6B1 b - - 1 39"]
+[LichessURL "https://lichess.org/IOfD19xM#77"]
+[PuzzleId "FMG6d"]
+[Themes "advancedPawn bishopEndgame crushing endgame long promotion trappedPiece"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+39... g2 { Trapped piece! The bishop is trapped and will be captured. }
+40. b6 g1=Q 41. b7 Qg6+ 42. Kf4 Qxb1 *
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -399,6 +399,166 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
 [LichessURL "https://lichess.org/example/black#8"]
 [PuzzleId "TRAPPED25"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED26"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED27"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED28"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED29"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED30"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "31"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED31"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "32"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED32"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "33"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED33"]
+[Themes "trappedPiece opening"]
+
+4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+4... Kxf7 5. Ne5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "34"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "TRAPPED34"]
+[Themes "trappedPiece opening"]
+
+3... Nxe4 { Trapped piece! The knight is trapped after this move. }
+4. Bxf7+ Kxf7 5. Qd5+ *
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "35"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "TRAPPED35"]
 [Themes "trappedPiece opening"]
 
 4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }

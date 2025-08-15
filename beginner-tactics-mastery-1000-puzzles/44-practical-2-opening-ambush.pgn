@@ -163,3 +163,79 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 
 35... Bxd3 { Trapping the queen! }
 36. Qxd3+ Kxd3 { Winning the trapped queen. }
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkbnr/pbppp3/1p4pp/5pBQ/3P4/2N1P3/PPP2PPP/R3KBNR w KQkq - 0 6"]
+[LichessURL "https://lichess.org/04aYHDll/black#10"]
+[PuzzleId "RZzYJ"]
+[Themes "mate mateIn1 oneMove opening"]
+
+6. Qxg6# { Opening ambush! Quick mate in the opening. } *
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1knr/p3ppbp/6p1/1pp1R3/5Q2/1B6/PPP2PPP/RNB3K1 b - - 0 14"]
+[LichessURL "https://lichess.org/OGr79Ymo#27"]
+[PuzzleId "tl9xv"]
+[Themes "kingsideAttack mate mateIn2 opening short"]
+
+14... Qd1+ { Opening ambush! Quick mate threat. }
+15. Re1 Qxe1# *
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk2r/ppppbp2/4pn1p/4N1pQ/3PP3/8/PPP2PPP/RNB1KB1R w KQkq - 2 6"]
+[LichessURL "https://lichess.org/39GPvKWo/black#10"]
+[PuzzleId "FEHvg"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+
+6. Qxf7# { Opening ambush! Quick mate in the opening. } *
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2knr/p2ppp2/2p3pb/q1p1P1Np/4N3/3P1Q2/PPP2PPP/R1B1R1K1 b - - 4 12"]
+[LichessURL "https://lichess.org/jl4N1VVl#23"]
+[PuzzleId "52I2M"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+
+12... Qxe1# { Opening ambush! Quick mate in the opening. } *
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbn1/pppnp3/5p2/3p2pr/3P3p/4P2P/PPP2PPB/RN1QK1NR w KQq - 0 8"]
+[LichessURL "https://lichess.org/1NBJhY6C/black#14"]
+[PuzzleId "CpHCK"]
+[Themes "hangingPiece mate mateIn1 oneMove opening"]
+
+8. Qxh5# { Opening ambush! Quick mate in the opening. } *
