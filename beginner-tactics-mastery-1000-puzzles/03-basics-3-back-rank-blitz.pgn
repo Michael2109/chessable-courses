@@ -10,14 +10,14 @@
 [LichessURL "https://lichess.org/rmtlhGXo/black#76"]
 [PuzzleId "fImTO"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+
 {{Basics 3: Back Rank Knockout
 
 This section focuses on Simple back rank patterns.
 
 Build core habits and quick recognition by checking forcing moves first.
-}
+}}
 39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
-
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -34,11 +34,10 @@ Build core habits and quick recognition by checking forcing moves first.
 
 18... Rxd1# { Taking the rook delivers checkmate since White's king has no escape squares. }
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "22"]
+[Round "3"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -51,11 +50,10 @@ Build core habits and quick recognition by checking forcing moves first.
 23... Qd1+ { A queen sacrifice that forces the rook to take, opening up the back rank for mate. }
 24. Rxd1 Rxd1# *
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "46"]
+[Round "4"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -68,11 +66,10 @@ Build core habits and quick recognition by checking forcing moves first.
 39... Re1+ { The rook invades the back rank with check. }
 40. Bf1 Rxf1# *
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "56"]
+[Round "5"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -85,11 +82,10 @@ Build core habits and quick recognition by checking forcing moves first.
 25... Qe1+ { The queen crashes through to the back rank, forcing a trade that leads to mate. }
 26. Rxe1 Rxe1# *
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "63"]
+[Round "6"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -99,14 +95,91 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7y6JN"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 
-21. Qf7+ { Starting a forcing sequence - the queen will sacrifice itself to clear the way for the rook. }
-21... Kh8 22. Qf8+ Rxf8 23. Rxf8# *
-
+21. Qh8+ { The queen sacrifices herself to open up the back rank for the rook. }
+21... Kxh8 22. Rf8+ Rxf8 23. Rxf8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "64"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p1p3pp/1pn5/4p3/1P2P3/2P2R2/P3q1PP/R6K w - - 0 23"]
+[LichessURL "https://lichess.org/t921Riyq/black#44"]
+[PuzzleId "F4tRS"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+
+23. Rxf8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+[Event "Basics 3: Back Rank Knockout"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n1r4/RP4p1/4kp1p/2P5/3r4/6B1/5PPP/1R4K1 b - - 2 36"]
+[LichessURL "https://lichess.org/iE2KSJY8#71"]
+[PuzzleId "hlrwd"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+
+36... Rd1+ { Infiltrates the back rank, tying down the king and threatening mate. }
+37. Rxd1 Rxd1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+[Event "Basics 3: Back Rank Knockout"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
+[LichessURL "https://lichess.org/cQBqU53F/black#42"]
+[PuzzleId "3O3kc"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+
+22. Rxf8+ { Infiltrates the back rank, tying down the king and threatening mate. }
+22... Qd8 23. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+[Event "Basics 3: Back Rank Knockout"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
+[LichessURL "https://lichess.org/ZzONJuGy#93"]
+[PuzzleId "hTYme"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+
+47... Ra1+ { Infiltrates the back rank, tying down the king and threatening mate. }
+48. Rb1 Rxb1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+[Event "Basics 3: Back Rank Knockout"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
+[LichessURL "https://lichess.org/hDibIiAO/black#54"]
+[PuzzleId "92Oqp"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+
+28. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+[Event "Basics 3: Back Rank Knockout"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -119,11 +192,10 @@ Build core habits and quick recognition by checking forcing moves first.
 25... Qf1+ { The queen gives itself up to deflect White's rook, allowing your rook to deliver mate. }
 26. Rxf1 Rxf1# *
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "68"]
+[Round "13"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -136,78 +208,10 @@ Build core habits and quick recognition by checking forcing moves first.
 25... Rxe1+ { Removing the defender of the back rank - your other rook is ready to finish the job. }
 26. Rxe1 Rxe1# *
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5bk1/p5np/1p4p1/5pB1/8/5Q2/2P2PPP/3rN1K1 b - - 0 33"]
-[LichessURL "https://lichess.org/mZtJrYvk#65"]
-[PuzzleId "zw6mS"]
-[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
-
-33... Rxe1# { The knight was the only piece defending against back rank mate - now it's checkmate! }
-
-
-[Event "Basics 3: Back Rank Knockout"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "70"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1k1r4/ppp3Qp/5n2/8/8/1Nq5/P1P2PPP/R5K1 b - - 0 20"]
-[LichessURL "https://lichess.org/VP0Er65u#39"]
-[PuzzleId "tNVqm"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
-
-20... Qxa1+ { Trading queens and rooks, but your rook gets the last word with mate. }
-21. Nxa1 Rd1# *
-
-
-[Event "Basics 3: Back Rank Knockout"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "71"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/5ppp/3r4/3Q4/2p5/4PKP1/2q2P1P/8 w - - 0 30"]
-[LichessURL "https://lichess.org/BMLJfUcn/black#58"]
-[PuzzleId "3eTJo"]
-[Themes "backRankMate endgame mate mateIn2 short"]
-
-30. Qa8+ { The queen swoops to the back rank - Black must block with the rook. }
-30... Rd8 31. Qxd8# *
-
-
-[Event "Basics 3: Back Rank Knockout"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "72"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5rk1/pp3Rpp/2p5/4Q3/4P3/2PP4/q1P3PP/1R5K b - - 0 23"]
-[LichessURL "https://lichess.org/PWBGiTLv#45"]
-[PuzzleId "ffJrH"]
-[Themes "backRankMate endgame hangingPiece mate mateIn2 short"]
-
-23... Qxb1+ { Taking the rook with check forces White to recapture, but then your rook delivers the final blow. }
-24. Rf1 Rxf1# *
-
-
-[Event "Basics 3: Back Rank Knockout"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "73"]
+[Round "14"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -220,11 +224,10 @@ Build core habits and quick recognition by checking forcing moves first.
 26. Ne7+ { The knight check forces the king to h8, where it will be mated on the back rank. }
 26... Kh8 27. Rxf8# *
 
-
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "74"]
+[Round "15"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -236,20 +239,3 @@ Build core habits and quick recognition by checking forcing moves first.
 
 32... Qe2+ { The queen dances around to reach e1, where it will sacrifice itself for a back rank mate. }
 33. Kg1 Qe1+ 34. Rxe1 Rxe1# *
-
-
-[Event "Basics 3: Back Rank Knockout"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "77"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2r3k1/pp4pp/8/n3p3/8/PPp2Q1P/2Pq2P1/5R1K w - - 0 24"]
-[LichessURL "https://lichess.org/YVujbNjD/black#46"]
-[PuzzleId "x19DY"]
-[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
-
-24. Qf7+ { The queen checks its way to f8, where it will sacrifice itself to open the back rank for the rook. }
-24... Kh8 25. Qf8+ Rxf8 26. Rxf8# *

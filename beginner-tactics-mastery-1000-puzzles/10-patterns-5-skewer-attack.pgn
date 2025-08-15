@@ -15,10 +15,9 @@
 
 This section focuses on Bishop skewers (15), rook/queen skewers (15).
 
-Sharpen named motif recognition and learn how to exploit them fast.
+A skewer is when you attack a valuable piece, forcing it to move, and then capture a less valuable piece behind it. It's like a pin in reverse!
 }}
-34. Rh8+ { Skewer! The rook skewers the king and rook. }
-34... Ke7 35. Rxb8 *
+34. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Ke7 35. Rxb8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -33,8 +32,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "id6aE"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-43... Re6+ { Skewer! The rook skewers the king and rook. }
-44. Kd3 Rxe1 *
+43... Re6+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 44. Kd3 Rxe1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -44,442 +42,414 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r2k3/5pp1/p3p3/6P1/8/5K2/1PP5/7R w - - 1 26"]
-[LichessURL "https://lichess.org/um6fy5ar/black#50"]
-[PuzzleId "tbBcM"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "5k2/4b3/4p3/4Pp2/5P1p/4K2P/8/6R1 b - - 5 50"]
+[LichessURL "https://lichess.org/aaJdDquf#99"]
+[PuzzleId "jfacq"]
+[Themes "crushing endgame short skewer"]
 
-26. Rh8+ { Skewer! The rook skewers the king and rook. }
-26... Kd7 27. Rxb8 *
+50... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 51. Kf3 Bxg1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "4"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/1p3pkp/p7/5P2/P3N3/1r1P4/3K3R/8 b - - 1 41"]
-[LichessURL "https://lichess.org/64IHFkXH#81"]
-[PuzzleId "hI1iT"]
-[Themes "advantage endgame master short skewer"]
+[FEN "8/8/1R6/3p4/1p1k2r1/1P6/8/2K5 w - - 2 46"]
+[LichessURL "https://lichess.org/uHAfQJrY/black#90"]
+[PuzzleId "ZA3Tc"]
+[Themes "crushing endgame rookEndgame short skewer"]
 
-41... Rb2+ { Skewer! The rook skewers the king and rook. }
-42. Ke3 Rxh2 *
+46. Rxb4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 46... Kd3 47. Rxg4 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/2R5/1p1p4/p2Pk1p1/2P5/1P4K1/P3r3/8 w - - 1 45"]
-[LichessURL "https://lichess.org/0Ac55JWk/black#88"]
-[PuzzleId "X4tUT"]
-[Themes "crushing endgame master rookEndgame short skewer"]
+[FEN "6k1/1p4r1/p2Bp3/2P5/8/8/5P2/1R2K3 b - - 5 37"]
+[LichessURL "https://lichess.org/sSYzZPo2#73"]
+[PuzzleId "pCQqC"]
+[Themes "crushing endgame short skewer"]
 
-45. Re7+ { Skewer! The rook skewers the king and rook. }
-45... Kd4 46. Rxe2 *
+37... Rg1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Ke2 Rxb1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "6"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/4b3/4p3/4Pp2/5P1p/4K2P/8/6R1 b - - 5 50"]
-[LichessURL "https://lichess.org/aaJdDquf#99"]
-[PuzzleId "jfacq"]
-[Themes "crushing endgame short skewer"]
+[FEN "8/2R5/1p1p4/p2Pk1p1/2P5/1P4K1/P3r3/8 w - - 1 45"]
+[LichessURL "https://lichess.org/0Ac55JWk/black#88"]
+[PuzzleId "X4tUT"]
+[Themes "crushing endgame master rookEndgame short skewer"]
 
-50... Bc5+ { Skewer! The bishop skewers the king and rook. }
-51. Kf3 Bxg1 *
+45. Re7+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 45... Kd4 46. Rxe2 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1R6/3p4/1p1k2r1/1P6/8/2K5 w - - 2 46"]
-[LichessURL "https://lichess.org/uHAfQJrY/black#90"]
-[PuzzleId "ZA3Tc"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "8/1p3pkp/p7/5P2/P3N3/1r1P4/3K3R/8 b - - 1 41"]
+[LichessURL "https://lichess.org/64IHFkXH#81"]
+[PuzzleId "hI1iT"]
+[Themes "advantage endgame master short skewer"]
 
-46. Rxb4+ { Skewer! The rook skewers the king and rook. }
-46... Kd3 47. Rxg4 *
+41... Rb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 42. Ke3 Rxh2 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p4r1/p2Bp3/2P5/8/8/5P2/1R2K3 b - - 5 37"]
-[LichessURL "https://lichess.org/sSYzZPo2#73"]
-[PuzzleId "pCQqC"]
-[Themes "crushing endgame short skewer"]
+[FEN "4R3/2pkP3/8/pp1r4/8/P1K5/1P6/8 w - - 1 47"]
+[LichessURL "https://lichess.org/1ODzXZIn/black#92"]
+[PuzzleId "8f9Ig"]
+[Themes "crushing endgame master rookEndgame short skewer"]
 
-37... Rg1+ { Skewer! The rook skewers the king and rook. }
-38. Ke2 Rxb1 *
+47. Rd8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 47... Kxe7 48. Rxd5 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "9"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4R3/2pkP3/8/pp1r4/8/P1K5/1P6/8 w - - 1 47"]
-[LichessURL "https://lichess.org/1ODzXZIn/black#92"]
-[PuzzleId "8f9Ig"]
-[Themes "crushing endgame master rookEndgame short skewer"]
+[FEN "rr4k1/p1p2ppp/2p5/4P3/5P2/2P1PP2/R6P/4K2R b K - 2 17"]
+[LichessURL "https://lichess.org/nvT6JjeY#33"]
+[PuzzleId "NFj5F"]
+[Themes "crushing endgame rookEndgame short skewer"]
 
-47. Rd8+ { Skewer! The rook skewers the king and rook. }
-47... Kxe7 48. Rxd5 *
+17... Rb1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 18. Ke2 Rxh1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "10"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rr4k1/p1p2ppp/2p5/4P3/5P2/2P1PP2/R6P/4K2R b K - 2 17"]
-[LichessURL "https://lichess.org/nvT6JjeY#33"]
-[PuzzleId "NFj5F"]
+[FEN "3r1k2/5r2/pp1P3R/8/2P5/1P4PK/P7/8 w - - 0 42"]
+[LichessURL "https://lichess.org/uzyFmRn4/black#82"]
+[PuzzleId "bVT82"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-17... Rb1+ { Skewer! The rook skewers the king and rook. }
-18. Ke2 Rxh1 *
+42. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 42... Kg7 43. Rxd8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k2/5r2/pp1P3R/8/2P5/1P4PK/P7/8 w - - 0 42"]
-[LichessURL "https://lichess.org/uzyFmRn4/black#82"]
-[PuzzleId "bVT82"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "6k1/3b2p1/5pPp/4pP2/1p1pP1BP/1P1P4/r1P5/2K2R2 b - - 3 32"]
+[LichessURL "https://lichess.org/lS45pKeF#63"]
+[PuzzleId "UQesU"]
+[Themes "crushing endgame short skewer"]
 
-42. Rh8+ { Skewer! The rook skewers the king and rook. }
-42... Kg7 43. Rxd8 *
+32... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 33. Kd1 Bxf1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "12"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/3b2p1/5pPp/4pP2/1p1pP1BP/1P1P4/r1P5/2K2R2 b - - 3 32"]
-[LichessURL "https://lichess.org/lS45pKeF#63"]
-[PuzzleId "UQesU"]
-[Themes "crushing endgame short skewer"]
+[FEN "8/1r3k2/7R/1p3p2/1P3K1P/8/P7/1b6 w - - 3 54"]
+[LichessURL "https://lichess.org/GtcOlnkg/black#106"]
+[PuzzleId "8GXQ7"]
+[Themes "crushing endgame master short skewer"]
 
-32... Bc5+ { Skewer! The bishop skewers the king and rook. }
-33. Kd1 Bxf1 *
+54. Rh7+ { Skewer! The rook attacks the king, forcing it to move, then captures the bishop behind. } 54... Kg6 55. Rxb7 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "13"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r3k2/2p2p2/4p3/P7/5P1R/8/1P6/1K6 w - - 1 34"]
-[LichessURL "https://lichess.org/QsAxCISg/black#66"]
-[PuzzleId "CxeOP"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "6k1/p3p3/1p1pP3/1B1P2rP/P3P3/1R3K2/8/4b3 b - - 0 36"]
+[LichessURL "https://lichess.org/KH4yxuDS#71"]
+[PuzzleId "NDb7A"]
+[Themes "advantage endgame short skewer"]
 
-34. Rh8+ { Skewer! The rook skewers the king and rook. }
-34... Ke7 35. Rxb8 *
+36... Rg3+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 37. Ke2 Rxb3 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "14"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/pp4p1/2p4r/2P5/3PKP2/2P5/P7/4R3 b - - 4 43"]
-[LichessURL "https://lichess.org/lQxgsBwT#85"]
-[PuzzleId "id6aE"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "4R3/8/7p/1P4pP/2Pkbp2/8/3rBK2/8 w - - 5 39"]
+[LichessURL "https://lichess.org/Ix4JA8cX/black#76"]
+[PuzzleId "IsVaJ"]
+[Themes "crushing endgame short skewer"]
 
-43... Re6+ { Skewer! The rook skewers the king and rook. }
-44. Kd3 Rxe1 *
+39. Rd8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 39... Kc5 40. Rxd2 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "15"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r2k3/5pp1/p3p3/6P1/8/5K2/1PP5/7R w - - 1 26"]
-[LichessURL "https://lichess.org/um6fy5ar/black#50"]
-[PuzzleId "tbBcM"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "8/7R/5kp1/2p5/5P2/6PK/2Pr2r1/1R6 b - - 0 33"]
+[LichessURL "https://lichess.org/KMNZPXBp#65"]
+[PuzzleId "wTIP9"]
+[Themes "advantage endgame rookEndgame short skewer"]
 
-26. Rh8+ { Skewer! The rook skewers the king and rook. }
-26... Kd7 27. Rxb8 *
+33... Rh2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34. Kg4 Rxh7 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "16"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/1p3pkp/p7/5P2/P3N3/1r1P4/3K3R/8 b - - 1 41"]
-[LichessURL "https://lichess.org/64IHFkXH#81"]
-[PuzzleId "hI1iT"]
-[Themes "advantage endgame master short skewer"]
+[FEN "8/6pk/4p2p/1Q1p4/1KpP4/P1P5/1P3r2/8 b - - 1 39"]
+[LichessURL "https://lichess.org/HdjXxVIp#77"]
+[PuzzleId "GpO0O"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
 
-41... Rb2+ { Skewer! The rook skewers the king and rook. }
-42. Ke3 Rxh2 *
+39... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "17"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/2R5/1p1p4/p2Pk1p1/2P5/1P4K1/P3r3/8 w - - 1 45"]
-[LichessURL "https://lichess.org/0Ac55JWk/black#88"]
-[PuzzleId "X4tUT"]
-[Themes "crushing endgame master rookEndgame short skewer"]
+[FEN "8/2pk4/6p1/2P5/7r/1P6/P4P2/2R2K2 b - - 1 29"]
+[LichessURL "https://lichess.org/g8v6rGRe#57"]
+[PuzzleId "W8lMN"]
+[Themes "crushing endgame rookEndgame short skewer"]
 
-45. Re7+ { Skewer! The rook skewers the king and rook. }
-45... Kd4 46. Rxe2 *
+29... Rh1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 30. Ke2 Rxc1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "18"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/4b3/4p3/4Pp2/5P1p/4K2P/8/6R1 b - - 5 50"]
-[LichessURL "https://lichess.org/aaJdDquf#99"]
-[PuzzleId "jfacq"]
-[Themes "crushing endgame short skewer"]
+[FEN "4k2r/r4ppp/p3p3/3n4/8/1P3P2/P4KPP/2R4R w k - 0 23"]
+[LichessURL "https://lichess.org/CeejdVKr/black#44"]
+[PuzzleId "fl9fk"]
+[Themes "advantage endgame short skewer"]
 
-50... Bc5+ { Skewer! The bishop skewers the king and rook. }
-51. Kf3 Bxg1 *
+23. Rc8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 23... Ke7 24. Rxh8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "19"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1R6/3p4/1p1k2r1/1P6/8/2K5 w - - 2 46"]
-[LichessURL "https://lichess.org/uHAfQJrY/black#90"]
-[PuzzleId "ZA3Tc"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "5Q2/8/2k4p/8/3p4/3P1K2/7P/q7 b - - 3 57"]
+[LichessURL "https://lichess.org/qibAUsP6#113"]
+[PuzzleId "dSxoV"]
+[Themes "crushing endgame master queenEndgame short skewer"]
 
-46. Rxb4+ { Skewer! The rook skewers the king and rook. }
-46... Kd3 47. Rxg4 *
+57... Qf1+ { Queen skewer! The queen attacks the king, forcing it to move, then captures the queen behind. } 58. Ke4 Qxf8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "20"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p4r1/p2Bp3/2P5/8/8/5P2/1R2K3 b - - 5 37"]
-[LichessURL "https://lichess.org/sSYzZPo2#73"]
-[PuzzleId "pCQqC"]
-[Themes "crushing endgame short skewer"]
+[FEN "8/6p1/8/8/r3k1p1/6K1/p7/5R2 w - - 2 63"]
+[LichessURL "https://lichess.org/Qr0jfyxi/black#124"]
+[PuzzleId "oJG8X"]
+[Themes "crushing endgame rookEndgame short skewer"]
 
-37... Rg1+ { Skewer! The rook skewers the king and rook. }
-38. Ke2 Rxb1 *
+63. Rf4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 63... Ke5 64. Rxa4 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "21"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4R3/2pkP3/8/pp1r4/8/P1K5/1P6/8 w - - 1 47"]
-[LichessURL "https://lichess.org/1ODzXZIn/black#92"]
-[PuzzleId "8f9Ig"]
-[Themes "crushing endgame master rookEndgame short skewer"]
+[FEN "2R5/4k3/5p2/3PbRp1/2K4p/7P/1r6/8 b - - 3 53"]
+[LichessURL "https://lichess.org/r5QATN3g#105"]
+[PuzzleId "GuyI1"]
+[Themes "crushing endgame short skewer"]
 
-47. Rd8+ { Skewer! The rook skewers the king and rook. }
-47... Kxe7 48. Rxd5 *
+53... Rc2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 54. Kd3 Rxc8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "22"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rr4k1/p1p2ppp/2p5/4P3/5P2/2P1PP2/R6P/4K2R b K - 2 17"]
-[LichessURL "https://lichess.org/nvT6JjeY#33"]
-[PuzzleId "NFj5F"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "8/1r6/7P/8/8/5k2/8/5BK1 w - - 1 75"]
+[LichessURL "https://lichess.org/47yNXokP/black#148"]
+[PuzzleId "6wYzF"]
+[Themes "crushing endgame master short skewer"]
 
-17... Rb1+ { Skewer! The rook skewers the king and rook. }
-18. Ke2 Rxh1 *
+75. Bg2+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 75... Ke2 76. Bxb7 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "23"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k2/5r2/pp1P3R/8/2P5/1P4PK/P7/8 w - - 0 42"]
-[LichessURL "https://lichess.org/uzyFmRn4/black#82"]
-[PuzzleId "bVT82"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "8/8/2N3p1/3p4/1P4kp/2PP4/r7/2K4R b - - 1 37"]
+[LichessURL "https://lichess.org/dDqiSuR0#73"]
+[PuzzleId "dSFky"]
+[Themes "crushing endgame short skewer"]
 
-42. Rh8+ { Skewer! The rook skewers the king and rook. }
-42... Kg7 43. Rxd8 *
+37... Ra1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Kd2 Rxh1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "24"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/3b2p1/5pPp/4pP2/1p1pP1BP/1P1P4/r1P5/2K2R2 b - - 3 32"]
-[LichessURL "https://lichess.org/lS45pKeF#63"]
-[PuzzleId "UQesU"]
-[Themes "crushing endgame short skewer"]
+[FEN "4r3/R2K4/p3P1kp/4B3/1b6/7P/6P1/8 b - - 3 65"]
+[LichessURL "https://lichess.org/J6SoWOaM#129"]
+[PuzzleId "HrwES"]
+[Themes "advantage endgame short skewer"]
 
-32... Bc5+ { Skewer! The bishop skewers the king and rook. }
-33. Kd1 Bxf1 *
+65... Re7+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 66. Kc6 Rxa7 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "25"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r3k2/2p2p2/4p3/P7/5P1R/8/1P6/1K6 w - - 1 34"]
-[LichessURL "https://lichess.org/QsAxCISg/black#66"]
-[PuzzleId "CxeOP"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "8/6pk/4p2p/1Q1p4/1KpP4/P1P5/1P3r2/8 b - - 1 39"]
+[LichessURL "https://lichess.org/HdjXxVIp#77"]
+[PuzzleId "GpO0O"]
+[Themes "crushing endgame queenRookEndgame short skewer"]
 
-34. Rh8+ { Skewer! The rook skewers the king and rook. }
-34... Ke7 35. Rxb8 *
+39... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "26"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/pp4p1/2p4r/2P5/3PKP2/2P5/P7/4R3 b - - 4 43"]
-[LichessURL "https://lichess.org/lQxgsBwT#85"]
-[PuzzleId "id6aE"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "7Q/p2k4/5K2/P7/6q1/8/5P2/8 b - - 1 64"]
+[LichessURL "https://lichess.org/amIbwWTQ#127"]
+[PuzzleId "9s7u7"]
+[Themes "crushing endgame queenEndgame short skewer"]
 
-43... Re6+ { Skewer! The rook skewers the king and rook. }
-44. Kd3 Rxe1 *
+64... Qd4+ { Queen skewer! The queen attacks the king, forcing it to move, then captures the queen behind. } 65. Kf5 Qxh8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "27"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r2k3/5pp1/p3p3/6P1/8/5K2/1PP5/7R w - - 1 26"]
-[LichessURL "https://lichess.org/um6fy5ar/black#50"]
-[PuzzleId "tbBcM"]
-[Themes "crushing endgame rookEndgame short skewer"]
+[FEN "4k1r1/p1R2p1p/1p4b1/3p4/P7/4P3/3N2PP/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/dqrvs0hm/black#56"]
+[PuzzleId "jrLJC"]
+[Themes "crushing endgame short skewer"]
 
-26. Rh8+ { Skewer! The rook skewers the king and rook. }
-26... Kd7 27. Rxb8 *
+29. Rc8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 29... Kd7 30. Rxg8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "28"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/1p3pkp/p7/5P2/P3N3/1r1P4/3K3R/8 b - - 1 41"]
-[LichessURL "https://lichess.org/64IHFkXH#81"]
-[PuzzleId "hI1iT"]
-[Themes "advantage endgame master short skewer"]
+[FEN "2r3k1/1p4p1/4pp2/r2p1n2/5P2/2N4R/PpP5/1K5R w - - 4 34"]
+[LichessURL "https://lichess.org/MxWBHbat/black#66"]
+[PuzzleId "PtM9o"]
+[Themes "advantage endgame short skewer"]
 
-41... Rb2+ { Skewer! The rook skewers the king and rook. }
-42. Ke3 Rxh2 *
+34. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Kf7 35. Rxc8 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "29"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/2R5/1p1p4/p2Pk1p1/2P5/1P4K1/P3r3/8 w - - 1 45"]
-[LichessURL "https://lichess.org/0Ac55JWk/black#88"]
-[PuzzleId "X4tUT"]
-[Themes "crushing endgame master rookEndgame short skewer"]
+[FEN "1k6/8/1p3q2/pP2b3/4P3/6P1/2pQ2KP/4R3 b - - 1 46"]
+[LichessURL "https://lichess.org/cidAD4mr#91"]
+[PuzzleId "plURX"]
+[Themes "advantage endgame short skewer"]
 
-45. Re7+ { Skewer! The rook skewers the king and rook. }
-45... Kd4 46. Rxe2 *
+46... Bc3 { Bishop skewer! The bishop attacks the queen, forcing it to move, then captures the rook behind. } 47. Qxc2 Bxe1 *
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "30"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/4b3/4p3/4Pp2/5P1p/4K2P/8/6R1 b - - 5 50"]
-[LichessURL "https://lichess.org/aaJdDquf#99"]
-[PuzzleId "jfacq"]
+[FEN "2b1r2k/2p3p1/1p4qp/p1pP1p2/7Q/2P2B2/PP3PPP/R5K1 w - - 0 24"]
+[LichessURL "https://lichess.org/lEYTT6QZ/black#46"]
+[PuzzleId "p1lc5"]
 [Themes "crushing endgame short skewer"]
 
-50... Bc5+ { Skewer! The bishop skewers the king and rook. }
-51. Kf3 Bxg1 *
+24. Bh5 { Bishop skewer! The bishop attacks the queen, forcing it to move, then captures the rook behind. } 24... Qd6 25. Bxe8 *

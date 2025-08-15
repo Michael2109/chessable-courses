@@ -1,7 +1,7 @@
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -16,14 +16,13 @@
 This section focuses on Knight forks (15), pawn forks (10).
 
 Build core habits and quick recognition by checking forcing moves first.
-}
-51... Rxf1+ 52. Qxf1 Rxf1+ *
-
+}}
+51... Rxf1+ { Fork! The rook check forks the king and queen, winning material. } 52. Qxf1 Rxf1+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "5"]
+[Round "2"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -33,13 +32,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "d3mUL"]
 [Themes "crushing endgame fork short"]
 
-29. Rd8+ Qxd8 30. Rxd8+ *
-
+29. Rd8+ { Fork! The rook check forks the king and queen, winning material. } 29... Qxd8 30. Rxd8+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "3"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -49,13 +47,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wK5sc"]
 [Themes "crushing endgame fork short"]
 
-66. Nf6+ Ke7 67. Nxg8+ *
-
+66. Nf6+ { Fork! The knight check forks the king and rook, winning material. } 66... Ke7 67. Nxg8+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "4"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -65,13 +62,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "piREI"]
 [Themes "crushing endgame fork short"]
 
-50. Ne6+ Ke7 51. Nxg5 *
-
+50. Ne6+ { Fork! The knight check forks the king and rook, winning material. } 50... Ke7 51. Nxg5 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "5"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -81,13 +77,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "YXRiP"]
 [Themes "bishopEndgame crushing endgame fork short"]
 
-31. d6+ Bxd6 32. cxd6+ *
-
+31. d6+ { Fork! The pawn check forks the king and bishop, winning material. } 31... Bxd6 32. cxd6+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "6"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -97,15 +92,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "6BGbP"]
 [Themes "advantage endgame fork short"]
 
-28. Ne7+ Kf7 29. Nxc8 *
-
+28. Ne7+ { Fork! The knight check forks the king and rook, winning material. } 28... Kf7 29. Nxc8 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
-[White "Opponent"]
-[Black "You"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
 [FEN "8/3n4/3k1ppp/4p3/B1K1P2P/5PP1/8/8 b - - 6 56"]
@@ -113,13 +107,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wmJSz"]
 [Themes "crushing endgame fork short"]
 
-56... Nb6+ 57. Kd3 Nxa4 *
-
+56... Nb6+ { Fork! The knight check forks the king and bishop, winning material. } 57. Kd3 Nxa4 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "21"]
+[Round "8"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -129,13 +122,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "QvJyQ"]
 [Themes "advantage endgame fork short"]
 
-34. Nd5+ Kd6 35. Nxf6 *
-
+34. Nd5+ { Fork! The knight check forks the king and bishop, winning material. } 34... Kd6 35. Nxf6 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "23"]
+[Round "9"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -145,13 +137,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "DDrcr"]
 [Themes "crushing endgame fork short"]
 
-47. Re6+ Qxe6 48. Qxe6+ *
-
+47. Re6+ { Fork! The rook check forks the king and queen, winning material. } 47... Qxe6 48. Qxe6+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "10"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -161,13 +152,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "RVtAp"]
 [Themes "crushing endgame fork short"]
 
-45. Nd8+ Ke7 46. Nxb7 *
-
+45. Nd8+ { Fork! The knight check forks the king and rook, winning material. } 45... Ke7 46. Nxb7 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "27"]
+[Round "11"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -177,13 +167,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "LW7gS"]
 [Themes "crushing endgame fork short"]
 
-49. Rf6+ Kg7 50. Rxd6 *
-
+49. Rf6+ { Fork! The rook check forks the king and knight, winning material. } 49... Kg7 50. Rxd6 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "29"]
+[Round "12"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -193,13 +182,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "t6CH2"]
 [Themes "crushing endgame fork short"]
 
-50. Be7+ Kc6 51. Bxf8 *
-
+50. Be7+ { Fork! The bishop check forks the king and rook, winning material. } 50... Kc6 51. Bxf8 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "32"]
+[Round "13"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -209,13 +197,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "m7jDj"]
 [Themes "advantage fork middlegame short"]
 
-15... Qxd4+ 16. Be3 Qxe3+ *
-
+15... Qxd4+ { Fork! The queen check forks the king and bishop, winning material. } 16. Be3 Qxe3+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "40"]
+[Round "14"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -225,13 +212,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Kfyns"]
 [Themes "crushing endgame fork master short"]
 
-56... Nd5+ 57. Ke4 Nxf6+ *
-
+56... Nd5+ { Fork! The knight check forks the king and queen, winning material. } 57. Ke4 Nxf6+ *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "45"]
+[Round "15"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -241,13 +227,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "fh1Fm"]
 [Themes "advantage fork master middlegame short"]
 
-17. Qxe6+ Qxe6 18. Rxe6 *
-
+17. Qxe6+ { Fork! The queen check forks the king and queen, winning material. } 17... Qxe6 18. Rxe6 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "52"]
+[Round "16"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -257,13 +242,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "J09uD"]
 [Themes "advantage endgame fork long"]
 
-21... Rxd1+ 22. Bxd1 Re1+ 23. Kf2 Rxd1 *
-
+21... Rxd1+ { Fork! The rook check forks the king and rook, winning material. } 22. Bxd1 Re1+ 23. Kf2 Rxd1 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "54"]
+[Round "17"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -273,13 +257,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7Yl9C"]
 [Themes "advantage fork middlegame short"]
 
-24... Bc5+ 25. Qxc5 Rxc5 *
-
+24... Bc5+ { Fork! The bishop check forks the king and queen, winning material. } 25. Qxc5 Rxc5 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "55"]
+[Round "18"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -289,13 +272,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "2yzXe"]
 [Themes "advantage endgame fork long"]
 
-18. Rxg8+ Nxg8 19. Re8+ Nd8 20. Rxg8 *
-
+18. Rxg8+ { Fork! The rook check forks the king and knight, winning material. } 18... Nxg8 19. Re8+ Nd8 20. Rxg8 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "58"]
+[Round "19"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -305,13 +287,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xDjcw"]
 [Themes "advantage endgame fork short"]
 
-46... Rxf6+ 47. Qxf6+ Kxf6 *
-
+46... Rxf6+ { Fork! The rook check forks the king and queen, winning material. } 47. Qxf6+ Kxf6 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "59"]
+[Round "20"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -321,15 +302,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "W0BUi"]
 [Themes "advancedPawn crushing endgame fork short"]
 
-27. g7+ Qxg7 28. Rxg7 *
-
+27. g7+ { Fork! The pawn check forks the king and queen, winning material. } 27... Qxg7 28. Rxg7 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "61"]
-[White "You"]
-[Black "Opponent"]
+[Round "21"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
 [FEN "5rk1/5pp1/Q2P3p/B1pN1q2/p4P2/r3b2P/6P1/7K w - - 0 32"]
@@ -337,13 +317,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "3uX0x"]
 [Themes "advantage defensiveMove fork long middlegame"]
 
-32. Ne7+ Kh7 33. Nxf5 Ra1+ 34. Kh2 *
-
+32. Ne7+ { Fork! The knight check forks the king and queen, winning material. } 32... Kh7 33. Nxf5 Ra1+ 34. Kh2 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "62"]
+[Round "22"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -353,13 +332,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "lpj0g"]
 [Themes "advantage endgame fork master short"]
 
-27... Qf5+ 28. Kc1 Qxe6 *
-
+27... Qf5+ { Fork! The queen check forks the king and knight, winning material. } 28. Kc1 Qxe6 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "63"]
+[Round "23"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -369,13 +347,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "UTl9C"]
 [Themes "crushing fork middlegame short"]
 
-25. Nf5+ Kh7 26. Nxh4 *
-
+25. Nf5+ { Fork! The knight check forks the king and queen, winning material. } 25... Kh7 26. Nxh4 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "68"]
+[Round "24"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -385,13 +362,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "QqwHC"]
 [Themes "advantage endgame fork short"]
 
-26... Re2+ 27. Kf1 Rxc2 *
-
+26... Re2+ { Fork! The rook check forks the king and bishop, winning material. } 27. Kf1 Rxc2 *
 
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "69"]
+[Round "25"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -401,4 +377,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Uc1Tt"]
 [Themes "advantage fork long middlegame"]
 
-15. Bxe4 Nxe4 16. Qd5+ Rf7 17. Qxe4 *
+15. Bxe4 { Fork! The bishop move forks the knight and queen, winning material. } 15... Nxe4 16. Qd5+ Rf7 17. Qxe4 *

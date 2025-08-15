@@ -1,7 +1,7 @@
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -16,14 +16,13 @@
 This section focuses on One-move captures, undefended pieces.
 
 Build core habits and quick recognition by checking forcing moves first.
-}
-38... Bxe3+ 39. Kf1 Bxd2 *
+}}
+38... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 39. Kf1 Bxd2 *
 
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "2"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -33,14 +32,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gI7gR"]
 [Themes "crushing endgame hangingPiece master short"]
 
-51. fxe5 Kb4 52. e6 *
+51. fxe5 { Free piece! The queen on e5 is undefended and can be captured for free. } 51... Kb4 52. e6 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "23"]
+[Round "3"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -50,34 +47,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "u4EHA"]
 [Themes "crushing endgame hangingPiece master short"]
 
-58. Bxe6 g1=Q+ 59. Kxg1 *
+58. Bxe6 { Free piece! The knight on e6 is undefended and can be captured for free. } 58... g1=Q+ 59. Kxg1 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "29"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r3k2r/1p1qpp1p/6p1/p2P4/1b1QP3/8/P4PPP/2R2KNR w kq - 0 16"]
-[LichessURL "https://lichess.org/dEGicMvL/black#30"]
-[PuzzleId "5b2vZ"]
-[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
-
-{ Theme: Back Rank Mate. Plan: keep the enemy king boxed in by its own pawns, deflect or remove the last defender, and land a rook or queen on the back rank to give mate. Watch how each move opens lines, restricts escape squares, or forces concessions that make the final back-rank mate inevitable. }
-16. Qxh8#
-{ Back rank mate! The king is trapped by its own pawns and has no escape squares. }
-*
-
-
-
-[Event "Basics 2: Free Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "33"]
+[Round "4"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -87,82 +62,42 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GatFx"]
 [Themes "crushing endgame hangingPiece knightEndgame master short"]
 
-49. Nxe5 c4 50. Nxc4 *
+49. Nxe5 { Free piece! The pawn on e5 is undefended and can be captured for free. } 49... c4 50. Nxc4 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "38"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5r2/5p1k/4pPpR/2qpP3/2r5/2pQ4/PP4PP/5R1K b - - 0 27"]
-[LichessURL "https://lichess.org/vApOa5El#53"]
-[PuzzleId "hRw3P"]
-[Themes "advantage endgame hangingPiece short"]
-
-27... Kxh6 28. Qh3+ Kg5 *
-
-
-
-[Event "Basics 2: Free Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "48"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/1N6/2kP4/5p2/p1p3p1/P1P3K1/8/8 b - - 2 56"]
-[LichessURL "https://lichess.org/gXN8qSWs#111"]
-[PuzzleId "ECFrj"]
-[Themes "crushing endgame hangingPiece long"]
-
-56... Kxb7 57. d7 Kc7 58. d8=R Kxd8 *
-
-
-
-[Event "Basics 2: Free Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "49"]
+[Round "5"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5P2/8/8/6K1/3k3P/pB6/2q5 w - - 0 55"]
-[LichessURL "https://lichess.org/qoUiUgUN/black#108"]
-[PuzzleId "wsIme"]
-[Themes "advancedPawn crushing endgame hangingPiece master promotion short"]
+[FEN "r1b1kb1r/pp1ppppp/5n2/q2N4/4P3/8/PPnB1PPP/R2QKB1R w KQkq - 0 8"]
+[LichessURL "https://lichess.org/tQzAaCK7/black#14"]
+[PuzzleId "VRKPc"]
+[Themes "advantage hangingPiece opening short"]
 
-55. Bxc1 a1=Q 56. f8=Q *
+8. Qxc2 { Free piece! The knight on c2 is undefended and can be captured for free. } 8... Qxd5 9. exd5 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "52"]
+[Round "6"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3N4/1pk2P2/p6p/8/5KP1/7P/8 b - - 0 38"]
-[LichessURL "https://lichess.org/aWEGVIOR#75"]
-[PuzzleId "3yoYO"]
-[Themes "crushing endgame hangingPiece long"]
+[FEN "r4r2/1R2p1bk/p4nRp/2PqNp2/Q2P1B2/7P/P4PP1/6K1 b - - 4 24"]
+[LichessURL "https://lichess.org/XdCOVmHG#47"]
+[PuzzleId "btPUz"]
+[Themes "advantage hangingPiece middlegame short"]
 
-38... Kxd7 39. f7 Ke7 40. f8=Q+ Kxf8 *
+24... Qxb7 { Free piece! The rook on b7 is undefended and can be captured for free. } 25. Rxg7+ Kxg7 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "57"]
+[Round "7"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -172,16 +107,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GJCmm"]
 [Themes "advantage hangingPiece middlegame short"]
 
-18. Rxd7 Nxe3 19. fxe3 *
+18. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "59"]
-[White "You"]
-[Black "Opponent"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
 [FEN "r4rk1/pppq1ppp/2B5/3p4/3P4/4B3/P4PPP/R2n1RK1 w - - 0 15"]
@@ -189,14 +122,27 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xIxZe"]
 [Themes "advantage hangingPiece middlegame short"]
 
-15. Bxd7 Nxe3 16. fxe3 *
+15. Bxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 15... Nxe3 16. fxe3 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "60"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/6qk/pp2b2p/4b2P/6Q1/P4P1K/6R1 w - - 0 34"]
+[LichessURL "https://lichess.org/cGQsRo0Z/black#66"]
+[PuzzleId "EWvXq"]
+[Themes "crushing endgame hangingPiece master short"]
+
+34. Qxe5 { Free piece! The bishop on e5 is undefended and can be captured for free. } 34... Qf7 35. Qxe4 *
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -206,14 +152,87 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HuatU"]
 [Themes "advantage endgame hangingPiece short"]
 
-33... Rxe8 34. Qxd6 Nxd6 *
+33... Rxe8 { Free piece! The rook on e8 is undefended and can be captured for free. } 34. Qxd6 Nxd6 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "64"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/3p4/2p4k/1p3P1p/1P6/P1Q2bP1/4rB1K b - - 6 52"]
+[LichessURL "https://lichess.org/k2Bczm7Q#103"]
+[PuzzleId "293f1"]
+[Themes "endgame hangingPiece long mate mateIn3"]
+
+52... Kxh6 { Free piece! The pawn on h6 is undefended and can be captured for free. } 53. Qh3+ Kg5 *
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1N6/2kP4/5p2/p1p3p1/P1P3K1/8/8 b - - 2 56"]
+[LichessURL "https://lichess.org/gXN8qSWs#111"]
+[PuzzleId "ECFrj"]
+[Themes "crushing endgame hangingPiece long"]
+
+56... Kxb7 { Free piece! The knight on b7 is undefended and can be captured for free. } 57. d7 Kc7 58. d8=R Kxd8 *
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5P2/8/8/6K1/3k3P/pB6/2q5 w - - 0 55"]
+[LichessURL "https://lichess.org/qoUiUgUN/black#108"]
+[PuzzleId "wsIme"]
+[Themes "advancedPawn crushing endgame hangingPiece master promotion short"]
+
+55. Bxc1 { Free piece! The queen on c1 is undefended and can be captured for free. } 55... a1=Q 56. f8=Q *
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3N4/1pk2P2/p6p/8/5KP1/7P/8 b - - 0 38"]
+[LichessURL "https://lichess.org/aWEGVIOR#75"]
+[PuzzleId "3yoYO"]
+[Themes "crushing endgame hangingPiece long"]
+
+38... Kxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 39. f7 Ke7 40. f8=Q+ Kxf8 *
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1p1n1pbp/6p1/5n2/8/3RB3/PPP2PPP/2K2B1R w - - 2 18"]
+[LichessURL "https://lichess.org/8haeLtxr/black#34"]
+[PuzzleId "GJCmm"]
+[Themes "advantage hangingPiece middlegame short"]
+
+18. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -223,14 +242,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HMKOQ"]
 [Themes "advantage endgame hangingPiece short"]
 
-25... Qxf1+ 26. Qg1 Qxg1+ *
+25... Qxf1+ { Free piece! The rook on f1 is undefended and can be captured for free. } 26. Qg1 Qxg1+ *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "65"]
+[Round "17"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -240,14 +257,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "NG37h"]
 [Themes "crushing endgame hangingPiece short"]
 
-61. Kxe6 Kf3 62. Kf5 *
+61. Kxe6 { Free piece! The bishop on e6 is undefended and can be captured for free. } 61... Kf3 62. Kf5 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "66"]
+[Round "18"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -257,13 +272,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "9MxU5"]
 [Themes "advantage hangingPiece long middlegame"]
 
-26... Bxe3+ 27. Kh1 Rxb8 28. Bxb8+ Kxb8 *
+26... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 27. Kh1 Rxb8 28. Bxb8+ Kxb8 *
 
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "67"]
+[Round "19"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -273,14 +287,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "mXav4"]
 [Themes "advantage hangingPiece middlegame short"]
 
-32. Qxd4 Rxe2 33. Rxe2 *
+32. Qxd4 { Free piece! The knight on d4 is undefended and can be captured for free. } 32... Rxe2 33. Rxe2 *
 
-
-
-[Event "Basics 2: Free Pieces"]
+[Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "68"]
+[Round "20"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -290,55 +302,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "dHAvL"]
 [Themes "crushing endgame hangingPiece short"]
 
-33... Bxb2 34. Ra8+ Kf7 *
-
-
-
-[Event "Basics 2: Free Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "69"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r2k1r2/pp1b2pp/8/3BN3/8/3n4/PP4PP/R3KR2 w Q - 2 17"]
-[LichessURL "https://lichess.org/Y3G04I48/black#32"]
-[PuzzleId "24ciA"]
-[Themes "advantage hangingPiece middlegame short"]
-
-17. Nxd3 Rxf1+ 18. Kxf1 *
-
-
-
-[Event "Basics 2: Free Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "70"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/p3k3/1p1Rp3/5pPp/4pK2/8/PP2P3/8 b - - 0 37"]
-[LichessURL "https://lichess.org/xeX3x3BI#73"]
-[PuzzleId "Cl2j0"]
-[Themes "crushing endgame hangingPiece veryLong"]
-
-37... Kxd6 38. g6 Ke7 39. g7 Kf7 40. g8=Q+ Kxg8 *
-
-
-
-[Event "Basics 2: Free Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "54"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/7p/3p4/2p4k/1p3P1p/1P6/P1Q2bP1/4rB1K b - - 6 52"]
-[LichessURL "https://lichess.org/k2Bczm7Q#103"]
-[PuzzleId "293f1"]
-[Themes "endgame hangingPiece long mate mateIn3"]
-
-52... Rxf1+ 53. Kh2 Bg3+ 54. Kh3 Rh1# *
+33... Bxb2 { Free piece! The rook on b2 is undefended and can be captured for free. } 34. Ra8+ Kf7 *
