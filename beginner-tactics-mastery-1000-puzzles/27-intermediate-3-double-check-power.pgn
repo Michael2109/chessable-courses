@@ -60,7 +60,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing deflection discoveredAttack endgame short"]
 
 1. Bxf5+ { Double check! The bishop delivers a discovered attack. }
-3... Kb8 28. Rxd8+ *
+1... Kb8 2. Rxd8+ *
 
 
 
@@ -104,7 +104,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage deflection discoveredAttack endgame short"]
 
 1. Nf6+ { Double check! The knight delivers a discovered attack. }
-3... Rxf6 28. Rxe8+ *
+1... Rxf6 2. Rxe8+ *
 
 
 

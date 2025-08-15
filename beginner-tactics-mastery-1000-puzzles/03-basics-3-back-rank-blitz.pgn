@@ -126,7 +126,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 
 1. Qh8+ { The queen sacrifices herself to open up the back rank for the rook. }
-3... Kxh8 22. Rf8+ Rxf8 23. Rxf8# *
+1... Kxh8 2. Rf8+ Rxf8 3. Rxf8# *
 
 
 

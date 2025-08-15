@@ -48,27 +48,6 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "3"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1b2r1k/1p5n/4p2Q/p2pqp2/7R/3B4/PPP2PPP/R5K1 w - - 0 22"]
-[LichessURL "https://lichess.org/eKmd1zW5/black#42"]
-[PuzzleId "MNWxx"]
-[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
-
-1. Qxf8# { Pin to the king! The rook on f8 is pinned to the king and cannot move, allowing checkmate. } *
-
-
-
-
-
-
-
-[Event "Patterns 1: Pins to the King"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
 [Round "4"]
 [White "You"]
 [Black "Opponent"]

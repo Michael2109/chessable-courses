@@ -248,7 +248,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rc1+ { Queen+knight pattern! The rook check forces the king to move, then mate follows. } 45. Rd1 Rxd1# *
+1... Rc1+ { Queen+knight pattern! The rook check forces the king to move, then mate follows. } 2. Rd1 Rxd1# *
 
 
 
@@ -269,7 +269,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Ra1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 48. Rb1 Rxb1# *
+1... Ra1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 2. Rb1 Rxb1# *
 
 
 

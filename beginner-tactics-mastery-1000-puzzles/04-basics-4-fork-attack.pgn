@@ -426,27 +426,6 @@ Build core habits and quick recognition by checking forcing moves first.}
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "21"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5rk1/5pp1/Q2P3p/B1pN1q2/p4P2/r3b2P/6P1/7K w - - 0 32"]
-[LichessURL "https://lichess.org/8kOyjapn/black#62"]
-[PuzzleId "3uX0x"]
-[Themes "advantage defensiveMove fork long middlegame"]
-
-1. Ne7+ { Fork! The knight check forks the king and queen, winning material. } 1... Kh7 2. Nxf5 Ra1+ 3. Kh2 *
-
-
-
-
-
-
-
-[Event "Basics 4: Fork Attack!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
 [Round "22"]
 [White "Opponent"]
 [Black "You"]

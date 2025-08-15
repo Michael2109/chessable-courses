@@ -17,13 +17,7 @@ This section focuses on One-move captures, undefended pieces.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 39. Kf1 Bxd2 *
-
-
-
-
-
-
+1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 2. Kf1 Bxd2 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -38,13 +32,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gI7gR"]
 [Themes "crushing endgame hangingPiece master short"]
 
-1. fxe5 { Free piece! The queen on e5 is undefended and can be captured for free. } 51... Kb4 52. e6 *
-
-
-
-
-
-
+1. fxe5 { Free piece! The queen on e5 is undefended and can be captured for free. } 1... Kb4 2. e6 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -59,13 +47,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "u4EHA"]
 [Themes "crushing endgame hangingPiece master short"]
 
-1. Bxe6 { Free piece! The knight on e6 is undefended and can be captured for free. } 58... g1=Q+ 59. Kxg1 *
-
-
-
-
-
-
+1. Bxe6 { Free piece! The knight on e6 is undefended and can be captured for free. } 1... g1=Q+ 2. Kxg1 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -80,13 +62,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GatFx"]
 [Themes "crushing endgame hangingPiece knightEndgame master short"]
 
-1. Nxe5 { Free piece! The pawn on e5 is undefended and can be captured for free. } 49... c4 50. Nxc4 *
-
-
-
-
-
-
+1. Nxe5 { Free piece! The pawn on e5 is undefended and can be captured for free. } 1... c4 2. Nxc4 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -98,16 +74,10 @@ Build core habits and quick recognition by checking forcing moves first.
 [SetUp "1"]
 [FEN "r1b1kb1r/pp1ppppp/5n2/q2N4/4P3/8/PPnB1PPP/R2QKB1R w KQkq - 0 8"]
 [LichessURL "https://lichess.org/tQzAaCK7/black#14"]
-[PuzzleId "VRKPc"]
-[Themes "advantage hangingPiece opening short"]
+[PuzzleId "QzAaC"]
+[Themes "advantage fork hangingPiece middlegame opening short"]
 
-1. Qxc2 { Free piece! The knight on c2 is undefended and can be captured for free. } 8... Qxd5 9. exd5 *
-
-
-
-
-
-
+1. Qxc2 { Free piece! The knight on c2 is undefended and can be captured for free. } 1... Qxd5 2. exd5 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -117,18 +87,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4r2/1R2p1bk/p4nRp/2PqNp2/Q2P1B2/7P/P4PP1/6K1 b - - 4 24"]
-[LichessURL "https://lichess.org/XdCOVmHG#47"]
-[PuzzleId "btPUz"]
-[Themes "advantage hangingPiece middlegame short"]
+[FEN "r1bq1rk1/ppp2ppp/2n5/2bpP3/8/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 8"]
+[LichessURL "https://lichess.org/8J06BdOD#15"]
+[PuzzleId "8J06B"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Qxb7 { Free piece! The rook on b7 is undefended and can be captured for free. } 25. Rxg7+ Kxg7 *
-
-
-
-
-
-
+1... Qxb7 { Free piece! The rook on b7 is undefended and can be captured for free. } 2. Rxg7+ Kxg7 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -138,39 +102,27 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r2rk1/1p1n1pbp/6p1/5n2/8/3RB3/PPP2PPP/2K2B1R w - - 2 18"]
-[LichessURL "https://lichess.org/8haeLtxr/black#34"]
-[PuzzleId "GJCmm"]
-[Themes "advantage hangingPiece middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/FKRajpkc/black#8"]
+[PuzzleId "FKRaj"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
-
-
-
-
-
-
+1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 1... Nxe3 2. fxe3 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4rk1/pppq1ppp/2B5/3p4/3P4/4B3/P4PPP/R2n1RK1 w - - 0 15"]
-[LichessURL "https://lichess.org/493n4dYO/black#28"]
-[PuzzleId "xIxZe"]
-[Themes "advantage hangingPiece middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/8J06BdOD/black#8"]
+[PuzzleId "8J06B"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Bxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 15... Nxe3 16. fxe3 *
-
-
-
-
-
-
+1. Bxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 1... Nxe3 2. fxe3 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -180,18 +132,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6p1/6qk/pp2b2p/4b2P/6Q1/P4P1K/6R1 w - - 0 34"]
-[LichessURL "https://lichess.org/cGQsRo0Z/black#66"]
-[PuzzleId "EWvXq"]
-[Themes "crushing endgame hangingPiece master short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/kXKfEjOj/black#8"]
+[PuzzleId "kXKfE"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Qxe5 { Free piece! The bishop on e5 is undefended and can be captured for free. } 34... Qf7 35. Qxe4 *
-
-
-
-
-
-
+1. Qxe5 { Free piece! The bishop on e5 is undefended and can be captured for free. } 1... Qf7 2. Qxe4 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -201,39 +147,27 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3rR1k1/5np1/p2q2Qp/1pRp4/2pP4/2P2P2/PP4P1/6K1 b - - 1 33"]
-[LichessURL "https://lichess.org/QkqdPaMC#65"]
-[PuzzleId "HuatU"]
-[Themes "advantage endgame hangingPiece short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/GEAVqeED#8"]
+[PuzzleId "GEAVq"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Rxe8 { Free piece! The rook on e8 is undefended and can be captured for free. } 34. Qxd6 Nxd6 *
-
-
-
-
-
-
+1... Rxe8 { Free piece! The rook on e8 is undefended and can be captured for free. } 2. Qxd6 Nxd6 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/7p/3p4/2p4k/1p3P1p/1P6/P1Q2bP1/4rB1K b - - 6 52"]
-[LichessURL "https://lichess.org/k2Bczm7Q#103"]
-[PuzzleId "293f1"]
-[Themes "endgame hangingPiece long mate mateIn3"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/8J06BdOD#8"]
+[PuzzleId "8J06B"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Kxh6 { Free piece! The pawn on h6 is undefended and can be captured for free. } 53. Qh3+ Kg5 *
-
-
-
-
-
-
+1... Kxh6 { Free piece! The pawn on h6 is undefended and can be captured for free. } 2. Qh3+ Kg5 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -243,18 +177,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/1N6/2kP4/5p2/p1p3p1/P1P3K1/8/8 b - - 2 56"]
-[LichessURL "https://lichess.org/gXN8qSWs#111"]
-[PuzzleId "ECFrj"]
-[Themes "crushing endgame hangingPiece long"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/FKRajpkc#8"]
+[PuzzleId "FKRaj"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Kxb7 { Free piece! The knight on b7 is undefended and can be captured for free. } 57. d7 Kc7 58. d8=R Kxd8 *
-
-
-
-
-
-
+1... Kxb7 { Free piece! The knight on b7 is undefended and can be captured for free. } 2. d7 Kc7 3. d8=R Kxd8 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -264,18 +192,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5P2/8/8/6K1/3k3P/pB6/2q5 w - - 0 55"]
-[LichessURL "https://lichess.org/qoUiUgUN/black#108"]
-[PuzzleId "wsIme"]
-[Themes "advancedPawn crushing endgame hangingPiece master promotion short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/kXKfEjOj/black#8"]
+[PuzzleId "kXKfE"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Bxc1 { Free piece! The queen on c1 is undefended and can be captured for free. } 55... a1=Q 56. f8=Q *
-
-
-
-
-
-
+1. Bxc1 { Free piece! The queen on c1 is undefended and can be captured for free. } 1... a1=Q 2. f8=Q *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -285,18 +207,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3N4/1pk2P2/p6p/8/5KP1/7P/8 b - - 0 38"]
-[LichessURL "https://lichess.org/aWEGVIOR#75"]
-[PuzzleId "3yoYO"]
-[Themes "crushing endgame hangingPiece long"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/8J06BdOD#8"]
+[PuzzleId "8J06B"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Kxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 39. f7 Ke7 40. f8=Q+ Kxf8 *
-
-
-
-
-
-
+1... Kxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 2. f7 Ke7 3. f8=Q+ Kxf8 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -306,18 +222,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r2rk1/1p1n1pbp/6p1/5n2/8/3RB3/PPP2PPP/2K2B1R w - - 2 18"]
-[LichessURL "https://lichess.org/8haeLtxr/black#34"]
-[PuzzleId "GJCmm"]
-[Themes "advantage hangingPiece middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/FKRajpkc/black#8"]
+[PuzzleId "FKRaj"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
-
-
-
-
-
-
+1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 1... Nxe3 2. fxe3 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -327,18 +237,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/4pp1p/pB4p1/3P4/P1q2P2/4Q3/6PP/5R1K b - - 0 25"]
-[LichessURL "https://lichess.org/iSaE5tJl#49"]
-[PuzzleId "HMKOQ"]
-[Themes "advantage endgame hangingPiece short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/kXKfEjOj#8"]
+[PuzzleId "kXKfE"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Qxf1+ { Free piece! The rook on f1 is undefended and can be captured for free. } 26. Qg1 Qxg1+ *
-
-
-
-
-
-
+1... Qxf1+ { Free piece! The rook on f1 is undefended and can be captured for free. } 2. Qg1 Qxg1+ *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -348,18 +252,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/3Bn3/5Kp1/6P1/8/6k1/8 w - - 10 61"]
-[LichessURL "https://lichess.org/ZWbjMzU1/black#120"]
-[PuzzleId "NG37h"]
-[Themes "crushing endgame hangingPiece short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/8J06BdOD/black#8"]
+[PuzzleId "8J06B"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Kxe6 { Free piece! The bishop on e6 is undefended and can be captured for free. } 61... Kf3 62. Kf5 *
-
-
-
-
-
-
+1. Kxe6 { Free piece! The bishop on e6 is undefended and can be captured for free. } 1... Kf3 2. Kf5 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -369,18 +267,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1Rr5/k4b2/2p1n2p/P1b1B1p1/4P3/P3NP2/2P3PP/5RK1 b - - 4 26"]
-[LichessURL "https://lichess.org/HRDHuvfe#51"]
-[PuzzleId "9MxU5"]
-[Themes "advantage hangingPiece long middlegame"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/FKRajpkc#8"]
+[PuzzleId "FKRaj"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 27. Kh1 Rxb8 28. Bxb8+ Kxb8 *
-
-
-
-
-
-
+1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 2. Kh1 Rxb8 3. Bxb8+ Kxb8 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -390,18 +282,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r1k1/5pp1/4r2p/1p6/1P1n1B2/6Pq/1Q2RP1P/4R1K1 w - - 1 32"]
-[LichessURL "https://lichess.org/SmNezHti/black#62"]
-[PuzzleId "mXav4"]
-[Themes "advantage hangingPiece middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
+[LichessURL "https://lichess.org/kXKfEjOj/black#8"]
+[PuzzleId "kXKfE"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1. Qxd4 { Free piece! The knight on d4 is undefended and can be captured for free. } 32... Rxe2 33. Rxe2 *
-
-
-
-
-
-
+1. Qxd4 { Free piece! The knight on d4 is undefended and can be captured for free. } 1... Rxe2 2. Rxe2 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -411,9 +297,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/R5pp/P2r1b2/r7/8/3p1NP1/1R3PKP/8 b - - 1 33"]
-[LichessURL "https://lichess.org/TiXV3kzj#65"]
-[PuzzleId "dHAvL"]
-[Themes "crushing endgame hangingPiece short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
+[LichessURL "https://lichess.org/8J06BdOD#8"]
+[PuzzleId "8J06B"]
+[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Bxb2 { Free piece! The rook on b2 is undefended and can be captured for free. } 34. Ra8+ Kf7 *
+1... Bxb2 { Free piece! The rook on b2 is undefended and can be captured for free. } 2. Ra8+ Kf7 *

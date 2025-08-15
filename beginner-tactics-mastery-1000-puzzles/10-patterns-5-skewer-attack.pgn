@@ -17,7 +17,7 @@ This section focuses on Bishop skewers (15), rook/queen skewers (15).
 
 A skewer is when you attack a valuable piece, forcing it to move, and then capture a less valuable piece behind it. It's like a pin in reverse!
 }
-1. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Ke7 35. Rxb8 *
+1. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 1... Ke7 2. Rxb8 *
 
 
 
@@ -38,7 +38,7 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "id6aE"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-1... Re6+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 44. Kd3 Rxe1 *
+1... Re6+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 2. Kd3 Rxe1 *
 
 
 
@@ -59,7 +59,7 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "jfacq"]
 [Themes "crushing endgame short skewer"]
 
-1... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 51. Kf3 Bxg1 *
+1... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 2. Kf3 Bxg1 *
 
 
 
@@ -80,7 +80,7 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "ZA3Tc"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-1. Rxb4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 46... Kd3 47. Rxg4 *
+1. Rxb4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 1... Kd3 2. Rxg4 *
 
 
 
@@ -101,7 +101,7 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "pCQqC"]
 [Themes "crushing endgame short skewer"]
 
-1... Rg1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Ke2 Rxb1 *
+1... Rg1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 2. Ke2 Rxb1 *
 
 
 
