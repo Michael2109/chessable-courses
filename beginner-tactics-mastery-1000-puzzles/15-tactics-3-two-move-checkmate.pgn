@@ -56,13 +56,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "1b3rk1/1b3pp1/p2qpn1p/1pN5/1P1Pp3/P3P2P/1B2QPP1/1BR3K1 b - - 5 21"]
+[LichessURL "https://lichess.org/5mUG9fsQ#41"]
+[PuzzleId "nBzhA"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
 
-1. Rxf8+ { A forcing check that leads to back rank mate! }
-1... Qd8 2. Rxd8# *
+1... Qh2+ { A forcing check that leads to mate! } 2. Kf1 3. Qh1# *
 
 
 
@@ -78,13 +77,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "6k1/p3bpp1/2pq3p/8/1p6/1P2Q3/5PPP/1RBN2K1 b - - 0 27"]
+[LichessURL "https://lichess.org/QjueHhBY#53"]
+[PuzzleId "rT9pf"]
+[Themes "endgame mate mateIn2 short"]
 
-1... Ra1+ { A forcing check that leads to back rank mate! }
-2. Rb1 Rxb1# *
+1... Qxd1+ { A forcing check that leads to mate! } 2. Qe1 3. Qxe1# *
 
 
 

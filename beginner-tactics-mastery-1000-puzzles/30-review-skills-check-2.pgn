@@ -17,8 +17,7 @@ This section focuses on All tactics so far combined.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rd8+ { Skills check! Combining multiple tactics. }
-3... Re8 30. Rxe8# *
+1. Rd8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
 
 
 
@@ -56,13 +55,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "6k1/R1p1r1pp/1p6/1n2N3/3P4/8/6PP/6K1 w - - 1 29"]
+[LichessURL "https://lichess.org/Q94ydhMa/black#56"]
+[PuzzleId "pWOMi"]
+[Themes "endgame mate mateIn2 short"]
 
-1. Rxf8+ { Skills check! Combining multiple tactics. }
-3... Qd8 23. Rxd8# *
+1. Ra8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
 
 
 
@@ -78,13 +76,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "2r3k1/5ppp/R3p3/3p4/3Pn3/5NB1/5PPP/2R3K1 b - - 0 26"]
+[LichessURL "https://lichess.org/s2RzNSO8#51"]
+[PuzzleId "jwwhR"]
+[Themes "endgame mate mateIn2 short"]
 
-1... Ra1+ { Skills check! Combining multiple tactics. }
-2. Rb1 48. Rxb1# *
+1... Rxc1+ { Skills check! Combining multiple tactics. } 2. Ne1 3. Rxe1# *
 
 
 
@@ -105,8 +102,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rb8+ { Skills check! Combining multiple tactics. }
-3... Ne8 37. Rxe8# *
+1. Rb8+ { Skills check! Combining multiple tactics. } 1... Ne8 2. Rxe8# *
 
 
 
@@ -127,8 +123,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rd8+ { Skills check! Combining multiple tactics. }
-2... Re8 30. Rxe8# *
+1... Rd8+ { Skills check! Combining multiple tactics. } 2. Re8 3. Rxe8# *
 
 
 
@@ -149,8 +144,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-1. Rc1+ { Skills check! Combining multiple tactics. }
-3... Rd1 45. Rxd1# *
+1. Rc1+ { Skills check! Combining multiple tactics. } 1... Rd1 2. Rxd1# *
 
 
 
@@ -166,13 +160,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K b - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "3r2k1/pp3ppp/8/8/4r3/2P4P/PPqR1PP1/R5K1 w - - 0 27"]
+[LichessURL "https://lichess.org/X1fo6nHG/black#52"]
+[PuzzleId "gClHv"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
 
-1... Rxf8+ { Skills check! Combining multiple tactics. }
-2... Qd8 23. Rxd8# *
+1. Rxd8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
 
 
 
@@ -188,13 +181,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K w - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "r7/8/3RR3/5p2/1k1p4/3P2pP/2P3P1/6K1 b - - 2 49"]
+[LichessURL "https://lichess.org/3CHnIYrg#97"]
+[PuzzleId "ww7tp"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
 
-1. Ra1+ { Skills check! Combining multiple tactics. }
-3... Rb1 48. Rxb1# *
+1... Ra1+ { Skills check! Combining multiple tactics. } 2. Re1 3. Rxe1# *
 
 
 
@@ -215,8 +207,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rb8+ { Skills check! Combining multiple tactics. }
-2... Ne8 37. Rxe8# *
+1... Rb8+ { Skills check! Combining multiple tactics. } 2. Ne8 3. Rxe8# *
 
 
 
@@ -237,8 +228,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-1. Rd8+ { Skills check! Combining multiple tactics. }
-3... Re8 30. Rxe8# *
+1. Rd8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
 
 
 
@@ -276,13 +266,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "r2r2k1/5ppp/3Q4/2p1P3/8/4qP2/1P4PP/3R1K2 w - - 0 31"]
+[LichessURL "https://lichess.org/ovhR5m8j/black#60"]
+[PuzzleId "6eGks"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rxf8+ { Skills check! Combining multiple tactics. }
-3... Qd8 23. Rxd8# *
+1. Qxd8+ { Skills check! Combining multiple tactics. } 1... Rxd8 2. Rxd8# *
 
 
 

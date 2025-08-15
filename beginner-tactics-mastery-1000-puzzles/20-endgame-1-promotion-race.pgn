@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/7P/7K w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example1"]
-[Themes "endgame promotion short"]
+[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
+[LichessURL "https://lichess.org/gdol97AU/black#118"]
+[PuzzleId "c2Qdj"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
 
 {Endgame 1: Promotion Race!
 
@@ -17,13 +17,7 @@ This section focuses on Who promotes first? Counting tempos.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. h4 { Start the race! Every tempo counts in pawn endgames. } *
-
-
-
-
-
-
+1. f8=Q# { Promotion race won! Your pawn promotes to a queen with checkmate. The knight on d6 can't stop the promotion. } *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -33,18 +27,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/6p1/6k1 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example2"]
-[Themes "endgame promotion short"]
+[FEN "8/8/3P4/8/2PK4/5p2/4k3/8 b - - 0 60"]
+[LichessURL "https://lichess.org/zMi7a63K#119"]
+[PuzzleId "IQhQI"]
+[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion short"]
 
-1... g2 { Your pawn is closer to promotion! } *
-
-
-
-
-
-
+1... f2 { Your pawn is closer to promotion! } 2. d7 f1=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -54,18 +42,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/5P2/5K2 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example3"]
-[Themes "endgame promotion short"]
+[FEN "8/8/8/1P5p/2K3pP/8/7k/8 w - - 1 54"]
+[LichessURL "https://lichess.org/QSYrEzkH/black#106"]
+[PuzzleId "BZdlg"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1. f3 { Control the center and advance! } *
-
-
-
-
-
-
+1. b6 { Your pawn is closer to promotion! } 1... Kh1 2. b7 g3 3. b8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -75,18 +57,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/4p3/4k3 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example4"]
-[Themes "endgame promotion short"]
+[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
+[LichessURL "https://lichess.org/3cY276LH#93"]
+[PuzzleId "QTxwg"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... e2 { Your pawn is one step ahead! } *
-
-
-
-
-
-
+1... a4 { Your pawn is closer to promotion! } 2. h5 a3 3. h6 a2 4. h7 a1=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -96,18 +72,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/3P4/3K4 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example5"]
-[Themes "endgame promotion short"]
+[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
+[LichessURL "https://lichess.org/q6a998e4/black#126"]
+[PuzzleId "2Vebh"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
 
-1. d3 { Advance with tempo! } *
-
-
-
-
-
-
+1. g7 { Your pawn is closer to promotion! } 1... Nd5 2. g8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -117,18 +87,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/3p4/3k4 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example6"]
-[Themes "endgame promotion short"]
+[FEN "8/8/6K1/p7/7P/1k6/8/8 b - - 2 53"]
+[LichessURL "https://lichess.org/u6ToCOVX#105"]
+[PuzzleId "d2iuX"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... d2 { Your pawn is closer! } *
-
-
-
-
-
-
+1... a4 { Your pawn is closer to promotion! } 2. h5 a3 3. h6 a2 4. Kf7 a1=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -138,18 +102,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/2P5/2K5 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example7"]
-[Themes "endgame promotion short"]
+[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
+[PuzzleId "tyQKY"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. c3 { Control the center! } *
-
-
-
-
-
-
+1. a5 { Your pawn is closer to promotion! } 1... Kh4 2. a6 g4 3. a7 g3 4. a8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -159,18 +117,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/2p5/2k5 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example8"]
-[Themes "endgame promotion short"]
+[FEN "2r3k1/2r2pbp/p2Rp1p1/8/4PP2/1P4P1/Pp2Q2P/1K1R4 b - - 3 25"]
+[LichessURL "https://lichess.org/5BAAD41s#49"]
+[PuzzleId "Pumc0"]
+[Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
 
-1... c2 { Your pawn is ahead! } *
-
-
-
-
-
-
+1... Rc1+ { Your pawn is closer to promotion! } 2. Rxc1 bxc1=Q# *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -180,18 +132,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/1P6/1K6 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example9"]
-[Themes "endgame promotion short"]
+[FEN "8/4K3/5P2/8/p7/1k6/8/8 w - - 1 50"]
+[LichessURL "https://lichess.org/vuE4Ja8s/black#98"]
+[PuzzleId "baL97"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
 
-1. b3 { Advance with purpose! } *
-
-
-
-
-
-
+1. f7 { Your pawn is closer to promotion! } 1... Kb2 2. f8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -201,18 +147,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/1p6/1k6 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example10"]
-[Themes "endgame promotion short"]
+[FEN "8/8/6K1/7P/1pk3p1/6P1/5P2/8 b - - 1 45"]
+[LichessURL "https://lichess.org/7ma2m8bA#89"]
+[PuzzleId "xjPbB"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1... b2 { Your pawn is closer! } *
-
-
-
-
-
-
+1... b3 { Your pawn is closer to promotion! } 2. h6 b2 3. h7 b1=Q+ *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -222,18 +162,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/P7/K7 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example11"]
-[Themes "endgame promotion short"]
+[FEN "8/5p2/K7/1P5p/7p/6k1/8/8 w - - 0 54"]
+[LichessURL "https://lichess.org/vQhHh9Df/black#106"]
+[PuzzleId "qT432"]
+[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-1. a3 { Start the race! } *
-
-
-
-
-
-
+1. b6 { Your pawn is closer to promotion! } 1... h3 2. b7 h2 3. b8=Q+ *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -243,18 +177,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/p7/k7 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example12"]
-[Themes "endgame promotion short"]
+[FEN "8/8/2K5/7p/1P3k2/8/8/8 b - - 1 58"]
+[LichessURL "https://lichess.org/xe2DfiLJ#115"]
+[PuzzleId "WIYYh"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... a2 { Your pawn is ahead! } *
-
-
-
-
-
-
+1... h4 { Your pawn is closer to promotion! } 2. b5 h3 3. Kc7 h2 4. b6 h1=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -264,18 +192,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/6P1/6K1 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example13"]
-[Themes "endgame promotion short"]
+[FEN "8/8/8/p2PKpk1/8/6p1/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/wesg785b/black#104"]
+[PuzzleId "cN3m4"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1. g3 { Control the kingside! } *
-
-
-
-
-
-
+1. d6 { Your pawn is closer to promotion! } 1... a4 2. d7 g2 3. d8=Q+ *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -285,18 +207,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/6p1/6k1 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example14"]
-[Themes "endgame promotion short"]
+[FEN "r4rk1/p1p3pp/b1p5/2bPP3/3N4/2P5/PP1Qp1PP/RN3R1K b - - 0 18"]
+[LichessURL "https://lichess.org/KzA9cdUd#35"]
+[PuzzleId "PZn9y"]
+[Themes "advancedPawn kingsideAttack mate mateIn1 middlegame oneMove promotion"]
 
-1... g2 { Your pawn is closer! } *
-
-
-
-
-
-
+1... exf1=Q# { Your pawn is closer to promotion! } *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -306,18 +222,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/7P1/7K1 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example15"]
-[Themes "endgame promotion short"]
+[FEN "8/8/2K5/3p3P/4k3/8/8/8 w - - 1 48"]
+[LichessURL "https://lichess.org/14bDW25N/black#94"]
+[PuzzleId "Ta85e"]
+[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1. h3 { Advance with tempo! } *
-
-
-
-
-
-
+1. h6 { Your pawn is closer to promotion! } 1... d4 2. h7 d3 3. h8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -327,18 +237,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/7p1/7k1 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example16"]
-[Themes "endgame promotion short"]
+[FEN "8/8/8/8/6p1/3N1p2/5K1k/8 b - - 3 67"]
+[LichessURL "https://lichess.org/DUA4KAoD#133"]
+[PuzzleId "ObTyd"]
+[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
 
-1... h2 { Your pawn is ahead! } *
-
-
-
-
-
-
+1... g3+ { Your pawn is closer to promotion! } 2. Kxf3 g2 3. Nc1 g1=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -348,18 +252,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/5P2/5K2 w - - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example17"]
-[Themes "endgame promotion short"]
+[FEN "4K3/8/4kP2/8/8/5n2/8/8 w - - 1 55"]
+[LichessURL "https://lichess.org/2YdeompE/black#108"]
+[PuzzleId "mq8JV"]
+[Themes "advancedPawn crushing endgame knightEndgame master masterVsMaster promotion short"]
 
-1. f3 { Control the center! } *
-
-
-
-
-
-
+1. f7 { Your pawn is closer to promotion! } 1... Ne5 2. f8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -369,18 +267,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/5p2/5k2 b - - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example18"]
-[Themes "endgame promotion short"]
+[FEN "8/8/8/1K3k1p/PP6/8/8/8 b - - 0 68"]
+[LichessURL "https://lichess.org/2zR59bn7#135"]
+[PuzzleId "OFtsR"]
+[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... f2 { Your pawn is closer! } *
-
-
-
-
-
-
+1... h4 { Your pawn is closer to promotion! } 2. a5 h3 3. a6 h2 4. a7 h1=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -390,18 +282,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/4P3/4K3 w - - 0 1"]
+[FEN "8/8/8/8/1K3k1P/8/8/8 w - - 1 72"]
 [LichessURL "https://lichess.org/example/black#1"]
 [PuzzleId "example19"]
 [Themes "endgame promotion short"]
 
-1. e3 { Advance with purpose! } *
-
-
-
-
-
-
+1. h5 { Your pawn is closer to promotion! } 1... Ke5 2. h6 Kf6 3. h7 Kg7 4. h8=Q *
 
 [Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
@@ -411,9 +297,9 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/8/8/4p3/4k3 b - - 0 1"]
+[FEN "8/8/8/8/8/1K3k1p/8/8 b - - 1 76"]
 [LichessURL "https://lichess.org/example#1"]
 [PuzzleId "example20"]
 [Themes "endgame promotion short"]
 
-1... e2 { Your pawn is ahead! } *
+1... h2 { Your pawn is closer to promotion! } 2. Kc2 h1=Q *

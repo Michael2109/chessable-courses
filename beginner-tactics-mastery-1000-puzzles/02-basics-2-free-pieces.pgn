@@ -102,27 +102,27 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/FKRajpkc/black#8"]
-[PuzzleId "FKRaj"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "r1b1r1k1/ppq2p1p/1np2ppB/8/2n2P2/8/PPB1Q1PP/3R1RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/HZLtfhLb/black#34"]
+[PuzzleId "YMjtG"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 1... Nxe3 2. fxe3 *
+1. Qxe8# { Free piece! The rook on e8 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/8J06BdOD/black#8"]
-[PuzzleId "8J06B"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "r7/ppkn2pp/2pb4/q4b2/3P3Q/5B2/PP3PPP/R1B1R1K1 b - - 4 16"]
+[LichessURL "https://lichess.org/QH26wtaS#31"]
+[PuzzleId "pOn8P"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Bxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 1... Nxe3 2. fxe3 *
+1... Qxe1# { Free piece! The rook on e1 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -132,12 +132,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/kXKfEjOj/black#8"]
-[PuzzleId "kXKfE"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "r1b1r1k1/ppp2ppp/3p2q1/3P4/2P5/3nQ1P1/P2B1PBP/R4RK1 w - - 0 17"]
+[LichessURL "https://lichess.org/8QNGwytV/black#32"]
+[PuzzleId "DbkyF"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Qxe5 { Free piece! The bishop on e5 is undefended and can be captured for free. } 1... Qf7 2. Qxe4 *
+1. Qxe8# { Free piece! The rook on e8 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -147,27 +147,27 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/GEAVqeED#8"]
-[PuzzleId "GEAVq"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "4rk2/pp3p1p/2b3p1/2p5/6Q1/2P5/PP3P1P/4R1K1 b - - 0 25"]
+[LichessURL "https://lichess.org/43VsGK0I#49"]
+[PuzzleId "JzASt"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Rxe8 { Free piece! The rook on e8 is undefended and can be captured for free. } 2. Qxd6 Nxd6 *
+1... Rxe1# { Free piece! The rook on e1 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/8J06BdOD#8"]
-[PuzzleId "8J06B"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "Q6q/p7/1p2p1pk/5n1p/1P3P2/P6P/2r1n1PK/8 w - - 0 47"]
+[LichessURL "https://lichess.org/B1znbCQp/black#92"]
+[PuzzleId "m85Fo"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Kxh6 { Free piece! The pawn on h6 is undefended and can be captured for free. } 2. Qh3+ Kg5 *
+1. Qxh8# { Free piece! The queen on h8 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -177,12 +177,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/FKRajpkc#8"]
-[PuzzleId "FKRaj"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "6k1/1p1n2np/1q6/p2pPrp1/2pP2Q1/2P5/PPN3PP/2B2R1K b - - 1 31"]
+[LichessURL "https://lichess.org/m1xcviyf#61"]
+[PuzzleId "c6xCr"]
+[Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
 
-1... Kxb7 { Free piece! The knight on b7 is undefended and can be captured for free. } 2. d7 Kc7 3. d8=R Kxd8 *
+1... Rxf1# { Free piece! The rook on f1 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -192,12 +192,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/kXKfEjOj/black#8"]
-[PuzzleId "kXKfE"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "4r2k/p5pp/3B1p2/8/Q7/1P1qb1KP/P4PP1/4r3 w - - 0 42"]
+[LichessURL "https://lichess.org/scwMwSi1/black#82"]
+[PuzzleId "VnWn2"]
+[Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove"]
 
-1. Bxc1 { Free piece! The queen on c1 is undefended and can be captured for free. } 1... a1=Q 2. f8=Q *
+1. Qxe8# { Free piece! The rook on e8 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -207,12 +207,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/8J06BdOD#8"]
-[PuzzleId "8J06B"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "5bk1/p5np/1p4p1/5pB1/8/5Q2/2P2PPP/3rN1K1 b - - 0 33"]
+[LichessURL "https://lichess.org/mZtJrYvk#65"]
+[PuzzleId "zw6mS"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Kxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 2. f7 Ke7 3. f8=Q+ Kxf8 *
+1... Rxe1# { Free piece! The knight on e1 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -222,12 +222,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/FKRajpkc/black#8"]
-[PuzzleId "FKRaj"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "rnb4k/p3q1pp/8/5p1n/3P4/PP6/4BPPP/2R1K2R w K - 0 23"]
+[LichessURL "https://lichess.org/lVSaZKpZ/black#44"]
+[PuzzleId "t98fJ"]
+[Themes "backRankMate hangingPiece mate mateIn2 middlegame short"]
 
-1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 1... Nxe3 2. fxe3 *
+1. Rxc8+ { Free piece! The rook on c8 is undefended and can be captured. } 1... Qd8 2. Rxd8# { Checkmate! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -237,12 +237,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/kXKfEjOj#8"]
-[PuzzleId "kXKfE"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "5rk1/5r1p/p5p1/1p2p3/8/2P4R/PP4PP/5R1K b - - 1 26"]
+[LichessURL "https://lichess.org/YImX1MEN#51"]
+[PuzzleId "CcSzC"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
 
-1... Qxf1+ { Free piece! The rook on f1 is undefended and can be captured for free. } 2. Qg1 Qxg1+ *
+1... Rxf1# { Free piece! The rook on f1 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -252,12 +252,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/8J06BdOD/black#8"]
-[PuzzleId "8J06B"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "4q2k/5Qp1/p5Pr/1p5p/8/8/PP3PPK/8 w - - 0 37"]
+[LichessURL "https://lichess.org/B5ykvXRO/black#72"]
+[PuzzleId "z1pQr"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-1. Kxe6 { Free piece! The bishop on e6 is undefended and can be captured for free. } 1... Kf3 2. Kf5 *
+1. Qxe8# { Free piece! The queen on e8 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -267,12 +267,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/FKRajpkc#8"]
-[PuzzleId "FKRaj"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "1r1r2k1/pp3pp1/7p/2p5/4Pb2/5P2/PPP3PP/1K1R1B1R b - - 1 18"]
+[LichessURL "https://lichess.org/t9dY8kVn#35"]
+[PuzzleId "gFLyt"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 2. Kh1 Rxb8 3. Bxb8+ Kxb8 *
+1... Rxd1# { Free piece! The rook on d1 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -282,12 +282,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5"]
-[LichessURL "https://lichess.org/kXKfEjOj/black#8"]
-[PuzzleId "kXKfE"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "1r4k1/2p2ppp/8/8/2p1P3/2P1r3/1R4PP/2R3K1 w - - 0 26"]
+[LichessURL "https://lichess.org/GtakGNfl/black#50"]
+[PuzzleId "HsnWP"]
+[Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove rookEndgame"]
 
-1. Qxd4 { Free piece! The knight on d4 is undefended and can be captured for free. } 1... Rxe2 2. Rxe2 *
+1. Rxb8# { Free piece! The rook on b8 is undefended and can be captured for checkmate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -297,9 +297,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 0 5"]
-[LichessURL "https://lichess.org/8J06BdOD#8"]
-[PuzzleId "8J06B"]
-[Themes "advantage hangingPiece middlegame opening short"]
+[FEN "8/3k4/3P3p/4P2P/1P3P2/6p1/4b1P1/3rR1K1 b - - 0 45"]
+[LichessURL "https://lichess.org/ndwiafNZ#89"]
+[PuzzleId "5W94z"]
+[Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-1... Bxb2 { Free piece! The rook on b2 is undefended and can be captured for free. } 2. Ra8+ Kf7 *
+1... Rxe1# { Free piece! The rook on e1 is undefended and can be captured for checkmate. } *

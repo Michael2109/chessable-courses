@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r1k/p1p3pp/1pn5/4p3/1P2P3/2P2R2/P3q1PP/R6K w - - 0 23"]
-[LichessURL "https://lichess.org/t921Riyq/black#44"]
-[PuzzleId "F4tRS"]
-[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[FEN "2k1r3/1pp4p/1r4p1/p2Rn3/7B/b2R4/P1P3PP/K7 w - - 0 27"]
+[LichessURL "https://lichess.org/S5fAQjNE/black#52"]
+[PuzzleId "0iCwz"]
+[Themes "mate mateIn2 middlegame queensideAttack short"]
 
 {Patterns 2: Checkmate Patterns
 
@@ -17,7 +17,7 @@ This section focuses on Queen+knight, rook+bishop patterns.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rxf8# { Classic back rank mate! The rook delivers checkmate while the king is trapped by its own pawns. }
+1. Rd8+ { Queen+knight pattern! The rook infiltrates the back rank, then mate follows. } 1... Rxd8 2. Rxd8# *
 
 
 
@@ -96,12 +96,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
-[LichessURL "https://lichess.org/hDibIiAO/black#54"]
-[PuzzleId "92Oqp"]
-[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[FEN "2Q5/6pk/7p/3p4/2R1bP2/6PP/5P2/r2R2K1 b - - 0 39"]
+[LichessURL "https://lichess.org/7c7LsZz6#77"]
+[PuzzleId "Tw7vK"]
+[Themes "endgame mate mateIn2 short"]
 
-1. Rxd8# { Back rank mate! The rook captures the defender and delivers checkmate. }
+1... Rxd1+ { Queen+knight pattern! The rook infiltrates the back rank, then mate follows. } 2. Kh2 3. Rh1# *
 
 
 
@@ -264,12 +264,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "8/p2P2pk/7p/5R2/8/8/Pr4PP/7K b - - 0 30"]
+[LichessURL "https://lichess.org/HTTWlAZA#59"]
+[PuzzleId "qk6P3"]
+[Themes "endgame mate mateIn2 short"]
 
-1... Ra1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 2. Rb1 Rxb1# *
+1... Rb1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 2. Rc1 Rxc1# *
 
 
 
@@ -495,12 +495,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4r1k/2R3pp/4P1p1/3N4/pP1Q1PPb/P6P/7K/5q2 w - - 0 30"]
-[LichessURL "https://lichess.org/m0N2K95g/black#58"]
-[PuzzleId "SbNfk"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "4r2k/2qb2pp/n1p5/5p2/p2P1b2/PpPB1N1P/1P2QP2/1N1KR3 w - - 7 31"]
+[LichessURL "https://lichess.org/4jzkO98a/black#60"]
+[PuzzleId "3dQC1"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Qxg7# { Queen+knight pattern! The queen delivers checkmate with knight support. } *
+1. Qxe8+ { Queen+knight pattern! The queen infiltrates the back rank, then mate follows. } 1... Bxe8 2. Rxe8# *
 
 
 

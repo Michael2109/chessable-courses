@@ -185,13 +185,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "1k6/ppp5/8/4P3/8/1P4P1/PKPr1nq1/2R4R w - - 0 31"]
+[LichessURL "https://lichess.org/UXlUNuIV/black#60"]
+[PuzzleId "EFN7d"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rxf8+ { Infiltrates the back rank, tying down the king and threatening mate. }
-3... Qd8 23. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1. Rh8+ { Infiltrates the back rank, tying down the king and threatening mate. } 1... Rd8 2. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
 
 
 
@@ -207,13 +206,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "6k1/p3bpp1/2pq3p/8/1p6/1P2Q3/5PPP/1RBN2K1 b - - 0 27"]
+[LichessURL "https://lichess.org/QjueHhBY#53"]
+[PuzzleId "rT9pf"]
+[Themes "endgame mate mateIn2 short"]
 
-1... Ra1+ { Infiltrates the back rank, tying down the king and threatening mate. }
-2. Rb1 Rxb1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1... Qxd1+ { Infiltrates the back rank, tying down the king and threatening mate. } 2. Qe1 3. Qxe1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
 
 
 
@@ -229,12 +227,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
-[LichessURL "https://lichess.org/hDibIiAO/black#54"]
-[PuzzleId "92Oqp"]
-[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[FEN "5k2/p3pprb/2Q5/4bP2/1r1qP3/7R/P1P1KRP1/5B2 w - - 13 31"]
+[LichessURL "https://lichess.org/SLucwEnf/black#60"]
+[PuzzleId "xmGV2"]
+[Themes "mate mateIn2 middlegame short"]
 
-1. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1. Qc8+ { Back rank mate! The queen infiltrates the back rank, then mate follows. } 1... Qd8 2. Qxd8# *
 
 
 
