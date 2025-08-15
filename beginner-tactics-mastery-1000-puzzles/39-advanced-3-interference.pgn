@@ -11,14 +11,20 @@
 [PuzzleId "60cHo"]
 [Themes "advantage endgame fork interference short"]
 
-{{Advanced 3: Interference
+{Advanced 3: Interference
 
 This section focuses on Blocking Defensive Lines.
 
 Learn to recognize when interfering with your opponent's defensive coordination creates tactical opportunities. These moves often block communication between pieces or cut off defensive lines.
-}}
-32. Nf7+ { Knight interference! The knight blocks the king's escape. }
-32... Kg7 33. Nxg5 { Winning the rook with a fork! }
+}
+1. Nf7+ { Knight interference! The knight blocks the king's escape. }
+3... Kg7 33. Nxg5 { Winning the rook with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "Lm7Jr"]
 [Themes "crushing endgame fork interference short"]
 
-26... Nxf2+ { Knight interference! The knight blocks the king's defense. }
-27. Kg2 Nxg4 { Winning the rook with a fork! }
+1... Nxf2+ { Knight interference! The knight blocks the king's defense. }
+2. Kg2 Nxg4 { Winning the rook with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "JJJPL"]
 [Themes "crushing endgame interference master rookEndgame short"]
 
-43. Rh6+ { Rook interference! The rook blocks the king's escape. }
-43... Ke7 44. Rxh7+ { Winning the pawn with check! }
+1. Rh6+ { Rook interference! The rook blocks the king's escape. }
+3... Ke7 44. Rxh7+ { Winning the pawn with check! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "2yy6K"]
 [Themes "crushing fork interference middlegame short"]
 
-22... Nb3+ { Knight interference! The knight blocks the king's defense. }
-23. Kd1 Nxa1 { Winning the rook with a fork! }
+1... Nb3+ { Knight interference! The knight blocks the king's defense. }
+2. Kd1 Nxa1 { Winning the rook with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "FirDB"]
 [Themes "crushing endgame fork interference master masterVsMaster short"]
 
-27. Nd7+ { Knight interference! The knight blocks the king's escape. }
-27... Ke7 28. Nxe5 { Winning the queen with a fork! }
+1. Nd7+ { Knight interference! The knight blocks the king's escape. }
+3... Ke7 28. Nxe5 { Winning the queen with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "ZaWgo"]
 [Themes "crushing endgame interference rookEndgame short"]
 
-46... Ra3+ { Rook interference! The rook blocks the king's defense. }
-47. Kf2 Rxa2+ { Winning the pawn with check! }
+1... Ra3+ { Rook interference! The rook blocks the king's defense. }
+2. Kf2 Rxa2+ { Winning the pawn with check! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "k9dwn"]
 [Themes "crushing endgame interference short"]
 
-32. Qd8+ { Queen interference! The queen blocks the king's escape. }
-32... Kf7 33. Qxc7+ { Winning the rook with check! }
+1. Qd8+ { Queen interference! The queen blocks the king's escape. }
+3... Kf7 33. Qxc7+ { Winning the rook with check! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "PXbCP"]
 [Themes "crushing endgame interference rookEndgame short"]
 
-40... Ra4+ { Rook interference! The rook blocks the king's defense. }
-41. Ke5 Rxa5+ { Winning the pawn with check! }
+1... Ra4+ { Rook interference! The rook blocks the king's defense. }
+2. Ke5 Rxa5+ { Winning the pawn with check! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "wQj6s"]
 [Themes "crushing endgame fork interference short"]
 
-34. Nc6+ { Knight interference! The knight blocks the king's escape. }
-34... Ke8 35. Nxb8 { Winning the rook with a fork! }
+1. Nc6+ { Knight interference! The knight blocks the king's escape. }
+3... Ke8 35. Nxb8 { Winning the rook with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "aEFsd"]
 [Themes "crushing endgame interference rookEndgame short"]
 
-39... Rh4+ { Rook interference! The rook blocks the king's defense. }
-40. Kd3 Rxh3+ { Winning the pawn with check! }
+1... Rh4+ { Rook interference! The rook blocks the king's defense. }
+2. Kd3 Rxh3+ { Winning the pawn with check! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "TzTEr"]
 [Themes "crushing endgame interference rookEndgame short"]
 
-53. Rc4+ { Rook interference! The rook blocks the king's defense. }
-53... Kg5 54. Rxc5+ { Winning the pawn with check! }
+1. Rc4+ { Rook interference! The rook blocks the king's defense. }
+3... Kg5 54. Rxc5+ { Winning the pawn with check! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "KfaoJ"]
 [Themes "advantage fork interference middlegame short"]
 
-19... Nxf2+ { Knight interference! The knight blocks the king's defense. }
-20. Kg2 Nxg4 { Winning the queen with a fork! }
+1... Nxf2+ { Knight interference! The knight blocks the king's defense. }
+2. Kg2 Nxg4 { Winning the queen with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "lH4Dg"]
 [Themes "advantage fork interference middlegame short"]
 
-20. Nc6+ { Knight interference! The knight blocks the king's escape. }
-20... Kf8 21. Nxb8 { Winning the rook with a fork! }
+1. Nc6+ { Knight interference! The knight blocks the king's escape. }
+3... Kf8 21. Nxb8 { Winning the rook with a fork! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "WSv62"]
 [Themes "crushing endgame interference master short"]
 
-33... Rd1 { Rook interference! The rook blocks the king's defense. }
-34. Rb2 Rxe1 { Winning the bishop! }
+1... Rd1 { Rook interference! The rook blocks the king's defense. }
+2. Rb2 Rxe1 { Winning the bishop! }
+
+
+
+
+
+
 
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
@@ -241,5 +325,5 @@ Learn to recognize when interfering with your opponent's defensive coordination 
 [PuzzleId "gPyVt"]
 [Themes "advantage endgame fork interference short"]
 
-28. Nxc6+ { Knight interference! The knight blocks the king's escape. }
-28... Kd6 29. Nxb8 { Winning the queen with a fork! }
+1. Nxc6+ { Knight interference! The knight blocks the king's escape. }
+3... Kd6 29. Nxb8 { Winning the queen with a fork! }

@@ -11,14 +11,20 @@
 [PuzzleId "QrqhB"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-{{Advanced 4: Defense Master
+{Advanced 4: Defense Master
 
 This section focuses on Counter-Threats and Defensive Tactics.
 
 Learn to recognize defensive opportunities and counter-threats that can turn the tables. These puzzles teach you to defend actively and create your own threats when under pressure.
-}}
-53. a4 { Defensive counter-threat! Creating a passed pawn. }
-53... Kf2 54. a5 { The pawn advance creates winning chances. }
+}
+1. a4 { Defensive counter-threat! Creating a passed pawn. }
+3... Kf2 54. a5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "bYqhT"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-52... h5 { Defensive counter-threat! Creating a passed pawn. }
-53. a4 h4 { The pawn advance creates winning chances. }
+1... h5 { Defensive counter-threat! Creating a passed pawn. }
+2. a4 h4 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "UPrBD"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-53. a4 { Defensive counter-threat! Creating a passed pawn. }
-53... Kf2 54. a5 { The pawn advance creates winning chances. }
+1. a4 { Defensive counter-threat! Creating a passed pawn. }
+3... Kf2 54. a5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "hmIaq"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-58... Rd3 { Defensive pin! Blocking the queen's defense. }
-59. Kf4 Rxe3 { Winning the queen with the pin. }
+1... Rd3 { Defensive pin! Blocking the queen's defense. }
+2. Kf4 Rxe3 { Winning the queen with the pin. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "haY0a"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-62. b4 { Defensive counter-threat! Creating a passed pawn. }
-62... g5 63. b5 { The pawn advance creates winning chances. }
+1. b4 { Defensive counter-threat! Creating a passed pawn. }
+3... g5 63. b5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "xEBE4"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-70... f5 { Defensive counter-threat! Creating a passed pawn. }
-71. Kc3 f4 { The pawn advance creates winning chances. }
+1... f5 { Defensive counter-threat! Creating a passed pawn. }
+2. Kc3 f4 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "IHYtG"]
 [Themes "crushing defensiveMove endgame queenEndgame short"]
 
-48. Qxc4+ { Defensive exchange! Eliminating the threat. }
-48... Kxc4 49. h5 { The pawn advance creates winning chances. }
+1. Qxc4+ { Defensive exchange! Eliminating the threat. }
+3... Kxc4 49. h5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -129,9 +171,15 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "GIZHQ"]
 [Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
 
-71... Qxg4+ { Defensive exchange! Eliminating the threat. }
-72. Kxg4 a5 { The pawn advance creates winning chances. }
-73. Kf5 a4 { Creating a passed pawn. }
+1... Qxg4+ { Defensive exchange! Eliminating the threat. }
+2. Kxg4 a5 { The pawn advance creates winning chances. }
+4. Kf5 a4 { Creating a passed pawn. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -146,8 +194,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "BawTl"]
 [Themes "advantage defensiveMove endgame master masterVsMaster short"]
 
-44. Bxf1 { Defensive exchange! Eliminating the threat. }
-44... Nxf1 45. a5 { The pawn advance creates winning chances. }
+1. Bxf1 { Defensive exchange! Eliminating the threat. }
+3... Nxf1 45. a5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -162,8 +216,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "EMda2"]
 [Themes "crushing defensiveMove endgame knightEndgame master short"]
 
-55... Kc3 { Defensive counter-threat! Creating zugzwang. }
-56. Nb1+ Kc2 { The king blockade wins. }
+1... Kc3 { Defensive counter-threat! Creating zugzwang. }
+2. Nb1+ Kc2 { The king blockade wins. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -178,8 +238,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "U9Lbt"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-55. b4 { Defensive counter-threat! Creating a passed pawn. }
-55... g5 56. b5 { The pawn advance creates winning chances. }
+1. b4 { Defensive counter-threat! Creating a passed pawn. }
+3... g5 56. b5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -194,8 +260,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "coA5i"]
 [Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
 
-71... a5 { Defensive counter-threat! Creating a passed pawn. }
-72. Kf4 a4 { The pawn advance creates winning chances. }
+1... a5 { Defensive counter-threat! Creating a passed pawn. }
+2. Kf4 a4 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -210,8 +282,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "b9qJ1"]
 [Themes "crushing defensiveMove endgame master short"]
 
-55. Kxc4 { Defensive exchange! Eliminating the threat. }
-55... Kc7 56. Kd5 { The king advance creates winning chances. }
+1. Kxc4 { Defensive exchange! Eliminating the threat. }
+3... Kc7 56. Kd5 { The king advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -226,8 +304,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "5YS3t"]
 [Themes "advantage defensiveMove endgame master short"]
 
-51... Kf6 { Defensive counter-threat! Creating a fork. }
-52. Rf7+ Kxg5 { Winning the knight with the fork. }
+1... Kf6 { Defensive counter-threat! Creating a fork. }
+2. Rf7+ Kxg5 { Winning the knight with the fork. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -242,8 +326,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "oqYLQ"]
 [Themes "crushing defensiveMove endgame short"]
 
-59. Kxg3 { Defensive exchange! Eliminating the threat. }
-59... Kg6 60. Kf4 { The king advance creates winning chances. }
+1. Kxg3 { Defensive exchange! Eliminating the threat. }
+3... Kg6 60. Kf4 { The king advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -258,8 +348,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "zSrJS"]
 [Themes "crushing defensiveMove middlegame short"]
 
-36... Rf7 { Defensive counter-threat! Creating a pin. }
-37. Qxf7+ Kxf7 { Winning the queen with the pin. }
+1... Rf7 { Defensive counter-threat! Creating a pin. }
+2. Qxf7+ Kxf7 { Winning the queen with the pin. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -274,8 +370,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "CYOq7"]
 [Themes "crushing defensiveMove endgame long pawnEndgame"]
 
-57. c4 { Defensive counter-threat! Creating a breakthrough. }
-57... dxc4+ 58. Kxc4 Kxh5 59. d5 { The pawn advance creates winning chances. }
+1. c4 { Defensive counter-threat! Creating a breakthrough. }
+3... dxc4+ 58. Kxc4 Kxh5 59. d5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -290,8 +392,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "yJJnD"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-52... Rc2 { Defensive pin! Blocking the queen's defense. }
-53. Qxc2+ Kxc2 { Winning the queen with the pin. }
+1... Rc2 { Defensive pin! Blocking the queen's defense. }
+2. Qxc2+ Kxc2 { Winning the queen with the pin. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -306,8 +414,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "XNR7I"]
 [Themes "crushing defensiveMove endgame master short"]
 
-53. hxg5 { Defensive exchange! Eliminating the threat. }
-53... e5 54. Kc3 { The king advance creates winning chances. }
+1. hxg5 { Defensive exchange! Eliminating the threat. }
+3... e5 54. Kc3 { The king advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -322,8 +436,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "lInES"]
 [Themes "crushing defensiveMove endgame rookEndgame short"]
 
-47... Rxd5+ { Defensive exchange! Eliminating the threat. }
-48. Kxd5 g4 { The pawn advance creates winning chances. }
+1... Rxd5+ { Defensive exchange! Eliminating the threat. }
+2. Kxd5 g4 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -338,8 +458,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "0DWW4"]
 [Themes "crushing defensiveMove endgame rookEndgame short"]
 
-51. Rxc5 { Defensive exchange! Eliminating the threat. }
-51... Kxc5 52. h5 { The pawn advance creates winning chances. }
+1. Rxc5 { Defensive exchange! Eliminating the threat. }
+3... Kxc5 52. h5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -354,8 +480,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "xmPOv"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-53... Rf3 { Defensive pin! Blocking the queen's defense. }
-54. Qxf3+ Kxf3 { Winning the queen with the pin. }
+1... Rf3 { Defensive pin! Blocking the queen's defense. }
+2. Qxf3+ Kxf3 { Winning the queen with the pin. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -370,8 +502,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "9h4aW"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-51. h4 { Defensive counter-threat! Creating a passed pawn. }
-51... a5 52. h5 { The pawn advance creates winning chances. }
+1. h4 { Defensive counter-threat! Creating a passed pawn. }
+3... a5 52. h5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -386,8 +524,14 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "9T59M"]
 [Themes "crushing defensiveMove endgame short"]
 
-52... Ke5 { Defensive counter-threat! Creating a fork. }
-53. Nxe4 Kxe4 { Winning the knight with the fork. }
+1... Ke5 { Defensive counter-threat! Creating a fork. }
+2. Nxe4 Kxe4 { Winning the knight with the fork. }
+
+
+
+
+
+
 
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
@@ -402,5 +546,5 @@ Learn to recognize defensive opportunities and counter-threats that can turn the
 [PuzzleId "nJY6X"]
 [Themes "crushing defensiveMove endgame short"]
 
-39. Kxb6 { Defensive exchange! Eliminating the threat. }
-39... Ke7 40. c5 { The pawn advance creates winning chances. }
+1. Kxb6 { Defensive exchange! Eliminating the threat. }
+3... Ke7 40. c5 { The pawn advance creates winning chances. }

@@ -11,14 +11,20 @@
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-{{Intermediate 1: Checkmate in Two
+{Intermediate 1: Checkmate in Two
 
 This section focuses on Two-move checkmate sequences.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+}
+1. Rd8+ { First move: Check! Forcing the rook to block. }
+3... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-44... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+1... Rc1+ { First move: Check! Forcing the rook to block. }
+2... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+1. Rxf8+ { First move: Check! Forcing the queen to block. }
+3... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47... Ra1+ { First move: Check! Infiltrating the back rank. }
-48. Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+1... Ra1+ { First move: Check! Infiltrating the back rank. }
+2. Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36. Rb8+ { First move: Check! Infiltrating the back rank. }
-36... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+1. Rb8+ { First move: Check! Infiltrating the back rank. }
+3... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-29... Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+1... Rd8+ { First move: Check! Forcing the rook to block. }
+2... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-44. Rc1+ { First move: Check! Forcing the rook to block. }
-44... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+1. Rc1+ { First move: Check! Forcing the rook to block. }
+3... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22... Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+1... Rxf8+ { First move: Check! Forcing the queen to block. }
+2... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47. Ra1+ { First move: Check! Infiltrating the back rank. }
-47... Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+1. Ra1+ { First move: Check! Infiltrating the back rank. }
+3... Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36... Rb8+ { First move: Check! Infiltrating the back rank. }
-36... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+1... Rb8+ { First move: Check! Infiltrating the back rank. }
+2... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+1. Rd8+ { First move: Check! Forcing the rook to block. }
+3... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-44... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+1... Rc1+ { First move: Check! Forcing the rook to block. }
+2... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+1. Rxf8+ { First move: Check! Forcing the queen to block. }
+3... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47... Ra1+ { First move: Check! Infiltrating the back rank. }
-48. Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+1... Ra1+ { First move: Check! Infiltrating the back rank. }
+2. Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36. Rb8+ { First move: Check! Infiltrating the back rank. }
-36... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+1. Rb8+ { First move: Check! Infiltrating the back rank. }
+3... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-29... Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+1... Rd8+ { First move: Check! Forcing the rook to block. }
+2... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-44. Rc1+ { First move: Check! Forcing the rook to block. }
-44... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+1. Rc1+ { First move: Check! Forcing the rook to block. }
+3... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22... Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+1... Rxf8+ { First move: Check! Forcing the queen to block. }
+2... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47. Ra1+ { First move: Check! Infiltrating the back rank. }
-47... Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+1. Ra1+ { First move: Check! Infiltrating the back rank. }
+3... Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -321,8 +435,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36... Rb8+ { First move: Check! Infiltrating the back rank. }
-36... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+1... Rb8+ { First move: Check! Infiltrating the back rank. }
+2... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -337,8 +457,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+1. Rd8+ { First move: Check! Forcing the rook to block. }
+3... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -353,8 +479,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-44... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+1... Rc1+ { First move: Check! Forcing the rook to block. }
+2... Rd1 45. Rxd1# { Second move: Mate! The rook delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -369,8 +501,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+1. Rxf8+ { First move: Check! Forcing the queen to block. }
+3... Qd8 23. Rxd8# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -385,8 +523,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47... Ra1+ { First move: Check! Infiltrating the back rank. }
-48. Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+1... Ra1+ { First move: Check! Infiltrating the back rank. }
+2. Rb1 48. Rxb1# { Second move: Mate! Back rank mate. }
+
+
+
+
+
+
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -401,5 +545,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36. Rb8+ { First move: Check! Infiltrating the back rank. }
-36... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }
+1. Rb8+ { First move: Check! Infiltrating the back rank. }
+3... Ne8 37. Rxe8# { Second move: Mate! Back rank mate. }

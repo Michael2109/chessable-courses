@@ -11,13 +11,19 @@
 [PuzzleId "HanPh"]
 [Themes "advantage master middlegame short"]
 
-{{Basics 5: Safe to Capture?
+{Basics 5: Safe to Capture?
 
 This section focuses on Is it safe to take? Simple counting.
 
 Build core habits and quick recognition by checking forcing moves first.
-}}
-28. Rxc8 { Safe capture! The rook on c8 is defended by the bishop on b6, but after Rxc8 Bxc8, we can capture the bishop with Rxc8, winning a piece. Always count defenders before capturing! } 28... Bxc8 29. Rxc8 *
+}
+1. Rxc8 { Safe capture! The rook on c8 is defended by the bishop on b6, but after Rxc8 Bxc8, we can capture the bishop with Rxc8, winning a piece. Always count defenders before capturing! } 28... Bxc8 29. Rxc8 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "hsWEO"]
 [Themes "advantage endgame short"]
 
-27... Rd1+ { Safe capture! The rook on d8 can safely capture the pawn on d1 because after Rd1+ Ne1, we can capture the knight with Rxe1+, winning material. Count the defenders! } 28. Ne1 Rxe1+ *
+1... Rd1+ { Safe capture! The rook on d8 can safely capture the pawn on d1 because after Rd1+ Ne1, we can capture the knight with Rxe1+, winning material. Count the defenders! } 28. Ne1 Rxe1+ *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -47,7 +59,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "NSXvg"]
 [Themes "advantage middlegame short"]
 
-22. Qxc8+ { Safe capture! The queen can safely capture the rook on c8 because after Qxc8+ Qxc8, our rook can capture the queen with Rxc8+, winning a piece. Always look for recaptures! } 22... Qxc8 23. Rxc8+ *
+1. Qxc8+ { Safe capture! The queen can safely capture the rook on c8 because after Qxc8+ Qxc8, our rook can capture the queen with Rxc8+, winning a piece. Always look for recaptures! } 22... Qxc8 23. Rxc8+ *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -62,7 +80,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "IO5Ap"]
 [Themes "advantage endgame master short"]
 
-36... Rxc4 { Safe capture! The rook on c5 can safely capture the rook on c4 because after Rxc4 Rxc4, we can capture back with Rxc4, maintaining equality. Simple counting! } 37. Rxc4 Rxc4 *
+1... Rxc4 { Safe capture! The rook on c5 can safely capture the rook on c4 because after Rxc4 Rxc4, we can capture back with Rxc4, maintaining equality. Simple counting! } 37. Rxc4 Rxc4 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -77,7 +101,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "ZxEdX"]
 [Themes "advantage endgame master short"]
 
-31. Rxd8 { Safe capture! The rook on d4 can safely capture the rook on d8 because after Rxd8 Rxd8, we can capture back with Rxd8, winning a piece. Count the defenders! } 31... Rxd8 32. Rxd8 *
+1. Rxd8 { Safe capture! The rook on d4 can safely capture the rook on d8 because after Rxd8 Rxd8, we can capture back with Rxd8, winning a piece. Count the defenders! } 31... Rxd8 32. Rxd8 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -92,7 +122,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "XMAuS"]
 [Themes "advantage endgame short"]
 
-37... Rxc1+ { Safe capture! The rook on c8 can safely capture the rook on c1 because after Rxc1+ Be1, we can capture the bishop with Rxe1+, winning material. Always check for interpositions! } 38. Be1 Rxe1+ *
+1... Rxc1+ { Safe capture! The rook on c8 can safely capture the rook on c1 because after Rxc1+ Be1, we can capture the bishop with Rxe1+, winning material. Always check for interpositions! } 38. Be1 Rxe1+ *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -107,7 +143,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "0Dg5M"]
 [Themes "advantage endgame short"]
 
-27. Rxd8 { Safe capture! The rook on d3 can safely capture the rook on d8 because after Rxd8 Bxd8, our queen can capture the bishop with Qxd8, winning a piece. Simple counting! } 27... Bxd8 28. Qxd8 *
+1. Rxd8 { Safe capture! The rook on d3 can safely capture the rook on d8 because after Rxd8 Bxd8, our queen can capture the bishop with Qxd8, winning a piece. Simple counting! } 27... Bxd8 28. Qxd8 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -122,7 +164,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HwNfp"]
 [Themes "advantage middlegame short"]
 
-28... Kxf7 { Safe capture! The king can safely capture the rook on f7 because after Kxf7 Nxe8+, we can capture the knight with Kxe8, maintaining equality. Count the defenders! } 29. Nxe8+ Kxe8 *
+1... Kxf7 { Safe capture! The king can safely capture the rook on f7 because after Kxf7 Nxe8+, we can capture the knight with Kxe8, maintaining equality. Count the defenders! } 29. Nxe8+ Kxe8 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -137,7 +185,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "B6oDh"]
 [Themes "advantage kingsideAttack middlegame short"]
 
-20. Qxd8+ { Safe capture! The queen can safely capture the queen on d8 because after Qxd8+ Nxd8, our rook can capture the knight with Rxd8+, winning a piece. Always look for recaptures! } 20... Nxd8 21. Rxd8+ *
+1. Qxd8+ { Safe capture! The queen can safely capture the queen on d8 because after Qxd8+ Nxd8, our rook can capture the knight with Rxd8+, winning a piece. Always look for recaptures! } 20... Nxd8 21. Rxd8+ *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -152,7 +206,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "XzBW4"]
 [Themes "advantage endgame short"]
 
-38... Kxe7 { Safe capture! The king can safely capture the bishop on e7 because after Kxe7 Qb4+, we can capture the queen with Kxe6, maintaining equality. Simple counting! } 39. Qb4+ Kxe6 *
+1... Kxe7 { Safe capture! The king can safely capture the bishop on e7 because after Kxe7 Qb4+, we can capture the queen with Kxe6, maintaining equality. Simple counting! } 39. Qb4+ Kxe6 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -167,7 +227,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "CpwNm"]
 [Themes "advantage middlegame short"]
 
-30. Rxc8+ { Safe capture! The rook on c1 can safely capture the rook on c8 because after Rxc8+ Rxc8, our other rook can capture with Rxc8+, winning a piece. Count the defenders! } 30... Rxc8 31. Rxc8+ *
+1. Rxc8+ { Safe capture! The rook on c1 can safely capture the rook on c8 because after Rxc8+ Rxc8, our other rook can capture with Rxc8+, winning a piece. Count the defenders! } 30... Rxc8 31. Rxc8+ *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -182,7 +248,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "iDkgc"]
 [Themes "advantage middlegame short"]
 
-28... Qxe2 { Safe capture! The queen can safely capture the queen on e2 because after Qxe2 Rxe2, our rook can capture the rook on c1, winning material. Always look for recaptures! } 29. Rxe2 Rxc1 *
+1... Qxe2 { Safe capture! The queen can safely capture the queen on e2 because after Qxe2 Rxe2, our rook can capture the rook on c1, winning material. Always look for recaptures! } 29. Rxe2 Rxc1 *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -197,7 +269,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "M3Uum"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-31. Rxf8# { Safe capture! The rook on e8 can safely capture the rook on f8 because it's checkmate! The black king has no escape squares. Sometimes the simplest captures are the best! } *
+1. Rxf8# { Safe capture! The rook on e8 can safely capture the rook on f8 because it's checkmate! The black king has no escape squares. Sometimes the simplest captures are the best! } *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -212,7 +290,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "6nsLJ"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-18... Qxe1# { Safe capture! The queen can safely capture the queen on e1 because it's checkmate! The white king has no escape squares. Always check for mate! } *
+1... Qxe1# { Safe capture! The queen can safely capture the queen on e1 because it's checkmate! The white king has no escape squares. Always check for mate! } *
+
+
+
+
+
+
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -227,4 +311,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "2cAVm"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-34. Rxf8# { Safe capture! The rook on e8 can safely capture the rook on f8 because it's checkmate! The black king is trapped on the back rank. Simple counting leads to mate! } *
+1. Rxf8# { Safe capture! The rook on e8 can safely capture the rook on f8 because it's checkmate! The black king is trapped on the back rank. Simple counting leads to mate! } *

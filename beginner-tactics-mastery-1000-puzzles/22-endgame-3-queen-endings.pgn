@@ -11,13 +11,19 @@
 [PuzzleId "bk1AB"]
 [Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
 
-{{Endgame 3: Queen Endings
+{Endgame 3: Queen Endings
 
 This section focuses on Queen vs queen tactics.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-27. Qa8# { Queen endgame! Back rank mate with the queen. }
+}
+1. Qa8# { Queen endgame! Back rank mate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "vqbdB"]
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
 
-32... Qxb1# { Queen endgame! Back rank mate with the queen. }
+1... Qxb1# { Queen endgame! Back rank mate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -47,8 +59,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Vrku8"]
 [Themes "endgame mate mateIn2 queenEndgame short"]
 
-26. Qc8+ { Queen endgame! Check to force the queen to block. }
-26... Qe8 27. Qxe8# *
+1. Qc8+ { Queen endgame! Check to force the queen to block. }
+3... Qe8 27. Qxe8# *
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -63,7 +81,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Q16st"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
 
-82... g2# { Queen endgame! Pawn promotes with checkmate. }
+1... g2# { Queen endgame! Pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -78,7 +102,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "oabTr"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-31. Qd8# { Queen endgame! Direct checkmate with the queen. }
+1. Qd8# { Queen endgame! Direct checkmate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -93,8 +123,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UIZTQ"]
 [Themes "endgame mate mateIn2 queenEndgame short"]
 
-20... Qd1+ { Queen endgame! Back rank mate threat. }
-21. Qe1 Qxe1# *
+1... Qd1+ { Queen endgame! Back rank mate threat. }
+2. Qe1 Qxe1# *
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -109,7 +145,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "P13lh"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
 
-29. Qxf8# { Queen endgame! Hanging piece tactic. }
+1. Qxf8# { Queen endgame! Hanging piece tactic. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -124,7 +166,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "1vaM6"]
 [Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
 
-42... Qxc1# { Queen endgame! Back rank mate with the queen. }
+1... Qxc1# { Queen endgame! Back rank mate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -139,7 +187,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Miv7E"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-64. Qd8# { Queen endgame! Direct checkmate with the queen. }
+1. Qd8# { Queen endgame! Direct checkmate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -154,7 +208,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "sE1tF"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-32... Qd1# { Queen endgame! Back rank mate with the queen. }
+1... Qd1# { Queen endgame! Back rank mate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -169,8 +229,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "h7u6B"]
 [Themes "crushing endgame queenEndgame short"]
 
-36. Qd3+ { Queen endgame! Forcing queen trade to win. }
-36... Qxd3+ 37. Kxd3 *
+1. Qd3+ { Queen endgame! Forcing queen trade to win. }
+3... Qxd3+ 37. Kxd3 *
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -185,7 +251,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "rAznU"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-28... Qd1# { Queen endgame! Back rank mate with the queen. }
+1... Qd1# { Queen endgame! Back rank mate with the queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -200,7 +272,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "BhrRA"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-67. Qxg1# { Queen endgame! Capturing the hanging queen. }
+1. Qxg1# { Queen endgame! Capturing the hanging queen. }
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -215,8 +293,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "bfby3"]
 [Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
 
-38... Qa1+ { Queen endgame! Back rank mate threat. }
-39. Qb1 Qxb1# *
+1... Qa1+ { Queen endgame! Back rank mate threat. }
+2. Qb1 Qxb1# *
+
+
+
+
+
+
 
 [Event "Endgame 3: Queen Endings"]
 [Site "https://lichess.org"]
@@ -231,5 +315,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FERt4"]
 [Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
 
-26. Qc8+ { Queen endgame! Back rank mate threat. }
-26... Qd8 27. Qxd8# *
+1. Qc8+ { Queen endgame! Back rank mate threat. }
+3... Qd8 27. Qxd8# *

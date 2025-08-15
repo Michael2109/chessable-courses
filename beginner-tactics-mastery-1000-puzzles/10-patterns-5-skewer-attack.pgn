@@ -11,13 +11,19 @@
 [PuzzleId "CxeOP"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-{{Patterns 5: Skewer Attack
+{Patterns 5: Skewer Attack
 
 This section focuses on Bishop skewers (15), rook/queen skewers (15).
 
 A skewer is when you attack a valuable piece, forcing it to move, and then capture a less valuable piece behind it. It's like a pin in reverse!
-}}
-34. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Ke7 35. Rxb8 *
+}
+1. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Ke7 35. Rxb8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "id6aE"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-43... Re6+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 44. Kd3 Rxe1 *
+1... Re6+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 44. Kd3 Rxe1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -47,7 +59,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "jfacq"]
 [Themes "crushing endgame short skewer"]
 
-50... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 51. Kf3 Bxg1 *
+1... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 51. Kf3 Bxg1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -62,7 +80,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "ZA3Tc"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-46. Rxb4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 46... Kd3 47. Rxg4 *
+1. Rxb4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 46... Kd3 47. Rxg4 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -77,7 +101,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "pCQqC"]
 [Themes "crushing endgame short skewer"]
 
-37... Rg1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Ke2 Rxb1 *
+1... Rg1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Ke2 Rxb1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -92,7 +122,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "X4tUT"]
 [Themes "crushing endgame master rookEndgame short skewer"]
 
-45. Re7+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 45... Kd4 46. Rxe2 *
+1. Re7+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 45... Kd4 46. Rxe2 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -107,7 +143,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "hI1iT"]
 [Themes "advantage endgame master short skewer"]
 
-41... Rb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 42. Ke3 Rxh2 *
+1... Rb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 42. Ke3 Rxh2 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -122,7 +164,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "8f9Ig"]
 [Themes "crushing endgame master rookEndgame short skewer"]
 
-47. Rd8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 47... Kxe7 48. Rxd5 *
+1. Rd8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 47... Kxe7 48. Rxd5 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -137,7 +185,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "NFj5F"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-17... Rb1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 18. Ke2 Rxh1 *
+1... Rb1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 18. Ke2 Rxh1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -152,7 +206,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "bVT82"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-42. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 42... Kg7 43. Rxd8 *
+1. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 42... Kg7 43. Rxd8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -167,7 +227,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "UQesU"]
 [Themes "crushing endgame short skewer"]
 
-32... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 33. Kd1 Bxf1 *
+1... Bc5+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 33. Kd1 Bxf1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -182,7 +248,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "8GXQ7"]
 [Themes "crushing endgame master short skewer"]
 
-54. Rh7+ { Skewer! The rook attacks the king, forcing it to move, then captures the bishop behind. } 54... Kg6 55. Rxb7 *
+1. Rh7+ { Skewer! The rook attacks the king, forcing it to move, then captures the bishop behind. } 54... Kg6 55. Rxb7 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -197,7 +269,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "NDb7A"]
 [Themes "advantage endgame short skewer"]
 
-36... Rg3+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 37. Ke2 Rxb3 *
+1... Rg3+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 37. Ke2 Rxb3 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -212,7 +290,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "IsVaJ"]
 [Themes "crushing endgame short skewer"]
 
-39. Rd8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 39... Kc5 40. Rxd2 *
+1. Rd8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 39... Kc5 40. Rxd2 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -227,7 +311,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "wTIP9"]
 [Themes "advantage endgame rookEndgame short skewer"]
 
-33... Rh2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34. Kg4 Rxh7 *
+1... Rh2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34. Kg4 Rxh7 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -242,7 +332,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "GpO0O"]
 [Themes "crushing endgame queenRookEndgame short skewer"]
 
-39... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
+1... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -257,7 +353,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "W8lMN"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-29... Rh1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 30. Ke2 Rxc1 *
+1... Rh1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 30. Ke2 Rxc1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -272,7 +374,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "fl9fk"]
 [Themes "advantage endgame short skewer"]
 
-23. Rc8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 23... Ke7 24. Rxh8 *
+1. Rc8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 23... Ke7 24. Rxh8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -287,7 +395,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "dSxoV"]
 [Themes "crushing endgame master queenEndgame short skewer"]
 
-57... Qf1+ { Queen skewer! The queen attacks the king, forcing it to move, then captures the queen behind. } 58. Ke4 Qxf8 *
+1... Qf1+ { Queen skewer! The queen attacks the king, forcing it to move, then captures the queen behind. } 58. Ke4 Qxf8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -302,7 +416,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "oJG8X"]
 [Themes "crushing endgame rookEndgame short skewer"]
 
-63. Rf4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 63... Ke5 64. Rxa4 *
+1. Rf4+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 63... Ke5 64. Rxa4 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -317,7 +437,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "GuyI1"]
 [Themes "crushing endgame short skewer"]
 
-53... Rc2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 54. Kd3 Rxc8 *
+1... Rc2+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 54. Kd3 Rxc8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -332,7 +458,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "6wYzF"]
 [Themes "crushing endgame master short skewer"]
 
-75. Bg2+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 75... Ke2 76. Bxb7 *
+1. Bg2+ { Bishop skewer! The bishop attacks the king, forcing it to move, then captures the rook behind. } 75... Ke2 76. Bxb7 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -347,7 +479,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "dSFky"]
 [Themes "crushing endgame short skewer"]
 
-37... Ra1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Kd2 Rxh1 *
+1... Ra1+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 38. Kd2 Rxh1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -362,7 +500,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "HrwES"]
 [Themes "advantage endgame short skewer"]
 
-65... Re7+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 66. Kc6 Rxa7 *
+1... Re7+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 66. Kc6 Rxa7 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -377,7 +521,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "GpO0O"]
 [Themes "crushing endgame queenRookEndgame short skewer"]
 
-39... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
+1... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -392,7 +542,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "9s7u7"]
 [Themes "crushing endgame queenEndgame short skewer"]
 
-64... Qd4+ { Queen skewer! The queen attacks the king, forcing it to move, then captures the queen behind. } 65. Kf5 Qxh8 *
+1... Qd4+ { Queen skewer! The queen attacks the king, forcing it to move, then captures the queen behind. } 65. Kf5 Qxh8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -407,7 +563,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "jrLJC"]
 [Themes "crushing endgame short skewer"]
 
-29. Rc8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 29... Kd7 30. Rxg8 *
+1. Rc8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 29... Kd7 30. Rxg8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -422,7 +584,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "PtM9o"]
 [Themes "advantage endgame short skewer"]
 
-34. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Kf7 35. Rxc8 *
+1. Rh8+ { Skewer! The rook attacks the king, forcing it to move, then captures the rook behind. } 34... Kf7 35. Rxc8 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -437,7 +605,13 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "plURX"]
 [Themes "advantage endgame short skewer"]
 
-46... Bc3 { Bishop skewer! The bishop attacks the queen, forcing it to move, then captures the rook behind. } 47. Qxc2 Bxe1 *
+1... Bc3 { Bishop skewer! The bishop attacks the queen, forcing it to move, then captures the rook behind. } 47. Qxc2 Bxe1 *
+
+
+
+
+
+
 
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
@@ -452,4 +626,4 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [PuzzleId "p1lc5"]
 [Themes "crushing endgame short skewer"]
 
-24. Bh5 { Bishop skewer! The bishop attacks the queen, forcing it to move, then captures the rook behind. } 24... Qd6 25. Bxe8 *
+1. Bh5 { Bishop skewer! The bishop attacks the queen, forcing it to move, then captures the rook behind. } 24... Qd6 25. Bxe8 *

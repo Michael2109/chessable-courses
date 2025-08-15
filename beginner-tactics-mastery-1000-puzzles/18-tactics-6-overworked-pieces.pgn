@@ -11,9 +11,15 @@
 [PuzzleId "a0LbN"]
 [Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-29. Qxe6 fxe6 30. Rxc8+ *
+1. Qxe6 fxe6 30. Rxc8+ *
 
 { The queen on e6 is overworked - it's defending both the rook on c8 and the f7 pawn. By capturing the queen with Qxe6, we force fxe6, then capture the undefended rook with Rxc8+. One piece can't guard everything! }
+
+
+
+
+
+
 
 
 
@@ -30,9 +36,15 @@
 [PuzzleId "x2e2f"]
 [Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-43... Qxb4 44. cxb4 Rxd4+ *
+1... Qxb4 44. cxb4 Rxd4+ *
 
-{ The queen on b4 is overworked - it's defending both the pawn on b4 and the knight on d4. By capturing the queen with Qxb4, we force cxb4, then capture the undefended knight with Rxd4+. Overworked pieces crack under pressure! }
+{ The queen on b4 is overworked - it's defending both the pawn on b4 and the knight on d1. By capturing the queen with Qxb4, we force cxb4, then capture the undefended knight with Rxd4+. Overworked pieces crack under pressure! }
+
+
+
+
+
+
 
 
 
@@ -49,9 +61,15 @@
 [PuzzleId "6LyUQ"]
 [Themes "advantage capturingDefender discoveredAttack endgame short"]
 
-26. Nxd8 Rxd8 27. Rxe7 *
+1. Nxd8 Rxd8 27. Rxe7 *
 
-{ The rook on d8 is overworked - it's defending both the queen on e8 and the knight on d8. By capturing the knight with Nxd8, we force Rxd8, then capture the undefended queen with Rxe7. One piece can't do two jobs! }
+{ The rook on d8 is overworked - it's defending both the queen on e8 and the knight on d2. By capturing the knight with Nxd8, we force Rxd8, then capture the undefended queen with Rxe7. One piece can't do two jobs! }
+
+
+
+
+
+
 
 
 
@@ -68,9 +86,15 @@
 [PuzzleId "vVN1I"]
 [Themes "capturingDefender crushing endgame short"]
 
-28... Rxb7 29. Bxb7 Nxb5 *
+1... Rxb7 29. Bxb7 Nxb5 *
 
-{ The rook on b7 is overworked - it's defending both the pawn on b7 and the knight on b5. By capturing the rook with Rxb7, we force Bxb7, then capture the undefended knight with Nxb5. Overworked pieces always break! }
+{ The rook on b7 is overworked - it's defending both the pawn on b7 and the knight on b1. By capturing the rook with Rxb7, we force Bxb7, then capture the undefended knight with Nxb5. Overworked pieces always break! }
+
+
+
+
+
+
 
 
 
@@ -87,9 +111,15 @@
 [PuzzleId "Wob5X"]
 [Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
 
-29. Qxd5 Rxd5 30. Rxe6 *
+1. Qxd5 Rxd5 30. Rxe6 *
 
-{ The queen on d5 is overworked - it's defending both the rook on d5 and the rook on e6. By capturing the queen with Qxd5, we force Rxd5, then capture the undefended rook with Rxe6. One piece can't guard everything! }
+{ The queen on d5 is overworked - it's defending both the rook on d5 and the rook on e2. By capturing the queen with Qxd5, we force Rxd5, then capture the undefended rook with Rxe6. One piece can't guard everything! }
+
+
+
+
+
+
 
 
 
@@ -106,9 +136,15 @@
 [PuzzleId "QpIOg"]
 [Themes "advantage capturingDefender discoveredAttack endgame short"]
 
-44... Rxd6 45. cxd6 Bxc6 *
+1... Rxd6 45. cxd6 Bxc6 *
 
-{ The rook on d6 is overworked - it's defending both the pawn on d6 and the bishop on c6. By capturing the rook with Rxd6, we force cxd6, then capture the undefended bishop with Bxc6. Overworked pieces always fail! }
+{ The rook on d6 is overworked - it's defending both the pawn on d6 and the bishop on c1. By capturing the rook with Rxd6, we force cxd6, then capture the undefended bishop with Bxc6. Overworked pieces always fail! }
+
+
+
+
+
+
 
 
 
@@ -125,9 +161,15 @@
 [PuzzleId "Mylsy"]
 [Themes "capturingDefender crushing discoveredAttack endgame master short"]
 
-30. Qxb7 Rxb7 31. Rxc8+ *
+1. Qxb7 Rxb7 31. Rxc8+ *
 
-{ The queen on b7 is overworked - it's defending both the rook on b7 and the rook on c8. By capturing the queen with Qxb7, we force Rxb7, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+{ The queen on b7 is overworked - it's defending both the rook on b7 and the rook on c2. By capturing the queen with Qxb7, we force Rxb7, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+
+
+
+
+
+
 
 
 
@@ -144,9 +186,15 @@
 [PuzzleId "oPVA2"]
 [Themes "advantage capturingDefender discoveredAttack opening short"]
 
-11... Nxe4 12. Bxe4 Bxg5 *
+1... Nxe4 12. Bxe4 Bxg5 *
 
-{ The bishop on e4 is overworked - it's defending both the knight on e4 and the bishop on g5. By capturing the knight with Nxe4, we force Bxe4, then capture the undefended bishop with Bxg5. Overworked pieces always break! }
+{ The bishop on e4 is overworked - it's defending both the knight on e4 and the bishop on g1. By capturing the knight with Nxe4, we force Bxe4, then capture the undefended bishop with Bxg5. Overworked pieces always break! }
+
+
+
+
+
+
 
 
 
@@ -163,9 +211,15 @@
 [PuzzleId "2VJwa"]
 [Themes "capturingDefender crushing discoveredAttack opening short"]
 
-9. Nxe5 Qxe5 10. Bxg4+ *
+1. Nxe5 Qxe5 10. Bxg4+ *
 
-{ The queen on e5 is overworked - it's defending both the knight on e5 and the bishop on g4. By capturing the knight with Nxe5, we force Qxe5, then capture the undefended bishop with Bxg4+. One piece can't guard everything! }
+{ The queen on e5 is overworked - it's defending both the knight on e5 and the bishop on g2. By capturing the knight with Nxe5, we force Qxe5, then capture the undefended bishop with Bxg4+. One piece can't guard everything! }
+
+
+
+
+
+
 
 
 
@@ -182,9 +236,15 @@
 [PuzzleId "JZcjh"]
 [Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-33... Qxd5 34. exd5 Rxf5 *
+1... Qxd5 34. exd5 Rxf5 *
 
-{ The queen on d5 is overworked - it's defending both the pawn on d5 and the knight on f5. By capturing the queen with Qxd5, we force exd5, then capture the undefended knight with Rxf5. Overworked pieces always fail! }
+{ The queen on d5 is overworked - it's defending both the pawn on d5 and the knight on f1. By capturing the queen with Qxd5, we force exd5, then capture the undefended knight with Rxf5. Overworked pieces always fail! }
+
+
+
+
+
+
 
 
 
@@ -201,9 +261,15 @@
 [PuzzleId "O1hxk"]
 [Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
-32. Nxc8 Rxc8 33. Rxd7 *
+1. Nxc8 Rxc8 33. Rxd7 *
 
-{ The rook on c8 is overworked - it's defending both the knight on c8 and the bishop on d7. By capturing the knight with Nxc8, we force Rxc8, then capture the undefended bishop with Rxd7. One piece can't do two jobs! }
+{ The rook on c8 is overworked - it's defending both the knight on c8 and the bishop on d2. By capturing the knight with Nxc8, we force Rxc8, then capture the undefended bishop with Rxd7. One piece can't do two jobs! }
+
+
+
+
+
+
 
 
 
@@ -220,9 +286,15 @@
 [PuzzleId "Ic7CX"]
 [Themes "advantage capturingDefender discoveredAttack middlegame short"]
 
-23... Qxe2 24. Rxe2 Rxc1 *
+1... Qxe2 24. Rxe2 Rxc1 *
 
 { The queen on e2 is overworked - it's defending both the rook on e2 and the rook on c1. By capturing the queen with Qxe2, we force Rxe2, then capture the undefended rook with Rxc1. Overworked pieces always break! }
+
+
+
+
+
+
 
 
 
@@ -239,9 +311,15 @@
 [PuzzleId "MjjYD"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-27. Bxf5+ Kb8 28. Rxd8+ *
+1. Bxf5+ Kb8 28. Rxd8+ *
 
-{ The king on c8 is overworked - it's defending both the rook on d8 and the bishop on f5. By capturing the bishop with Bxf5+, we force Kb8, then capture the undefended rook with Rxd8+. One piece can't guard everything! }
+{ The king on c8 is overworked - it's defending both the rook on d8 and the bishop on f2. By capturing the bishop with Bxf5+, we force Kb8, then capture the undefended rook with Rxd8+. One piece can't guard everything! }
+
+
+
+
+
+
 
 
 
@@ -258,9 +336,15 @@
 [PuzzleId "UEKwS"]
 [Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
 
-62... h2+ 63. Kh1 Kxf2 *
+1... h2+ 63. Kh1 Kxf2 *
 
-{ The king on g3 is overworked - it's defending both the pawn on h2 and the knight on f2. By advancing the pawn with h2+, we force Kh1, then capture the undefended knight with Kxf2. Overworked pieces always fail! }
+{ The king on g3 is overworked - it's defending both the pawn on h2 and the knight on f1. By advancing the pawn with h2+, we force Kh1, then capture the undefended knight with Kxf2. Overworked pieces always fail! }
+
+
+
+
+
+
 
 
 
@@ -277,9 +361,15 @@
 [PuzzleId "CT01B"]
 [Themes "advantage deflection discoveredAttack endgame short"]
 
-27. Nf6+ Rxf6 28. Rxe8+ *
+1. Nf6+ Rxf6 28. Rxe8+ *
 
-{ The rook on f6 is overworked - it's defending both the knight on f6 and the rook on e8. By capturing the knight with Nf6+, we force Rxf6, then capture the undefended rook with Rxe8+. One piece can't do two jobs! }
+{ The rook on f6 is overworked - it's defending both the knight on f6 and the rook on e2. By capturing the knight with Nf6+, we force Rxf6, then capture the undefended rook with Rxe8+. One piece can't do two jobs! }
+
+
+
+
+
+
 
 
 
@@ -296,9 +386,15 @@
 [PuzzleId "CxmD7"]
 [Themes "crushing deflection endgame master short"]
 
-28... Nc5+ 29. Ke2 Nxe4 *
+1... Nc5+ 29. Ke2 Nxe4 *
 
-{ The king on e2 is overworked - it's defending both the knight on c5 and the bishop on e4. By checking with Nc5+, we force Ke2, then capture the undefended bishop with Nxe4. Overworked pieces always break! }
+{ The king on e2 is overworked - it's defending both the knight on c5 and the bishop on e1. By checking with Nc5+, we force Ke2, then capture the undefended bishop with Nxe4. Overworked pieces always break! }
+
+
+
+
+
+
 
 
 
@@ -315,9 +411,15 @@
 [PuzzleId "kKSIl"]
 [Themes "crushing deflection endgame master short"]
 
-44. Nc6+ Kf4 45. Nxd4 *
+1. Nc6+ Kf4 45. Nxd4 *
 
-{ The king on f4 is overworked - it's defending both the knight on c6 and the bishop on d4. By checking with Nc6+, we force Kf4, then capture the undefended bishop with Nxd4. One piece can't guard everything! }
+{ The king on f4 is overworked - it's defending both the knight on c6 and the bishop on d2. By checking with Nc6+, we force Kf4, then capture the undefended bishop with Nxd4. One piece can't guard everything! }
+
+
+
+
+
+
 
 
 
@@ -334,9 +436,15 @@
 [PuzzleId "iIhw7"]
 [Themes "advantage deflection discoveredAttack endgame short"]
 
-39... Bxg2+ 40. Rxg2 Rxd1+ *
+1... Bxg2+ 40. Rxg2 Rxd1+ *
 
 { The rook on g2 is overworked - it's defending both the bishop on g2 and the rook on d1. By capturing the bishop with Bxg2+, we force Rxg2, then capture the undefended rook with Rxd1+. Overworked pieces always fail! }
+
+
+
+
+
+
 
 
 
@@ -353,9 +461,15 @@
 [PuzzleId "Vq7Es"]
 [Themes "advantage deflection discoveredAttack endgame master short"]
 
-34. Nxe5+ Nxe5 35. Rxd8 *
+1. Nxe5+ Nxe5 35. Rxd8 *
 
-{ The knight on e5 is overworked - it's defending both the pawn on e5 and the rook on d8. By capturing the pawn with Nxe5+, we force Nxe5, then capture the undefended rook with Rxd8. One piece can't do two jobs! }
+{ The knight on e5 is overworked - it's defending both the pawn on e5 and the rook on d2. By capturing the pawn with Nxe5+, we force Nxe5, then capture the undefended rook with Rxd8. One piece can't do two jobs! }
+
+
+
+
+
+
 
 
 
@@ -372,9 +486,15 @@
 [PuzzleId "fme3d"]
 [Themes "crushing deflection endgame master short"]
 
-46... Rxd2+ 47. Kxd2 Kxc4 *
+1... Rxd2+ 47. Kxd2 Kxc4 *
 
-{ The king on d2 is overworked - it's defending both the rook on d2 and the rook on c4. By capturing the rook with Rxd2+, we force Kxd2, then capture the undefended rook with Kxc4. Overworked pieces always break! }
+{ The king on d2 is overworked - it's defending both the rook on d2 and the rook on c1. By capturing the rook with Rxd2+, we force Kxd2, then capture the undefended rook with Kxc4. Overworked pieces always break! }
+
+
+
+
+
+
 
 
 
@@ -391,9 +511,15 @@
 [PuzzleId "J4Ezx"]
 [Themes "deflection endgame mate mateIn2 short"]
 
-29. Qxf7+ Kh8 30. Qxf8# *
+1. Qxf7+ Kh8 30. Qxf8# *
 
-{ The king on g8 is overworked - it's defending both the pawn on f7 and the pawn on f8. By capturing the pawn with Qxf7+, we force Kh8, then deliver checkmate with Qxf8#. One piece can't guard everything! }
+{ The king on g8 is overworked - it's defending both the pawn on f7 and the pawn on f2. By capturing the pawn with Qxf7+, we force Kh8, then deliver checkmate with Qxf8#. One piece can't guard everything! }
+
+
+
+
+
+
 
 
 
@@ -410,9 +536,15 @@
 [PuzzleId "Tq05t"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-35... Rxc3 36. bxc3 Rxd3 *
+1... Rxc3 36. bxc3 Rxd3 *
 
-{ The rook on c3 is overworked - it's defending both the pawn on c3 and the pawn on d3. By capturing the rook with Rxc3, we force bxc3, then capture the undefended pawn with Rxd3. Overworked pieces always fail! }
+{ The rook on c3 is overworked - it's defending both the pawn on c3 and the pawn on d1. By capturing the rook with Rxc3, we force bxc3, then capture the undefended pawn with Rxd3. Overworked pieces always fail! }
+
+
+
+
+
+
 
 
 
@@ -429,9 +561,15 @@
 [PuzzleId "TnOa7"]
 [Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-26. Qxa6 Nxa6 27. Rxc8+ *
+1. Qxa6 Nxa6 27. Rxc8+ *
 
-{ The queen on a6 is overworked - it's defending both the pawn on a6 and the rook on c8. By capturing the queen with Qxa6, we force Nxa6, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+{ The queen on a6 is overworked - it's defending both the pawn on a6 and the rook on c2. By capturing the queen with Qxa6, we force Nxa6, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+
+
+
+
+
+
 
 
 
@@ -448,9 +586,15 @@
 [PuzzleId "3NmL7"]
 [Themes "advantage capturingDefender discoveredAttack endgame short"]
 
-35... Qxc3 36. bxc3 Rxd3 *
+1... Qxc3 36. bxc3 Rxd3 *
 
-{ The queen on c3 is overworked - it's defending both the pawn on c3 and the knight on d3. By capturing the queen with Qxc3, we force bxc3, then capture the undefended knight with Rxd3. Overworked pieces always break! }
+{ The queen on c3 is overworked - it's defending both the pawn on c3 and the knight on d1. By capturing the queen with Qxc3, we force bxc3, then capture the undefended knight with Rxd3. Overworked pieces always break! }
+
+
+
+
+
+
 
 
 
@@ -467,6 +611,6 @@
 [PuzzleId "YXRiP"]
 [Themes "bishopEndgame crushing endgame short"]
 
-31. d6+ Bxd6 32. cxd6+ *
+1. d6+ Bxd6 32. cxd6+ *
 
-{ The bishop on d6 is overworked - it's defending both the pawn on d6 and the pawn on c6. By capturing the bishop with d6+, we force Bxd6, then capture the undefended pawn with cxd6+. One piece can't guard everything! }
+{ The bishop on d6 is overworked - it's defending both the pawn on d6 and the pawn on c2. By capturing the bishop with d6+, we force Bxd6, then capture the undefended pawn with cxd6+. One piece can't guard everything! }

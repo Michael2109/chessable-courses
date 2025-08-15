@@ -11,13 +11,19 @@
 [PuzzleId "YQAhT"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
 
-{{Endgame 5: Passed Pawn Power
+{Endgame 5: Passed Pawn Power
 
 This section focuses on Creating, advancing, defending.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-42. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+}
+1. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TQFHp"]
 [Themes "advancedPawn endgame master mate mateIn1 oneMove rookEndgame"]
 
-73... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+1... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -47,8 +59,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "thmSN"]
 [Themes "advancedPawn crushing endgame long master"]
 
-67. hxg5 { Passed pawn power! Creating a passed pawn. }
-67... h4 68. g6 h3 69. g7 *
+1. hxg5 { Passed pawn power! Creating a passed pawn. }
+3... h4 68. g6 h3 69. g7 *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -63,8 +81,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "uHki1"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-45... g3 { Passed pawn power! Advancing the passed pawn. }
-46. Nc7 g2 *
+1... g3 { Passed pawn power! Advancing the passed pawn. }
+2. Nc7 g2 *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -79,8 +103,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NE4qD"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-57. h5 { Passed pawn power! Advancing the passed pawn. }
-57... b5 58. h6 b4 59. h7 b3 60. h8=Q *
+1. h5 { Passed pawn power! Advancing the passed pawn. }
+3... b5 58. h6 b4 59. h7 b3 60. h8=Q *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -95,8 +125,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Pumc0"]
 [Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
 
-25... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
-26. Rxc1 bxc1=Q# *
+1... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
+2. Rxc1 bxc1=Q# *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -111,8 +147,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "vL5rL"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-52. b6 { Passed pawn power! Advancing the passed pawn. }
-52... Kd7 53. b7 *
+1. b6 { Passed pawn power! Advancing the passed pawn. }
+3... Kd7 53. b7 *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -127,8 +169,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3l0V1"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-54... a4 { Passed pawn power! Advancing the passed pawn. }
-55. Kd5 a3 56. Kc4 a2 *
+1... a4 { Passed pawn power! Advancing the passed pawn. }
+2. Kd5 a3 56. Kc4 a2 *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -143,7 +191,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "bTWz4"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove"]
 
-64. b7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+1. b7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -158,8 +212,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xjPbB"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-45... b3 { Passed pawn power! Advancing the passed pawn. }
-46. h6 b2 47. h7 b1=Q+ *
+1... b3 { Passed pawn power! Advancing the passed pawn. }
+2. h6 b2 47. h7 b1=Q+ *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -174,8 +234,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qT432"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-54. b6 { Passed pawn power! Advancing the passed pawn. }
-54... h3 55. b7 h2 56. b8=Q+ *
+1. b6 { Passed pawn power! Advancing the passed pawn. }
+3... h3 55. b7 h2 56. b8=Q+ *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -190,8 +256,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WIYYh"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-58... h4 { Passed pawn power! Advancing the passed pawn. }
-59. b5 h3 60. Kc7 h2 61. b6 h1=Q *
+1... h4 { Passed pawn power! Advancing the passed pawn. }
+2. b5 h3 60. Kc7 h2 61. b6 h1=Q *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -206,8 +278,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cN3m4"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-53. d6 { Passed pawn power! Advancing the passed pawn. }
-53... a4 54. d7 g2 55. d8=Q+ *
+1. d6 { Passed pawn power! Advancing the passed pawn. }
+3... a4 54. d7 g2 55. d8=Q+ *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -222,8 +300,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "42BSN"]
 [Themes "advancedPawn bishopEndgame crushing endgame short"]
 
-60... g3+ { Passed pawn power! Advancing the passed pawn. }
-61. Kxh3 g2 *
+1... g3+ { Passed pawn power! Advancing the passed pawn. }
+2. Kxh3 g2 *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -238,8 +322,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GT9Zy"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-51. h5 { Passed pawn power! Advancing the passed pawn. }
-51... b4 52. h6 Kc2 53. h7 b3 54. h8=Q *
+1. h5 { Passed pawn power! Advancing the passed pawn. }
+3... b4 52. h6 Kc2 53. h7 b3 54. h8=Q *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -254,8 +344,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "nadTW"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-48... h3 { Passed pawn power! Advancing the passed pawn. }
-49. a6 h2 50. a7 h1=Q *
+1... h3 { Passed pawn power! Advancing the passed pawn. }
+2. a6 h2 50. a7 h1=Q *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -270,8 +366,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "8ixnO"]
 [Themes "advancedPawn crushing endgame knightEndgame promotion short"]
 
-67. h7 { Passed pawn power! Advancing the passed pawn. }
-67... Ng5 68. h8=Q+ *
+1. h7 { Passed pawn power! Advancing the passed pawn. }
+3... Ng5 68. h8=Q+ *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -286,8 +388,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "YC4bk"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-55... h3 { Passed pawn power! Advancing the passed pawn. }
-56. Kf3 h2 57. Kg2 h1=Q+ *
+1... h3 { Passed pawn power! Advancing the passed pawn. }
+2. Kf3 h2 57. Kg2 h1=Q+ *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -302,8 +410,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example19"]
 [Themes "advancedPawn endgame pawnEndgame promotion"]
 
-50. b4 { Passed pawn power! Advancing the passed pawn. }
-50... Kc2 51. b5 Kd3 52. b6 *
+1. b4 { Passed pawn power! Advancing the passed pawn. }
+3... Kc2 51. b5 Kd3 52. b6 *
+
+
+
+
+
+
 
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
@@ -318,5 +432,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example20"]
 [Themes "advancedPawn endgame pawnEndgame promotion"]
 
-60... g2 { Passed pawn power! Advancing the passed pawn. }
-61. Kf2 g1=Q+ *
+1... g2 { Passed pawn power! Advancing the passed pawn. }
+2. Kf2 g1=Q+ *

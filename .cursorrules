@@ -15,4 +15,8 @@ Ensure that the puzzle event name matches the chapter name in the README.md.
 
 Ensure each puzzle is valid pgn format.
 
+Validate the pgns after working on them.
+
+Don't write scripts. Go through the files yourself.
+
 Ultrathink. Be extra careful that each of your puzzle choices match the chapter category and difficulty.

@@ -11,13 +11,19 @@
 [PuzzleId "example1"]
 [Themes "opening defensiveMove short"]
 
-{{Practical 1: Survive the Opening!
+{Practical 1: Survive the Opening!
 
 This section focuses on Defending against Scholar's mate, traps.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
+}
 1. e4 { Start with a strong center move! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -34,6 +40,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. e4 { Control the center! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -48,6 +60,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. d4 { Control the center! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -64,6 +82,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. d4 { Control the center! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -78,6 +102,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. Nf3 { Develop with tempo! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -94,6 +124,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. Nf3 { Develop with tempo! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -108,6 +144,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. c4 { Control the center! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -124,6 +166,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. c4 { Control the center! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -138,6 +186,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. g3 { Develop safely! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -154,6 +208,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. g3 { Develop safely! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -168,6 +228,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. b3 { Develop safely! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -184,6 +250,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. b3 { Develop safely! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -198,6 +270,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. f4 { Control the center! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -214,6 +292,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. f4 { Control the center! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -228,6 +312,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. Nc3 { Develop with tempo! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -244,6 +334,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. Nc3 { Develop with tempo! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -258,6 +354,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. Bc4 { Develop actively! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
@@ -274,6 +376,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 
 1. Bc4 { Develop actively! } *
 
+
+
+
+
+
+
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -288,6 +396,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "opening defensiveMove short"]
 
 1. Bf4 { Develop actively! } *
+
+
+
+
+
+
 
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]

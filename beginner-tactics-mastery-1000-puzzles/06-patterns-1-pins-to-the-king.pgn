@@ -18,6 +18,12 @@ This section focuses on Pinning pieces to the king, creating devastating kingsid
 Learn to recognize when pieces are pinned to the king and exploit these tactical opportunities.}
 1... Rxf1# { Pin to the king! The rook on f1 is pinned to the king and cannot move, allowing us to deliver checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -32,6 +38,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "kingsideAttack mate mateIn2 middlegame pin short"]
 
 1. Rd8+ { Pin to the king! The knight on e8 is pinned to the king and cannot move. } 1... Ne8 2. Rxe8# *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -48,6 +60,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Qxf8# { Pin to the king! The rook on f8 is pinned to the king and cannot move, allowing checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -62,6 +80,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
 1. Rxe8# { Pin to the king! The queen on e8 is pinned to the king and cannot move, allowing checkmate. } *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -78,6 +102,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1... Nxg3# { Pin to the king! The bishop on g3 is pinned to the king and cannot move, allowing checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -92,6 +122,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
 1. Nxg6# { Pin to the king! The pawn on g6 is pinned to the king and cannot move, allowing checkmate. } *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -108,6 +144,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1... Nxg3# { Pin to the king! The bishop on g3 is pinned to the king and cannot move, allowing checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -122,6 +164,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "advantage kingsideAttack middlegame pin short"]
 
 1. Nf6+ { Pin to the king! The knight check pins the king to the back rank. } 1... Kf7 2. Nxe8 *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -138,6 +186,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Rd8+ { Pin to the king! The queen on e8 is pinned to the king and cannot move. } 1... Qe8 2. Rxe8# *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -152,6 +206,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
 1... Nxg3# { Pin to the king! The bishop on g3 is pinned to the king and cannot move, allowing checkmate. } *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -168,6 +228,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Re8+ { Pin to the king! The rook on e8 is pinned to the king and cannot move. } 1... Rxe8 2. Rxe8# *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -182,6 +248,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "advantage kingsideAttack middlegame pin short"]
 
 1. Rxf8+ { Pin to the king! The bishop on f8 is pinned to the king and cannot move. } 1... Bxf8 2. Rd8 *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -198,6 +270,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1... Nf3+ { Pin to the king! The discovered attack pins the rook to the king. } 2. Rxf3 Qxd4+ *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -212,6 +290,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "crushing endgame kingsideAttack long pin"]
 
 1. Qe8+ { Pin to the king! The queen check pins the king to the back rank. } 1... Kh7 2. Be4 Qxe4 3. Qxe4+ *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -228,6 +312,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Rxf8# { Pin to the king! The rook on f8 is pinned to the king and cannot move, allowing checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -242,6 +332,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
 1. Nxg6# { Pin to the king! The pawn on g6 is pinned to the king and cannot move, allowing checkmate. } *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -258,6 +354,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Qxg6# { Pin to the king! The pawn on g6 is pinned to the king and cannot move, allowing checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -272,6 +374,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "advantage kingsideAttack middlegame pin short"]
 
 1... Nxh3+ { Pin to the king! The knight check pins the king to the back rank. } 2. Kh2 Nxf4 *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -288,6 +396,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Rd8+ { Pin to the king! The queen on e8 is pinned to the king and cannot move. } 1... Qe8 2. Rxe8# *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -302,6 +416,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "deflection kingsideAttack mate mateIn2 middlegame pin short"]
 
 1... Nf3+ { Pin to the king! The knight check pins the king to the back rank. } 2. Kh1 Qxf1# *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -318,6 +438,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1. Rxf8# { Pin to the king! The rook on f8 is pinned to the king and cannot move, allowing checkmate. } *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -332,6 +458,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
 1. Nxg6# { Pin to the king! The pawn on g6 is pinned to the king and cannot move, allowing checkmate. } *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
@@ -348,6 +480,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 
 1... Rxf1+ { Pin to the king! The rook check pins the king to the back rank. } 2. Rxf1 Qxh2# *
 
+
+
+
+
+
+
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
@@ -362,6 +500,12 @@ Learn to recognize when pieces are pinned to the king and exploit these tactical
 [Themes "advantage deflection kingsideAttack master middlegame pin short"]
 
 1. Nxh6+ { Pin to the king! The knight check pins the king to the back rank. } 1... Kh8 2. Nxf7+ *
+
+
+
+
+
+
 
 [Event "Patterns 1: Pins to the King"]
 [Site "https://lichess.org"]

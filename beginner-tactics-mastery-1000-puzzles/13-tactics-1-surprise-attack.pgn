@@ -11,14 +11,20 @@
 [PuzzleId "mY24e"]
 [Themes "advantage discoveredAttack middlegame short"]
 
-{{Tactics 1: Surprise Attack!
+{Tactics 1: Surprise Attack!
 
 This section focuses on Simple discoveries, setup moves.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-30. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-30... Bxe8 31. Qxd4 *
+}
+1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Bxe8 31. Qxd4 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jqQBr"]
 [Themes "advantage discoveredAttack endgame short"]
 
-25... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
-26. Rxd1 Bxf5 *
+1... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
+2. Rxd1 Bxf5 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TkME2"]
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
-29. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-29... Rxd8 30. Qxe6+ *
+1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Rxd8 30. Qxe6+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XN3Fv"]
 [Themes "crushing discoveredAttack middlegame short"]
 
-22... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
-23. cxb4 Rxc1+ *
+1... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
+2. cxb4 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "z6zNe"]
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
-22. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-22... Kxh7 23. Rxd7 *
+1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+3... Kxh7 23. Rxd7 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6kkuP"]
 [Themes "crushing discoveredAttack endgame short"]
 
-28... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-29. Kxh2 Rxd1 *
+1... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+2. Kxh2 Rxd1 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mY24e"]
 [Themes "advantage discoveredAttack middlegame short"]
 
-30. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-30... Bxe8 31. Qxd4 *
+1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Bxe8 31. Qxd4 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jqQBr"]
 [Themes "advantage discoveredAttack endgame short"]
 
-25... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
-26. Rxd1 Bxf5 *
+1... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
+2. Rxd1 Bxf5 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TkME2"]
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
-29. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-29... Rxd8 30. Qxe6+ *
+1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Rxd8 30. Qxe6+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XN3Fv"]
 [Themes "crushing discoveredAttack middlegame short"]
 
-22... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
-23. cxb4 Rxc1+ *
+1... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
+2. cxb4 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "z6zNe"]
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
-22. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-22... Kxh7 23. Rxd7 *
+1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+3... Kxh7 23. Rxd7 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6kkuP"]
 [Themes "crushing discoveredAttack endgame short"]
 
-28... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-29. Kxh2 Rxd1 *
+1... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+2. Kxh2 Rxd1 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mY24e"]
 [Themes "advantage discoveredAttack middlegame short"]
 
-30. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-30... Bxe8 31. Qxd4 *
+1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Bxe8 31. Qxd4 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jqQBr"]
 [Themes "advantage discoveredAttack endgame short"]
 
-25... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
-26. Rxd1 Bxf5 *
+1... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
+2. Rxd1 Bxf5 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TkME2"]
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
-29. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-29... Rxd8 30. Qxe6+ *
+1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Rxd8 30. Qxe6+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XN3Fv"]
 [Themes "crushing discoveredAttack middlegame short"]
 
-22... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
-23. cxb4 Rxc1+ *
+1... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
+2. cxb4 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "z6zNe"]
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
-22. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-22... Kxh7 23. Rxd7 *
+1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+3... Kxh7 23. Rxd7 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6kkuP"]
 [Themes "crushing discoveredAttack endgame short"]
 
-28... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-29. Kxh2 Rxd1 *
+1... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+2. Kxh2 Rxd1 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mY24e"]
 [Themes "advantage discoveredAttack middlegame short"]
 
-30. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-30... Bxe8 31. Qxd4 *
+1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Bxe8 31. Qxd4 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -321,8 +435,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jqQBr"]
 [Themes "advantage discoveredAttack endgame short"]
 
-25... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
-26. Rxd1 Bxf5 *
+1... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
+2. Rxd1 Bxf5 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -337,8 +457,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TkME2"]
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
-29. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-29... Rxd8 30. Qxe6+ *
+1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Rxd8 30. Qxe6+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -353,8 +479,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XN3Fv"]
 [Themes "crushing discoveredAttack middlegame short"]
 
-22... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
-23. cxb4 Rxc1+ *
+1... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
+2. cxb4 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -369,8 +501,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "z6zNe"]
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
-22. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-22... Kxh7 23. Rxd7 *
+1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+3... Kxh7 23. Rxd7 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -385,8 +523,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6kkuP"]
 [Themes "crushing discoveredAttack endgame short"]
 
-28... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-29. Kxh2 Rxd1 *
+1... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+2. Kxh2 Rxd1 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -401,8 +545,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mY24e"]
 [Themes "advantage discoveredAttack middlegame short"]
 
-30. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-30... Bxe8 31. Qxd4 *
+1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Bxe8 31. Qxd4 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -417,8 +567,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jqQBr"]
 [Themes "advantage discoveredAttack endgame short"]
 
-25... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
-26. Rxd1 Bxf5 *
+1... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
+2. Rxd1 Bxf5 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -433,8 +589,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TkME2"]
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
-29. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
-29... Rxd8 30. Qxe6+ *
+1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+3... Rxd8 30. Qxe6+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -449,8 +611,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XN3Fv"]
 [Themes "crushing discoveredAttack middlegame short"]
 
-22... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
-23. cxb4 Rxc1+ *
+1... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
+2. cxb4 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -465,8 +633,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "z6zNe"]
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
-22. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-22... Kxh7 23. Rxd7 *
+1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+3... Kxh7 23. Rxd7 *
+
+
+
+
+
+
 
 [Event "Tactics 1: Surprise Attack!"]
 [Site "https://lichess.org"]
@@ -481,5 +655,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6kkuP"]
 [Themes "crushing discoveredAttack endgame short"]
 
-28... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
-29. Kxh2 Rxd1 *
+1... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+2. Kxh2 Rxd1 *

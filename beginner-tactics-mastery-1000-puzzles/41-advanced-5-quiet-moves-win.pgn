@@ -11,14 +11,20 @@
 [PuzzleId "iO9oS"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-{{Advanced 5: Quiet Moves Win
+{Advanced 5: Quiet Moves Win
 
 This section focuses on Non-Forcing Winning Moves.
 
 Learn to recognize quiet moves that create winning positions without immediate threats. These subtle moves often create zugzwang, improve piece placement, or prepare decisive breakthroughs.
-}}
-56. g5 { Quiet move! Creating a passed pawn without immediate threats. }
-56... Kc3 57. g6 { The pawn advance creates winning chances. }
+}
+1. g5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... Kc3 57. g6 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "uQzmv"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-43... g4 { Quiet move! Creating a passed pawn without immediate threats. }
-44. c4 g3 45. c5 g2 { The pawn advance creates winning chances. }
+1... g4 { Quiet move! Creating a passed pawn without immediate threats. }
+2. c4 g3 45. c5 g2 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "tyQKY"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-44. a5 { Quiet move! Creating a passed pawn without immediate threats. }
-44... Kh4 45. a6 g4 46. a7 g3 47. a8=Q { The pawn advance creates winning chances. }
+1. a5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... Kh4 45. a6 g4 46. a7 g3 47. a8=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "1vrby"]
 [Themes "crushing endgame long pawnEndgame quietMove"]
 
-48... f5 { Quiet move! Creating a passed pawn without immediate threats. }
-49. Kh6 f4 50. Kxh5 f3 { The pawn advance creates winning chances. }
+1... f5 { Quiet move! Creating a passed pawn without immediate threats. }
+2. Kh6 f4 50. Kxh5 f3 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "x36AN"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-50. a6 { Quiet move! Creating a passed pawn without immediate threats. }
-50... b4 51. a7 { The pawn advance creates winning chances. }
+1. a6 { Quiet move! Creating a passed pawn without immediate threats. }
+3... b4 51. a7 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "YsJBB"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-60... a4 { Quiet move! Creating a passed pawn without immediate threats. }
-61. Kh5 a3 62. g5 a2 63. g6 a1=Q { The pawn advance creates winning chances. }
+1... a4 { Quiet move! Creating a passed pawn without immediate threats. }
+2. Kh5 a3 62. g5 a2 63. g6 a1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "ngBTW"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-59. a5 { Quiet move! Creating a passed pawn without immediate threats. }
-59... g4 60. a6 g3 61. a7 g2 62. a8=Q+ { The pawn advance creates winning chances. }
+1. a5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... g4 60. a6 g3 61. a7 g2 62. a8=Q+ { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "cN3m4"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-53. d6 { Quiet move! Creating a passed pawn without immediate threats. }
-53... a4 54. d7 g2 55. d8=Q+ { The pawn advance creates winning chances. }
+1. d6 { Quiet move! Creating a passed pawn without immediate threats. }
+3... a4 54. d7 g2 55. d8=Q+ { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "nadTW"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
 
-48... h3 { Quiet move! Creating a passed pawn without immediate threats. }
-49. a6 h2 50. a7 h1=Q { The pawn advance creates winning chances. }
+1... h3 { Quiet move! Creating a passed pawn without immediate threats. }
+2. a6 h2 50. a7 h1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "VwoKr"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-41. a5 { Quiet move! Creating a passed pawn without immediate threats. }
-41... c5 42. a6 { The pawn advance creates winning chances. }
+1. a5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... c5 42. a6 { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "YC4bk"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-55... h3 { Quiet move! Creating a passed pawn without immediate threats. }
-56. f5 h2 57. f6 h1=Q { The pawn advance creates winning chances. }
+1... h3 { Quiet move! Creating a passed pawn without immediate threats. }
+2. f5 h2 57. f6 h1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "rvFW3"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-49. g5 { Quiet move! Creating a passed pawn without immediate threats. }
-49... Kxc2 50. g6 d4 51. g7 d3 52. g8=Q { The pawn advance creates winning chances. }
+1. g5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... Kxc2 50. g6 d4 51. g7 d3 52. g8=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "7K3UU"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-41... b4 { Quiet move! Creating a passed pawn without immediate threats. }
-42. f4 b3 43. f5 b2 44. f6 b1=Q { The pawn advance creates winning chances. }
+1... b4 { Quiet move! Creating a passed pawn without immediate threats. }
+2. f4 b3 43. f5 b2 44. f6 b1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "iEHuy"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-50. e5 { Quiet move! Creating a passed pawn without immediate threats. }
-50... b4 51. e6 b3 52. e7 Ka3 53. e8=Q { The pawn advance creates winning chances. }
+1. e5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... b4 51. e6 b3 52. e7 Ka3 53. e8=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "bLX3L"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-50... f3 { Quiet move! Creating a passed pawn without immediate threats. }
-51. g6 f2 52. g7 f1=Q { The pawn advance creates winning chances. }
+1... f3 { Quiet move! Creating a passed pawn without immediate threats. }
+2. g6 f2 52. g7 f1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "XtZgK"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-51. a4 { Quiet move! Creating a passed pawn without immediate threats. }
-51... g5 52. a5 g4 53. a6 Kh2 54. a7 g3 55. a8=Q { The pawn advance creates winning chances. }
+1. a4 { Quiet move! Creating a passed pawn without immediate threats. }
+3... g5 52. a5 g4 53. a6 Kh2 54. a7 g3 55. a8=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "dlR6b"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-51... a4 { Quiet move! Creating a passed pawn without immediate threats. }
-52. g5 a3 53. g6 a2 54. Kf7 a1=Q { The pawn advance creates winning chances. }
+1... a4 { Quiet move! Creating a passed pawn without immediate threats. }
+2. g5 a3 53. g6 a2 54. Kf7 a1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "PuoiX"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-53. f5 { Quiet move! Creating a passed pawn without immediate threats. }
-53... Kxb3 54. f6 a4 55. f7 a3 56. f8=Q { The pawn advance creates winning chances. }
+1. f5 { Quiet move! Creating a passed pawn without immediate threats. }
+3... Kxb3 54. f6 a4 55. f7 a3 56. f8=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "fbRB7"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-47... a5 { Quiet move! Creating a passed pawn without immediate threats. }
-48. Kf7 a4 49. g4 a3 50. g5 a2 51. g6 a1=Q { The pawn advance creates winning chances. }
+1... a5 { Quiet move! Creating a passed pawn without immediate threats. }
+2. Kf7 a4 49. g4 a3 50. g5 a2 51. g6 a1=Q { The pawn advance creates winning chances. }
+
+
+
+
+
+
 
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
@@ -321,5 +435,5 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [PuzzleId "fr0Ce"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-47. a6 { Quiet move! Creating a passed pawn without immediate threats. }
-47... f4 48. a7 f3 49. a8=Q { The pawn advance creates winning chances. }
+1. a6 { Quiet move! Creating a passed pawn without immediate threats. }
+3... f4 48. a7 f3 49. a8=Q { The pawn advance creates winning chances. }

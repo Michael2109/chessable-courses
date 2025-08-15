@@ -11,14 +11,20 @@
 [PuzzleId "eDwzg"]
 [Themes "crushing master middlegame short trappedPiece"]
 
-{{Intermediate 4: Trapped Pieces
+{Intermediate 4: Trapped Pieces
 
 This section focuses on Trapped bishops (15), queens (10), rooks (10).
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-24. Kxg2 { Trapped piece! The bishop is trapped and will be captured. }
-24... Rxc1 25. Rxc1 *
+}
+1. Kxg2 { Trapped piece! The bishop is trapped and will be captured. }
+3... Rxc1 25. Rxc1 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NskoT"]
 [Themes "crushing endgame knightEndgame short trappedPiece"]
 
-53... Kb2 { Trapped piece! The knight is trapped and will be captured. }
-54. g4 Kxa1 *
+1... Kb2 { Trapped piece! The knight is trapped and will be captured. }
+2. g4 Kxa1 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SUEla"]
 [Themes "advantage middlegame short trappedPiece"]
 
-12. Qxd3 { Trapped piece! The bishop is trapped and will be captured. }
-12... Bxf2+ 13. Kxf2 *
+1. Qxd3 { Trapped piece! The bishop is trapped and will be captured. }
+3... Bxf2+ 13. Kxf2 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "E16tz"]
 [Themes "advantage master middlegame short trappedPiece"]
 
-39... Rxa7 { Trapped piece! The rook is trapped and will be captured. }
-40. Rxd7+ Kxd7 *
+1... Rxa7 { Trapped piece! The rook is trapped and will be captured. }
+2. Rxd7+ Kxd7 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NwSlE"]
 [Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
 
-58. g6+ { Trapped piece! The bishop is trapped and will be captured. }
-58... Ke7 59. g7 Bxg7 60. hxg7 *
+1. g6+ { Trapped piece! The bishop is trapped and will be captured. }
+3... Ke7 59. g7 Bxg7 60. hxg7 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "7i8hC"]
 [Themes "advantage hangingPiece middlegame short trappedPiece"]
 
-27... Qxd5 { Trapped piece! The queen is trapped and will be captured. }
-28. Qxf6+ Kxf6 *
+1... Qxd5 { Trapped piece! The queen is trapped and will be captured. }
+2. Qxf6+ Kxf6 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xMeus"]
 [Themes "crushing middlegame short trappedPiece"]
 
-22. Kxc1 { Trapped piece! The rook is trapped and will be captured. }
-22... Rxb3 23. Nxb3 *
+1. Kxc1 { Trapped piece! The rook is trapped and will be captured. }
+3... Rxb3 23. Nxb3 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Lxj5n"]
 [Themes "crushing middlegame short trappedPiece"]
 
-29... Rxg6 { Trapped piece! The queen is trapped and will be captured. }
-30. Qxg6+ Kxg6 *
+1... Rxg6 { Trapped piece! The queen is trapped and will be captured. }
+2. Qxg6+ Kxg6 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "LmWls"]
 [Themes "advantage middlegame short trappedPiece"]
 
-18. Kxf3 { Trapped piece! The queen is trapped and will be captured. }
-18... Qh4 19. Rxh4 *
+1. Kxf3 { Trapped piece! The queen is trapped and will be captured. }
+3... Qh4 19. Rxh4 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "fWZoK"]
 [Themes "advantage endgame short trappedPiece"]
 
-35... Bxd3 { Trapped piece! The queen is trapped and will be captured. }
-36. Qxd3+ Kxd3 *
+1... Bxd3 { Trapped piece! The queen is trapped and will be captured. }
+2. Qxd3+ Kxd3 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "gnePb"]
 [Themes "advantage middlegame short trappedPiece"]
 
-20. Kxe2 { Trapped piece! The knight is trapped and will be captured. }
-20... Nf2 21. Kxf2 *
+1. Kxe2 { Trapped piece! The knight is trapped and will be captured. }
+3... Nf2 21. Kxf2 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FMG6d"]
 [Themes "advancedPawn bishopEndgame crushing endgame long promotion trappedPiece"]
 
-39... g2 { Trapped piece! The bishop is trapped and will be captured. }
-40. b6 g1=Q 41. b7 Qg6+ 42. Kf4 Qxb1 *
+1... g2 { Trapped piece! The bishop is trapped and will be captured. }
+2. b6 g1=Q 41. b7 Qg6+ 42. Kf4 Qxb1 *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED13"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED14"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED15"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED16"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED17"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED18"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED19"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -321,8 +435,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED20"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -337,8 +457,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED21"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -353,8 +479,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED22"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -369,8 +501,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED23"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -385,8 +523,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED24"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -401,8 +545,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED25"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -417,8 +567,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED26"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -433,8 +589,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED27"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -449,8 +611,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED28"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -465,8 +633,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED29"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -481,8 +655,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED30"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -497,8 +677,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED31"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -513,8 +699,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED32"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -529,8 +721,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED33"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -545,8 +743,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED34"]
 [Themes "trappedPiece opening"]
 
-3... Nxe4 { Trapped piece! The knight is trapped after this move. }
-4. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe4 { Trapped piece! The knight is trapped after this move. }
+2. Bxf7+ Kxf7 5. Qd5+ *
+
+
+
+
+
+
 
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
@@ -561,5 +765,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TRAPPED35"]
 [Themes "trappedPiece opening"]
 
-4. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-4... Kxf7 5. Ne5+ *
+1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
+3... Kxf7 5. Ne5+ *

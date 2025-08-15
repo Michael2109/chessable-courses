@@ -11,13 +11,19 @@
 [PuzzleId "YNqxV"]
 [Themes "advantage endgame fork hangingPiece short"]
 
-{{Basics 2: Free Pieces!
+{Basics 2: Free Pieces!
 
 This section focuses on One-move captures, undefended pieces.
 
 Build core habits and quick recognition by checking forcing moves first.
-}}
-38... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 39. Kf1 Bxd2 *
+}
+1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 39. Kf1 Bxd2 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gI7gR"]
 [Themes "crushing endgame hangingPiece master short"]
 
-51. fxe5 { Free piece! The queen on e5 is undefended and can be captured for free. } 51... Kb4 52. e6 *
+1. fxe5 { Free piece! The queen on e5 is undefended and can be captured for free. } 51... Kb4 52. e6 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -47,7 +59,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "u4EHA"]
 [Themes "crushing endgame hangingPiece master short"]
 
-58. Bxe6 { Free piece! The knight on e6 is undefended and can be captured for free. } 58... g1=Q+ 59. Kxg1 *
+1. Bxe6 { Free piece! The knight on e6 is undefended and can be captured for free. } 58... g1=Q+ 59. Kxg1 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -62,7 +80,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GatFx"]
 [Themes "crushing endgame hangingPiece knightEndgame master short"]
 
-49. Nxe5 { Free piece! The pawn on e5 is undefended and can be captured for free. } 49... c4 50. Nxc4 *
+1. Nxe5 { Free piece! The pawn on e5 is undefended and can be captured for free. } 49... c4 50. Nxc4 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -77,7 +101,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "VRKPc"]
 [Themes "advantage hangingPiece opening short"]
 
-8. Qxc2 { Free piece! The knight on c2 is undefended and can be captured for free. } 8... Qxd5 9. exd5 *
+1. Qxc2 { Free piece! The knight on c2 is undefended and can be captured for free. } 8... Qxd5 9. exd5 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -92,7 +122,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "btPUz"]
 [Themes "advantage hangingPiece middlegame short"]
 
-24... Qxb7 { Free piece! The rook on b7 is undefended and can be captured for free. } 25. Rxg7+ Kxg7 *
+1... Qxb7 { Free piece! The rook on b7 is undefended and can be captured for free. } 25. Rxg7+ Kxg7 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -107,7 +143,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GJCmm"]
 [Themes "advantage hangingPiece middlegame short"]
 
-18. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
+1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -122,7 +164,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xIxZe"]
 [Themes "advantage hangingPiece middlegame short"]
 
-15. Bxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 15... Nxe3 16. fxe3 *
+1. Bxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 15... Nxe3 16. fxe3 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -137,7 +185,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "EWvXq"]
 [Themes "crushing endgame hangingPiece master short"]
 
-34. Qxe5 { Free piece! The bishop on e5 is undefended and can be captured for free. } 34... Qf7 35. Qxe4 *
+1. Qxe5 { Free piece! The bishop on e5 is undefended and can be captured for free. } 34... Qf7 35. Qxe4 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -152,7 +206,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HuatU"]
 [Themes "advantage endgame hangingPiece short"]
 
-33... Rxe8 { Free piece! The rook on e8 is undefended and can be captured for free. } 34. Qxd6 Nxd6 *
+1... Rxe8 { Free piece! The rook on e8 is undefended and can be captured for free. } 34. Qxd6 Nxd6 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -167,7 +227,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "293f1"]
 [Themes "endgame hangingPiece long mate mateIn3"]
 
-52... Kxh6 { Free piece! The pawn on h6 is undefended and can be captured for free. } 53. Qh3+ Kg5 *
+1... Kxh6 { Free piece! The pawn on h6 is undefended and can be captured for free. } 53. Qh3+ Kg5 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -182,7 +248,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "ECFrj"]
 [Themes "crushing endgame hangingPiece long"]
 
-56... Kxb7 { Free piece! The knight on b7 is undefended and can be captured for free. } 57. d7 Kc7 58. d8=R Kxd8 *
+1... Kxb7 { Free piece! The knight on b7 is undefended and can be captured for free. } 57. d7 Kc7 58. d8=R Kxd8 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -197,7 +269,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wsIme"]
 [Themes "advancedPawn crushing endgame hangingPiece master promotion short"]
 
-55. Bxc1 { Free piece! The queen on c1 is undefended and can be captured for free. } 55... a1=Q 56. f8=Q *
+1. Bxc1 { Free piece! The queen on c1 is undefended and can be captured for free. } 55... a1=Q 56. f8=Q *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -212,7 +290,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "3yoYO"]
 [Themes "crushing endgame hangingPiece long"]
 
-38... Kxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 39. f7 Ke7 40. f8=Q+ Kxf8 *
+1... Kxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 39. f7 Ke7 40. f8=Q+ Kxf8 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -227,7 +311,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GJCmm"]
 [Themes "advantage hangingPiece middlegame short"]
 
-18. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
+1. Rxd7 { Free piece! The knight on d7 is undefended and can be captured for free. } 18... Nxe3 19. fxe3 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -242,7 +332,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HMKOQ"]
 [Themes "advantage endgame hangingPiece short"]
 
-25... Qxf1+ { Free piece! The rook on f1 is undefended and can be captured for free. } 26. Qg1 Qxg1+ *
+1... Qxf1+ { Free piece! The rook on f1 is undefended and can be captured for free. } 26. Qg1 Qxg1+ *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -257,7 +353,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "NG37h"]
 [Themes "crushing endgame hangingPiece short"]
 
-61. Kxe6 { Free piece! The bishop on e6 is undefended and can be captured for free. } 61... Kf3 62. Kf5 *
+1. Kxe6 { Free piece! The bishop on e6 is undefended and can be captured for free. } 61... Kf3 62. Kf5 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -272,7 +374,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "9MxU5"]
 [Themes "advantage hangingPiece long middlegame"]
 
-26... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 27. Kh1 Rxb8 28. Bxb8+ Kxb8 *
+1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 27. Kh1 Rxb8 28. Bxb8+ Kxb8 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -287,7 +395,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "mXav4"]
 [Themes "advantage hangingPiece middlegame short"]
 
-32. Qxd4 { Free piece! The knight on d4 is undefended and can be captured for free. } 32... Rxe2 33. Rxe2 *
+1. Qxd4 { Free piece! The knight on d4 is undefended and can be captured for free. } 32... Rxe2 33. Rxe2 *
+
+
+
+
+
+
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -302,4 +416,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "dHAvL"]
 [Themes "crushing endgame hangingPiece short"]
 
-33... Bxb2 { Free piece! The rook on b2 is undefended and can be captured for free. } 34. Ra8+ Kf7 *
+1... Bxb2 { Free piece! The rook on b2 is undefended and can be captured for free. } 34. Ra8+ Kf7 *

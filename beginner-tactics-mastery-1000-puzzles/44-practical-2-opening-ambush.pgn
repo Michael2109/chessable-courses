@@ -11,14 +11,20 @@
 [PuzzleId "eDwzg"]
 [Themes "crushing master middlegame short trappedPiece"]
 
-{{Practical 2: Opening Ambush
+{Practical 2: Opening Ambush
 
 This section focuses on Legal's Trap, Queen Traps, and Quick Wins.
 
 Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize and execute opening traps that can quickly win material or create decisive advantages.
-}}
-24. Kxg2 { Legal's trap! Capturing the bishop with the king. }
-24... Rxc1 25. Rxc1 { Winning the trapped rook. }
+}
+1. Kxg2 { Legal's trap! Capturing the bishop with the king. }
+3... Rxc1 25. Rxc1 { Winning the trapped rook. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "NskoT"]
 [Themes "crushing endgame knightEndgame short trappedPiece"]
 
-53... Kb2 { Trapping the knight! }
-54. g4 Kxa1 { Winning the trapped knight. }
+1... Kb2 { Trapping the knight! }
+2. g4 Kxa1 { Winning the trapped knight. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "SUEla"]
 [Themes "advantage middlegame short trappedPiece"]
 
-12. Qxd3 { Queen trap! Capturing the trapped pawn. }
-12... Bxf2+ 13. Kxf2 { Winning the trapped bishop. }
+1. Qxd3 { Queen trap! Capturing the trapped pawn. }
+3... Bxf2+ 13. Kxf2 { Winning the trapped bishop. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "E16tz"]
 [Themes "advantage master middlegame short trappedPiece"]
 
-39... Rxa7 { Trapping the rook! }
-40. Rxd7+ Kxd7 { Winning the trapped rook. }
+1... Rxa7 { Trapping the rook! }
+2. Rxd7+ Kxd7 { Winning the trapped rook. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "NwSlE"]
 [Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
 
-58. g6+ { Trapping the bishop! }
-58... Ke7 59. g7 Bxg7 60. hxg7 { Winning the trapped bishop. }
+1. g6+ { Trapping the bishop! }
+3... Ke7 59. g7 Bxg7 60. hxg7 { Winning the trapped bishop. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "7i8hC"]
 [Themes "advantage hangingPiece middlegame short trappedPiece"]
 
-27... Qxd5 { Queen trap! Capturing the trapped queen. }
-28. Qxf6+ Kxf6 { Winning the trapped queen. }
+1... Qxd5 { Queen trap! Capturing the trapped queen. }
+2. Qxf6+ Kxf6 { Winning the trapped queen. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "xMeus"]
 [Themes "crushing middlegame short trappedPiece"]
 
-22. Kxc1 { Trapping the rook! }
-22... Rxb3 23. Nxb3 { Winning the trapped rook. }
+1. Kxc1 { Trapping the rook! }
+3... Rxb3 23. Nxb3 { Winning the trapped rook. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "Lxj5n"]
 [Themes "crushing middlegame short trappedPiece"]
 
-29... Rxg6 { Trapping the queen! }
-30. Qxg6+ Kxg6 { Winning the trapped queen. }
+1... Rxg6 { Trapping the queen! }
+2. Qxg6+ Kxg6 { Winning the trapped queen. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "LmWls"]
 [Themes "advantage middlegame short trappedPiece"]
 
-18. Kxf3 { Trapping the queen! }
-18... Qh4 19. Rxh4 { Winning the trapped queen. }
+1. Kxf3 { Trapping the queen! }
+3... Qh4 19. Rxh4 { Winning the trapped queen. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "fWZoK"]
 [Themes "advantage endgame short trappedPiece"]
 
-35... Bxd3 { Trapping the queen! }
-36. Qxd3+ Kxd3 { Winning the trapped queen. }
+1... Bxd3 { Trapping the queen! }
+2. Qxd3+ Kxd3 { Winning the trapped queen. }
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -177,7 +237,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "RZzYJ"]
 [Themes "mate mateIn1 oneMove opening"]
 
-6. Qxg6# { Opening ambush! Quick mate in the opening. } *
+1. Qxg6# { Opening ambush! Quick mate in the opening. } *
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -192,8 +258,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "tl9xv"]
 [Themes "kingsideAttack mate mateIn2 opening short"]
 
-14... Qd1+ { Opening ambush! Quick mate threat. }
-15. Re1 Qxe1# *
+1... Qd1+ { Opening ambush! Quick mate threat. }
+2. Re1 Qxe1# *
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -208,7 +280,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "FEHvg"]
 [Themes "attackingF2F7 mate mateIn1 oneMove opening"]
 
-6. Qxf7# { Opening ambush! Quick mate in the opening. } *
+1. Qxf7# { Opening ambush! Quick mate in the opening. } *
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -223,7 +301,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "52I2M"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
 
-12... Qxe1# { Opening ambush! Quick mate in the opening. } *
+1... Qxe1# { Opening ambush! Quick mate in the opening. } *
+
+
+
+
+
+
 
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
@@ -238,4 +322,4 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "CpHCK"]
 [Themes "hangingPiece mate mateIn1 oneMove opening"]
 
-8. Qxh5# { Opening ambush! Quick mate in the opening. } *
+1. Qxh5# { Opening ambush! Quick mate in the opening. } *

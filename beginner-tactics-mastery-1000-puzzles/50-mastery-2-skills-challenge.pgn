@@ -11,13 +11,19 @@
 [PuzzleId "TDEmA"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
 
-{{Mastery 2: Skills Challenge
+{Mastery 2: Skills Challenge
 
 This section focuses on Medium Difficulty Combinations.
 
 Challenging mixed puzzles that combine several ideas—aim for clean, forcing solutions. These puzzles test your ability to recognize and execute complex tactical combinations.
-}}
-37. Rf8# { Skills challenge! Back rank mate with the king trapped by its own pawns. }
+}
+1. Rf8# { Skills challenge! Back rank mate with the king trapped by its own pawns. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "l7OYo"]
 [Themes "endgame master"]
 
-33... Qxh4# { Skills challenge! Queen mate exploiting the exposed king. }
+1... Qxh4# { Skills challenge! Queen mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -47,7 +59,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "oHA6T"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-36. Rh7# { Skills challenge! Rook mate exploiting the exposed king. }
+1. Rh7# { Skills challenge! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -62,7 +80,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "ttBko"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-40... Rc1# { Skills challenge! Rook mate on the back rank. }
+1... Rc1# { Skills challenge! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -77,8 +101,14 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "4KLOw"]
 [Themes "endgame master mate mateIn2 short"]
 
-28. Rd8+ { Skills challenge! Rook sacrifice to force mate. }
-28... Rxd8 29. Rxd8# { The back rank mate. }
+1. Rd8+ { Skills challenge! Rook sacrifice to force mate. }
+3... Rxd8 29. Rxd8# { The back rank mate. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -93,7 +123,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "kwdWc"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove"]
 
-28... Rxe1# { Skills challenge! Back rank mate with the king trapped. }
+1... Rxe1# { Skills challenge! Back rank mate with the king trapped. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -108,7 +144,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "liMHw"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-38. Qxe8# { Skills challenge! Queen mate exploiting the hanging rook. }
+1. Qxe8# { Skills challenge! Queen mate exploiting the hanging rook. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -123,7 +165,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "YDD67"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-39... Rc1# { Skills challenge! Rook mate on the back rank. }
+1... Rc1# { Skills challenge! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -138,7 +186,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "WogRX"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-37. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+1. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -153,7 +207,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "eqHGK"]
 [Themes "endgame master"]
 
-41... Rxe1# { Skills challenge! Rook mate exploiting the hanging queen. }
+1... Rxe1# { Skills challenge! Rook mate exploiting the hanging queen. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -168,7 +228,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "9ljaO"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-32. Rc8# { Skills challenge! Rook mate on the back rank. }
+1. Rc8# { Skills challenge! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -183,8 +249,14 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "JIngM"]
 [Themes "backRankMate endgame master masterVsMaster mate mateIn2 sacrifice short"]
 
-24... Qf1+ { Skills challenge! Queen sacrifice to force mate. }
-25. Rxf1 Rxf1# { The back rank mate. }
+1... Qf1+ { Skills challenge! Queen sacrifice to force mate. }
+2. Rxf1 Rxf1# { The back rank mate. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -199,7 +271,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "fImTO"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
 
-39. Re8# { Skills challenge! Back rank mate with the king trapped. }
+1. Re8# { Skills challenge! Back rank mate with the king trapped. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -214,7 +292,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "C5WLb"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-31... Qxf1# { Skills challenge! Queen mate exploiting the hanging rook. }
+1... Qxf1# { Skills challenge! Queen mate exploiting the hanging rook. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -229,7 +313,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "HsnWP"]
 [Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove rookEndgame"]
 
-26. Rxb8# { Skills challenge! Back rank mate with the king trapped. }
+1. Rxb8# { Skills challenge! Back rank mate with the king trapped. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -244,7 +334,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "TSamE"]
 [Themes "master mate mateIn1 middlegame oneMove"]
 
-24... Qxh2# { Skills challenge! Queen mate exploiting the exposed king. }
+1... Qxh2# { Skills challenge! Queen mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -259,7 +355,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "DzVeS"]
 [Themes "endgame master mate mateIn1 oneMove queenEndgame"]
 
-81. Qh8# { Skills challenge! Queen mate in the endgame. }
+1. Qh8# { Skills challenge! Queen mate in the endgame. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -274,7 +376,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "R2U3b"]
 [Themes "master mate mateIn1 middlegame oneMove queensideAttack"]
 
-12... Qxb2# { Skills challenge! Queen mate exploiting the exposed king. }
+1... Qxb2# { Skills challenge! Queen mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -289,7 +397,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "Xob7F"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-29. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+1. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -304,7 +418,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "ySRLf"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-32... Rxe1# { Skills challenge! Rook mate exploiting the hanging rook. }
+1... Rxe1# { Skills challenge! Rook mate exploiting the hanging rook. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -319,8 +439,14 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "Mj1II"]
 [Themes "advantage master middlegame short"]
 
-27. Qxd8 { Skills challenge! Queen sacrifice to win material. }
-27... Rxd8 28. Rxd8 { Converting the advantage. }
+1. Qxd8 { Skills challenge! Queen sacrifice to win material. }
+3... Rxd8 28. Rxd8 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -335,7 +461,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "9ezWS"]
 [Themes "bishopEndgame endgame master mate mateIn1 oneMove"]
 
-66... Be3# { Skills challenge! Bishop mate in the endgame. }
+1... Be3# { Skills challenge! Bishop mate in the endgame. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -350,8 +482,14 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "PfGL9"]
 [Themes "crushing defensiveMove endgame knightEndgame master short"]
 
-71. Kxc4 { Skills challenge! King move to win the pawn. }
-71... Ne5+ 72. Kc5 { Converting the advantage. }
+1. Kxc4 { Skills challenge! King move to win the pawn. }
+3... Ne5+ 72. Kc5 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -366,7 +504,13 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "AlVB3"]
 [Themes "master mate mateIn1 middlegame oneMove"]
 
-24... Rg1# { Skills challenge! Rook mate exploiting the exposed king. }
+1... Rg1# { Skills challenge! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
@@ -381,4 +525,4 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [PuzzleId "J63kX"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-36. Rd8# { Skills challenge! Rook mate on the back rank. }
+1. Rd8# { Skills challenge! Rook mate on the back rank. }

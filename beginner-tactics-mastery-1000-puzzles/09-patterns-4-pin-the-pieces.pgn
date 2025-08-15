@@ -11,13 +11,19 @@
 [PuzzleId "wQp5K"]
 [Themes "endgame master mate mateIn1 oneMove pin"]
 
-{{Patterns 4: Pin the Pieces
+{Patterns 4: Pin the Pieces
 
 This section focuses on Pins to queens/rooks, exploiting pins.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-41. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+}
+1. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -32,8 +38,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "x89pv"]
 [Themes "crushing master middlegame pin short"]
 
-23... Rxb1 { Pin! The rook pins the queen to the king. }
-24. Qxb1 Rxb1+ *
+1... Rxb1 { Pin! The rook pins the queen to the king. }
+2. Qxb1 Rxb1+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -48,7 +60,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SwaeV"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-33. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -63,8 +81,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "MTHWe"]
 [Themes "crushing endgame pin short"]
 
-26... Rc1 { Pin! The rook pins the queen to the king. }
-27. Qxc1 Bxc1 *
+1... Rc1 { Pin! The rook pins the queen to the king. }
+2. Qxc1 Bxc1 *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -79,7 +103,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "s2Wvc"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-35. Rd8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Rd8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -94,8 +124,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "E6may"]
 [Themes "crushing endgame pin queenRookEndgame short"]
 
-34... Rxc1 { Pin! The rook pins the queen to the king. }
-35. Qxc1 Rxc1+ *
+1... Rxc1 { Pin! The rook pins the queen to the king. }
+2. Qxc1 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -110,8 +146,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "veeHN"]
 [Themes "crushing endgame master pin short"]
 
-46. Rxc6 { Pin! The rook pins the bishop to the king. }
-46... Kf6 47. Rxd6+ *
+1. Rxc6 { Pin! The rook pins the bishop to the king. }
+3... Kf6 47. Rxd6+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -126,8 +168,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3BfX0"]
 [Themes "crushing endgame pin short"]
 
-36... Rc1 { Pin! The rook pins the rook to the king. }
-37. Kf1 Rxd1+ *
+1... Rc1 { Pin! The rook pins the rook to the king. }
+2. Kf1 Rxd1+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -142,7 +190,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "U5Qeu"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-27. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -157,7 +211,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "kooUU"]
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
-21... Rxf1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+1... Rxf1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -172,8 +232,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "yrvQ6"]
 [Themes "advantage endgame pin rookEndgame short"]
 
-26. Rd8 { Pin! The rook pins the rook to the king. }
-26... f5 27. Rxe8+ *
+1. Rd8 { Pin! The rook pins the rook to the king. }
+3... f5 27. Rxe8+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -188,7 +254,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GAIsa"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-31... Rxe1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+1... Rxe1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -203,7 +275,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wQp5K"]
 [Themes "endgame master mate mateIn1 oneMove pin"]
 
-41. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+1. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -218,8 +296,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "x89pv"]
 [Themes "crushing master middlegame pin short"]
 
-23... Rxb1 { Pin! The rook pins the queen to the king. }
-24. Qxb1 Rxb1+ *
+1... Rxb1 { Pin! The rook pins the queen to the king. }
+2. Qxb1 Rxb1+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -234,7 +318,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SwaeV"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-33. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -249,8 +339,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "MTHWe"]
 [Themes "crushing endgame pin short"]
 
-26... Rc1 { Pin! The rook pins the queen to the king. }
-27. Qxc1 Bxc1 *
+1... Rc1 { Pin! The rook pins the queen to the king. }
+2. Qxc1 Bxc1 *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -265,7 +361,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "s2Wvc"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-35. Rd8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Rd8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -280,8 +382,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "E6may"]
 [Themes "crushing endgame pin queenRookEndgame short"]
 
-34... Rxc1 { Pin! The rook pins the queen to the king. }
-35. Qxc1 Rxc1+ *
+1... Rxc1 { Pin! The rook pins the queen to the king. }
+2. Qxc1 Rxc1+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -296,8 +404,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "veeHN"]
 [Themes "crushing endgame master pin short"]
 
-46. Rxc6 { Pin! The rook pins the bishop to the king. }
-46... Kf6 47. Rxd6+ *
+1. Rxc6 { Pin! The rook pins the bishop to the king. }
+3... Kf6 47. Rxd6+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -312,8 +426,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3BfX0"]
 [Themes "crushing endgame pin short"]
 
-36... Rc1 { Pin! The rook pins the rook to the king. }
-37. Kf1 Rxd1+ *
+1... Rc1 { Pin! The rook pins the rook to the king. }
+2. Kf1 Rxd1+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -328,7 +448,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "U5Qeu"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-27. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -343,7 +469,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "kooUU"]
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
-21... Rxf1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+1... Rxf1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -358,8 +490,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "yrvQ6"]
 [Themes "advantage endgame pin rookEndgame short"]
 
-26. Rd8 { Pin! The rook pins the rook to the king. }
-26... f5 27. Rxe8+ *
+1. Rd8 { Pin! The rook pins the rook to the king. }
+3... f5 27. Rxe8+ *
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -374,7 +512,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GAIsa"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-31... Rxe1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+1... Rxe1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+
+
+
+
+
+
 
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
@@ -389,4 +533,4 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wQp5K"]
 [Themes "endgame master mate mateIn1 oneMove pin"]
 
-41. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+1. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }

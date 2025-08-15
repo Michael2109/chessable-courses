@@ -11,13 +11,19 @@
 [PuzzleId "F4tRS"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-{{Review: Skills Check #1
+{Review: Skills Check #1
 
 This section focuses on Combining previous themes.
 
 A mixed check-up to reinforce retention across previously learned themes.
-}}
-23. Rxf8# { Back rank mate! The rook delivers checkmate while the king is trapped by its own pawns. }
+}
+1. Rxf8# { Back rank mate! The rook delivers checkmate while the king is trapped by its own pawns. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "Nc9zc"]
 [Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
 
-38... Rxf1# { Back rank mate! The rook captures with checkmate, exploiting the king's lack of escape squares. }
+1... Rxf1# { Back rank mate! The rook captures with checkmate, exploiting the king's lack of escape squares. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -47,7 +59,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "wTFX8"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-15. Rd8# { Rook checkmate! The rook slides to d8, delivering mate while the king has no escape. }
+1. Rd8# { Rook checkmate! The rook slides to d8, delivering mate while the king has no escape. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -62,7 +80,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "52I2M"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
 
-12... Qxe1# { Queen checkmate! The queen captures the rook with mate, exploiting the exposed king. }
+1... Qxe1# { Queen checkmate! The queen captures the rook with mate, exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -77,7 +101,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "92Oqp"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-28. Rxd8# { Back rank mate! The rook captures the defender and delivers checkmate. }
+1. Rxd8# { Back rank mate! The rook captures the defender and delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -92,7 +122,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "5sWvq"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-34. Nf7# { Smothered mate! The knight delivers checkmate while the king is trapped by its own pieces. }
+1. Nf7# { Smothered mate! The knight delivers checkmate while the king is trapped by its own pieces. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -107,7 +143,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "N0S5f"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-21... Nxf2# { Smothered mate! The knight checkmates while the king is surrounded by its own pieces. }
+1... Nxf2# { Smothered mate! The knight checkmates while the king is surrounded by its own pieces. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -122,7 +164,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "Ce9yv"]
 [Themes "master mate mateIn1 oneMove opening smotheredMate"]
 
-8. Nd6# { Smothered mate! The knight delivers checkmate in the opening, a rare early smothered mate. }
+1. Nd6# { Smothered mate! The knight delivers checkmate in the opening, a rare early smothered mate. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -137,7 +185,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "qT0qy"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-32... Nxf2# { Smothered mate! The knight checkmates while the king is trapped by its own pawns. }
+1... Nxf2# { Smothered mate! The knight checkmates while the king is trapped by its own pawns. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -152,7 +206,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "j1GFb"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-33. Nxf7# { Smothered mate! The knight delivers checkmate while the king is surrounded. }
+1. Nxf7# { Smothered mate! The knight delivers checkmate while the king is surrounded. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -167,7 +227,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "ojsIc"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-37... Nf2# { Smothered mate! The knight checkmates while the king is trapped by its own pieces. }
+1... Nf2# { Smothered mate! The knight checkmates while the king is trapped by its own pieces. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -182,7 +248,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "wTFX8"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-15. Rd8# { Rook checkmate! The rook slides to d8 for the decisive blow. }
+1. Rd8# { Rook checkmate! The rook slides to d8 for the decisive blow. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -197,7 +269,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "N0S5f"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove"]
 
-18... Qxe1# { Queen checkmate! The queen captures the rook with mate. }
+1... Qxe1# { Queen checkmate! The queen captures the rook with mate. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -212,7 +290,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "92Oqp"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-28. Rxd8# { Back rank mate! The rook captures and delivers checkmate. }
+1. Rxd8# { Back rank mate! The rook captures and delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -227,7 +311,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "5sWvq"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-34. Nf7# { Smothered mate! The knight delivers checkmate. }
+1. Nf7# { Smothered mate! The knight delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -242,7 +332,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "N0S5f"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-21... Nxf2# { Smothered mate! The knight checkmates. }
+1... Nxf2# { Smothered mate! The knight checkmates. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -257,7 +353,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "Ce9yv"]
 [Themes "master mate mateIn1 oneMove opening smotheredMate"]
 
-8. Nd6# { Smothered mate! Early checkmate in the opening. }
+1. Nd6# { Smothered mate! Early checkmate in the opening. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -272,7 +374,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "qT0qy"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-32... Nxf2# { Smothered mate! The knight delivers checkmate. }
+1... Nxf2# { Smothered mate! The knight delivers checkmate. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -287,7 +395,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "j1GFb"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-33. Nxf7# { Smothered mate! The knight checkmates. }
+1. Nxf7# { Smothered mate! The knight checkmates. }
+
+
+
+
+
+
 
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
@@ -302,4 +416,4 @@ A mixed check-up to reinforce retention across previously learned themes.
 [PuzzleId "ojsIc"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-37... Nf2# { Smothered mate! The knight delivers checkmate. }
+1... Nf2# { Smothered mate! The knight delivers checkmate. }

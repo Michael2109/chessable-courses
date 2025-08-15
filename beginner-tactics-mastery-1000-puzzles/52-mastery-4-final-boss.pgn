@@ -11,15 +11,21 @@
 [PuzzleId "wHhU7"]
 [Themes "endgame hangingPiece master masterVsMaster mate mateIn1 oneMove superGM"]
 
-{{Mastery 4: Final Boss
+{Mastery 4: Final Boss
 
 This section focuses on Tournament-Level Challenges.
 
 The ultimate test! These tournament-level puzzles combine all tactical themes in complex, realistic positions. Only those who have mastered all previous sections should attempt these challenges.
 
 Completing this section means you've achieved tactical mastery worthy of serious competitive play. Congratulations on your chess journey!
-}}
-41. Qxc8# { Final boss! Queen mate exploiting the hanging rook. }
+}
+1. Qxc8# { Final boss! Queen mate exploiting the hanging rook. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -34,7 +40,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "uNwsM"]
 [Themes "endgame master superGM"]
 
-26... Rd1# { Final boss! Rook mate on the back rank. }
+1... Rd1# { Final boss! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -49,7 +61,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "Z2Mvd"]
 [Themes "endgame master mate mateIn1 oneMove superGM"]
 
-36. Re8# { Final boss! Rook mate on the back rank. }
+1. Re8# { Final boss! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -64,7 +82,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "NNwVD"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame superGM"]
 
-28... Re1# { Final boss! Back rank mate with the king trapped. }
+1... Re1# { Final boss! Back rank mate with the king trapped. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -79,8 +103,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "YMd85"]
 [Themes "advantage endgame fork hangingPiece master masterVsMaster short superGM"]
 
-47. Nxg6+ { Final boss! Knight fork to win material. }
-47... Kf6 48. Nxh4 { Converting the advantage. }
+1. Nxg6+ { Final boss! Knight fork to win material. }
+3... Kf6 48. Nxh4 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -95,7 +125,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "yTtCQ"]
 [Themes "master mate mateIn1 middlegame oneMove superGM"]
 
-28... Qxa3# { Final boss! Queen mate exploiting the exposed king. }
+1... Qxa3# { Final boss! Queen mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -110,7 +146,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "tFADL"]
 [Themes "endgame master mate mateIn1 oneMove queenRookEndgame superGM"]
 
-48. Re5# { Final boss! Rook mate exploiting the exposed king. }
+1. Re5# { Final boss! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -125,8 +167,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "PaXzD"]
 [Themes "endgame master masterVsMaster superGM"]
 
-35... Rxb1+ { Final boss! Rook sacrifice to force mate. }
-36. Qd1 Rxd1# { The mate after the sacrifice. }
+1... Rxb1+ { Final boss! Rook sacrifice to force mate. }
+2. Qd1 Rxd1# { The mate after the sacrifice. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -141,8 +189,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "UIRx0"]
 [Themes "advancedPawn bishopEndgame crushing endgame master masterVsMaster promotion short superGM"]
 
-60. b7 { Final boss! Pawn advance to force promotion. }
-60... Be4 61. b8=Q { The promotion creates winning chances. }
+1. b7 { Final boss! Pawn advance to force promotion. }
+3... Be4 61. b8=Q { The promotion creates winning chances. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -157,8 +211,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "xsbmQ"]
 [Themes "crushing endgame master masterVsMaster short superGM"]
 
-65... Rxf6 { Final boss! Rook sacrifice to win material. }
-66. gxf6+ Kxf6 { Converting the advantage. }
+1... Rxf6 { Final boss! Rook sacrifice to win material. }
+2. gxf6+ Kxf6 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -173,7 +233,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "pTkKm"]
 [Themes "master mate mateIn1 middlegame oneMove superGM"]
 
-32. Rg8# { Final boss! Rook mate exploiting the exposed king. }
+1. Rg8# { Final boss! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -188,8 +254,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "iZokY"]
 [Themes "advantage endgame fork master queenRookEndgame short superGM"]
 
-36... Rxd3+ { Final boss! Rook fork to win material. }
-37. Qxd3 Rxd3+ { Converting the advantage. }
+1... Rxd3+ { Final boss! Rook fork to win material. }
+2. Qxd3 Rxd3+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -204,7 +276,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "KFx5y"]
 [Themes "endgame master mate mateIn1 oneMove superGM"]
 
-39. Re8# { Final boss! Rook mate on the back rank. }
+1. Re8# { Final boss! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -219,8 +297,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "n4eEg"]
 [Themes "crushing endgame master short superGM"]
 
-33... Rxg6+ { Final boss! Rook sacrifice to win material. }
-34. Bxg6 Kxg6 { Converting the advantage. }
+1... Rxg6+ { Final boss! Rook sacrifice to win material. }
+2. Bxg6 Kxg6 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -235,8 +319,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "JYip8"]
 [Themes "crushing endgame fork master short superGM"]
 
-70. Nc3+ { Final boss! Knight fork to win material. }
-70... Kd4 71. Nxe4 { Converting the advantage. }
+1. Nc3+ { Final boss! Knight fork to win material. }
+3... Kd4 71. Nxe4 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -251,7 +341,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "i8DVo"]
 [Themes "endgame master mate mateIn1 oneMove rookEndgame superGM"]
 
-57... Rf6# { Final boss! Rook mate exploiting the exposed king. }
+1... Rf6# { Final boss! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -266,8 +362,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "KZ5pP"]
 [Themes "crushing endgame master masterVsMaster short superGM"]
 
-39. Kxe1 { Final boss! King move to win material. }
-39... Rxe2+ 40. Kxe2 { Converting the advantage. }
+1. Kxe1 { Final boss! King move to win material. }
+3... Rxe2+ 40. Kxe2 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -282,7 +384,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "GC5MP"]
 [Themes "endgame master mate mateIn1 oneMove superGM"]
 
-32... Rd1# { Final boss! Rook mate on the back rank. }
+1... Rd1# { Final boss! Rook mate on the back rank. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -297,7 +405,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "EDmbR"]
 [Themes "backRankMate endgame master masterVsMaster mate mateIn1 oneMove superGM"]
 
-26. Qd8# { Final boss! Back rank mate with the king trapped. }
+1. Qd8# { Final boss! Back rank mate with the king trapped. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -312,7 +426,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "jt3ze"]
 [Themes "endgame master masterVsMaster mate mateIn1 oneMove superGM"]
 
-51... Rh3# { Final boss! Rook mate exploiting the exposed king. }
+1... Rh3# { Final boss! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -327,7 +447,13 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "iFGxp"]
 [Themes "endgame master masterVsMaster mate mateIn1 oneMove superGM"]
 
-38. Qe8# { Final boss! Queen mate exploiting the exposed king. }
+1. Qe8# { Final boss! Queen mate exploiting the exposed king. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -342,8 +468,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "Hw9qa"]
 [Themes "kingsideAttack master mate mateIn2 middlegame short superGM"]
 
-31... Qxf1+ { Final boss! Queen sacrifice to force mate. }
-32. Rxf1 Rxf1# { The mate after the sacrifice. }
+1... Qxf1+ { Final boss! Queen sacrifice to force mate. }
+2. Rxf1 Rxf1# { The mate after the sacrifice. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -358,8 +490,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "PqB9e"]
 [Themes "endgame master mate mateIn2 short superGM"]
 
-31. Rf8+ { Final boss! Rook sacrifice to force mate. }
-31... Rxf8 32. Rxf8# { The mate after the sacrifice. }
+1. Rf8+ { Final boss! Rook sacrifice to force mate. }
+3... Rxf8 32. Rxf8# { The mate after the sacrifice. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -374,8 +512,14 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "j9POj"]
 [Themes "backRankMate endgame master masterVsMaster mate mateIn2 short superGM"]
 
-36... Rc1+ { Final boss! Rook sacrifice to force back rank mate. }
-37. Rxc1 Rxc1# { The back rank mate after the sacrifice. }
+1... Rc1+ { Final boss! Rook sacrifice to force back rank mate. }
+2. Rxc1 Rxc1# { The back rank mate after the sacrifice. }
+
+
+
+
+
+
 
 [Event "Mastery 4: Final Boss"]
 [Site "https://lichess.org"]
@@ -390,5 +534,5 @@ Completing this section means you've achieved tactical mastery worthy of serious
 [PuzzleId "tbypB"]
 [Themes "crushing endgame fork master masterVsMaster short superGM"]
 
-45. Nd5+ { Final boss! Knight fork to win material. }
-45... Ke6 46. Nxe7 { Converting the advantage. }
+1. Nd5+ { Final boss! Knight fork to win material. }
+3... Ke6 46. Nxe7 { Converting the advantage. }

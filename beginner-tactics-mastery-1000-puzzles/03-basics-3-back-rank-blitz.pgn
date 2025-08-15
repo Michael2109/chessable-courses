@@ -11,13 +11,19 @@
 [PuzzleId "fImTO"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
 
-{{Basics 3: Back Rank Knockout
+{Basics 3: Back Rank Knockout
 
 This section focuses on Simple back rank patterns.
 
 Build core habits and quick recognition by checking forcing moves first.
-}}
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+}
+1. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gFLyt"]
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 
-18... Rxd1# { Taking the rook delivers checkmate since White's king has no escape squares. }
+1... Rxd1# { Taking the rook delivers checkmate since White's king has no escape squares. }
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -47,8 +59,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "EZbTy"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-23... Qd1+ { A queen sacrifice that forces the rook to take, opening up the back rank for mate. }
-24. Rxd1 Rxd1# *
+1... Qd1+ { A queen sacrifice that forces the rook to take, opening up the back rank for mate. }
+2. Rxd1 Rxd1# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -63,8 +81,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "pLQsM"]
 [Themes "backRankMate endgame master mate mateIn2 short"]
 
-39... Re1+ { The rook invades the back rank with check. }
-40. Bf1 Rxf1# *
+1... Re1+ { The rook invades the back rank with check. }
+2. Bf1 Rxf1# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -79,8 +103,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "8pHgW"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-25... Qe1+ { The queen crashes through to the back rank, forcing a trade that leads to mate. }
-26. Rxe1 Rxe1# *
+1... Qe1+ { The queen crashes through to the back rank, forcing a trade that leads to mate. }
+2. Rxe1 Rxe1# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -95,8 +125,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7y6JN"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 
-21. Qh8+ { The queen sacrifices herself to open up the back rank for the rook. }
-21... Kxh8 22. Rf8+ Rxf8 23. Rxf8# *
+1. Qh8+ { The queen sacrifices herself to open up the back rank for the rook. }
+3... Kxh8 22. Rf8+ Rxf8 23. Rxf8# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -111,7 +147,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "F4tRS"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-23. Rxf8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1. Rxf8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -126,8 +168,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "hlrwd"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36... Rd1+ { Infiltrates the back rank, tying down the king and threatening mate. }
-37. Rxd1 Rxd1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1... Rd1+ { Infiltrates the back rank, tying down the king and threatening mate. }
+2. Rxd1 Rxd1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -142,8 +190,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22. Rxf8+ { Infiltrates the back rank, tying down the king and threatening mate. }
-22... Qd8 23. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1. Rxf8+ { Infiltrates the back rank, tying down the king and threatening mate. }
+3... Qd8 23. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -158,8 +212,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47... Ra1+ { Infiltrates the back rank, tying down the king and threatening mate. }
-48. Rb1 Rxb1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1... Ra1+ { Infiltrates the back rank, tying down the king and threatening mate. }
+2. Rb1 Rxb1# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -174,7 +234,13 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "92Oqp"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-28. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+1. Rxd8# { Back rank mate! The king is trapped by its own pawns and has no escape squares. } *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -189,8 +255,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "RpxgF"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-25... Qf1+ { The queen gives itself up to deflect White's rook, allowing your rook to deliver mate. }
-26. Rxf1 Rxf1# *
+1... Qf1+ { The queen gives itself up to deflect White's rook, allowing your rook to deliver mate. }
+2. Rxf1 Rxf1# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -205,8 +277,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "rArPZ"]
 [Themes "backRankMate endgame mate mateIn2 short xRayAttack"]
 
-25... Rxe1+ { Removing the defender of the back rank - your other rook is ready to finish the job. }
-26. Rxe1 Rxe1# *
+1... Rxe1+ { Removing the defender of the back rank - your other rook is ready to finish the job. }
+2. Rxe1 Rxe1# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -221,8 +299,14 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "tnwdn"]
 [Themes "backRankMate deflection endgame mate mateIn2 short"]
 
-26. Ne7+ { The knight check forces the king to h8, where it will be mated on the back rank. }
-26... Kh8 27. Rxf8# *
+1. Ne7+ { The knight check forces the king to h8, where it will be mated on the back rank. }
+3... Kh8 27. Rxf8# *
+
+
+
+
+
+
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -237,5 +321,5 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "VtkOD"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 
-32... Qe2+ { The queen dances around to reach e1, where it will sacrifice itself for a back rank mate. }
-33. Kg1 Qe1+ 34. Rxe1 Rxe1# *
+1... Qe2+ { The queen dances around to reach e1, where it will sacrifice itself for a back rank mate. }
+2. Kg1 Qe1+ 34. Rxe1 Rxe1# *

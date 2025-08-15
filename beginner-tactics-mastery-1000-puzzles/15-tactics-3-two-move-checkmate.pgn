@@ -11,14 +11,20 @@
 [PuzzleId "wGXNF"]
 [Themes "endgame mate mateIn2 short"]
 
-{{Tactics 3: Two-Move Checkmate
+{Tactics 3: Two-Move Checkmate
 
 This section focuses on Forcing checks, simple sequences.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-29. Rd8+ { A forcing check that leads to mate! }
-29... Re8 30. Rxe8# *
+}
+1. Rd8+ { A forcing check that leads to mate! }
+3... Re8 30. Rxe8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-44... Rc1+ { A forcing check that leads to mate! }
-45. Rd1 Rxd1# *
+1... Rc1+ { A forcing check that leads to mate! }
+2. Rd1 Rxd1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3O3kc"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-22. Rxf8+ { A forcing check that leads to back rank mate! }
-22... Qd8 23. Rxd8# *
+1. Rxf8+ { A forcing check that leads to back rank mate! }
+3... Qd8 23. Rxd8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-47... Ra1+ { A forcing check that leads to back rank mate! }
-48. Rb1 Rxb1# *
+1... Ra1+ { A forcing check that leads to back rank mate! }
+2. Rb1 Rxb1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36. Rb8+ { A forcing check that leads to back rank mate! }
-36... Ne8 37. Rxe8# *
+1. Rb8+ { A forcing check that leads to back rank mate! }
+3... Ne8 37. Rxe8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0sRkd"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-36... Rc1+ { A forcing check that leads to back rank mate! }
-37. Re1 Rxe1# *
+1... Rc1+ { A forcing check that leads to back rank mate! }
+2. Re1 Rxe1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hOeeC"]
 [Themes "endgame mate mateIn2 short"]
 
-27. Re8+ { A forcing check that leads to mate! }
-27... Rf8 28. Rxf8# *
+1. Re8+ { A forcing check that leads to mate! }
+3... Rf8 28. Rxf8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "25iUy"]
 [Themes "backRankMate endgame master mate mateIn2 short"]
 
-29... Rc1+ { A forcing check that leads to back rank mate! }
-30. Ne1 Rxe1# *
+1... Rc1+ { A forcing check that leads to back rank mate! }
+2. Ne1 Rxe1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xT5ql"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-18. Qxe8+ { A forcing check that leads to back rank mate! }
-18... Qxe8 19. Rxe8# *
+1. Qxe8+ { A forcing check that leads to back rank mate! }
+3... Qxe8 19. Rxe8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "7TEUu"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-41... Qa1+ { A forcing check that leads to back rank mate! }
-42. Qe1 Qxe1# *
+1... Qa1+ { A forcing check that leads to back rank mate! }
+2. Qe1 Qxe1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0DSKt"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-15. Rd8+ { A forcing check that leads to back rank mate! }
-15... Re8 16. Rxe8# *
+1. Rd8+ { A forcing check that leads to back rank mate! }
+3... Re8 16. Rxe8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "66t8g"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-18... Rd1+ { A forcing check that leads to back rank mate! }
-19. Rxd1 Rxd1# *
+1... Rd1+ { A forcing check that leads to back rank mate! }
+2. Rxd1 Rxd1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xfrDe"]
 [Themes "endgame mate mateIn2 short"]
 
-38. Rd8+ { A forcing check that leads to mate! }
-38... Rf8 39. Rxf8# *
+1. Rd8+ { A forcing check that leads to mate! }
+3... Rf8 39. Rxf8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "aFkbL"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-41... Rf1+ { A forcing check that leads to back rank mate! }
-42. Rxf1 Rxf1# *
+1... Rf1+ { A forcing check that leads to back rank mate! }
+2. Rxf1 Rxf1# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6gMeL"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-28. Rxe8+ { A forcing check that leads to back rank mate! }
-28... Rxe8 29. Rxe8# *
+1. Rxe8+ { A forcing check that leads to back rank mate! }
+3... Rxe8 29. Rxe8# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example16"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxc6+ { A forcing check that leads to mate! }
-4... bxc6 5. Qe2# *
+1. Bxc6+ { A forcing check that leads to mate! }
+3... bxc6 5. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example17"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bxf7+ { A forcing check that leads to mate! }
-4... Kxf7 5. Qe2# *
+1. Bxf7+ { A forcing check that leads to mate! }
+3... Kxf7 5. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example18"]
 [Themes "mate mateIn2 opening short"]
 
-4... Nxe4 { A forcing move that leads to mate! }
-5. Bxf7+ Kxf7 6. Qe2# *
+1... Nxe4 { A forcing move that leads to mate! }
+2. Bxf7+ Kxf7 6. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example19"]
 [Themes "mate mateIn2 opening short"]
 
-4. Nxe5 { A forcing move that leads to mate! }
-4... Nxe5 5. Qe2# *
+1. Nxe5 { A forcing move that leads to mate! }
+3... Nxe5 5. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -321,8 +435,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example20"]
 [Themes "mate mateIn2 opening short"]
 
-4... Bc5 { A forcing move that leads to mate! }
-5. Bxf7+ Kxf7 6. Qe2# *
+1... Bc5 { A forcing move that leads to mate! }
+2. Bxf7+ Kxf7 6. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -337,8 +457,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example21"]
 [Themes "mate mateIn2 opening short"]
 
-4. Qe2 { A forcing move that leads to mate! }
-4... Nxe4 5. Bxf7# *
+1. Qe2 { A forcing move that leads to mate! }
+3... Nxe4 5. Bxf7# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -353,8 +479,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example22"]
 [Themes "mate mateIn2 opening short"]
 
-4... d6 { A forcing move that leads to mate! }
-5. Bxc6+ bxc6 6. Qe2# *
+1... d6 { A forcing move that leads to mate! }
+2. Bxc6+ bxc6 6. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -369,8 +501,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example23"]
 [Themes "mate mateIn2 opening short"]
 
-4. d3 { A forcing move that leads to mate! }
-4... Nxe4 5. Bxf7# *
+1. d3 { A forcing move that leads to mate! }
+3... Nxe4 5. Bxf7# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -385,8 +523,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example24"]
 [Themes "mate mateIn2 opening short"]
 
-4... Bb4+ { A forcing check that leads to mate! }
-5. Bd2 Bxd2+ 6. Qe2# *
+1... Bb4+ { A forcing check that leads to mate! }
+2. Bd2 Bxd2+ 6. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -401,8 +545,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example25"]
 [Themes "mate mateIn2 opening short"]
 
-4. Bg5 { A forcing move that leads to mate! }
-4... Be7 5. Bxf6# *
+1. Bg5 { A forcing move that leads to mate! }
+3... Be7 5. Bxf6# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -417,8 +567,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example26"]
 [Themes "mate mateIn2 opening short"]
 
-4... Bg4 { A forcing move that leads to mate! }
-5. f3 Bxf3 6. Qe2# *
+1... Bg4 { A forcing move that leads to mate! }
+2. f3 Bxf3 6. Qe2# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -433,8 +589,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example27"]
 [Themes "mate mateIn2 opening short"]
 
-4. a3 { A forcing move that leads to mate! }
-4... Be7 5. Bxf7# *
+1. a3 { A forcing move that leads to mate! }
+3... Be7 5. Bxf7# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -449,8 +611,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example28"]
 [Themes "mate mateIn2 opening short"]
 
-4... d5 { A forcing move that leads to mate! }
-5. exd5 Nxd5 6. Bxf7# *
+1... d5 { A forcing move that leads to mate! }
+2. exd5 Nxd5 6. Bxf7# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -465,8 +633,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example29"]
 [Themes "mate mateIn2 opening short"]
 
-4. c3 { A forcing move that leads to mate! }
-4... Nxe4 5. Bxf7# *
+1. c3 { A forcing move that leads to mate! }
+3... Nxe4 5. Bxf7# *
+
+
+
+
+
+
 
 [Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
@@ -481,5 +655,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example30"]
 [Themes "mate mateIn2 opening short"]
 
-4... c6 { A forcing move that leads to mate! }
-5. Bxc6+ bxc6 6. Qe2# *
+1... c6 { A forcing move that leads to mate! }
+2. Bxc6+ bxc6 6. Qe2# *

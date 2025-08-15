@@ -11,13 +11,19 @@
 [PuzzleId "2wMMN"]
 [Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
 
-{{Tactics 4: Surprise Check!
+{Tactics 4: Surprise Check!
 
 This section focuses on Discoveries with check.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+}
+1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "02NvQ"]
 [Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
 
-30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -47,7 +59,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cg7r3"]
 [Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -62,7 +80,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "dTxZJ"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -77,8 +101,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6P7X6"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
 
-29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-29... Rb8 30. axb8=Q# { Promotion checkmate! }
+1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+3... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -93,7 +123,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qFETP"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -108,7 +144,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "2wMMN"]
 [Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
 
-29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -123,7 +165,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "02NvQ"]
 [Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
 
-30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -138,7 +186,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cg7r3"]
 [Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -153,7 +207,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "dTxZJ"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -168,8 +228,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6P7X6"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
 
-29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-29... Rb8 30. axb8=Q# { Promotion checkmate! }
+1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+3... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -184,7 +250,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qFETP"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -199,7 +271,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "2wMMN"]
 [Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
 
-29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -214,7 +292,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "02NvQ"]
 [Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
 
-30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -229,7 +313,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cg7r3"]
 [Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -244,7 +334,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "dTxZJ"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -259,8 +355,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6P7X6"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
 
-29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-29... Rb8 30. axb8=Q# { Promotion checkmate! }
+1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+3... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -275,7 +377,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qFETP"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -290,7 +398,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "2wMMN"]
 [Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
 
-29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -305,7 +419,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "02NvQ"]
 [Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
 
-30... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -320,7 +440,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cg7r3"]
 [Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-25. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -335,7 +461,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "dTxZJ"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-36... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -350,8 +482,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6P7X6"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
 
-29. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-29... Rb8 30. axb8=Q# { Promotion checkmate! }
+1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
+3... Rb8 30. axb8=Q# { Promotion checkmate! }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -366,7 +504,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qFETP"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-30... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+
+
+
+
+
+
 
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
@@ -381,4 +525,4 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "2wMMN"]
 [Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
 
-29. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }

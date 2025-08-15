@@ -11,14 +11,20 @@
 [PuzzleId "HanPh"]
 [Themes "advantage master middlegame short"]
 
-{{Practical 3: Trade to Win
+{Practical 3: Trade to Win
 
 This section focuses on When/How to Simplify When Ahead.
 
 Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize when trading pieces is advantageous and how to convert material advantages into winning positions.
-}}
-28. Rxc8 { Trade to win! Simplifying when ahead. }
-28... Bxc8 29. Rxc8 { Converting the advantage. }
+}
+1. Rxc8 { Trade to win! Simplifying when ahead. }
+3... Bxc8 29. Rxc8 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "hsWEO"]
 [Themes "advantage endgame short"]
 
-27... Rd1+ { Trade to win! Simplifying when ahead. }
-28. Ne1 Rxe1+ { Converting the advantage. }
+1... Rd1+ { Trade to win! Simplifying when ahead. }
+2. Ne1 Rxe1+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "NSXvg"]
 [Themes "advantage middlegame short"]
 
-22. Qxc8+ { Trade to win! Simplifying when ahead. }
-22... Qxc8 23. Rxc8+ { Converting the advantage. }
+1. Qxc8+ { Trade to win! Simplifying when ahead. }
+3... Qxc8 23. Rxc8+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "IO5Ap"]
 [Themes "advantage endgame master short"]
 
-36... Rxc4 { Trade to win! Simplifying when ahead. }
-37. Rxc4 Rxc4 { Converting the advantage. }
+1... Rxc4 { Trade to win! Simplifying when ahead. }
+2. Rxc4 Rxc4 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "ZxEdX"]
 [Themes "advantage endgame master short"]
 
-31. Rxd8 { Trade to win! Simplifying when ahead. }
-31... Rxd8 32. Rxd8 { Converting the advantage. }
+1. Rxd8 { Trade to win! Simplifying when ahead. }
+3... Rxd8 32. Rxd8 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "XMAuS"]
 [Themes "advantage endgame short"]
 
-37... Rxc1+ { Trade to win! Simplifying when ahead. }
-38. Be1 Rxe1+ { Converting the advantage. }
+1... Rxc1+ { Trade to win! Simplifying when ahead. }
+2. Be1 Rxe1+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "0Dg5M"]
 [Themes "advantage endgame short"]
 
-27. Rxd8 { Trade to win! Simplifying when ahead. }
-27... Bxd8 28. Qxd8 { Converting the advantage. }
+1. Rxd8 { Trade to win! Simplifying when ahead. }
+3... Bxd8 28. Qxd8 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "HwNfp"]
 [Themes "advantage middlegame short"]
 
-28... Kxf7 { Trade to win! Simplifying when ahead. }
-29. Nxe8+ Kxe8 { Converting the advantage. }
+1... Kxf7 { Trade to win! Simplifying when ahead. }
+2. Nxe8+ Kxe8 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "B6oDh"]
 [Themes "advantage kingsideAttack middlegame short"]
 
-20. Qxd8+ { Trade to win! Simplifying when ahead. }
-20... Nxd8 21. Rxd8+ { Converting the advantage. }
+1. Qxd8+ { Trade to win! Simplifying when ahead. }
+3... Nxd8 21. Rxd8+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "XzBW4"]
 [Themes "advantage endgame short"]
 
-38... Kxe7 { Trade to win! Simplifying when ahead. }
-39. Qb4+ Kxe6 { Converting the advantage. }
+1... Kxe7 { Trade to win! Simplifying when ahead. }
+2. Qb4+ Kxe6 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "CpwNm"]
 [Themes "advantage middlegame short"]
 
-30. Rxc8+ { Trade to win! Simplifying when ahead. }
-30... Rxc8 31. Rxc8+ { Converting the advantage. }
+1. Rxc8+ { Trade to win! Simplifying when ahead. }
+3... Rxc8 31. Rxc8+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "iDkgc"]
 [Themes "advantage middlegame short"]
 
-28... Qxc1+ { Trade to win! Simplifying when ahead. }
-29. Rxc1 Rxc1+ { Converting the advantage. }
+1... Qxc1+ { Trade to win! Simplifying when ahead. }
+2. Rxc1 Rxc1+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "dOjgB"]
 [Themes "advantage discoveredAttack endgame master short"]
 
-32. Bh7+ { Trade to win! Simplifying when ahead. }
-32... Kxh7 33. Rxd6 { Converting the advantage. }
+1. Bh7+ { Trade to win! Simplifying when ahead. }
+3... Kxh7 33. Rxd6 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "gT1oC"]
 [Themes "advantage hangingPiece opening short"]
 
-16... Kxh7 { Trade to win! Simplifying when ahead. }
-17. Rxe8 Qxe8 { Converting the advantage. }
+1... Kxh7 { Trade to win! Simplifying when ahead. }
+2. Rxe8 Qxe8 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "MYMxO"]
 [Themes "advantage endgame short"]
 
-45. Rxc2+ { Trade to win! Simplifying when ahead. }
-45... Nxc2 46. Kxc2 { Converting the advantage. }
+1. Rxc2+ { Trade to win! Simplifying when ahead. }
+3... Nxc2 46. Kxc2 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "IMccb"]
 [Themes "advantage endgame short"]
 
-30... Re1+ { Trade to win! Simplifying when ahead. }
-31. Bf1 Rxf1+ { Converting the advantage. }
+1... Re1+ { Trade to win! Simplifying when ahead. }
+2. Bf1 Rxf1+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "41Tuf"]
 [Themes "advantage kingsideAttack master middlegame short"]
 
-29. Rxe8+ { Trade to win! Simplifying when ahead. }
-29... Rxe8 30. Rxe8+ { Converting the advantage. }
+1. Rxe8+ { Trade to win! Simplifying when ahead. }
+3... Rxe8 30. Rxe8+ { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "GkuXQ"]
 [Themes "advantage endgame rookEndgame short"]
 
-30... Rxe6+ { Trade to win! Simplifying when ahead. }
-31. Rxe6+ Kxe6 { Converting the advantage. }
+1... Rxe6+ { Trade to win! Simplifying when ahead. }
+2. Rxe6+ Kxe6 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "VIMrF"]
 [Themes "advantage endgame master short"]
 
-31. Qxe1 { Trade to win! Simplifying when ahead. }
-31... Rxe1 32. Kxe1 { Converting the advantage. }
+1. Qxe1 { Trade to win! Simplifying when ahead. }
+3... Rxe1 32. Kxe1 { Converting the advantage. }
+
+
+
+
+
+
 
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
@@ -321,5 +435,5 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [PuzzleId "eaIDA"]
 [Themes "advantage endgame fork long"]
 
-22... Rxe8 { Trade to win! Simplifying when ahead. }
-23. Kg1 Re1+ 24. Kf2 Rxd1 { Converting the advantage. }
+1... Rxe8 { Trade to win! Simplifying when ahead. }
+2. Kg1 Re1+ 24. Kf2 Rxd1 { Converting the advantage. }

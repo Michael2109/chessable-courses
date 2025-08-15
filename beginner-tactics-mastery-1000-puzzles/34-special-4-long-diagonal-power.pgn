@@ -11,13 +11,19 @@
 [PuzzleId "r7AUK"]
 [Themes "advancedPawn bishopEndgame endgame mate mateIn1 oneMove"]
 
-{{Special 4: Long Diagonal Power
+{Special 4: Long Diagonal Power
 
 This section focuses on Bishop Dominance on Long Diagonals.
 
 Learn to recognize and exploit the power of bishops controlling the long diagonals.
-}}
-75. f7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+}
+1. f7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -32,7 +38,13 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "drO80"]
 [Themes "advancedPawn bishopEndgame endgame master masterVsMaster mate mateIn1 oneMove"]
 
-61... g2# { The bishop's long diagonal control creates the mating threat! }
+1... g2# { The bishop's long diagonal control creates the mating threat! }
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -47,8 +59,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "JvlS4"]
 [Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
-67. g6 { The bishop controls the long diagonal, but the pawn advance wins! }
-67... Bc7 68. g7 *
+1. g6 { The bishop controls the long diagonal, but the pawn advance wins! }
+3... Bc7 68. g7 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -63,8 +81,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "2WIna"]
 [Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
-55... f3+ { The bishop's long diagonal control creates tactical opportunities! }
-56. Kxe3 f2 *
+1... f3+ { The bishop's long diagonal control creates tactical opportunities! }
+2. Kxe3 f2 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -79,7 +103,13 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "nfFBb"]
 [Themes "advancedPawn bishopEndgame endgame mate mateIn1 oneMove"]
 
-54. a7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+1. a7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -94,8 +124,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "yGS9C"]
 [Themes "advancedPawn bishopEndgame crushing endgame long master promotion"]
 
-69... h3 { The bishop's long diagonal control supports the pawn advance! }
-70. g5 h2 71. Bb2 h1=Q *
+1... h3 { The bishop's long diagonal control supports the pawn advance! }
+2. g5 h2 71. Bb2 h1=Q *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -110,7 +146,13 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "lZXeK"]
 [Themes "advancedPawn bishopEndgame endgame master mate mateIn1 oneMove"]
 
-68. e7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+1. e7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -125,8 +167,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "TxfPa"]
 [Themes "advancedPawn advantage bishopEndgame endgame master promotion short"]
 
-53... b2 { The bishop's long diagonal control supports the pawn advance! }
-54. e6 b1=Q+ *
+1... b2 { The bishop's long diagonal control supports the pawn advance! }
+2. e6 b1=Q+ *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -141,8 +189,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "FLvwL"]
 [Themes "advancedPawn advantage bishopEndgame endgame long promotion"]
 
-48. b6 { The bishop controls the long diagonal, but the pawn advance wins! }
-48... Be4 49. b7 d4 50. b8=Q *
+1. b6 { The bishop controls the long diagonal, but the pawn advance wins! }
+3... Be4 49. b7 d4 50. b8=Q *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -157,8 +211,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "wwo0S"]
 [Themes "advancedPawn bishopEndgame crushing endgame promotion short"]
 
-76... g2 { The bishop's long diagonal control supports the pawn advance! }
-77. Kg6 g1=Q *
+1... g2 { The bishop's long diagonal control supports the pawn advance! }
+2. Kg6 g1=Q *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -173,7 +233,13 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "hv0vq"]
 [Themes "advancedPawn bishopEndgame endgame master mate mateIn1 oneMove"]
 
-118. h7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+1. h7# { The bishop controls the long diagonal, but the pawn promotion creates mate! }
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -188,8 +254,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "S4sfQ"]
 [Themes "advancedPawn bishopEndgame crushing endgame long quietMove"]
 
-50... f4 { The bishop's long diagonal control supports the pawn advance! }
-51. Kf5 f3 52. Ke4 f2 *
+1... f4 { The bishop's long diagonal control supports the pawn advance! }
+2. Kf5 f3 52. Ke4 f2 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -204,8 +276,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "uXimL"]
 [Themes "advancedPawn bishopEndgame crushing endgame short"]
 
-75. c6+ { The bishop controls the long diagonal, but the pawn advance wins! }
-75... Kxd6 76. c7 *
+1. c6+ { The bishop controls the long diagonal, but the pawn advance wins! }
+3... Kxd6 76. c7 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -220,8 +298,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "luF5r"]
 [Themes "bishopEndgame endgame mate mateIn2 short"]
 
-47... Bc8+ { The bishop's long diagonal control creates a mating sequence! }
-48. Bd7 Bxd7# *
+1... Bc8+ { The bishop's long diagonal control creates a mating sequence! }
+2. Bd7 Bxd7# *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -236,8 +320,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "4lRJs"]
 [Themes "advancedPawn bishopEndgame crushing endgame long promotion"]
 
-62. e6 { The bishop controls the long diagonal, but the pawn advance wins! }
-62... Kxf3 63. e7 Kg2 64. e8=Q *
+1. e6 { The bishop controls the long diagonal, but the pawn advance wins! }
+3... Kxf3 63. e7 Kg2 64. e8=Q *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -252,8 +342,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "xa2VK"]
 [Themes "bishopEndgame crushing endgame quietMove short"]
 
-63... c4 { The bishop's long diagonal control supports the pawn advance! }
-64. Kg4 c3 *
+1... c4 { The bishop's long diagonal control supports the pawn advance! }
+2. Kg4 c3 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -268,8 +364,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "WVuXD"]
 [Themes "advancedPawn bishopEndgame crushing endgame long quietMove"]
 
-60. h5 { The bishop controls the long diagonal, but the pawn advance wins! }
-60... Ke4 61. h6 Kf5 62. h7 *
+1. h5 { The bishop controls the long diagonal, but the pawn advance wins! }
+3... Ke4 61. h6 Kf5 62. h7 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -284,8 +386,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "WWPVD"]
 [Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
-79... g3+ { The bishop's long diagonal control creates tactical opportunities! }
-80. Kh3 g2 *
+1... g3+ { The bishop's long diagonal control creates tactical opportunities! }
+2. Kh3 g2 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -300,8 +408,14 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "Guot3"]
 [Themes "bishopEndgame crushing discoveredAttack endgame short"]
 
-39. e5+ { The bishop's long diagonal control creates a discovered attack! }
-39... Kxe5 40. Bxc6 *
+1. e5+ { The bishop's long diagonal control creates a discovered attack! }
+3... Kxe5 40. Bxc6 *
+
+
+
+
+
+
 
 [Event "Special 4: Long Diagonal Power"]
 [Site "https://lichess.org"]
@@ -316,5 +430,5 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [PuzzleId "BY4Nc"]
 [Themes "advancedPawn bishopEndgame crushing endgame master promotion short"]
 
-59... h2 { The bishop's long diagonal control supports the pawn advance! }
-60. Ke3 h1=Q *
+1... h2 { The bishop's long diagonal control supports the pawn advance! }
+2. Ke3 h1=Q *

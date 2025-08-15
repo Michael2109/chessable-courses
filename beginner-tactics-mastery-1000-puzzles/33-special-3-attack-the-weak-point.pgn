@@ -11,14 +11,20 @@
 [PuzzleId "WEAK1"]
 [Themes "attackingF2F7 opening"]
 
-{{Special 3: Attack the Weak Point
+{Special 3: Attack the Weak Point
 
 This section focuses on f7 and f2 Targets.
 
 Sharpen named motif recognition and learn how to exploit them fast.
-}}
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+}
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -33,8 +39,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK2"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -49,8 +61,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK3"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -65,8 +83,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK4"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -81,8 +105,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK5"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -97,8 +127,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK6"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -113,8 +149,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK7"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -129,8 +171,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK8"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -145,8 +193,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK9"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -161,8 +215,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK10"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -177,8 +237,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK11"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -193,8 +259,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK12"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -209,8 +281,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK13"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -225,8 +303,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK14"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -241,8 +325,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK15"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -257,8 +347,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK16"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -273,8 +369,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK17"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -289,8 +391,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK18"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -305,8 +413,14 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK19"]
 [Themes "attackingF2F7 opening"]
 
-4. Bxf7+ { Attack the weak point! Targeting f7. }
+1. Bxf7+ { Attack the weak point! Targeting f7. }
 4... Kxf7 5. Ne5+ *
+
+
+
+
+
+
 
 [Event "Special 3: Attack the Weak Point"]
 [Site "https://lichess.org"]
@@ -321,7 +435,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "WEAK20"]
 [Themes "attackingF2F7 opening"]
 
-3... Bxf2+ { Attack the weak point! Targeting f2. }
-4. Kxf2 Nxe4+ *
+1... Bxf2+ { Attack the weak point! Targeting f2. }
+3. Kxf2 Nxe4+ *
 
 

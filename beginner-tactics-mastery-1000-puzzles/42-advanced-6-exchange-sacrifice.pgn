@@ -11,16 +11,22 @@
 [PuzzleId "n2GVM"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-{{Advanced 6: Exchange Sacrifice
+{Advanced 6: Exchange Sacrifice
 
 This section focuses on Rook for Activity and Positional Advantages.
 
 The exchange sacrifice (giving up a rook for a bishop or knight) can lead to overwhelming positional advantages. Superior piece activity and attacking chances often compensate for the material deficit.
 
 Learn to evaluate when exchange sacrifices are justified and you'll have access to powerful positional ideas that create long-term pressure.
-}}
-26. Qe8+ { Queen sacrifice to open the back rank! }
-26... Rxe8 27. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+}
+1. Qe8+ { Queen sacrifice to open the back rank! }
+3... Rxe8 27. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -35,8 +41,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "gjlCN"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-24... Qe1+ { Queen sacrifice to open the back rank! }
-25. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+ { Queen sacrifice to open the back rank! }
+2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -51,8 +63,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "4371k"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-28. Qe8+ { Queen sacrifice to open the back rank! }
-28... Rxe8 29. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+ { Queen sacrifice to open the back rank! }
+3... Rxe8 29. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -67,8 +85,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "qSq7h"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-32... Qe1+ { Queen sacrifice to open the back rank! }
-33. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+ { Queen sacrifice to open the back rank! }
+2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -83,8 +107,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "uB1Jy"]
 [Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
 
-23. Qe8+ { Queen sacrifice to open the back rank! }
-23... Rxe8 24. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+ { Queen sacrifice to open the back rank! }
+3... Rxe8 24. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -99,8 +129,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "OClVI"]
 [Themes "endgame mate mateIn2 sacrifice short"]
 
-34... Qe1+ { Queen sacrifice to open the back rank! }
-35. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+ { Queen sacrifice to open the back rank! }
+2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -115,8 +151,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "LuhR8"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-35. Qd8+ { Queen sacrifice to open the back rank! }
-35... Rxd8 36. Rxd8# { Back rank mate! The sacrifice cleared the path. }
+1. Qd8+ { Queen sacrifice to open the back rank! }
+3... Rxd8 36. Rxd8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -131,8 +173,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "CQz7Z"]
 [Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
 
-24... Qe1+ { Queen sacrifice to open the back rank! }
-25. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+ { Queen sacrifice to open the back rank! }
+2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -147,9 +195,15 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "FWAO8"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 
-29. Qe8+ { Queen sacrifice to open the back rank! }
-29... Nxe8 30. Rxe8+ { Rook sacrifice for mate! }
-30... Rf8 31. Rxf8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+ { Queen sacrifice to open the back rank! }
+3... Nxe8 30. Rxe8+ { Rook sacrifice for mate! }
+5... Rf8 31. Rxf8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -164,9 +218,15 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "qVjyD"]
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 
-29... Qa1+ { Queen sacrifice to open the back rank! }
-30. Bxa1 Rxa1+ { Rook sacrifice for mate! }
-31. Re1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qa1+ { Queen sacrifice to open the back rank! }
+2. Bxa1 Rxa1+ { Rook sacrifice for mate! }
+4. Re1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -181,8 +241,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "Pm7gv"]
 [Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
 
-20. Qe8+ { Queen sacrifice to open the back rank! }
-20... Rxe8 21. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+ { Queen sacrifice to open the back rank! }
+3... Rxe8 21. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -197,8 +263,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "7Q6mx"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-29... Qe1+ { Queen sacrifice to open the back rank! }
-30. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+ { Queen sacrifice to open the back rank! }
+2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -213,8 +285,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "tfB9k"]
 [Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
 
-30. Qe8+ { Queen sacrifice to open the back rank! }
-30... Rxe8 31. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+ { Queen sacrifice to open the back rank! }
+3... Rxe8 31. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -229,8 +307,14 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "R74Jc"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-25... Qe1+ { Queen sacrifice to open the back rank! }
-26. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+ { Queen sacrifice to open the back rank! }
+2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+
+
+
+
+
+
 
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
@@ -245,5 +329,5 @@ Learn to evaluate when exchange sacrifices are justified and you'll have access 
 [PuzzleId "Zppyo"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-25. Qf8+ { Queen sacrifice to open the back rank! }
-25... Rxf8 26. Rxf8# { Back rank mate! The sacrifice cleared the path. }
+1. Qf8+ { Queen sacrifice to open the back rank! }
+3... Rxf8 26. Rxf8# { Back rank mate! The sacrifice cleared the path. }
