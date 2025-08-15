@@ -18,7 +18,7 @@ This section focuses on What is my opponent threatening?
 Sharpen named motif recognition and learn how to exploit them fast.
 }
 1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+1... Kf2 2. a5 *
 
 
 
@@ -62,7 +62,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
 1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+1... Kf2 2. a5 *
 
 
 
@@ -106,7 +106,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
 1. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... g5 63. b5 *
+1... g5 2. b5 *
 
 
 
