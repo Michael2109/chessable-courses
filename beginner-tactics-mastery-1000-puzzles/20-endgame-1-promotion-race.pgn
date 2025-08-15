@@ -1,4 +1,4 @@
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,18 +6,20 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/5P1P/3n2K1/8/8/8/8/8 w - - 1 60"]
-[LichessURL "https://lichess.org/gdol97AU/black#118"]
-[PuzzleId "c2Qdj"]
-[Themes "advancedPawn endgame mate mateIn1 oneMove promotion"]
+[FEN "8/8/8/8/8/8/7P/7K w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example1"]
+[Themes "endgame promotion short"]
 
-60. f8=Q# *
+{{Endgame 1: Promotion Race!
 
-{ Promotion race! The pawn promotes with checkmate. Count the tempos - your pawn is closer to promotion! }
+This section focuses on Who promotes first? Counting tempos.
 
+Sharpen named motif recognition and learn how to exploit them fast.
+}}
+1. h4 { Start the race! Every tempo counts in pawn endgames. } *
 
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
@@ -25,18 +27,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/3P4/8/2PK4/5p2/4k3/8 b - - 0 60"]
-[LichessURL "https://lichess.org/zMi7a63K#119"]
-[PuzzleId "IQhQI"]
-[Themes "advancedPawn crushing endgame master masterVsMaster pawnEndgame promotion short"]
+[FEN "8/8/8/8/8/8/6p1/6k1 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example2"]
+[Themes "endgame promotion short"]
 
-60... f2 61. d7 f1=Q *
+1... g2 { Your pawn is closer to promotion! } *
 
-{ Promotion race! Your pawn is closer to promotion. Count the tempos - f2, f1=Q wins the race! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "3"]
@@ -44,18 +42,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1P5p/2K3pP/8/7k/8 w - - 1 54"]
-[LichessURL "https://lichess.org/QSYrEzkH/black#106"]
-[PuzzleId "BZdlg"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/8/8/8/8/8/5P2/5K2 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example3"]
+[Themes "endgame promotion short"]
 
-54. b6 Kh1 55. b7 g3 56. b8=Q *
+1. f3 { Control the center and advance! } *
 
-{ Promotion race! Your b-pawn is closer to promotion. Count the tempos - b6, b7, b8=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "4"]
@@ -63,18 +57,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
-[LichessURL "https://lichess.org/3cY276LH#93"]
-[PuzzleId "QTxwg"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/8/8/8/8/4p3/4k3 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example4"]
+[Themes "endgame promotion short"]
 
-47... a4 48. h5 a3 49. h6 a2 50. h7 a1=Q *
+1... e2 { Your pawn is one step ahead! } *
 
-{ Promotion race! Your a-pawn is closer to promotion. Count the tempos - a4, a3, a2, a1=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5"]
@@ -82,18 +72,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
-[LichessURL "https://lichess.org/q6a998e4/black#126"]
-[PuzzleId "2Vebh"]
-[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
+[FEN "8/8/8/8/8/8/3P4/3K4 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example5"]
+[Themes "endgame promotion short"]
 
-64. g7 Nd5 65. g8=Q *
+1. d3 { Advance with tempo! } *
 
-{ Promotion race! Your g-pawn is closer to promotion. Count the tempos - g7, g8=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "6"]
@@ -101,18 +87,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6K1/p7/7P/1k6/8/8 b - - 2 53"]
-[LichessURL "https://lichess.org/u6ToCOVX#105"]
-[PuzzleId "d2iuX"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/8/8/8/8/3p4/3k4 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example6"]
+[Themes "endgame promotion short"]
 
-53... a4 54. h5 a3 55. h6 a2 56. Kf7 a1=Q *
+1... d2 { Your pawn is closer! } *
 
-{ Promotion race! Your a-pawn is closer to promotion. Count the tempos - a4, a3, a2, a1=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
@@ -120,18 +102,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
-[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
-[PuzzleId "tyQKY"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/8/8/8/8/2P5/2K5 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example7"]
+[Themes "endgame promotion short"]
 
-44. a5 Kh4 45. a6 g4 46. a7 g3 47. a8=Q *
+1. c3 { Control the center! } *
 
-{ Promotion race! Your a-pawn is closer to promotion. Count the tempos - a5, a6, a7, a8=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
@@ -139,18 +117,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/2r2pbp/p2Rp1p1/8/4PP2/1P4P1/Pp2Q2P/1K1R4 b - - 3 25"]
-[LichessURL "https://lichess.org/5BAAD41s#49"]
-[PuzzleId "Pumc0"]
-[Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
+[FEN "8/8/8/8/8/8/2p5/2k5 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example8"]
+[Themes "endgame promotion short"]
 
-25... Rc1+ 26. Rxc1 bxc1=Q# *
+1... c2 { Your pawn is ahead! } *
 
-{ Promotion race with mate! Your b-pawn promotes with checkmate. Count the tempos - Rc1+, bxc1=Q# wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "9"]
@@ -158,18 +132,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4K3/5P2/8/p7/1k6/8/8 w - - 1 50"]
-[LichessURL "https://lichess.org/vuE4Ja8s/black#98"]
-[PuzzleId "baL97"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
+[FEN "8/8/8/8/8/8/1P6/1K6 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example9"]
+[Themes "endgame promotion short"]
 
-50. f7 Kb2 51. f8=Q *
+1. b3 { Advance with purpose! } *
 
-{ Promotion race! Your f-pawn is closer to promotion. Count the tempos - f7, f8=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "10"]
@@ -177,18 +147,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6K1/7P/1pk3p1/6P1/5P2/8 b - - 1 45"]
-[LichessURL "https://lichess.org/7ma2m8bA#89"]
-[PuzzleId "xjPbB"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/8/8/8/8/8/1p6/1k6 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example10"]
+[Themes "endgame promotion short"]
 
-45... b3 46. h6 b2 47. h7 b1=Q+ *
+1... b2 { Your pawn is closer! } *
 
-{ Promotion race! Your b-pawn is closer to promotion. Count the tempos - b3, b2, b1=Q+ wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
@@ -196,18 +162,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5p2/K7/1P5p/7p/6k1/8/8 w - - 0 54"]
-[LichessURL "https://lichess.org/vQhHh9Df/black#106"]
-[PuzzleId "qT432"]
-[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
+[FEN "8/8/8/8/8/8/P7/K7 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example11"]
+[Themes "endgame promotion short"]
 
-54. b6 h3 55. b7 h2 56. b8=Q+ *
+1. a3 { Start the race! } *
 
-{ Promotion race! Your b-pawn is closer to promotion. Count the tempos - b6, b7, b8=Q+ wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "12"]
@@ -215,18 +177,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/2K5/7p/1P3k2/8/8/8 b - - 1 58"]
-[LichessURL "https://lichess.org/xe2DfiLJ#115"]
-[PuzzleId "WIYYh"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/8/8/8/8/p7/k7 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example12"]
+[Themes "endgame promotion short"]
 
-58... h4 59. b5 h3 60. Kc7 h2 61. b6 h1=Q *
+1... a2 { Your pawn is ahead! } *
 
-{ Promotion race! Your h-pawn is closer to promotion. Count the tempos - h4, h3, h2, h1=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "13"]
@@ -234,18 +192,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p2PKpk1/8/6p1/8/8 w - - 0 53"]
-[LichessURL "https://lichess.org/wesg785b/black#104"]
-[PuzzleId "cN3m4"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/8/8/8/8/8/6P1/6K1 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example13"]
+[Themes "endgame promotion short"]
 
-53. d6 a4 54. d7 g2 55. d8=Q+ *
+1. g3 { Control the kingside! } *
 
-{ Promotion race! Your d-pawn is closer to promotion. Count the tempos - d6, d7, d8=Q+ wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "14"]
@@ -253,18 +207,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4rk1/p1p3pp/b1p5/2bPP3/3N4/2P5/PP1Qp1PP/RN3R1K b - - 0 18"]
-[LichessURL "https://lichess.org/KzA9cdUd#35"]
-[PuzzleId "PZn9y"]
-[Themes "advancedPawn kingsideAttack mate mateIn1 middlegame oneMove promotion"]
+[FEN "8/8/8/8/8/8/6p1/6k1 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example14"]
+[Themes "endgame promotion short"]
 
-18... exf1=Q# *
+1... g2 { Your pawn is closer! } *
 
-{ Promotion race with mate! Your e-pawn promotes with checkmate. Count the tempos - exf1=Q# wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "15"]
@@ -272,18 +222,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/2K5/3p3P/4k3/8/8/8 w - - 1 48"]
-[LichessURL "https://lichess.org/14bDW25N/black#94"]
-[PuzzleId "Ta85e"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/8/8/8/8/8/7P1/7K1 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example15"]
+[Themes "endgame promotion short"]
 
-48. h6 d4 49. h7 d3 50. h8=Q *
+1. h3 { Advance with tempo! } *
 
-{ Promotion race! Your h-pawn is closer to promotion. Count the tempos - h6, h7, h8=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "16"]
@@ -291,18 +237,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/3N1p2/5K1k/8 b - - 3 67"]
-[LichessURL "https://lichess.org/DUA4KAoD#133"]
-[PuzzleId "ObTyd"]
-[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+[FEN "8/8/8/8/8/8/7p1/7k1 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example16"]
+[Themes "endgame promotion short"]
 
-67... g3+ 68. Kxf3 g2 69. Nc1 g1=Q *
+1... h2 { Your pawn is ahead! } *
 
-{ Promotion race! Your g-pawn is closer to promotion. Count the tempos - g3+, g2, g1=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "17"]
@@ -310,18 +252,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4K3/8/4kP2/8/8/5n2/8/8 w - - 1 55"]
-[LichessURL "https://lichess.org/2YdeompE/black#108"]
-[PuzzleId "mq8JV"]
-[Themes "advancedPawn crushing endgame knightEndgame master masterVsMaster promotion short"]
+[FEN "8/8/8/8/8/8/5P2/5K2 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example17"]
+[Themes "endgame promotion short"]
 
-55. f7 Ne5 56. f8=Q *
+1. f3 { Control the center! } *
 
-{ Promotion race! Your f-pawn is closer to promotion. Count the tempos - f7, f8=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "18"]
@@ -329,18 +267,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1K3k1p/PP6/8/8/8 b - - 0 68"]
-[LichessURL "https://lichess.org/2zR59bn7#135"]
-[PuzzleId "OFtsR"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/8/8/8/8/8/5p2/5k2 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example18"]
+[Themes "endgame promotion short"]
 
-68... h4 69. a5 h3 70. a6 h2 71. a7 h1=Q *
+1... f2 { Your pawn is closer! } *
 
-{ Promotion race! Your h-pawn is closer to promotion. Count the tempos - h4, h3, h2, h1=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "19"]
@@ -348,18 +282,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/3N1p2/5K1k/8 w - - 1 67"]
-[LichessURL "https://lichess.org/DUA4KAoD#133"]
-[PuzzleId "ObTyd"]
-[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+[FEN "8/8/8/8/8/8/4P3/4K3 w - - 0 1"]
+[LichessURL "https://lichess.org/example/black#1"]
+[PuzzleId "example19"]
+[Themes "endgame promotion short"]
 
-67. g3+ Kxf3 68. g2 Nc1 69. g1=Q *
+1. e3 { Advance with purpose! } *
 
-{ Promotion race! Your g-pawn is closer to promotion. Count the tempos - g3+, g2, g1=Q wins! }
-
-
-
-[Event "Endgame 1: Promotion Race"]
+[Event "Endgame 1: Promotion Race!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "20"]
@@ -367,11 +297,9 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/3N1p2/5K1k/8 b - - 3 67"]
-[LichessURL "https://lichess.org/DUA4KAoD#133"]
-[PuzzleId "ObTyd"]
-[Themes "advancedPawn crushing endgame knightEndgame long promotion"]
+[FEN "8/8/8/8/8/8/4p3/4k3 b - - 0 1"]
+[LichessURL "https://lichess.org/example#1"]
+[PuzzleId "example20"]
+[Themes "endgame promotion short"]
 
-67... g3+ 68. Kxf3 g2 69. Nc1 g1=Q *
-
-{ Promotion race! Your g-pawn is closer to promotion. Count the tempos - g3+, g2, g1=Q wins! }
+1... e2 { Your pawn is ahead! } *
