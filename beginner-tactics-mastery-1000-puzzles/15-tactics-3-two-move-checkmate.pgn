@@ -1,4 +1,4 @@
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -6,21 +6,21 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-{{Tactics 3: Two Move Checkmate!
+{{Tactics 3: Two-Move Checkmate
 
-This section focuses on Two-move checkmate sequences.
+This section focuses on Forcing checks, simple sequences.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }}
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
@@ -28,15 +28,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-45. Rd1 Rxd1# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "3"]
@@ -44,15 +44,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "4"]
@@ -60,15 +60,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-47... Ra1+ { First move: Check! Forcing the rook to block. }
-48. Rb1 Rxb1# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5"]
@@ -76,15 +76,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-36. Rb8+ { First move: Check! Forcing the knight to block. }
-36... Ne8 37. Rxe8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "6"]
@@ -92,79 +92,79 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-45. Rd1 Rxd1# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
-
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Back rank mate! The king is trapped. }
-
-[Event "Tactics 3: Two Move Checkmate!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "9"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-47... Ra1+ { First move: Check! Forcing the rook to block. }
-48. Rb1 Rxb1# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "9"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-36. Rb8+ { First move: Check! Forcing the knight to block. }
-36... Ne8 37. Rxe8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
@@ -172,15 +172,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "12"]
@@ -188,15 +188,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-45. Rd1 Rxd1# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "13"]
@@ -204,15 +204,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "14"]
@@ -220,15 +220,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-47... Ra1+ { First move: Check! Forcing the rook to block. }
-48. Rb1 Rxb1# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "15"]
@@ -236,95 +236,95 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-36. Rb8+ { First move: Check! Forcing the knight to block. }
-36... Ne8 37. Rxe8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "16"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "17"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-45. Rd1 Rxd1# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "18"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
-
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Back rank mate! The king is trapped. }
-
-[Event "Tactics 3: Two Move Checkmate!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "19"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-47... Ra1+ { First move: Check! Forcing the rook to block. }
-48. Rb1 Rxb1# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "19"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-36. Rb8+ { First move: Check! Forcing the knight to block. }
-36... Ne8 37. Rxe8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "21"]
@@ -332,15 +332,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-29. Rd8+ { First move: Check! Forcing the rook to block. }
-29... Re8 30. Rxe8# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "22"]
@@ -348,15 +348,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-44... Rc1+ { First move: Check! Forcing the rook to block. }
-45. Rd1 Rxd1# { Second move: Mate! The rook delivers checkmate. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "23"]
@@ -364,15 +364,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1k3b1N/ppp3pp/8/4p3/1n1q2n1/3P4/P1P3PP/R4R1K w - - 0 22"]
-[LichessURL "https://lichess.org/cQBqU53F/black#42"]
-[PuzzleId "3O3kc"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-22. Rxf8+ { First move: Check! Forcing the queen to block. }
-22... Qd8 23. Rxd8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "24"]
@@ -380,15 +380,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-47... Ra1+ { First move: Check! Forcing the rook to block. }
-48. Rb1 Rxb1# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
 
-[Event "Tactics 3: Two Move Checkmate!"]
+[Event "Tactics 3: Two-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "25"]
@@ -396,10 +396,90 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
 
-36. Rb8+ { First move: Check! Forcing the knight to block. }
-36... Ne8 37. Rxe8# { Second move: Back rank mate! The king is trapped. }
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *
+
+[Event "Tactics 3: Two-Move Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/8kOyjapn/black#8"]
+[PuzzleId "3uX0x"]
+[Themes "mate mateIn2 opening short"]
+
+4. Bxc6+ { A forcing check that wins material. }
+4... bxc6 5. Qe2# *

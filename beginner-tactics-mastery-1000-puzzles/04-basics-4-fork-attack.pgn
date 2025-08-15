@@ -1,4 +1,4 @@
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "4"]
@@ -11,20 +11,16 @@
 [PuzzleId "xFG1B"]
 [Themes "crushing endgame fork short"]
 
-51... Rxf1+ 52. Qxf1 Rxf1+ *
-
-
 {{Basics 4: Fork Attack!
 
 This section focuses on Knight forks (15), pawn forks (10).
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
+51... Rxf1+ 52. Qxf1 Rxf1+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5"]
@@ -40,8 +36,7 @@ Build core habits and quick recognition by checking forcing moves first.
 29. Rd8+ Qxd8 30. Rxd8+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
@@ -57,8 +52,7 @@ Build core habits and quick recognition by checking forcing moves first.
 66. Nf6+ Ke7 67. Nxg8+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
@@ -74,8 +68,7 @@ Build core habits and quick recognition by checking forcing moves first.
 50. Ne6+ Ke7 51. Nxg5 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "15"]
@@ -91,8 +84,7 @@ Build core habits and quick recognition by checking forcing moves first.
 31. d6+ Bxd6 32. cxd6+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "17"]
@@ -108,8 +100,7 @@ Build core habits and quick recognition by checking forcing moves first.
 28. Ne7+ Kf7 29. Nxc8 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "20"]
@@ -125,8 +116,7 @@ Build core habits and quick recognition by checking forcing moves first.
 56... Nb6+ 57. Kd3 Nxa4 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "21"]
@@ -142,8 +132,7 @@ Build core habits and quick recognition by checking forcing moves first.
 34. Nd5+ Kd6 35. Nxf6 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "23"]
@@ -159,8 +148,7 @@ Build core habits and quick recognition by checking forcing moves first.
 47. Re6+ Qxe6 48. Qxe6+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "19"]
@@ -176,8 +164,7 @@ Build core habits and quick recognition by checking forcing moves first.
 45. Nd8+ Ke7 46. Nxb7 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "27"]
@@ -193,8 +180,7 @@ Build core habits and quick recognition by checking forcing moves first.
 49. Rf6+ Kg7 50. Rxd6 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "29"]
@@ -210,8 +196,7 @@ Build core habits and quick recognition by checking forcing moves first.
 50. Be7+ Kc6 51. Bxf8 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "32"]
@@ -227,8 +212,7 @@ Build core habits and quick recognition by checking forcing moves first.
 15... Qxd4+ 16. Be3 Qxe3+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40"]
@@ -244,8 +228,7 @@ Build core habits and quick recognition by checking forcing moves first.
 56... Nd5+ 57. Ke4 Nxf6+ *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "45"]
@@ -261,8 +244,7 @@ Build core habits and quick recognition by checking forcing moves first.
 17. Qxe6+ Qxe6 18. Rxe6 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "52"]
@@ -278,8 +260,7 @@ Build core habits and quick recognition by checking forcing moves first.
 21... Rxd1+ 22. Bxd1 Re1+ 23. Kf2 Rxd1 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "54"]
@@ -295,8 +276,7 @@ Build core habits and quick recognition by checking forcing moves first.
 24... Bc5+ 25. Qxc5 Rxc5 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "55"]
@@ -312,8 +292,7 @@ Build core habits and quick recognition by checking forcing moves first.
 18. Rxg8+ Nxg8 19. Re8+ Nd8 20. Rxg8 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "58"]
@@ -329,8 +308,7 @@ Build core habits and quick recognition by checking forcing moves first.
 46... Rxf6+ 47. Qxf6+ Kxf6 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "59"]
@@ -346,8 +324,7 @@ Build core habits and quick recognition by checking forcing moves first.
 27. g7+ Qxg7 28. Rxg7 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "61"]
@@ -363,8 +340,7 @@ Build core habits and quick recognition by checking forcing moves first.
 32. Ne7+ Kh7 33. Nxf5 Ra1+ 34. Kh2 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "62"]
@@ -380,8 +356,7 @@ Build core habits and quick recognition by checking forcing moves first.
 27... Qf5+ 28. Kc1 Qxe6 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "63"]
@@ -397,8 +372,7 @@ Build core habits and quick recognition by checking forcing moves first.
 25. Nf5+ Kh7 26. Nxh4 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "68"]
@@ -414,8 +388,7 @@ Build core habits and quick recognition by checking forcing moves first.
 26... Re2+ 27. Kf1 Rxc2 *
 
 
-
-[Event "Fork"]
+[Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "69"]

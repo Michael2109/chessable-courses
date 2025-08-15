@@ -1,4 +1,4 @@
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -19,7 +19,7 @@ Build core habits and quick recognition by checking forcing moves first.
 39. Re8# { The classic back rank mate! Black's king is trapped by its own pawns while your rook controls the entire 8th rank. }
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
@@ -35,7 +35,7 @@ Build core habits and quick recognition by checking forcing moves first.
 18... Rxd1# { Taking the rook delivers checkmate since White's king has no escape squares. }
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "22"]
@@ -52,7 +52,7 @@ Build core habits and quick recognition by checking forcing moves first.
 24. Rxd1 Rxd1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "46"]
@@ -69,7 +69,7 @@ Build core habits and quick recognition by checking forcing moves first.
 40. Bf1 Rxf1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "56"]
@@ -86,7 +86,7 @@ Build core habits and quick recognition by checking forcing moves first.
 26. Rxe1 Rxe1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "63"]
@@ -103,7 +103,7 @@ Build core habits and quick recognition by checking forcing moves first.
 21... Kh8 22. Qf8+ Rxf8 23. Rxf8# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "64"]
@@ -120,7 +120,7 @@ Build core habits and quick recognition by checking forcing moves first.
 26. Rxf1 Rxf1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "68"]
@@ -137,7 +137,7 @@ Build core habits and quick recognition by checking forcing moves first.
 26. Rxe1 Rxe1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "10"]
@@ -153,7 +153,7 @@ Build core habits and quick recognition by checking forcing moves first.
 33... Rxe1# { The knight was the only piece defending against back rank mate - now it's checkmate! }
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "70"]
@@ -170,7 +170,7 @@ Build core habits and quick recognition by checking forcing moves first.
 21. Nxa1 Rd1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "71"]
@@ -187,7 +187,7 @@ Build core habits and quick recognition by checking forcing moves first.
 30... Rd8 31. Qxd8# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "72"]
@@ -204,7 +204,7 @@ Build core habits and quick recognition by checking forcing moves first.
 24. Rf1 Rxf1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "73"]
@@ -221,7 +221,7 @@ Build core habits and quick recognition by checking forcing moves first.
 26... Kh8 27. Rxf8# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "74"]
@@ -238,7 +238,7 @@ Build core habits and quick recognition by checking forcing moves first.
 33. Kg1 Qe1+ 34. Rxe1 Rxe1# *
 
 
-[Event "Basics 3: Back Rank Blitz"]
+[Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "77"]

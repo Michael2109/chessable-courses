@@ -1,4 +1,4 @@
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -11,7 +11,7 @@
 [PuzzleId "a0LbN"]
 [Themes "capturingDefender crushing discoveredAttack endgame short"]
 
-{{Tactics 2: Remove the Guard!
+{{Tactics 2: Remove the Guard
 
 This section focuses on Removing defenders to win material.
 
@@ -20,7 +20,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
 29... fxe6 30. Rxc8+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
@@ -36,7 +36,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
 44. cxb4 Rxd4+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "3"]
@@ -52,7 +52,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
 26... Rxd8 27. Rxe7 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "4"]
@@ -68,7 +68,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
 29. Bxb7 Nxb5 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5"]
@@ -84,7 +84,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
 29... Rxd5 30. Rxe6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "6"]
@@ -100,7 +100,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
 45. cxd6 Bxc6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
@@ -116,7 +116,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
 29... fxe6 30. Rxc8+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
@@ -132,7 +132,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
 44. cxb4 Rxd4+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "9"]
@@ -148,7 +148,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
 26... Rxd8 27. Rxe7 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "10"]
@@ -164,7 +164,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
 29. Bxb7 Nxb5 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "11"]
@@ -180,7 +180,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
 29... Rxd5 30. Rxe6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "12"]
@@ -196,7 +196,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
 45. cxd6 Bxc6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "13"]
@@ -212,7 +212,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
 29... fxe6 30. Rxc8+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "14"]
@@ -228,7 +228,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
 44. cxb4 Rxd4+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "15"]
@@ -244,7 +244,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
 26... Rxd8 27. Rxe7 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "16"]
@@ -260,7 +260,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
 29. Bxb7 Nxb5 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "17"]
@@ -276,7 +276,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
 29... Rxd5 30. Rxe6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "18"]
@@ -292,7 +292,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
 45. cxd6 Bxc6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "19"]
@@ -308,7 +308,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxe6 { Remove the guard! Capturing the defender of the rook. }
 29... fxe6 30. Rxc8+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "20"]
@@ -324,7 +324,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 43... Qxb4 { Remove the guard! Capturing the defender of the knight. }
 44. cxb4 Rxd4+ *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "21"]
@@ -340,7 +340,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 26. Nxd8 { Remove the guard! Capturing the defender of the queen. }
 26... Rxd8 27. Rxe7 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "22"]
@@ -356,7 +356,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 28... Rxb7 { Remove the guard! Capturing the defender of the pawn. }
 29. Bxb7 Nxb5 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "23"]
@@ -372,7 +372,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 29. Qxd5 { Remove the guard! Capturing the defender of the rook. }
 29... Rxd5 30. Rxe6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "24"]
@@ -388,7 +388,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 44... Rxd6 { Remove the guard! Capturing the defender of the bishop. }
 45. cxd6 Bxc6 *
 
-[Event "Tactics 2: Remove the Guard!"]
+[Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "25"]
