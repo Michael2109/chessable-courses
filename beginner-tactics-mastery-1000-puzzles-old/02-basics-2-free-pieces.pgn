@@ -250,16 +250,16 @@ Build core habits and quick recognition by checking forcing moves first.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "18"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r1r2k1/pp3pp1/7p/2p5/4Pb2/5P2/PPP3PP/1K1R1B1R b - - 1 18"]
-[LichessURL "https://lichess.org/t9dY8kVn#35"]
-[PuzzleId "gFLyt"]
-[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+[FEN "5k2/6pp/1N3p2/2r1p3/P3P3/1b2P1P1/5KBP/8 w - - 0 33"]
+[LichessURL "https://lichess.org/qq6zMkza/black#64"]
+[PuzzleId "qHv6K"]
+[Themes "advantage endgame fork master short"]
 
-1... Rxd1# { Excellent! The rook was sitting there defenseless. Back rank mate strikes again! } *
+1. Nd7+ { Knight fork! This move attacks both the king and the hanging rook. } 1... Ke7 2. Nxc5 { Winning the rook for free! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
