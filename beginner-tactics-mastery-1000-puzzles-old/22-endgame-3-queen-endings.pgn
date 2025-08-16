@@ -17,7 +17,7 @@ This section focuses on Queen vs queen tactics.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Qa8# { Queen endgame! Back rank mate with the queen. }
+1. Qa8#
 
 
 
@@ -38,7 +38,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "vqbdB"]
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
 
-1... Qxb1# { Queen endgame! Back rank mate with the queen. }
+1... Qxb1#
 
 
 
@@ -59,7 +59,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Vrku8"]
 [Themes "endgame mate mateIn2 queenEndgame short"]
 
-1. Qc8+ { Queen endgame! Check to force the queen to block. }
+1. Qc8+
 3... Qe8 27. Qxe8# *
 
 
@@ -81,7 +81,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Q16st"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove queenEndgame"]
 
-1... g2# { Queen endgame! Pawn promotes with checkmate. }
+1... g2#
 
 
 
@@ -102,7 +102,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "oabTr"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-1. Qd8# { Queen endgame! Direct checkmate with the queen. }
+1. Qd8#
 
 
 
@@ -123,7 +123,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UIZTQ"]
 [Themes "endgame mate mateIn2 queenEndgame short"]
 
-1... Qd1+ { Queen endgame! Back rank mate threat. }
+1... Qd1+
 2. Qe1 Qxe1# *
 
 
@@ -145,7 +145,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "P13lh"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove queenEndgame"]
 
-1. Qxf8# { Queen endgame! Hanging piece tactic. }
+1. Qxf8#
 
 
 
@@ -166,7 +166,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "1vaM6"]
 [Themes "backRankMate endgame mate mateIn1 oneMove queenEndgame"]
 
-1... Qxc1# { Queen endgame! Back rank mate with the queen. }
+1... Qxc1#
 
 
 
@@ -187,7 +187,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Miv7E"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-1. Qd8# { Queen endgame! Direct checkmate with the queen. }
+1. Qd8#
 
 
 
@@ -208,7 +208,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "sE1tF"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-1... Qd1# { Queen endgame! Back rank mate with the queen. }
+1... Qd1#
 
 
 
@@ -229,7 +229,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "h7u6B"]
 [Themes "crushing endgame queenEndgame short"]
 
-1. Qd3+ { Queen endgame! Forcing queen trade to win. }
+1. Qd3+
 3... Qxd3+ 37. Kxd3 *
 
 
@@ -251,7 +251,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "rAznU"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-1... Qd1# { Queen endgame! Back rank mate with the queen. }
+1... Qd1#
 
 
 
@@ -272,7 +272,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "BhrRA"]
 [Themes "endgame mate mateIn1 oneMove queenEndgame"]
 
-1. Qxg1# { Queen endgame! Capturing the hanging queen. }
+1. Qxg1#
 
 
 
@@ -293,7 +293,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "bfby3"]
 [Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
 
-1... Qa1+ { Queen endgame! Back rank mate threat. }
+1... Qa1+
 2. Qb1 Qxb1# *
 
 
@@ -315,5 +315,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FERt4"]
 [Themes "backRankMate endgame mate mateIn2 queenEndgame short"]
 
-1. Qc8+ { Queen endgame! Back rank mate threat. }
+1. Qc8+
 3... Qd8 27. Qxd8# *

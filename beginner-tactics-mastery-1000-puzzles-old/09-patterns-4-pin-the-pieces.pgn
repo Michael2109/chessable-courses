@@ -17,7 +17,7 @@ This section focuses on Pins to queens/rooks, exploiting pins.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+1. Rd8#
 
 
 
@@ -38,7 +38,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "x89pv"]
 [Themes "crushing master middlegame pin short"]
 
-1... Rxb1 { Pin! The rook pins the queen to the king. }
+1... Rxb1
 2. Qxb1 Rxb1+ *
 
 
@@ -60,7 +60,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SwaeV"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Re8#
 
 
 
@@ -81,7 +81,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "MTHWe"]
 [Themes "crushing endgame pin short"]
 
-1... Rc1 { Pin! The rook pins the queen to the king. }
+1... Rc1
 2. Qxc1 Bxc1 *
 
 
@@ -103,7 +103,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "s2Wvc"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-1. Rd8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Rd8#
 
 
 
@@ -124,7 +124,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "E6may"]
 [Themes "crushing endgame pin queenRookEndgame short"]
 
-1... Rxc1 { Pin! The rook pins the queen to the king. }
+1... Rxc1
 2. Qxc1 Rxc1+ *
 
 
@@ -146,7 +146,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "veeHN"]
 [Themes "crushing endgame master pin short"]
 
-1. Rxc6 { Pin! The rook pins the bishop to the king. }
+1. Rxc6
 1... Kf6 2. Rxd6+ *
 
 
@@ -168,7 +168,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3BfX0"]
 [Themes "crushing endgame pin short"]
 
-1... Rc1 { Pin! The rook pins the rook to the king. }
+1... Rc1
 2. Kf1 Rxd1+ *
 
 
@@ -190,7 +190,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "U5Qeu"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+1. Re8#
 
 
 
@@ -211,7 +211,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "kooUU"]
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
 
-1... Rxf1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+1... Rxf1#
 
 
 
@@ -232,7 +232,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "yrvQ6"]
 [Themes "advantage endgame pin rookEndgame short"]
 
-1. Rd8 { Pin! The rook pins the rook to the king. }
+1. Rd8
 1... f5 2. Rxe8+ *
 
 
@@ -254,7 +254,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GAIsa"]
 [Themes "endgame mate mateIn1 oneMove pin"]
 
-1... Rxe1# { Pin! The rook pins the rook to the king, delivering checkmate. }
+1... Rxe1#
 
 
 

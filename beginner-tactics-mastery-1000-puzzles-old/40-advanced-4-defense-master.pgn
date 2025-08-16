@@ -62,8 +62,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "mF3ot"]
 [Themes "crushing defensiveMove endgame queenEndgame short"]
 
-62. Qc6 { Defensive queen exchange! Simplifying the position. }
-62... Qxc6+ 63. Kxc6 { The queen exchange creates a winning endgame. }
+62. Qc6
+62... Qxc6+ 63. Kxc6
 
 
 
@@ -84,8 +84,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "PqtF6"]
 [Themes "crushing defensiveMove endgame rookEndgame short"]
 
-57... Rxa5+ { Defensive rook capture! Eliminating the threat. }
-58. Kxa5 d4 { The rook capture prevents the pawn advance. }
+57... Rxa5+
+58. Kxa5 d4
 
 
 
@@ -106,8 +106,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "jTrn6"]
 [Themes "crushing defensiveMove endgame master pin queenRookEndgame short"]
 
-57. Rg4 { Defensive rook move! Blocking the queen's attack. }
-57... Kf6 58. Rxg6+ { The rook move prevents the queen from attacking. }
+57. Rg4
+57... Kf6 58. Rxg6+
 
 
 
@@ -128,8 +128,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "M8lz8"]
 [Themes "crushing defensiveMove endgame pawnEndgame short zugzwang"]
 
-46... Kxg5 { Defensive king capture! Eliminating the threat. }
-47. Kf3 Kf5 { The king capture prevents the pawn advance. }
+46... Kxg5
+47. Kf3 Kf5
 
 
 
@@ -282,8 +282,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "b9qJ1"]
 [Themes "crushing defensiveMove endgame master short"]
 
-1. Kxc4 { Defensive exchange! Eliminating the threat. }
-3... Kc7 56. Kd5 { The king advance creates winning chances. }
+1. Kxc4
+3... Kc7 56. Kd5
 
 
 
@@ -304,8 +304,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "5YS3t"]
 [Themes "advantage defensiveMove endgame master short"]
 
-1... Kf6 { Defensive counter-threat! Creating a fork. }
-2. Rf7+ Kxg5 { Winning the knight with the fork. }
+1... Kf6
+2. Rf7+ Kxg5
 
 
 
@@ -326,8 +326,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "oqYLQ"]
 [Themes "crushing defensiveMove endgame short"]
 
-1. Kxg3 { Defensive exchange! Eliminating the threat. }
-3... Kg6 60. Kf4 { The king advance creates winning chances. }
+1. Kxg3
+3... Kg6 60. Kf4
 
 
 
@@ -348,8 +348,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "zSrJS"]
 [Themes "crushing defensiveMove middlegame short"]
 
-1... Rf7 { Defensive counter-threat! Creating a pin. }
-2. Qxf7+ Kxf7 { Winning the queen with the pin. }
+1... Rf7
+2. Qxf7+ Kxf7
 
 
 

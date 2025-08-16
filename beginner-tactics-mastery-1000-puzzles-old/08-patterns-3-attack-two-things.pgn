@@ -17,7 +17,7 @@ This section focuses on Queen forks, rook forks, two threats.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rf8+ { Fork! The rook attacks both the queen and threatens checkmate. }
+1. Rf8+
 1... Qxf8 2. Rxf8# *
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "n24rx"]
 [Themes "backRankMate endgame fork mate mateIn2 short"]
 
-1... Rd1+ { Fork! The rook attacks both the king and threatens back rank mate. }
+1... Rd1+
 2. Re1 Rxe1# *
 
 
@@ -61,7 +61,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mxsBt"]
 [Themes "backRankMate fork mate mateIn2 middlegame short"]
 
-1. Rd8+ { Fork! The rook attacks both the queen and threatens back rank mate. }
+1. Rd8+
 1... Qe8 2. Rxe8# *
 
 
@@ -105,7 +105,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cqoFH"]
 [Themes "backRankMate endgame fork mate mateIn2 short"]
 
-1. Rd8+ { Fork! The rook attacks both the rook and threatens back rank mate. }
+1. Rd8+
 1... Re8 2. Rxe8# *
 
 
@@ -127,7 +127,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "9HQsz"]
 [Themes "fork mate mateIn2 middlegame short"]
 
-1... Qd1+ { Fork! The queen attacks both the rook and threatens mate. }
+1... Qd1+
 2. Re1 Qxe1# *
 
 
@@ -149,7 +149,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "br5sR"]
 [Themes "backRankMate fork master mate mateIn2 middlegame short"]
 
-1. Rxe8+ { Fork! The rook attacks both the rook and threatens back rank mate. }
+1. Rxe8+
 1... Rf8 2. Rxf8# *
 
 
@@ -171,7 +171,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GP5Wk"]
 [Themes "fork mate mateIn2 middlegame short"]
 
-1... Qd1+ { Fork! The queen attacks both the rook and threatens mate. }
+1... Qd1+
 2. Re1 Qxe1# *
 
 
@@ -215,7 +215,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "s6JLo"]
 [Themes "backRankMate fork mate mateIn2 middlegame short"]
 
-1... Rd1+ { Fork! The rook attacks both the king and threatens back rank mate. }
+1... Rd1+
 2. Re1 Rxe1# *
 
 
@@ -237,7 +237,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mxsBt"]
 [Themes "endgame fork mate mateIn2 short"]
 
-1. Rf8+ { Fork! The rook attacks both the queen and threatens mate. }
+1. Rf8+
 1... Qxf8 2. Rxf8# *
 
 
@@ -259,8 +259,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "yJJnD"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-52... Rc2 { Fork! The rook attacks both the queen and creates a pin. }
-53. Qxc2+ Kxc2 { Converting the double attack. }
+52... Rc2
+53. Qxc2+ Kxc2
 
 
 
@@ -281,7 +281,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "92Oqp"]
 [Themes "backRankMate endgame fork mate mateIn1 oneMove"]
 
-1. Rd8+ { Fork! The rook attacks both the queen and threatens back rank mate. }
+1. Rd8+
 3... Qxd8 29. Rxd8# *
 
 
@@ -435,8 +435,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XNR7I"]
 [Themes "crushing defensiveMove endgame master short"]
 
-53. hxg5 { Fork! The pawn captures the rook and creates a passed pawn. }
-53... e5 54. Kc3 { Converting the double attack. }
+53. hxg5
+53... e5 54. Kc3
 
 
 
@@ -611,8 +611,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "lInES"]
 [Themes "crushing defensiveMove endgame rookEndgame short"]
 
-47... Rxd5+ { Fork! The rook attacks both the king and the pawn. }
-48. Kxd5 g4 { Converting the double attack. }
+47... Rxd5+
+48. Kxd5 g4
 
 
 

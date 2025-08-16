@@ -18,7 +18,7 @@ This section focuses on Luring pieces to bad squares.
 Build core habits and quick recognition by checking forcing moves first.
 }
 
-27. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 27... Kb8 28. Rxd8+ { Now capture the rook! } *
+27. Bxf5+ 27... Kb8 28. Rxd8+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -33,7 +33,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "UAvRo"]
 [Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
 
-45. e7+ { Decoy and deflection! Lure the king away from the rook. } 45... Kc8 46. e8=Q+ { Now promote to queen! } *
+45. e7+ 45... Kc8 46. e8=Q+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -48,7 +48,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "kLjlO"]
 [Themes "crushing deflection endgame short"]
 
-38... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 39. Kf3 Nxd1 { Now capture the bishop! } *
+38... Nc3+ 39. Kf3 Nxd1 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -63,7 +63,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "CAe3q"]
 [Themes "crushing deflection endgame rookEndgame short"]
 
-49... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 50. Kxe4 Kxg5 { Now capture the rook! } *
+49... Rxe4+ 50. Kxe4 Kxg5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -78,7 +78,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "vsnJ7"]
 [Themes "crushing deflection endgame master masterVsMaster short"]
 
-46... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 47. Ke5 Nxc5 { Now capture the bishop! } *
+46... Ne6+ 47. Ke5 Nxc5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -93,7 +93,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wtnK8"]
 [Themes "crushing deflection endgame short"]
 
-39. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 39... Kxe5 40. Rxd4 { Now capture the rook! } *
+39. Bxe5+ 39... Kxe5 40. Rxd4 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -108,7 +108,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xuoL9"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-26. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 26... Kb8 27. Rxd8+ { Now capture the rook! } *
+26. Bxf5+ 26... Kb8 27. Rxd8+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -123,7 +123,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "yvpM0"]
 [Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
 
-44. e7+ { Decoy and deflection! Lure the king away from the rook. } 44... Kc8 45. e8=Q+ { Now promote to queen! } *
+44. e7+ 44... Kc8 45. e8=Q+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -138,7 +138,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "zwqN1"]
 [Themes "crushing deflection endgame short"]
 
-37... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 38. Kf3 Nxd1 { Now capture the bishop! } *
+37... Nc3+ 38. Kf3 Nxd1 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -153,7 +153,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "a1rO2"]
 [Themes "crushing deflection endgame rookEndgame short"]
 
-48... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 49. Kxe4 Kxg5 { Now capture the rook! } *
+48... Rxe4+ 49. Kxe4 Kxg5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -168,7 +168,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "b2sP3"]
 [Themes "crushing deflection endgame master masterVsMaster short"]
 
-45... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 46. Ke5 Nxc5 { Now capture the bishop! } *
+45... Ne6+ 46. Ke5 Nxc5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -183,7 +183,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "c3tQ4"]
 [Themes "crushing deflection endgame short"]
 
-38. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 38... Kxe5 39. Rxd4 { Now capture the rook! } *
+38. Bxe5+ 38... Kxe5 39. Rxd4 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -198,7 +198,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "d4uR5"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-25. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 25... Kb8 26. Rxd8+ { Now capture the rook! } *
+25. Bxf5+ 25... Kb8 26. Rxd8+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -213,7 +213,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "e5vS6"]
 [Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
 
-43. e7+ { Decoy and deflection! Lure the king away from the rook. } 43... Kc8 44. e8=Q+ { Now promote to queen! } *
+43. e7+ 43... Kc8 44. e8=Q+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -228,7 +228,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "f6wT7"]
 [Themes "crushing deflection endgame short"]
 
-36... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 37. Kf3 Nxd1 { Now capture the bishop! } *
+36... Nc3+ 37. Kf3 Nxd1 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -243,7 +243,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "g7xU8"]
 [Themes "crushing deflection endgame rookEndgame short"]
 
-47... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 48. Kxe4 Kxg5 { Now capture the rook! } *
+47... Rxe4+ 48. Kxe4 Kxg5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -258,7 +258,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "h8yV9"]
 [Themes "crushing deflection endgame master masterVsMaster short"]
 
-44... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 45. Ke5 Nxc5 { Now capture the bishop! } *
+44... Ne6+ 45. Ke5 Nxc5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -273,7 +273,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "i9zW0"]
 [Themes "crushing deflection endgame short"]
 
-37. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 37... Kxe5 38. Rxd4 { Now capture the rook! } *
+37. Bxe5+ 37... Kxe5 38. Rxd4 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -288,7 +288,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "j0aX1"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-24. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 24... Kb8 25. Rxd8+ { Now capture the rook! } *
+24. Bxf5+ 24... Kb8 25. Rxd8+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -303,7 +303,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "k1bY2"]
 [Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
 
-42. e7+ { Decoy and deflection! Lure the king away from the rook. } 42... Kc8 43. e8=Q+ { Now promote to queen! } *
+42. e7+ 42... Kc8 43. e8=Q+ *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -318,7 +318,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "l2cZ3"]
 [Themes "crushing deflection endgame short"]
 
-35... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 36. Kf3 Nxd1 { Now capture the bishop! } *
+35... Nc3+ 36. Kf3 Nxd1 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -333,7 +333,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "m3dA4"]
 [Themes "crushing deflection endgame rookEndgame short"]
 
-46... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 47. Kxe4 Kxg5 { Now capture the rook! } *
+46... Rxe4+ 47. Kxe4 Kxg5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -348,7 +348,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "n4eB5"]
 [Themes "crushing deflection endgame master masterVsMaster short"]
 
-43... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 44. Ke5 Nxc5 { Now capture the bishop! } *
+43... Ne6+ 44. Ke5 Nxc5 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -363,7 +363,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "o5fC6"]
 [Themes "crushing deflection endgame short"]
 
-36. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 36... Kxe5 37. Rxd4 { Now capture the rook! } *
+36. Bxe5+ 36... Kxe5 37. Rxd4 *
 
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
@@ -378,4 +378,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "p6gD7"]
 [Themes "crushing deflection discoveredAttack endgame short"]
 
-23. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 23... Kb8 24. Rxd8+ { Now capture the rook! } *
+23. Bxf5+ 23... Kb8 24. Rxd8+ *

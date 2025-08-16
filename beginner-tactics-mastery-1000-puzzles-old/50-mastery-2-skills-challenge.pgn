@@ -19,7 +19,7 @@ Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mat
 
 Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
 }
-43... Qg1+ { Skills challenge! Sacrifice the queen to force mate. } 44. Kxh3 Qh1# { Deliver mate! } *
+43... Qg1+ 44. Kxh3 Qh1# *
 
 
 
@@ -40,7 +40,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "l7OYo"]
 [Themes "endgame master"]
 
-1... Qxh4# { Skills challenge! Queen mate exploiting the exposed king. }
+1... Qxh4#
 
 
 
@@ -61,7 +61,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "oHA6T"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-1. Rh7# { Skills challenge! Rook mate exploiting the exposed king. }
+1. Rh7#
 
 
 
@@ -82,7 +82,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "ttBko"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-1... Rc1# { Skills challenge! Rook mate on the back rank. }
+1... Rc1#
 
 
 
@@ -103,8 +103,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "4KLOw"]
 [Themes "endgame master mate mateIn2 short"]
 
-1. Rd8+ { Skills challenge! Rook sacrifice to force mate. }
-3... Rxd8 29. Rxd8# { The back rank mate. }
+1. Rd8+
+3... Rxd8 29. Rxd8#
 
 
 
@@ -125,7 +125,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "kwdWc"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove"]
 
-1... Rxe1# { Skills challenge! Back rank mate with the king trapped. }
+1... Rxe1#
 
 
 
@@ -146,7 +146,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "liMHw"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-1. Qxe8# { Skills challenge! Queen mate exploiting the hanging rook. }
+1. Qxe8#
 
 
 
@@ -167,7 +167,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "YDD67"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-1... Rc1# { Skills challenge! Rook mate on the back rank. }
+1... Rc1#
 
 
 
@@ -188,7 +188,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "WogRX"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-1. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+1. Rxd8#
 
 
 
@@ -209,7 +209,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "eqHGK"]
 [Themes "endgame master"]
 
-1... Rxe1# { Skills challenge! Rook mate exploiting the hanging queen. }
+1... Rxe1#
 
 
 
@@ -230,7 +230,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "9ljaO"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-1. Rc8# { Skills challenge! Rook mate on the back rank. }
+1. Rc8#
 
 
 
@@ -251,8 +251,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "JIngM"]
 [Themes "backRankMate endgame master masterVsMaster mate mateIn2 sacrifice short"]
 
-1... Qf1+ { Skills challenge! Queen sacrifice to force mate. }
-2. Rxf1 Rxf1# { The back rank mate. }
+1... Qf1+
+2. Rxf1 Rxf1#
 
 
 
@@ -295,7 +295,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "C5WLb"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-1... Qxf1# { Skills challenge! Queen mate exploiting the hanging rook. }
+1... Qxf1#
 
 
 
@@ -316,7 +316,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "HsnWP"]
 [Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove rookEndgame"]
 
-1. Rxb8# { Skills challenge! Back rank mate with the king trapped. }
+1. Rxb8#
 
 
 
@@ -337,7 +337,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "TSamE"]
 [Themes "master mate mateIn1 middlegame oneMove"]
 
-1... Qxh2# { Skills challenge! Queen mate exploiting the exposed king. }
+1... Qxh2#
 
 
 
@@ -358,7 +358,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "DzVeS"]
 [Themes "endgame master mate mateIn1 oneMove queenEndgame"]
 
-1. Qh8# { Skills challenge! Queen mate in the endgame. }
+1. Qh8#
 
 
 
@@ -379,7 +379,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "R2U3b"]
 [Themes "master mate mateIn1 middlegame oneMove queensideAttack"]
 
-1... Qxb2# { Skills challenge! Queen mate exploiting the exposed king. }
+1... Qxb2#
 
 
 
@@ -400,7 +400,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "Xob7F"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-1. Rxd8# { Skills challenge! Rook mate exploiting the hanging rook. }
+1. Rxd8#
 
 
 
@@ -421,7 +421,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "ySRLf"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-1... Rxe1# { Skills challenge! Rook mate exploiting the hanging rook. }
+1... Rxe1#
 
 
 
@@ -442,8 +442,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "Mj1II"]
 [Themes "advantage master middlegame short"]
 
-1. Qxd8 { Skills challenge! Queen sacrifice to win material. }
-3... Rxd8 28. Rxd8 { Converting the advantage. }
+1. Qxd8
+3... Rxd8 28. Rxd8
 
 
 
@@ -464,7 +464,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "9ezWS"]
 [Themes "bishopEndgame endgame master mate mateIn1 oneMove"]
 
-1... Be3# { Skills challenge! Bishop mate in the endgame. }
+1... Be3#
 
 
 
@@ -485,8 +485,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "PfGL9"]
 [Themes "crushing defensiveMove endgame knightEndgame master short"]
 
-1. Kxc4 { Skills challenge! King move to win the pawn. }
-3... Ne5+ 72. Kc5 { Converting the advantage. }
+1. Kxc4
+3... Ne5+ 72. Kc5
 
 
 
@@ -507,7 +507,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "AlVB3"]
 [Themes "master mate mateIn1 middlegame oneMove"]
 
-1... Rg1# { Skills challenge! Rook mate exploiting the exposed king. }
+1... Rg1#
 
 
 
@@ -528,4 +528,4 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "J63kX"]
 [Themes "endgame master mate mateIn1 oneMove"]
 
-1. Rd8# { Skills challenge! Rook mate on the back rank. }
+1. Rd8#

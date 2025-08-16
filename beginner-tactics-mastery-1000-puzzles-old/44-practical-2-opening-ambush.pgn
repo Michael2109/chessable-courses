@@ -17,7 +17,7 @@ This section focuses on Opening traps and quick wins.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-9... Bxh2+ { Opening ambush! The bishop sacrifice opens the kingside. } 10. Nxh2 Qxd5 { Now win the queen! } *
+9... Bxh2+ 10. Nxh2 Qxd5 *
 
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage fork opening short"]
 [Rating "960"]
 
-10... Qa5+ { Opening ambush! Fork the king and bishop. } 11. Bd2 Qxb5 { Win the bishop! } *
+10... Qa5+ 11. Bd2 Qxb5 *
 
 
 
@@ -83,7 +83,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "mate mateIn1 oneMove opening"]
 [Rating "1016"]
 
-14. Qf7# { Opening ambush! The queen delivers checkmate on f7. } *
+14. Qf7# *
 
 
 
@@ -236,7 +236,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "RZzYJ"]
 [Themes "mate mateIn1 oneMove opening"]
 
-1. Qxg6# { Opening ambush! Quick mate in the opening. } *
+1. Qxg6# *
 
 
 
@@ -257,7 +257,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "tl9xv"]
 [Themes "kingsideAttack mate mateIn2 opening short"]
 
-1... Qd1+ { Opening ambush! Quick mate threat. }
+1... Qd1+
 2. Re1 Qxe1# *
 
 
@@ -279,7 +279,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FEHvg"]
 [Themes "attackingF2F7 mate mateIn1 oneMove opening"]
 
-1. Qxf7# { Opening ambush! Quick mate in the opening. } *
+1. Qxf7# *
 
 
 
@@ -322,4 +322,4 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "CpHCK"]
 [Themes "hangingPiece mate mateIn1 oneMove opening"]
 
-1. Qxh5# { Opening ambush! Quick mate in the opening. } *
+1. Qxh5# *

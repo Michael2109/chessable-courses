@@ -17,7 +17,7 @@ This section focuses on Rook for minor piece advantage.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-22... Qf2+ { Exchange sacrifice! Give up the queen to open the back rank. } 23. Kh1 Qf1+ 24. Rxf1 Rxf1# { Now the rook delivers mate! } *
+22... Qf2+ 23. Kh1 Qf1+ 24. Rxf1 Rxf1# *
 
 
 
@@ -39,7 +39,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Rating "810"]
 
-25. Qxf7+ { Exchange sacrifice! Give up the queen to open the back rank. } 25... Kh8 26. Qf8+ Rxf8 27. Rxf8# { Now the rook delivers mate! } *
+25. Qxf7+ 25... Kh8 26. Qf8+ Rxf8 27. Rxf8# *
 
 
 

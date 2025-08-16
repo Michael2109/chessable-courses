@@ -17,8 +17,8 @@ This section focuses on Zwischenzug, desperado moves.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rxd8 { In-between move! The rook sacrifice creates a zwischenzug. }
-1... Rxd8 2. Bxe5 { Winning the knight with the intermezzo! }
+1. Rxd8
+1... Rxd8 2. Bxe5
 
 
 
@@ -39,8 +39,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "aCewA"]
 [Themes "advantage intermezzo middlegame short"]
 
-1... Bxd3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-2. cxd3 exf4 { Winning the rook with the intermezzo! }
+1... Bxd3+
+2. cxd3 exf4
 
 
 
@@ -61,8 +61,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "N0rDP"]
 [Themes "endgame intermezzo mate mateIn2 short"]
 
-1. Re8+ { In-between move! The rook sacrifice creates a zwischenzug. }
-1... Kh7 2. Bxf5# { Checkmate with the intermezzo! }
+1. Re8+
+1... Kh7 2. Bxf5#
 
 
 
@@ -83,8 +83,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "ppcBi"]
 [Themes "crushing exposedKing intermezzo long middlegame"]
 
-1... Nxb4 { In-between move! The knight sacrifice creates a zwischenzug. }
-2. Bxd7 Nxd3+ 3. cxd3 Nxd7 { Winning material with the intermezzo! }
+1... Nxb4
+2. Bxd7 Nxd3+ 3. cxd3 Nxd7
 
 
 
@@ -105,8 +105,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FsN5a"]
 [Themes "advantage endgame intermezzo short"]
 
-1. Rd8+ { In-between move! The rook sacrifice creates a zwischenzug. }
-1... Kh7 2. Nxe4 { Winning the knight with the intermezzo! }
+1. Rd8+
+1... Kh7 2. Nxe4
 
 
 
@@ -127,8 +127,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "ahK8f"]
 [Themes "crushing intermezzo kingsideAttack middlegame short"]
 
-1... Nxf3+ { In-between move! The knight sacrifice creates a zwischenzug. }
-2. exf3 Qxg5 { Winning the bishop with the intermezzo! }
+1... Nxf3+
+2. exf3 Qxg5
 
 
 
@@ -149,8 +149,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "gqgZ5"]
 [Themes "advantage intermezzo middlegame short"]
 
-1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-1... bxc6 2. Rxe5 { Winning the bishop with the intermezzo! }
+1. Bxc6+
+1... bxc6 2. Rxe5
 
 
 
@@ -171,8 +171,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "ogIIg"]
 [Themes "advantage intermezzo kingsideAttack opening short"]
 
-1... Nxf3+ { In-between move! The knight sacrifice creates a zwischenzug. }
-2. Qxf3 Qxg5 { Winning the bishop with the intermezzo! }
+1... Nxf3+
+2. Qxf3 Qxg5
 
 
 
@@ -193,8 +193,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0IC0n"]
 [Themes "crushing intermezzo kingsideAttack middlegame short"]
 
-1. Nxf6+ { In-between move! The knight sacrifice creates a zwischenzug. }
-1... gxf6 2. Qxh5 { Winning the queen with the intermezzo! }
+1. Nxf6+
+1... gxf6 2. Qxh5
 
 
 
@@ -215,8 +215,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "rTP3a"]
 [Themes "advantage endgame intermezzo short"]
 
-1... Bxc5+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-2. Bxc5 Rxb7 { Winning the rook with the intermezzo! }
+1... Bxc5+
+2. Bxc5 Rxb7
 
 
 
@@ -237,8 +237,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mwqzx"]
 [Themes "advantage intermezzo middlegame short"]
 
-1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
+1. Bxc6+
+1... bxc6 2. Qxd4
 
 
 
@@ -259,8 +259,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "VtyqP"]
 [Themes "crushing intermezzo middlegame short"]
 
-1... Nxe2+ { In-between move! The knight sacrifice creates a zwischenzug. }
-2. Bxe2 Qxc3 { Winning the queen with the intermezzo! }
+1... Nxe2+
+2. Bxe2 Qxc3
 
 
 
@@ -281,8 +281,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SuqsL"]
 [Themes "crushing intermezzo middlegame short"]
 
-1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
+1. Bxc6+
+1... bxc6 2. Qxd4
 
 
 
@@ -303,8 +303,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "OD5NZ"]
 [Themes "advantage intermezzo kingsideAttack middlegame short"]
 
-1... Nxf3+ { In-between move! The knight sacrifice creates a zwischenzug. }
-2. Bxf3 Qxf5 { Winning the queen with the intermezzo! }
+1... Nxf3+
+2. Bxf3 Qxf5
 
 
 
@@ -325,8 +325,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "G8giA"]
 [Themes "crushing intermezzo middlegame short"]
 
-1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
+1. Bxc6+
+1... bxc6 2. Qxd4
 
 
 
@@ -347,8 +347,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "4NRbZ"]
 [Themes "crushing intermezzo kingsideAttack opening short"]
 
-1... Bxf3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-2. Rxf3 Qxd4 { Winning the queen with the intermezzo! }
+1... Bxf3+
+2. Rxf3 Qxd4
 
 
 
@@ -369,8 +369,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "icRku"]
 [Themes "crushing intermezzo middlegame short"]
 
-1. Bxe7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-1... Kxe7 2. Qxd5 { Winning the queen with the intermezzo! }
+1. Bxe7+
+1... Kxe7 2. Qxd5
 
 
 
@@ -391,8 +391,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "8W103"]
 [Themes "crushing intermezzo middlegame short"]
 
-1... Bxc3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-2. bxc3 Qxd5 { Winning the queen with the intermezzo! }
+1... Bxc3+
+2. bxc3 Qxd5
 
 
 
@@ -413,8 +413,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "caDZg"]
 [Themes "crushing intermezzo kingsideAttack middlegame short"]
 
-1. Nxf6+ { In-between move! The knight sacrifice creates a zwischenzug. }
-1... gxf6 2. Qxd5 { Winning the queen with the intermezzo! }
+1. Nxf6+
+1... gxf6 2. Qxd5
 
 
 
@@ -435,8 +435,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "i425h"]
 [Themes "crushing intermezzo middlegame short"]
 
-1... Bxc3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-2. bxc3 Qxd5 { Winning the queen with the intermezzo! }
+1... Bxc3+
+2. bxc3 Qxd5
 
 
 
@@ -457,8 +457,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "eEggm"]
 [Themes "crushing intermezzo opening short"]
 
-1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
+1. Bxc6+
+1... bxc6 2. Qxd4
 
 
 
@@ -479,8 +479,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "ODEvD"]
 [Themes "advantage intermezzo middlegame short"]
 
-1... Nxe2+ { In-between move! The knight sacrifice creates a zwischenzug. }
-2. Bxe2 Rxd8 { Winning the bishop with the intermezzo! }
+1... Nxe2+
+2. Bxe2 Rxd8
 
 
 
@@ -501,8 +501,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jFQPo"]
 [Themes "crushing intermezzo middlegame short"]
 
-1. Nxe7+ { In-between move! The knight sacrifice creates a zwischenzug. }
-1... Bxe7 2. Qxc6 { Winning the queen with the intermezzo! }
+1. Nxe7+
+1... Bxe7 2. Qxc6
 
 
 
@@ -523,8 +523,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GlbJK"]
 [Themes "crushing endgame intermezzo rookEndgame short"]
 
-1. Rf8+ { In-between move! The rook sacrifice creates a zwischenzug. }
-1... Kh7 2. Rxa2 { Winning the rook with the intermezzo! }
+1. Rf8+
+1... Kh7 2. Rxa2
 
 
 
@@ -545,7 +545,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XlvyV"]
 [Themes "crushing endgame intermezzo short"]
 
-1. Nxf6+ { In-between move! The knight sacrifice creates a zwischenzug. }
-1... Rxf6 2. Rxd4 { Winning the rook with the intermezzo! }
+1. Nxf6+
+1... Rxf6 2. Rxd4
 
 

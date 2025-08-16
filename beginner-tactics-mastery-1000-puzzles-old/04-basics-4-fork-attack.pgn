@@ -17,7 +17,7 @@ This section focuses on Fork patterns with all pieces.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-1... Rxf1+ { Beautiful rook fork! Check the king and attack the queen simultaneously. } 2. Qxf1 Rxf1+ *
+1... Rxf1+ 2. Qxf1 Rxf1+ *
 
 
 
@@ -38,7 +38,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "d3mUL"]
 [Themes "crushing endgame fork short"]
 
-1. Rd8+ { Powerful rook fork! Give check and win the queen. Always look for these back rank opportunities! } 1... Qxd8 2. Rxd8+ *
+1. Rd8+ 1... Qxd8 2. Rxd8+ *
 
 
 
@@ -59,7 +59,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wK5sc"]
 [Themes "crushing endgame fork short"]
 
-1. Nf6+ { Classic knight fork! Knights are the masters of the double attack. } 1... Ke7 2. Nxg8+ *
+1. Nf6+ 1... Ke7 2. Nxg8+ *
 
 
 
@@ -80,7 +80,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "piREI"]
 [Themes "crushing endgame fork short"]
 
-1. Ne6+ { Another knight fork! Check the king, win the rook. Knights love these L-shaped attacks! } 1... Ke7 2. Nxg5 *
+1. Ne6+ 1... Ke7 2. Nxg5 *
 
 
 
@@ -101,7 +101,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "YXRiP"]
 [Themes "bishopEndgame crushing endgame fork short"]
 
-1. d6+ { Sneaky pawn fork! Even pawns can deliver devastating double attacks. } 1... Bxd6 2. cxd6+ *
+1. d6+ 1... Bxd6 2. cxd6+ *
 
 
 
@@ -122,7 +122,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "6BGbP"]
 [Themes "advantage endgame fork short"]
 
-1. Ne7+ { Excellent knight work! Centralized knights create maximum fork opportunities. } 1... Kf7 2. Nxc8 *
+1. Ne7+ 1... Kf7 2. Nxc8 *
 
 
 
@@ -143,7 +143,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wmJSz"]
 [Themes "crushing endgame fork short"]
 
-1... Nb6+ { Great knight fork! Attack the king and win the bishop. Knights are perfect for these tactics! } 2. Kd3 Nxa4 *
+1... Nb6+ 2. Kd3 Nxa4 *
 
 
 
@@ -164,7 +164,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "QvJyQ"]
 [Themes "advantage endgame fork short"]
 
-1. Nd5+ { Perfect knight placement! Check the king and attack the bishop in one move. } 1... Kd6 2. Nxf6 *
+1. Nd5+ 1... Kd6 2. Nxf6 *
 
 
 
@@ -185,7 +185,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "DDrcr"]
 [Themes "crushing endgame fork short"]
 
-1. Re6+ { Devastating rook fork! When the queen and king line up, look for this tactical shot! } 1... Qxe6 2. Qxe6+ *
+1. Re6+ 1... Qxe6 2. Qxe6+ *
 
 
 
@@ -206,7 +206,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "RVtAp"]
 [Themes "crushing endgame fork short"]
 
-1. Nd8+ { Textbook knight fork! From d8, the knight controls both f7 and b7. } 1... Ke7 2. Nxb7 *
+1. Nd8+ 1... Ke7 2. Nxb7 *
 
 
 
@@ -227,7 +227,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "LW7gS"]
 [Themes "crushing endgame fork short"]
 
-1. Rf6+ { Smart rook fork! Check the king and win the knight. Always scan for these patterns! } 1... Kg7 2. Rxd6 *
+1. Rf6+ 1... Kg7 2. Rxd6 *
 
 
 
@@ -248,7 +248,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "t6CH2"]
 [Themes "crushing endgame fork short"]
 
-1. Be7+ { Brilliant bishop fork! Bishops can fork too when pieces line up on the same diagonal. } 1... Kc6 2. Bxf8 *
+1. Be7+ 1... Kc6 2. Bxf8 *
 
 
 
@@ -269,7 +269,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "m7jDj"]
 [Themes "advantage fork middlegame short"]
 
-1... Qxd4+ { Explosive queen fork! Capture the pawn with check and then grab the bishop. } 2. Be3 Qxe3+ *
+1... Qxd4+ 2. Be3 Qxe3+ *
 
 
 
@@ -290,7 +290,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Kfyns"]
 [Themes "crushing endgame fork master short"]
 
-1... Nd5+ { Incredible knight fork! Check the king and win the queen. The ultimate fork! } 2. Ke4 Nxf6+ *
+1... Nd5+ 2. Ke4 Nxf6+ *
 
 
 
@@ -311,7 +311,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "fh1Fm"]
 [Themes "advantage fork master middlegame short"]
 
-1. Qxe6+ { Forcing queen trade! Capture with check to eliminate Black's active queen. } 1... Qxe6 2. Rxe6 *
+1. Qxe6+ 1... Qxe6 2. Rxe6 *
 
 
 
@@ -332,7 +332,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "J09uD"]
 [Themes "advantage endgame fork long"]
 
-1... Rxd1+ { Multi-move rook fork! This starts a sequence that wins material through forced trades. } 2. Bxd1 Re1+ 3. Kf2 Rxd1 *
+1... Rxd1+ 2. Bxd1 Re1+ 3. Kf2 Rxd1 *
 
 
 
@@ -353,7 +353,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7Yl9C"]
 [Themes "advantage fork middlegame short"]
 
-1... Bc5+ { Tactical bishop check! Fork the king and queen to win material. } 2. Qxc5 Rxc5 *
+1... Bc5+ 2. Qxc5 Rxc5 *
 
 
 
@@ -374,7 +374,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "2yzXe"]
 [Themes "advantage endgame fork long"]
 
-1. Rxg8+ { Complex rook sacrifice! This leads to a fork after forced captures. } 1... Nxg8 2. Re8+ Nd8 3. Rxg8 *
+1. Rxg8+ 1... Nxg8 2. Re8+ Nd8 3. Rxg8 *
 
 
 
@@ -395,7 +395,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xDjcw"]
 [Themes "advantage endgame fork short"]
 
-1... Rxf6+ { Smart rook sacrifice! Trade your rook for the knight and queen. } 2. Qxf6+ Kxf6 *
+1... Rxf6+ 2. Qxf6+ Kxf6 *
 
 
 
@@ -416,7 +416,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "W0BUi"]
 [Themes "advancedPawn crushing endgame fork short"]
 
-1. g7+ { Unstoppable pawn fork! Push for promotion while attacking the queen. } 1... Qxg7 2. Rxg7 *
+1. g7+ 1... Qxg7 2. Rxg7 *
 
 
 
@@ -437,7 +437,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Ihe1l"]
 [Themes "crushing endgame fork short"]
 
-51... Nd2+ { Perfect knight fork! Check the king and win the rook. } 52. Kg2 Nxf1 *
+51... Nd2+ 52. Kg2 Nxf1 *
 
 
 
@@ -458,7 +458,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "lpj0g"]
 [Themes "advantage endgame fork master short"]
 
-1... Qf5+ { Elegant queen fork! Check the king and then capture the knight. } 2. Kc1 Qxe6 *
+1... Qf5+ 2. Kc1 Qxe6 *
 
 
 
@@ -479,7 +479,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "UTl9C"]
 [Themes "crushing fork middlegame short"]
 
-1. Nf5+ { Decisive knight fork! Check the king and win the queen. Game over! } 1... Kh7 2. Nxh4 *
+1. Nf5+ 1... Kh7 2. Nxh4 *
 
 
 
@@ -500,7 +500,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "QqwHC"]
 [Themes "advantage endgame fork short"]
 
-1... Re2+ { Simple but effective! Check the king and win the bishop. } 2. Kf1 Rxc2 *
+1... Re2+ 2. Kf1 Rxc2 *
 
 
 
@@ -521,4 +521,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Uc1Tt"]
 [Themes "advantage fork long middlegame"]
 
-1. Bxe4 { Tactical bishop capture! This move forks the knight and threatens the queen. } 1... Nxe4 2. Qd5+ Rf7 3. Qxe4 *
+1. Bxe4 1... Nxe4 2. Qd5+ Rf7 3. Qxe4 *

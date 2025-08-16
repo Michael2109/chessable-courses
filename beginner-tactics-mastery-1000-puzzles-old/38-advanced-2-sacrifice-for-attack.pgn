@@ -17,8 +17,8 @@ This section focuses on Clearance and Line Opening Sacrifices.
 
 Learn to recognize when sacrificing material opens lines for attack and creates overwhelming tactical opportunities. These sacrifices often lead to mate or decisive material gains.
 }
-1. Qe8+ { Queen sacrifice to open the back rank! }
-1... Rxe8 2. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+1... Rxe8 2. Rxe8#
 
 
 
@@ -39,8 +39,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "gjlCN"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#
 
 
 
@@ -61,8 +61,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "4371k"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-1... Rxe8 2. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+1... Rxe8 2. Rxe8#
 
 
 
@@ -83,8 +83,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "qSq7h"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#
 
 
 
@@ -105,8 +105,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "uB1Jy"]
 [Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 24. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+3... Rxe8 24. Rxe8#
 
 
 
@@ -127,8 +127,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "OClVI"]
 [Themes "endgame mate mateIn2 sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#
 
 
 
@@ -149,8 +149,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "LuhR8"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1. Qd8+ { Queen sacrifice to open the back rank! }
-3... Rxd8 36. Rxd8# { Back rank mate! The sacrifice cleared the path. }
+1. Qd8+
+3... Rxd8 36. Rxd8#
 
 
 
@@ -171,8 +171,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "CQz7Z"]
 [Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#
 
 
 
@@ -193,9 +193,9 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "FWAO8"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Nxe8 30. Rxe8+ { Forcing sequence continues. }
-5... Rf8 31. Rxf8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+3... Nxe8 30. Rxe8+
+5... Rf8 31. Rxf8#
 
 
 
@@ -216,8 +216,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "QR2lU"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-1... Qd1+ { Queen sacrifice to open the back rank! }
-2. Rxd1 Rxd1# { Back rank mate! The sacrifice cleared the path. }
+1... Qd1+
+2. Rxd1 Rxd1#
 
 
 
@@ -238,8 +238,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "tWFIO"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 23. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+3... Rxe8 23. Rxe8#
 
 
 
@@ -260,8 +260,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "ixCvR"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#
 
 
 
@@ -282,8 +282,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "P9mwa"]
 [Themes "backRankMate endgame master mate mateIn2 sacrifice short"]
 
-1. Qd8+ { Queen sacrifice to open the back rank! }
-3... Rxd8 26. Rxd8# { Back rank mate! The sacrifice cleared the path. }
+1. Qd8+
+3... Rxd8 26. Rxd8#
 
 
 
@@ -304,8 +304,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "F768l"]
 [Themes "endgame mate mateIn2 sacrifice short"]
 
-1... Qd1+ { Queen sacrifice to open the back rank! }
-2. Rxd1 Rxd1# { Back rank mate! The sacrifice cleared the path. }
+1... Qd1+
+2. Rxd1 Rxd1#
 
 
 
@@ -326,8 +326,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "5HjkD"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 24. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+3... Rxe8 24. Rxe8#
 
 
 
@@ -348,9 +348,9 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "qVjyD"]
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 
-1... Qa1+ { Queen sacrifice to open the back rank! }
-2. Bxa1 Rxa1+ { Forcing sequence continues. }
-4. Re1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qa1+
+2. Bxa1 Rxa1+
+4. Re1 Rxe1#
 
 
 
@@ -371,8 +371,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "Pm7gv"]
 [Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 21. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+3... Rxe8 21. Rxe8#
 
 
 
@@ -393,8 +393,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "7Q6mx"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#
 
 
 
@@ -415,8 +415,8 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "tfB9k"]
 [Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
 
-1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 31. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1. Qe8+
+3... Rxe8 31. Rxe8#
 
 
 
@@ -437,5 +437,5 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [PuzzleId "R74Jc"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1... Qe1+ { Queen sacrifice to open the back rank! }
-2. Rxe1 Rxe1# { Back rank mate! The sacrifice cleared the path. }
+1... Qe1+
+2. Rxe1 Rxe1#

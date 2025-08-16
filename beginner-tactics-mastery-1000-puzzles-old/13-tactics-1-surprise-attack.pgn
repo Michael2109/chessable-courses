@@ -17,7 +17,7 @@ This section focuses on Simple discoveries, setup moves.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Re8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+1. Re8+
 1... Bxe8 2. Qxd4 *
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jqQBr"]
 [Themes "advantage discoveredAttack endgame short"]
 
-1... Rxd1+ { Discovered attack! The rook moves, discovering an attack on the bishop. }
+1... Rxd1+
 2. Rxd1 Bxf5 *
 
 
@@ -61,7 +61,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TkME2"]
 [Themes "crushing discoveredAttack kingsideAttack middlegame short"]
 
-1. Rxd8+ { Discovered attack! The rook moves, discovering an attack on the queen. }
+1. Rxd8+
 1... Rxd8 2. Qxe6+ *
 
 
@@ -83,7 +83,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "XN3Fv"]
 [Themes "crushing discoveredAttack middlegame short"]
 
-1... Qxb4 { Discovered attack! The queen moves, discovering an attack on the rook. }
+1... Qxb4
 2. cxb4 Rxc1+ *
 
 
@@ -105,7 +105,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "z6zNe"]
 [Themes "advantage discoveredAttack kingsideAttack middlegame short"]
 
-1. Bxh7+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+1. Bxh7+
 1... Kxh7 2. Rxd7 *
 
 
@@ -127,7 +127,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6kkuP"]
 [Themes "crushing discoveredAttack endgame short"]
 
-1... Bxh2+ { Discovered attack! The bishop moves, discovering an attack on the rook. }
+1... Bxh2+
 2. Kxh2 Rxd1 *
 
 

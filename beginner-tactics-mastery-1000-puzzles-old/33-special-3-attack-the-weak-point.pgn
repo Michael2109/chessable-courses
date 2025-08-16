@@ -17,7 +17,7 @@ This section focuses on f7/f2 weaknesses in the opening.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-9. Qxf7# { Classic f7 attack! The queen swoops in to deliver checkmate on the weak f7 square. }
+9. Qxf7#
 
 
 
@@ -39,7 +39,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [Themes "attackingF2F7 mate mateIn1 middlegame oneMove"]
 [Rating "1023"]
 
-12... Qxf2# { Attacking the weak f2 square! The queen delivers checkmate on the vulnerable f2 point. } *
+12... Qxf2# *
 
 
 
@@ -61,7 +61,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [Themes "advantage attackingF2F7 fork middlegame short"]
 [Rating "942"]
 
-12. Qxf7+ { Attacking the weak f7 square! The queen check forces the king to move. } 12... Kd7 13. Qxg7 { Now capture the bishop! } *
+12. Qxf7+ 12... Kd7 13. Qxg7 *
 
 
 

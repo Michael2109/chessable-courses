@@ -17,7 +17,7 @@ This section focuses on Winning trades and exchanges.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-38... Nf2+ { Trade to win! Fork the king and rook. } 39. Kc1 Nxh3 { Win the rook! } *
+38... Nf2+ 39. Kc1 Nxh3 *
 
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage master middlegame short"]
 [Rating "1163"]
 
-28... Ng4+ { Trade to win! Check the king and win the bishop. } 29. Kh3 Nxf2+ { Win the bishop! } *
+28... Ng4+ 29. Kh3 Nxf2+ *
 
 
 
@@ -61,7 +61,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage fork middlegame short"]
 [Rating "1187"]
 
-18... Qc6+ { Trade to win! Check the king and win the knight. } 19. f3 Qxc4 { Win the knight! } *
+18... Qc6+ 19. f3 Qxc4 *
 
 
 
@@ -280,8 +280,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "dOjgB"]
 [Themes "advantage discoveredAttack endgame master short"]
 
-1. Bh7+ { Trade to win! Simplifying when ahead. }
-3... Kxh7 33. Rxd6 { Converting the advantage. }
+1. Bh7+
+3... Kxh7 33. Rxd6
 
 
 
@@ -302,8 +302,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "gT1oC"]
 [Themes "advantage hangingPiece opening short"]
 
-1... Kxh7 { Trade to win! Simplifying when ahead. }
-2. Rxe8 Qxe8 { Converting the advantage. }
+1... Kxh7
+2. Rxe8 Qxe8
 
 
 
@@ -324,8 +324,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "MYMxO"]
 [Themes "advantage endgame short"]
 
-1. Rxc2+ { Trade to win! Simplifying when ahead. }
-3... Nxc2 46. Kxc2 { Converting the advantage. }
+1. Rxc2+
+3... Nxc2 46. Kxc2
 
 
 
@@ -346,8 +346,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "IMccb"]
 [Themes "advantage endgame short"]
 
-1... Re1+ { Trade to win! Simplifying when ahead. }
-2. Bf1 Rxf1+ { Converting the advantage. }
+1... Re1+
+2. Bf1 Rxf1+
 
 
 
@@ -368,8 +368,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "41Tuf"]
 [Themes "advantage kingsideAttack master middlegame short"]
 
-1. Rxe8+ { Trade to win! Simplifying when ahead. }
-3... Rxe8 30. Rxe8+ { Converting the advantage. }
+1. Rxe8+
+3... Rxe8 30. Rxe8+
 
 
 
@@ -390,8 +390,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GkuXQ"]
 [Themes "advantage endgame rookEndgame short"]
 
-1... Rxe6+ { Trade to win! Simplifying when ahead. }
-2. Rxe6+ Kxe6 { Converting the advantage. }
+1... Rxe6+
+2. Rxe6+ Kxe6
 
 
 
@@ -412,8 +412,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "VIMrF"]
 [Themes "advantage endgame master short"]
 
-1. Qxe1 { Trade to win! Simplifying when ahead. }
-3... Rxe1 32. Kxe1 { Converting the advantage. }
+1. Qxe1
+3... Rxe1 32. Kxe1
 
 
 
@@ -434,5 +434,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "eaIDA"]
 [Themes "advantage endgame fork long"]
 
-1... Rxe8 { Trade to win! Simplifying when ahead. }
-2. Kg1 Re1+ 24. Kf2 Rxd1 { Converting the advantage. }
+1... Rxe8
+2. Kg1 Re1+ 24. Kf2 Rxd1

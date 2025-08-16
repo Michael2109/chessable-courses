@@ -19,7 +19,7 @@ Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mat
 
 Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
 }
-35... Qa1+ { Tactical fireworks! Sacrifice the queen to force mate. } 36. Qd1 Qxd1+ 37. Rf1 Qxf1# { Deliver mate! } *
+35... Qa1+ 36. Qd1 Qxd1+ 37. Rf1 Qxf1# *
 
 
 
@@ -41,7 +41,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [Themes "exposedKing long mate mateIn3 middlegame"]
 [Rating "1120"]
 
-30... Ra1+ { Tactical fireworks! Expose the king with rook checks. } 31. Kc2 R8a2+ 32. Nb2 Rxb2# { Deliver mate! } *
+30... Ra1+ 31. Kc2 R8a2+ 32. Nb2 Rxb2# *
 
 
 
@@ -63,7 +63,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Rating "956"]
 
-29... Qxf2+ { Tactical fireworks! Sacrifice the queen to open the back rank. } 30. Kh1 Qf1+ 31. Rxf1 Rxf1# { Deliver mate! } *
+29... Qxf2+ 30. Kh1 Qf1+ 31. Rxf1 Rxf1# *
 
 
 
@@ -150,8 +150,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "LuhR8"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1. Qd8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxd8 36. Rxd8# { The back rank mate after the sacrifice. }
+1. Qd8+
+3... Rxd8 36. Rxd8#
 
 
 
@@ -458,8 +458,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "Zppyo"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1. Qf8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxf8 26. Rxf8# { The back rank mate after the sacrifice. }
+1. Qf8+
+3... Rxf8 26. Rxf8#
 
 
 

@@ -17,9 +17,9 @@ This section focuses on Clear forcing sequences.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-1. Rc8+ { Back rank infiltration! The rook invades the 8th rank. }
-1... Bd8 2. Rxd8+ { Forcing sequence continues with another check. }
-2... Qe8 3. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rc8+
+1... Bd8 2. Rxd8+
+2... Qe8 3. Rxe8#
 
 
 
@@ -40,9 +40,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "s6MLf"]
 [Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
 
-1... Rb1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Qc1 Rxc1+ { Forcing sequence continues with another check. }
-3. Re1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rb1+
+2. Qc1 Rxc1+
+3. Re1 Rxe1#
 
 
 
@@ -63,9 +63,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "lMW4k"]
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 
-1. Qe8+ { Back rank infiltration! The queen invades the 8th rank. }
-1... Rxe8 2. Rxe8+ { Forcing sequence continues with another check. }
-2... Qxe8 3. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+1. Qe8+
+1... Rxe8 2. Rxe8+
+2... Qxe8 3. Rxe8#
 
 
 
@@ -86,9 +86,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "k73Ta"]
 [Themes "backRankMate long mate mateIn3 middlegame"]
 
-1... Qxd1+ { Back rank infiltration! The queen invades the 1st rank. }
-2. Bxd1 Rxd1+ { Forcing sequence continues with another check. }
-3. Qe1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Qxd1+
+2. Bxd1 Rxd1+
+3. Qe1 Rxe1#
 
 
 
@@ -109,9 +109,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "6wbad"]
 [Themes "endgame long mate mateIn3"]
 
-1. Rb8+ { Back rank infiltration! The rook invades the 8th rank. }
-1... Bc8 2. Rxc8+ { Forcing sequence continues with another check. }
-2... Qd8 3. Rxd8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rb8+
+1... Bc8 2. Rxc8+
+2... Qd8 3. Rxd8#
 
 
 
@@ -132,9 +132,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "DHixR"]
 [Themes "long mate mateIn3 middlegame"]
 
-1... Rxd1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Be1 Rxe1+ { Forcing sequence continues with another check. }
-3. Rf1 Rxf1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rxd1+
+2. Be1 Rxe1+
+3. Rf1 Rxf1#
 
 
 
@@ -155,9 +155,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HNOEf"]
 [Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
 
-1. Rd8+ { Back rank infiltration! The rook invades the 8th rank. }
-1... Re8 2. Rxe8+ { Forcing sequence continues with another check. }
-2... Qf8 3. Rxf8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rd8+
+1... Re8 2. Rxe8+
+2... Qf8 3. Rxf8#
 
 
 
@@ -178,9 +178,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "tKbn4"]
 [Themes "endgame long mate mateIn3"]
 
-1... Rg1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Rf1 Rxf1+ { Forcing sequence continues with another check. }
-3. Be1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rg1+
+2. Rf1 Rxf1+
+3. Be1 Rxe1#
 
 
 
@@ -201,9 +201,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "rNsGp"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1. Rxd8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Be8 31. Rxe8+ { Forcing sequence continues with another check. }
-5... Qf8 32. Rxf8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rxd8+
+3... Be8 31. Rxe8+
+5... Qf8 32. Rxf8#
 
 
 
@@ -224,9 +224,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xnA4K"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1... Ra1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Rc1 Rxc1+ { Forcing sequence continues with another check. }
-4. Ne1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Ra1+
+2. Rc1 Rxc1+
+4. Ne1 Rxe1#
 
 
 
@@ -247,9 +247,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "a45tB"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1. Ra8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Rc8 30. Rxc8+ { Forcing sequence continues with another check. }
-5... Bd8 31. Rxd8# { Back rank mate! The king is trapped by its own pawns. }
+1. Ra8+
+3... Rc8 30. Rxc8+
+5... Bd8 31. Rxd8#
 
 
 
@@ -270,9 +270,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "SvASa"]
 [Themes "endgame long mate mateIn3"]
 
-1... Rg1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Rd1 Rxd1+ { Forcing sequence continues with another check. }
-4. Rc1 Rxc1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rg1+
+2. Rd1 Rxd1+
+4. Rc1 Rxc1#
 
 
 
@@ -293,9 +293,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "tRfcn"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1. Rc8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Rd8 31. Rxd8+ { Forcing sequence continues with another check. }
-5... Re8 32. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rc8+
+3... Rd8 31. Rxd8+
+5... Re8 32. Rxe8#
 
 
 
@@ -316,9 +316,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "bYo5V"]
 [Themes "endgame long mate mateIn3"]
 
-1... Rc1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Be1 Rxe1+ { Forcing sequence continues with another check. }
-4. Qf1 Rxf1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rc1+
+2. Be1 Rxe1+
+4. Qf1 Rxf1#
 
 
 
@@ -339,9 +339,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "jr5QA"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1. Qxd8+ { Back rank infiltration! The queen invades the 8th rank. }
-3... Bxd8 26. Rxd8+ { Forcing sequence continues with another check. }
-5... Qe8 27. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+1. Qxd8+
+3... Bxd8 26. Rxd8+
+5... Qe8 27. Rxe8#
 
 
 
@@ -362,9 +362,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "BYo7y"]
 [Themes "backRankMate endgame long mate mateIn3 rookEndgame"]
 
-1... Rb1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Rc1 Rxc1+ { Forcing sequence continues with another check. }
-4. Re1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rb1+
+2. Rc1 Rxc1+
+4. Re1 Rxe1#
 
 
 
@@ -385,9 +385,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Ft7to"]
 [Themes "attraction endgame long master masterVsMaster mate mateIn3"]
 
-1. Re8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Rg8 39. Rxg8+ { Forcing sequence continues with another check. }
-5... Kxg8 40. Re8# { Back rank mate! The king is trapped by its own pawns. }
+1. Re8+
+3... Rg8 39. Rxg8+
+5... Kxg8 40. Re8#
 
 
 
@@ -408,9 +408,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "ncFLH"]
 [Themes "endgame long mate mateIn3"]
 
-1... Rc1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Qd1 Rxd1+ { Forcing sequence continues with another check. }
-4. Be1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Rc1+
+2. Qd1 Rxd1+
+4. Be1 Rxe1#
 
 
 
@@ -431,9 +431,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "5oE5f"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1. Rb8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Rc8 30. Rxc8+ { Forcing sequence continues with another check. }
-5... Qd8 31. Rxd8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rb8+
+3... Rc8 30. Rxc8+
+5... Qd8 31. Rxd8#
 
 
 
@@ -454,9 +454,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Qh4R7"]
 [Themes "endgame long mate mateIn3"]
 
-1... Ra1+ { Back rank infiltration! The rook invades the 1st rank. }
-2. Nb1 Rxb1+ { Forcing sequence continues with another check. }
-4. Bc1 Rxc1# { Back rank mate! The king is trapped by its own pawns. }
+1... Ra1+
+2. Nb1 Rxb1+
+4. Bc1 Rxc1#
 
 
 
@@ -477,9 +477,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "s0Mjl"]
 [Themes "backRankMate endgame long mate mateIn3"]
 
-1. Rxf8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Rd8 29. Rxd8+ { Forcing sequence continues with another check. }
-5... Nc8 30. Rxc8# { Back rank mate! The king is trapped by its own pawns. }
+1. Rxf8+
+3... Rd8 29. Rxd8+
+5... Nc8 30. Rxc8#
 
 
 
@@ -500,9 +500,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "DQ0T2"]
 [Themes "endgame long mate mateIn3"]
 
-1... Qc1+ { Back rank infiltration! The queen invades the 1st rank. }
-2. Rd1 Qxd1+ { Forcing sequence continues with another check. }
-4. Re1 Qxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Qc1+
+2. Rd1 Qxd1+
+4. Re1 Qxe1#
 
 
 
@@ -523,9 +523,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "1zb9Z"]
 [Themes "backRankMate endgame fork hangingPiece long mate mateIn3"]
 
-1. Qxa8+ { Back rank infiltration! The queen invades the 8th rank. }
-3... Bc8 26. Qxc8+ { Forcing sequence continues with another check. }
-5... Qd8 27. Qxd8# { Back rank mate! The king is trapped by its own pawns. }
+1. Qxa8+
+3... Bc8 26. Qxc8+
+5... Qd8 27. Qxd8#
 
 
 
@@ -546,9 +546,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "ijrSD"]
 [Themes "kingsideAttack long mate mateIn3 middlegame sacrifice"]
 
-1... Qe1+ { Back rank infiltration! The queen invades the 1st rank. }
-2. Rxe1 Rxe1+ { Forcing sequence continues with another check. }
-4. Rxe1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+1... Qe1+
+2. Rxe1 Rxe1+
+4. Rxe1 Rxe1#
 
 
 

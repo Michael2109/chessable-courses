@@ -17,7 +17,7 @@ This section focuses on Queen+knight, rook+bishop patterns.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rd8+ { Queen+knight pattern! The rook infiltrates the back rank, then mate follows. } 1... Rxd8 2. Rxd8# *
+1. Rd8+ 1... Rxd8 2. Rxd8# *
 
 
 
@@ -38,7 +38,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Nc9zc"]
 [Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
 
-1... Rxf1# { Another back rank mate! The rook captures with checkmate, exploiting the king's lack of escape squares. }
+1... Rxf1#
 
 
 
@@ -59,8 +59,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "CYOq7"]
 [Themes "crushing defensiveMove endgame long pawnEndgame"]
 
-57. c4 { Pawn breakthrough! Creating a passed pawn to win the endgame. }
-57... dxc4+ 58. Kxc4 Kxh5 59. d5 { The pawn advance creates winning chances. }
+57. c4
+57... dxc4+ 58. Kxc4 Kxh5 59. d5
 
 
 
@@ -81,7 +81,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "52I2M"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
 
-1... Qxe1# { Queen checkmate! The queen captures the rook with mate, exploiting the exposed king. }
+1... Qxe1#
 
 
 
@@ -102,7 +102,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Tw7vK"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rxd1+ { Queen+knight pattern! The rook infiltrates the back rank, then mate follows. } 2. Kh2 3. Rh1# *
+1... Rxd1+ 2. Kh2 3. Rh1# *
 
 
 
@@ -123,7 +123,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "5sWvq"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-1. Nf7# { Smothered mate! The knight delivers checkmate while the king is trapped by its own pieces. }
+1. Nf7#
 
 
 
@@ -144,7 +144,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "N0S5f"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-1... Nxf2# { Smothered mate! The knight checkmates while the king is surrounded by its own pieces. }
+1... Nxf2#
 
 
 
@@ -165,7 +165,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Ce9yv"]
 [Themes "master mate mateIn1 oneMove opening smotheredMate"]
 
-1. Nd6# { Smothered mate! The knight delivers checkmate in the opening, a rare early smothered mate. }
+1. Nd6#
 
 
 
@@ -186,7 +186,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qT0qy"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-1... Nxf2# { Smothered mate! The knight checkmates while the king is trapped by its own pawns. }
+1... Nxf2#
 
 
 
@@ -207,7 +207,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "j1GFb"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-1. Nxf7# { Smothered mate! The knight delivers checkmate while the king is surrounded. }
+1. Nxf7#
 
 
 
@@ -228,7 +228,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "ojsIc"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-1... Nf2# { Smothered mate! The knight checkmates while the king is trapped by its own pieces. }
+1... Nf2#
 
 
 
@@ -249,7 +249,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rc1+ { Queen+knight pattern! The rook check forces the king to move, then mate follows. } 2. Rd1 Rxd1# *
+1... Rc1+ 2. Rd1 Rxd1# *
 
 
 
@@ -270,7 +270,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qk6P3"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rb1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 2. Rc1 Rxc1# *
+1... Rb1+ 2. Rc1 Rxc1# *
 
 
 
@@ -291,7 +291,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "DbkyF"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Qxe8# { Queen+knight pattern! The queen delivers checkmate with knight support. } *
+1. Qxe8# *
 
 
 
@@ -312,7 +312,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "eVwya"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Ra1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 2. Ne1 Rxe1# *
+1... Ra1+ 2. Ne1 Rxe1# *
 
 
 
@@ -333,7 +333,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cL6cc"]
 [Themes "endgame mate mateIn1 oneMove"]
 
-1. Re8# { Rook+bishop pattern! The rook delivers checkmate with bishop support. } *
+1. Re8# *
 
 
 
@@ -354,7 +354,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "66t8g"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rd1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 19. Rxd1 Rxd1# *
+1... Rd1+ 19. Rxd1 Rxd1# *
 
 
 
@@ -375,7 +375,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3aOBX"]
 [Themes "attackingF2F7 mate mateIn1 oneMove opening"]
 
-1. Qxf7# { Queen+knight pattern! The queen delivers checkmate with knight support. } *
+1. Qxf7# *
 
 
 
@@ -396,7 +396,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TdiHG"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-1... Rb1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 32. Rd1 Rxd1# *
+1... Rb1+ 32. Rd1 Rxd1# *
 
 
 
@@ -417,7 +417,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "jIgG6"]
 [Themes "fork mate mateIn2 middlegame short"]
 
-1. Rxe8+ { Queen+knight pattern! The rook sacrifice leads to mate with queen and knight. } 20... Qxe8 21. Rxe8# *
+1. Rxe8+ 20... Qxe8 21. Rxe8# *
 
 
 
@@ -438,7 +438,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SgDvZ"]
 [Themes "kingsideAttack mate mateIn2 middlegame short"]
 
-1... Qd1+ { Queen+knight pattern! The queen check leads to mate with knight support. } 23. Bf1 Qxf1# *
+1... Qd1+ 23. Bf1 Qxf1# *
 
 
 
@@ -459,7 +459,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cvyG9"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Ra8+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 27... Qb8 28. Rxb8# *
+1. Ra8+ 27... Qb8 28. Rxb8# *
 
 
 
@@ -480,7 +480,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "9ukvE"]
 [Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
 
-1... Rxc1# { Queen+knight pattern! The rook delivers checkmate with queen support. } *
+1... Rxc1# *
 
 
 
@@ -501,7 +501,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3dQC1"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Qxe8+ { Queen+knight pattern! The queen infiltrates the back rank, then mate follows. } 1... Bxe8 2. Rxe8# *
+1. Qxe8+ 1... Bxe8 2. Rxe8# *
 
 
 
@@ -522,4 +522,4 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "vRqvE"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rd1+ { Rook+bishop pattern! The rook infiltrates the back rank, then mate follows. } 28. Re1 Rxe1# *
+1... Rd1+ 28. Re1 Rxe1# *

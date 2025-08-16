@@ -460,8 +460,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "Zppyo"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1. Qf8+ { Greek Gift! The queen sacrifice leads to back rank mate. }
-1... Rxf8 2. Rxf8# { Back rank mate! }
+1. Qf8+
+1... Rxf8 2. Rxf8#
 
 
 
@@ -484,8 +484,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "ukcei"]
 [Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
-1... Qd1+ { Greek Gift! The queen sacrifice leads to back rank mate. }
-2. Rxd1 Rxd1# { Back rank mate! }
+1... Qd1+
+2. Rxd1 Rxd1#
 
 
 
@@ -508,8 +508,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "O0lYD"]
 [Themes "long mate mateIn3 middlegame sacrifice"]
 
-1. Rd8+ { Greek Gift! The rook sacrifice leads to mate. }
-1... Bxd8 2. Rxd8+ Qe8 3. Rxe8# { Mate! }
+1. Rd8+
+1... Bxd8 2. Rxd8+ Qe8 3. Rxe8#
 
 
 
@@ -532,8 +532,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "vHD6H"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
-1... Qd1+ { Greek Gift! The queen sacrifice leads to back rank mate. }
-2. Rxd1 Rxd1# { Back rank mate! }
+1... Qd1+
+2. Rxd1 Rxd1#
 
 
 
@@ -556,7 +556,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "xvNIC"]
 [Themes "endgame master mate mateIn2 sacrifice short"]
 
-1. Rc8+ { Greek Gift! The rook sacrifice leads to mate. }
-1... Bxc8 2. Rxc8# { Mate! }
+1. Rc8+
+1... Bxc8 2. Rxc8#
 
 

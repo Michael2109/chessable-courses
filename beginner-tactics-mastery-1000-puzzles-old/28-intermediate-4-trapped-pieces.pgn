@@ -17,8 +17,8 @@ This section focuses on Trapped bishops (15), queens (10), rooks (10).
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Kxg2 { Trapped piece! The bishop is trapped and will be captured. }
-1... Rxc1 2. Rxc1 { Winning the trapped bishop! }
+1. Kxg2
+1... Rxc1 2. Rxc1
 
 
 
@@ -39,8 +39,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NskoT"]
 [Themes "crushing endgame knightEndgame short trappedPiece"]
 
-1... Kb2 { Trapped piece! The knight is trapped and will be captured. }
-2. g4 Kxa1 { Winning the trapped knight! }
+1... Kb2
+2. g4 Kxa1
 
 
 
@@ -61,8 +61,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SUEla"]
 [Themes "advantage middlegame short trappedPiece"]
 
-1. Qxd3 { Trapped piece! The bishop is trapped and will be captured. }
-1... Bxf2+ 2. Kxf2 { Winning the trapped bishop! }
+1. Qxd3
+1... Bxf2+ 2. Kxf2
 
 
 
@@ -83,8 +83,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "E16tz"]
 [Themes "advantage master middlegame short trappedPiece"]
 
-1... Rxa7 { Trapped piece! The rook is trapped and will be captured. }
-2. Rxd7+ Kxd7 { Winning the trapped rook! }
+1... Rxa7
+2. Rxd7+ Kxd7
 
 
 
@@ -105,8 +105,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NwSlE"]
 [Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
 
-1. g6+ { Trapped piece! The bishop is trapped and will be captured. }
-1... Ke7 2. g7 Bxg7 3. hxg7 { Winning the trapped bishop! }
+1. g6+
+1... Ke7 2. g7 Bxg7 3. hxg7
 
 
 
@@ -127,8 +127,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "7i8hC"]
 [Themes "advantage hangingPiece middlegame short trappedPiece"]
 
-1... Qxd5 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxf6+ Kxf6 { Winning the trapped queen! }
+1... Qxd5
+2. Qxf6+ Kxf6
 
 
 
@@ -149,8 +149,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xMeus"]
 [Themes "crushing middlegame short trappedPiece"]
 
-1. Kxc1 { Trapped piece! The rook is trapped and will be captured. }
-1... Rxb3 2. Nxb3 { Winning the trapped rook! }
+1. Kxc1
+1... Rxb3 2. Nxb3
 
 
 
@@ -171,8 +171,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Lxj5n"]
 [Themes "crushing middlegame short trappedPiece"]
 
-1... Rxg6 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxg6+ Kxg6 { Winning the trapped queen! }
+1... Rxg6
+2. Qxg6+ Kxg6
 
 
 
@@ -193,8 +193,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "LmWls"]
 [Themes "advantage middlegame short trappedPiece"]
 
-1. Kxf3 { Trapped piece! The queen is trapped and will be captured. }
-1... Qh4 2. Rxh4 { Winning the trapped queen! }
+1. Kxf3
+1... Qh4 2. Rxh4
 
 
 
@@ -215,8 +215,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "fWZoK"]
 [Themes "advantage endgame short trappedPiece"]
 
-1... Bxd3 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxd3+ Kxd3 { Winning the trapped queen! }
+1... Bxd3
+2. Qxd3+ Kxd3
 
 
 
@@ -237,8 +237,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "gnePb"]
 [Themes "advantage middlegame short trappedPiece"]
 
-1. Kxe2 { Trapped piece! The knight is trapped and will be captured. }
-1... Nf2 2. Kxf2 { Winning the trapped knight! }
+1. Kxe2
+1... Nf2 2. Kxf2
 
 
 
@@ -259,8 +259,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FMG6d"]
 [Themes "advancedPawn bishopEndgame crushing endgame long promotion trappedPiece"]
 
-1... g2 { Trapped piece! The bishop is trapped and will be captured. }
-2. b6 g1=Q 3. b7 Qg6+ 4. Kf4 Qxb1 { Winning the trapped bishop! }
+1... g2
+2. b6 g1=Q 3. b7 Qg6+ 4. Kf4 Qxb1
 
 
 
@@ -281,8 +281,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "zG16q"]
 [Themes "crushing middlegame short trappedPiece"]
 
-1. Rxf2 { Trapped piece! The queen is trapped and will be captured. }
-1... Qxf2+ 2. Kxf2 { Winning the trapped queen! }
+1. Rxf2
+1... Qxf2+ 2. Kxf2
 
 
 
@@ -303,8 +303,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "prdqj"]
 [Themes "advancedPawn bishopEndgame crushing endgame long trappedPiece"]
 
-1... g3+ { Trapped piece! The bishop is trapped and will be captured. }
-2. Kh3 g2 3. Bxg2 fxg2 { Winning the trapped bishop! }
+1... g3+
+2. Kh3 g2 3. Bxg2 fxg2
 
 
 
@@ -325,8 +325,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "1giyd"]
 [Themes "crushing endgame master rookEndgame short trappedPiece"]
 
-1. cxd4 { Trapped piece! The rook is trapped and will be captured. }
-1... Rxe4 2. Rxe4+ { Winning the trapped rook! }
+1. cxd4
+1... Rxe4 2. Rxe4+
 
 
 
@@ -347,8 +347,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "1oL78"]
 [Themes "crushing endgame master short trappedPiece"]
 
-1... Kxf7 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxh5+ Nxh5 { Winning the trapped queen! }
+1... Kxf7
+2. Qxh5+ Nxh5
 
 
 
@@ -369,8 +369,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3C1sr"]
 [Themes "advantage defensiveMove endgame master short trappedPiece"]
 
-1. Ke7 { Trapped piece! The knight is trapped and will be captured. }
-1... Nf7 2. Kxf7 { Winning the trapped knight! }
+1. Ke7
+1... Nf7 2. Kxf7
 
 
 
@@ -391,8 +391,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GIabZ"]
 [Themes "crushing middlegame short trappedPiece"]
 
-1... Rxf7 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxf7+ Kxf7 { Winning the trapped queen! }
+1... Rxf7
+2. Qxf7+ Kxf7
 
 
 
@@ -413,8 +413,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "64DXd"]
 [Themes "crushing endgame knightEndgame master short trappedPiece"]
 
-1. Kb7 { Trapped piece! The knight is trapped and will be captured. }
-1... f5 2. Kxa8 { Winning the trapped knight! }
+1. Kb7
+1... f5 2. Kxa8
 
 
 
@@ -435,8 +435,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "lGb9w"]
 [Themes "crushing endgame knightEndgame long trappedPiece"]
 
-1... Kc3 { Trapped piece! The knight is trapped and will be captured. }
-2. Kc5 Kb2 3. Kxb4 Kxa1 { Winning the trapped knight! }
+1... Kc3
+2. Kc5 Kb2 3. Kxb4 Kxa1
 
 
 
@@ -457,8 +457,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "YVGjd"]
 [Themes "advantage endgame master short trappedPiece"]
 
-1. Bxg5 { Trapped piece! The knight is trapped and will be captured. }
-1... Nxh6 2. Bxh6 { Winning the trapped knight! }
+1. Bxg5
+1... Nxh6 2. Bxh6
 
 
 
@@ -479,8 +479,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "mhb5l"]
 [Themes "crushing endgame short trappedPiece"]
 
-1... Rd8 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxd8+ Qxd8 { Winning the trapped queen! }
+1... Rd8
+2. Qxd8+ Qxd8
 
 
 
@@ -501,8 +501,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "V4RmJ"]
 [Themes "advantage endgame short trappedPiece"]
 
-1. Kxe1 { Trapped piece! The rook is trapped and will be captured. }
-1... Rxc2 2. Nxc2 { Winning the trapped rook! }
+1. Kxe1
+1... Rxc2 2. Nxc2
 
 
 
@@ -523,8 +523,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "9GpH9"]
 [Themes "bishopEndgame crushing endgame long trappedPiece"]
 
-1... g5 { Trapped piece! The bishop is trapped and will be captured. }
-2. Bxg5 Kxg5 3. Kxe4 h4 { Winning the trapped bishop! }
+1... g5
+2. Bxg5 Kxg5 3. Kxe4 h4
 
 
 
@@ -545,8 +545,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "pecmJ"]
 [Themes "advancedPawn bishopEndgame crushing endgame long master promotion trappedPiece"]
 
-1. g7 { Trapped piece! The bishop is trapped and will be captured. }
-1... Bxg7 2. hxg7 b2 3. g8=Q+ { Winning the trapped bishop! }
+1. g7
+1... Bxg7 2. hxg7 b2 3. g8=Q+
 
 
 
@@ -567,8 +567,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "wALCU"]
 [Themes "crushing endgame knightEndgame short trappedPiece"]
 
-1... Kb6 { Trapped piece! The knight is trapped and will be captured. }
-2. Nb7 Kxb7 { Winning the trapped knight! }
+1... Kb6
+2. Nb7 Kxb7
 
 
 
@@ -589,8 +589,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "FC7RK"]
 [Themes "bishopEndgame crushing endgame short trappedPiece"]
 
-1. h5 { Trapped piece! The bishop is trapped and will be captured. }
-1... Ke6 2. hxg6 { Winning the trapped bishop! }
+1. h5
+1... Ke6 2. hxg6
 
 
 
@@ -611,8 +611,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "YlbGO"]
 [Themes "bishopEndgame crushing endgame short trappedPiece"]
 
-1... b4 { Trapped piece! The bishop is trapped and will be captured. }
-2. Kb3 bxa3 { Winning the trapped bishop! }
+1... b4
+2. Kb3 bxa3
 
 
 
@@ -633,8 +633,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UGWpQ"]
 [Themes "advantage defensiveMove endgame master short trappedPiece"]
 
-1. Re1 { Trapped piece! The queen is trapped and will be captured. }
-1... Qxe1+ 2. Qxe1 { Winning the trapped queen! }
+1. Re1
+1... Qxe1+ 2. Qxe1
 
 
 

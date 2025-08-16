@@ -282,8 +282,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "lH4Dg"]
 [Themes "advantage fork interference middlegame short"]
 
-1. Nc6+ { Knight interference! The knight blocks the king's escape. }
-3... Kf8 21. Nxb8 { Winning the rook with a fork! }
+1. Nc6+
+3... Kf8 21. Nxb8
 
 
 
@@ -304,8 +304,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "WSv62"]
 [Themes "crushing endgame interference master short"]
 
-1... Rd1 { Rook interference! The rook blocks the king's defense. }
-2. Rb2 Rxe1 { Winning the bishop! }
+1... Rd1
+2. Rb2 Rxe1
 
 
 
@@ -326,5 +326,5 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gPyVt"]
 [Themes "advantage endgame fork interference short"]
 
-1. Nxc6+ { Knight interference! The knight blocks the king's escape. }
-3... Kd6 29. Nxb8 { Winning the queen with a fork! }
+1. Nxc6+
+3... Kd6 29. Nxb8

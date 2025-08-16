@@ -17,7 +17,7 @@ This section focuses on One piece guards too much.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-19... Nxd4 { The knight is overworked! It can't defend both the bishop and the d4 square. } 20. cxd4 Bxb5 *
+19... Nxd4 20. cxd4 Bxb5 *
 
 
 
@@ -234,7 +234,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1... Qxd5 2. exd5 Rxf5 *
 
-{ The queen on d5 is overworked - it's defending both the pawn on d5 and the knight on f1. By capturing the queen with Qxd5, we force exd5, then capture the undefended knight with Rxf5. Overworked pieces always fail! }
 
 
 
@@ -307,7 +306,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Bxf5+ Kb8 2. Rxd8+ *
 
-{ The king on c8 is overworked - it's defending both the rook on d8 and the bishop on f2. By capturing the bishop with Bxf5+, we force Kb8, then capture the undefended rook with Rxd8+. One piece can't guard everything! }
 
 
 
@@ -332,7 +330,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. b6+ 1... Kxb6 2. Kxd8 *
 
-{ The king on c7 is overworked - it's defending both the pawn on b6 and the bishop on d8. By advancing the pawn with b6+, we force Kxb6, then capture the undefended bishop with Kxd8. Overworked pieces always fail! }
 
 
 
@@ -357,7 +354,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Nc6+ 1... Ke3 2. Nxe5 *
 
-{ The king on e4 is overworked - it's defending both the knight on c6 and the bishop on e5. By checking with Nc6+, we force Ke3, then capture the undefended bishop with Nxe5. One piece can't do two jobs! }
 
 
 
@@ -382,7 +378,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Qxc8+ 1... Ka7 2. Qxc7# *
 
-{ The king on b8 is overworked - it's defending both the queen on c8 and the pawn on c7. By capturing the queen with Qxc8+, we force Ka7, then deliver checkmate with Qxc7#. Overworked pieces always break! }
 
 
 
@@ -407,7 +402,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Qxf2+ 1... Kh1 2. Qxf1# *
 
-{ The king on g1 is overworked - it's defending both the queen on f2 and the rook on f1. By checking with Qxf2+, we force Kh1, then deliver checkmate with Qxf1#. One piece can't guard everything! }
 
 
 
@@ -432,7 +426,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1... Bxg2+ 2. Rxg2 Rxd1+ *
 
-{ The rook on g2 is overworked - it's defending both the bishop on g2 and the rook on d1. By capturing the bishop with Bxg2+, we force Rxg2, then capture the undefended rook with Rxd1+. Overworked pieces always fail! }
 
 
 
@@ -457,7 +450,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Nxe5+ Nxe5 2. Rxd8 *
 
-{ The knight on e5 is overworked - it's defending both the pawn on e5 and the rook on d2. By capturing the pawn with Nxe5+, we force Nxe5, then capture the undefended rook with Rxd8. One piece can't do two jobs! }
 
 
 
@@ -482,7 +474,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1... Rxd2+ 2. Kxd2 Kxc4 *
 
-{ The king on d2 is overworked - it's defending both the rook on d2 and the rook on c1. By capturing the rook with Rxd2+, we force Kxd2, then capture the undefended rook with Kxc4. Overworked pieces always break! }
 
 
 
@@ -507,7 +498,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Qxf7+ Kh8 2. Qxf8# *
 
-{ The king on g8 is overworked - it's defending both the pawn on f7 and the pawn on f2. By capturing the pawn with Qxf7+, we force Kh8, then deliver checkmate with Qxf8#. One piece can't guard everything! }
 
 
 
@@ -532,7 +522,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1... Rxc3 2. bxc3 Rxd3 *
 
-{ The rook on c3 is overworked - it's defending both the pawn on c3 and the pawn on d1. By capturing the rook with Rxc3, we force bxc3, then capture the undefended pawn with Rxd3. Overworked pieces always fail! }
 
 
 
@@ -557,7 +546,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1. Qxa6 Nxa6 2. Rxc8+ *
 
-{ The queen on a6 is overworked - it's defending both the pawn on a6 and the rook on c2. By capturing the queen with Qxa6, we force Nxa6, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
 
 
 
@@ -582,7 +570,6 @@ Build core habits and quick recognition by checking forcing moves first.
 
 1... Qxc3 2. bxc3 Rxd3 *
 
-{ The queen on c3 is overworked - it's defending both the pawn on c3 and the knight on d1. By capturing the queen with Qxc3, we force bxc3, then capture the undefended knight with Rxd3. Overworked pieces always break! }
 
 
 

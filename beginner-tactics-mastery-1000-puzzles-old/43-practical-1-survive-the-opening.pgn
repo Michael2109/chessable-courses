@@ -17,7 +17,7 @@ This section focuses on Defending against Scholar's mate, traps.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. e4 { Start with a strong center move! } *
+1. e4 *
 
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 [Rating "665"]
 
-27... Qxd1# { Back rank mate! The queen captures the rook with checkmate. } *
+27... Qxd1# *
 
 
 
@@ -61,7 +61,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "kingsideAttack mate mateIn1 oneMove opening"]
 [Rating "963"]
 
-12... Qxh2# { Kingside attack! The queen delivers checkmate on h2. } *
+12... Qxh2# *
 
 
 
@@ -83,7 +83,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "endgame mate mateIn1 oneMove"]
 [Rating "511"]
 
-26. Rf8# { Back rank mate! The rook delivers checkmate on f8. } *
+26. Rf8# *
 
 
 

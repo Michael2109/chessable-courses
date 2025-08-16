@@ -17,7 +17,7 @@ This section focuses on Two-move checkmate sequences.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rd8+ { First move: Check! Forcing the rook to block. } 1... Re8 2. Rxe8# { Second move: Mate! The rook delivers checkmate. } *
+1. Rd8+ 1... Re8 2. Rxe8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -32,7 +32,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rc1+ { First move: Check! Forcing the rook to block. } 2. Rd1 3. Rxd1# { Second move: Mate! The rook delivers checkmate. } *
+1... Rc1+ 2. Rd1 3. Rxd1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -47,7 +47,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rb8+ { First move: Check! Forcing the knight to block. } 1... Ne8 2. Rxe8# { Second move: Mate! Back rank mate. } *
+1. Rb8+ 1... Ne8 2. Rxe8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -62,7 +62,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0sRkd"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rc1+ { First move: Check! Infiltrating the back rank. } 2. Re1 3. Rxe1# { Second move: Mate! Back rank mate. } *
+1... Rc1+ 2. Re1 3. Rxe1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -77,7 +77,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hOeeC"]
 [Themes "endgame mate mateIn2 short"]
 
-1. Re8+ { First move: Check! Forcing the rook to block. } 1... Rf8 2. Rxf8# { Second move: Mate! The rook delivers checkmate. } *
+1. Re8+ 1... Rf8 2. Rxf8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -92,7 +92,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "25iUy"]
 [Themes "backRankMate endgame master mate mateIn2 short"]
 
-1... Rc1+ { First move: Check! Infiltrating the back rank. } 2. Ne1 3. Rxe1# { Second move: Mate! Back rank mate. } *
+1... Rc1+ 2. Ne1 3. Rxe1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -107,7 +107,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xT5ql"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Qxe8+ { First move: Check! Forcing the queen to block. } 1... Qxe8 2. Rxe8# { Second move: Mate! Back rank mate. } *
+1. Qxe8+ 1... Qxe8 2. Rxe8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -122,7 +122,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "7TEUu"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Qa1+ { First move: Check! Infiltrating the back rank. } 2. Qe1 3. Qxe1# { Second move: Mate! Back rank mate. } *
+1... Qa1+ 2. Qe1 3. Qxe1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -137,7 +137,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0DSKt"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rd8+ { First move: Check! Forcing the rook to block. } 1... Re8 2. Rxe8# { Second move: Mate! Back rank mate. } *
+1. Rd8+ 1... Re8 2. Rxe8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -152,7 +152,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "66t8g"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rd1+ { First move: Check! Infiltrating the back rank. } 2. Rxd1 3. Rxd1# { Second move: Mate! Back rank mate. } *
+1... Rd1+ 2. Rxd1 3. Rxd1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -167,7 +167,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xfrDe"]
 [Themes "endgame mate mateIn2 short"]
 
-1. Rd8+ { First move: Check! Forcing the rook to block. } 1... Rf8 2. Rxf8# { Second move: Mate! The rook delivers checkmate. } *
+1. Rd8+ 1... Rf8 2. Rxf8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -182,7 +182,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "aFkbL"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rf1+ { First move: Check! Infiltrating the back rank. } 2. Rxf1 3. Rxf1# { Second move: Mate! Back rank mate. } *
+1... Rf1+ 2. Rxf1 3. Rxf1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -197,7 +197,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6gMeL"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Rxe8+ { First move: Check! Forcing the rook to block. } 1... Rxe8 2. Rxe8# { Second move: Mate! Back rank mate. } *
+1. Rxe8+ 1... Rxe8 2. Rxe8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -212,7 +212,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "SgDvZ"]
 [Themes "kingsideAttack mate mateIn2 middlegame short"]
 
-1... Qd1+ { First move: Check! Forcing the bishop to block. } 2. Bf1 3. Qxf1# { Second move: Mate! The queen delivers checkmate. } *
+1... Qd1+ 2. Bf1 3. Qxf1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -227,7 +227,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "cvyG9"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Ra8+ { First move: Check! Forcing the queen to block. } 1... Qb8 2. Rxb8# { Second move: Mate! Back rank mate. } *
+1. Ra8+ 1... Qb8 2. Rxb8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -242,7 +242,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example16"]
 [Themes "mate mateIn2 short"]
 
-1... Rd1+ { First move: Check! } 2. Ke2 3. Re1# { Second move: Mate! } *
+1... Rd1+ 2. Ke2 3. Re1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -257,7 +257,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example17"]
 [Themes "mate mateIn2 short"]
 
-1. Rf8+ { First move: Check! } 1... Kg7 2. Rh8# { Second move: Mate! } *
+1. Rf8+ 1... Kg7 2. Rh8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -272,7 +272,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example18"]
 [Themes "mate mateIn2 short"]
 
-1... Qh1+ { First move: Check! } 2. Kf2 3. Qf1# { Second move: Mate! } *
+1... Qh1+ 2. Kf2 3. Qf1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -287,7 +287,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example19"]
 [Themes "mate mateIn2 short"]
 
-1. Bf6+ { First move: Check! } 1... Kh8 2. Qh7# { Second move: Mate! } *
+1. Bf6+ 1... Kh8 2. Qh7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -302,7 +302,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example20"]
 [Themes "mate mateIn2 short"]
 
-1... Nf3+ { First move: Check! } 2. Kg1 3. Qh1# { Second move: Mate! } *
+1... Nf3+ 2. Kg1 3. Qh1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -317,7 +317,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example21"]
 [Themes "mate mateIn2 short"]
 
-1. Qg7+ { First move: Check! } 1... Kh8 2. Qh7# { Second move: Mate! } *
+1. Qg7+ 1... Kh8 2. Qh7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -332,7 +332,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example22"]
 [Themes "mate mateIn2 short"]
 
-1... Qg1+ { First move: Check! } 2. Kh3 3. Qh1# { Second move: Mate! } *
+1... Qg1+ 2. Kh3 3. Qh1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -347,7 +347,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example23"]
 [Themes "mate mateIn2 short"]
 
-1. Rg8+ { First move: Check! } 1... Kh7 2. Rh8# { Second move: Mate! } *
+1. Rg8+ 1... Kh7 2. Rh8# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -362,7 +362,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example24"]
 [Themes "mate mateIn2 short"]
 
-1... Qe1+ { First move: Check! } 2. Kg2 3. Qf1# { Second move: Mate! } *
+1... Qe1+ 2. Kg2 3. Qf1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -377,7 +377,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example25"]
 [Themes "mate mateIn2 short"]
 
-1. Qf7+ { First move: Check! } 1... Kh8 2. Qg7# { Second move: Mate! } *
+1. Qf7+ 1... Kh8 2. Qg7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -392,7 +392,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example26"]
 [Themes "mate mateIn2 short"]
 
-1... Qd1+ { First move: Check! } 2. Kg3 3. Qe1# { Second move: Mate! } *
+1... Qd1+ 2. Kg3 3. Qe1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -407,7 +407,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example27"]
 [Themes "mate mateIn2 short"]
 
-1. Qh7+ { First move: Check! } 1... Kf8 2. Qf7# { Second move: Mate! } *
+1. Qh7+ 1... Kf8 2. Qf7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -422,7 +422,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example28"]
 [Themes "mate mateIn2 short"]
 
-1... Qc1+ { First move: Check! } 2. Kg4 3. Qd1# { Second move: Mate! } *
+1... Qc1+ 2. Kg4 3. Qd1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -437,7 +437,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example29"]
 [Themes "mate mateIn2 short"]
 
-1. Qe8+ { First move: Check! } 1... Kg7 2. Qf7# { Second move: Mate! } *
+1. Qe8+ 1... Kg7 2. Qf7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -452,7 +452,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example30"]
 [Themes "mate mateIn2 short"]
 
-1... Qb1+ { First move: Check! } 2. Kg5 3. Qc1# { Second move: Mate! } *
+1... Qb1+ 2. Kg5 3. Qc1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -467,7 +467,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example31"]
 [Themes "mate mateIn2 short"]
 
-1. Qd8+ { First move: Check! } 1... Kg6 2. Qe7# { Second move: Mate! } *
+1. Qd8+ 1... Kg6 2. Qe7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -482,7 +482,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example32"]
 [Themes "mate mateIn2 short"]
 
-1... Qa1+ { First move: Check! } 2. Kg6 3. Qb1# { Second move: Mate! } *
+1... Qa1+ 2. Kg6 3. Qb1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -497,7 +497,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example33"]
 [Themes "mate mateIn2 short"]
 
-1. Qc8+ { First move: Check! } 1... Kg5 2. Qd7# { Second move: Mate! } *
+1. Qc8+ 1... Kg5 2. Qd7# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -512,7 +512,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example34"]
 [Themes "mate mateIn2 short"]
 
-1... Qa1+ { First move: Check! } 2. Kg7 3. Qb1# { Second move: Mate! } *
+1... Qa1+ 2. Kg7 3. Qb1# *
 
 [Event "Intermediate 1: Checkmate in Two"]
 [Site "https://lichess.org"]
@@ -527,4 +527,4 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example35"]
 [Themes "mate mateIn2 short"]
 
-1. Qb8+ { First move: Check! } 1... Kg4 2. Qc7# { Second move: Mate! } *
+1. Qb8+ 1... Kg4 2. Qc7# *

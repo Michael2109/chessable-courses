@@ -17,7 +17,7 @@ This section focuses on Building mating nets and combinations.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-37... h5+ { Mating net! Attract the king to h5. } 38. Kxh5 Rh8+ 39. Kg4 Rh4# { Deliver mate! } *
+37... h5+ 38. Kxh5 Rh8+ 39. Kg4 Rh4# *
 
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "endgame long mate mateIn3 sacrifice"]
 [Rating "1079"]
 
-38. Rf4+ { Mating net! Attract the king to h3. } 38... Kxh3 39. Be6+ Rf5 40. Bxf5# { Deliver mate! } *
+38. Rf4+ 38... Kxh3 39. Be6+ Rf5 40. Bxf5# *
 
 
 
@@ -61,7 +61,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
 [Rating "1180"]
 
-30. Qxh7+ { Mating net! Sacrifice the queen to open the kingside. } 30... Kxh7 31. Rh4+ Qh5 32. Rxh5# { Deliver mate! } *
+30. Qxh7+ 30... Kxh7 31. Rh4+ Qh5 32. Rxh5# *
 
 
 
@@ -82,8 +82,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "7SaVn"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-1... f4 { Mating net! Quiet move creating inevitable mate. }
-2. b5 f3 71. b6 f2 { The pawn advance creates mate. }
+1... f4
+2. b5 f3 71. b6 f2
 
 
 
@@ -214,8 +214,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qDdAT"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... h4 { Mating net! Quiet move creating inevitable mate. }
-2. Kc7 h3 50. a5 h2 51. a6 h1=Q { The pawn promotion creates mate. }
+1... h4
+2. Kc7 h3 50. a5 h2 51. a6 h1=Q
 
 
 
@@ -236,8 +236,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "iQ6Qk"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. a5 { Mating net! Quiet move creating inevitable mate. }
-3... h4 58. a6 h3 59. a7 Kg2 60. a8=Q+ { The pawn promotion creates mate. }
+1. a5
+3... h4 58. a6 h3 59. a7 Kg2 60. a8=Q+
 
 
 
@@ -258,8 +258,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "qPHAw"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... h4 { Mating net! Quiet move creating inevitable mate. }
-2. Kc7 h3 55. b5 h2 56. b6 h1=Q { The pawn promotion creates mate. }
+1... h4
+2. Kc7 h3 55. b5 h2 56. b6 h1=Q
 
 
 
@@ -280,8 +280,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Swu0W"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. f5 { Mating net! Quiet move creating inevitable mate. }
-3... b4 70. f6 b3 71. f7 b2 72. f8=Q+ { The pawn promotion creates mate. }
+1. f5
+3... b4 70. f6 b3 71. f7 b2 72. f8=Q+
 
 
 
@@ -302,8 +302,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "dfbvn"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-1... g4 { Mating net! Quiet move creating inevitable mate. }
-2. b5 g3 55. b6 g2 { The pawn advance creates mate. }
+1... g4
+2. b5 g3 55. b6 g2
 
 
 
@@ -346,8 +346,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "yXnYR"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-1... a4 { Mating net! Quiet move creating inevitable mate. }
-2. Kh5 a3 61. g5 a2 { The pawn advance creates mate. }
+1... a4
+2. Kh5 a3 61. g5 a2
 
 
 
@@ -390,8 +390,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "KLcl4"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... h4 { Mating net! Quiet move creating inevitable mate. }
-2. Kxb7 h3 54. Kb8 h2 55. a6 h1=Q { The pawn promotion creates mate. }
+1... h4
+2. Kxb7 h3 54. Kb8 h2 55. a6 h1=Q
 
 
 
@@ -412,8 +412,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "vAGd9"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame quietMove"]
 
-1. a5 { Mating net! Quiet move creating inevitable mate. }
-3... g5 48. a6 g4 49. a7 { The pawn advance creates mate. }
+1. a5
+3... g5 48. a6 g4 49. a7
 
 
 

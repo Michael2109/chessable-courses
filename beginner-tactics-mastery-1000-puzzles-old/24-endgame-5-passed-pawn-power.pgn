@@ -17,7 +17,7 @@ This section focuses on Creating, advancing, defending.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. e7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+1. e7#
 
 
 
@@ -38,7 +38,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "TQFHp"]
 [Themes "advancedPawn endgame master mate mateIn1 oneMove rookEndgame"]
 
-1... g2# { Passed pawn power! The advanced pawn promotes with checkmate. }
+1... g2#
 
 
 
@@ -59,7 +59,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "thmSN"]
 [Themes "advancedPawn crushing endgame long master"]
 
-1. hxg5 { Passed pawn power! Creating a passed pawn. }
+1. hxg5
 3... h4 68. g6 h3 69. g7 *
 
 
@@ -81,7 +81,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "uHki1"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-1... g3 { Passed pawn power! Advancing the passed pawn. }
+1... g3
 2. Nc7 g2 *
 
 
@@ -103,7 +103,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NE4qD"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. h5 { Passed pawn power! Advancing the passed pawn. }
+1. h5
 3... b5 58. h6 b4 59. h7 b3 60. h8=Q *
 
 
@@ -125,7 +125,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Pumc0"]
 [Themes "advancedPawn endgame mate mateIn2 promotion queensideAttack short"]
 
-1... Rc1+ { Passed pawn power! Creating a passed pawn with promotion. }
+1... Rc1+
 2. Rxc1 bxc1=Q# *
 
 
@@ -147,7 +147,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "vL5rL"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-1. b6 { Passed pawn power! Advancing the passed pawn. }
+1. b6
 3... Kd7 53. b7 *
 
 
@@ -169,7 +169,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "3l0V1"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-1... a4 { Passed pawn power! Advancing the passed pawn. }
+1... a4
 2. Kd5 a3 56. Kc4 a2 *
 
 
@@ -191,7 +191,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "bTWz4"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove"]
 
-1. b7# { Passed pawn power! The advanced pawn promotes with checkmate. }
+1. b7#
 
 
 
@@ -300,7 +300,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "42BSN"]
 [Themes "advancedPawn bishopEndgame crushing endgame short"]
 
-1... g3+ { Passed pawn power! Advancing the passed pawn. }
+1... g3+
 2. Kxh3 g2 *
 
 
@@ -322,7 +322,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GT9Zy"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. h5 { Passed pawn power! Advancing the passed pawn. }
+1. h5
 3... b4 52. h6 Kc2 53. h7 b3 54. h8=Q *
 
 
@@ -366,7 +366,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "8ixnO"]
 [Themes "advancedPawn crushing endgame knightEndgame promotion short"]
 
-1. h7 { Passed pawn power! Advancing the passed pawn. }
+1. h7
 3... Ng5 68. h8=Q+ *
 
 
@@ -410,7 +410,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example19"]
 [Themes "advancedPawn endgame pawnEndgame promotion"]
 
-1. b4 { Passed pawn power! Advancing the passed pawn. }
+1. b4
 3... Kc2 51. b5 Kd3 52. b6 *
 
 
@@ -432,5 +432,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example20"]
 [Themes "advancedPawn endgame pawnEndgame promotion"]
 
-1... g2 { Passed pawn power! Advancing the passed pawn. }
+1... g2
 2. Kf2 g1=Q+ *

@@ -19,7 +19,7 @@ Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mat
 
 Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
 }
-1. Rh5# { Anastasia's Mate! The rook delivers mate while the knight blocks escape. }
+1. Rh5#
 
 
 
@@ -40,8 +40,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "7F81X"]
 [Themes "anastasiaMate mate mateIn2 middlegame short"]
 
-1... Rh5+ { Anastasia's Mate! The rook check forces mate. }
-2. Qh4 Rxh4# { The beautiful Anastasia's Mate pattern. }
+1... Rh5+
+2. Qh4 Rxh4#
 
 
 
@@ -62,7 +62,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "jddRG"]
 [Themes "anastasiaMate endgame mate mateIn1 oneMove"]
 
-1. Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+1. Rh5#
 
 
 
@@ -83,7 +83,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "VQ67P"]
 [Themes "anastasiaMate endgame mate mateIn1 oneMove"]
 
-1... Rxa8# { Anastasia's Mate! The rook delivers mate on the back rank. }
+1... Rxa8#
 
 
 
@@ -104,7 +104,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "T3IQf"]
 [Themes "anastasiaMate master masterVsMaster mate mateIn1 middlegame oneMove"]
 
-1. Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+1. Rh5#
 
 
 
@@ -125,7 +125,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "OyIeU"]
 [Themes "anastasiaMate endgame mate mateIn1 oneMove"]
 
-1... Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+1... Rh5#
 
 
 
@@ -146,7 +146,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "fNJ4H"]
 [Themes "anastasiaMate master mate mateIn1 middlegame oneMove"]
 
-1. Rxh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+1. Rxh5#
 
 
 
@@ -167,7 +167,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "yTKDi"]
 [Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
 
-1... Rxh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+1... Rxh5#
 
 
 
@@ -188,8 +188,8 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "PCikq"]
 [Themes "anastasiaMate endgame mate mateIn2 short"]
 
-1. Rh4+ { Anastasia's Mate! The rook check forces mate. }
-3... Bh5 32. Rxh5# { The beautiful Anastasia's Mate pattern. }
+1. Rh4+
+3... Bh5 32. Rxh5#
 
 
 
@@ -210,7 +210,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "3PimD"]
 [Themes "anastasiaMate endgame master mate mateIn1 oneMove"]
 
-1... Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+1... Rh5#
 
 
 
@@ -231,7 +231,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "PdfEh"]
 [Themes "arabianMate endgame mate mateIn1 oneMove"]
 
-1. Rg8# { Arabian Mate! The rook delivers mate with knight support. }
+1. Rg8#
 
 
 
@@ -252,7 +252,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "uth9r"]
 [Themes "arabianMate endgame mate mateIn1 oneMove"]
 
-1... Rg1# { Arabian Mate! The rook delivers mate with knight support. }
+1... Rg1#
 
 
 
@@ -273,7 +273,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "ZQXa5"]
 [Themes "arabianMate mate mateIn1 middlegame oneMove"]
 
-1. Rg8# { Arabian Mate! The rook delivers mate with knight support. }
+1. Rg8#
 
 
 
@@ -294,7 +294,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "HhcRP"]
 [Themes "arabianMate endgame master mate mateIn1 oneMove"]
 
-1... Rg1# { Arabian Mate! The rook delivers mate with knight support. }
+1... Rg1#
 
 
 
@@ -315,7 +315,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "tgwdW"]
 [Themes "arabianMate endgame master mate mateIn1 oneMove"]
 
-1. Rg8# { Arabian Mate! The rook delivers mate with knight support. }
+1. Rg8#
 
 
 
@@ -336,7 +336,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "qsLtF"]
 [Themes "arabianMate endgame mate mateIn1 oneMove"]
 
-1... Rxh2# { Arabian Mate! The rook delivers mate with knight support. }
+1... Rxh2#
 
 
 

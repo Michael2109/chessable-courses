@@ -17,7 +17,7 @@ This section focuses on Backward Winning Moves.
 
 Learn to recognize when retreating a piece creates winning opportunities.
 }
-48. h5 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+48. h5
 48... Ka2 49. h6 Kb1 50. h7 a4 51. h8=Q *
 
 
@@ -39,7 +39,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "QTxwg"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-47... a4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+47... a4
 48. h5 a3 49. h6 a2 50. h7 a1=Q *
 
 
@@ -83,7 +83,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "7SaVn"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-45... f4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+45... f4
 46. b5 f3 47. b6 f2 *
 
 
@@ -149,7 +149,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "oIjzZ"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-49. h5 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+49. h5
 49... Kc2 50. h6 b4 51. h7 b3 52. h8=Q *
 
 
@@ -171,7 +171,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "HYrir"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-54... h4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+54... h4
 55. Kc7 h3 56. a5 h2 57. Kb8 h1=Q *
 
 
@@ -193,7 +193,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "WaGjF"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-56. a5 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+56. a5
 56... g5 57. a6 g4 58. a7 g3 59. a8=Q *
 
 
@@ -215,7 +215,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "RE0OS"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-48... h4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+48... h4
 49. c5 h3 50. c6 h2 51. c7 h1=Q+ *
 
 
@@ -237,7 +237,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "HyzpW"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-63. h5 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+63. h5
 63... b4 64. h6 Kc2 65. h7 b3 66. h8=Q *
 
 
@@ -259,7 +259,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "OFtsR"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-68... h4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+68... h4
 69. Ka5 h3 70. b5 h2 71. b6 h1=Q *
 
 
@@ -281,7 +281,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "XtZgK"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-51. a4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+51. a4
 51... g5 52. a5 g4 53. a6 Kh2 54. a7 g3 55. a8=Q *
 
 
@@ -303,7 +303,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "OiFlU"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-43... c4 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+43... c4
 44. Ke5 c3 *
 
 
@@ -325,7 +325,7 @@ Learn to recognize when retreating a piece creates winning opportunities.
 [PuzzleId "JKtLT"]
 [Themes "advancedPawn crushing endgame long master pawnEndgame quietMove"]
 
-56. f5 { Retreat to victory! Sometimes the best move is to step back and advance elsewhere. }
+56. f5
 56... Kxa2 57. f6 b4 58. f7 *
 
 

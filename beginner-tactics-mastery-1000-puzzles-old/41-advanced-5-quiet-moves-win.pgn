@@ -40,8 +40,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "uQzmv"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-1... g4 { Quiet move! Creating a passed pawn without immediate threats. }
-2. c4 g3 45. c5 g2 { The pawn advance creates winning chances. }
+1... g4
+2. c4 g3 45. c5 g2
 
 
 
@@ -260,8 +260,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "rvFW3"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. g5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... Kxc2 50. g6 d4 51. g7 d3 52. g8=Q { The pawn advance creates winning chances. }
+1. g5
+3... Kxc2 50. g6 d4 51. g7 d3 52. g8=Q
 
 
 
@@ -282,8 +282,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7K3UU"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... b4 { Quiet move! Creating a passed pawn without immediate threats. }
-2. f4 b3 43. f5 b2 44. f6 b1=Q { The pawn advance creates winning chances. }
+1... b4
+2. f4 b3 43. f5 b2 44. f6 b1=Q
 
 
 
@@ -304,8 +304,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "iEHuy"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. e5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... b4 51. e6 b3 52. e7 Ka3 53. e8=Q { The pawn advance creates winning chances. }
+1. e5
+3... b4 51. e6 b3 52. e7 Ka3 53. e8=Q
 
 
 
@@ -326,8 +326,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "bLX3L"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1... f3 { Quiet move! Creating a passed pawn without immediate threats. }
-2. g6 f2 52. g7 f1=Q { The pawn advance creates winning chances. }
+1... f3
+2. g6 f2 52. g7 f1=Q
 
 
 
@@ -370,8 +370,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "dlR6b"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... a4 { Quiet move! Creating a passed pawn without immediate threats. }
-2. g5 a3 53. g6 a2 54. Kf7 a1=Q { The pawn advance creates winning chances. }
+1... a4
+2. g5 a3 53. g6 a2 54. Kf7 a1=Q
 
 
 
@@ -392,8 +392,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "PuoiX"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1. f5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... Kxb3 54. f6 a4 55. f7 a3 56. f8=Q { The pawn advance creates winning chances. }
+1. f5
+3... Kxb3 54. f6 a4 55. f7 a3 56. f8=Q
 
 
 
@@ -414,8 +414,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "fbRB7"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
 
-1... a5 { Quiet move! Creating a passed pawn without immediate threats. }
-2. Kf7 a4 49. g4 a3 50. g5 a2 51. g6 a1=Q { The pawn advance creates winning chances. }
+1... a5
+2. Kf7 a4 49. g4 a3 50. g5 a2 51. g6 a1=Q
 
 
 
@@ -436,5 +436,5 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "fr0Ce"]
 [Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
 
-1. a6 { Quiet move! Creating a passed pawn without immediate threats. }
-3... f4 48. a7 f3 49. a8=Q { The pawn advance creates winning chances. }
+1. a6
+3... f4 48. a7 f3 49. a8=Q

@@ -150,7 +150,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "u4BgB"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1. Re8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Re8#
 
 
 
@@ -171,7 +171,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "g15Ea"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Re1#
 
 
 
@@ -192,7 +192,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "bwcw8"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-1. hxg8=Q# { Double check! The pawn promotes with checkmate. }
+1. hxg8=Q#
 
 
 
@@ -213,7 +213,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "ZDzVK"]
 [Themes "doubleCheck endgame master mate mateIn1 oneMove"]
 
-1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Re1#
 
 
 
@@ -234,7 +234,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "O4VNZ"]
 [Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Rxe8#
 
 
 
@@ -255,7 +255,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "6Qz3p"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Nxf2# { Double check! The knight delivers checkmate with a discovered attack. }
+1... Nxf2#
 
 
 
@@ -276,7 +276,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "b5W0c"]
 [Themes "doubleCheck mate mateIn1 middlegame oneMove"]
 
-1. Nd6# { Double check! The knight delivers checkmate with a discovered attack. }
+1. Nd6#
 
 
 
@@ -297,7 +297,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "TaWI6"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Re1#
 
 
 
@@ -318,7 +318,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "BmVH2"]
 [Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-1. hxg8=Q# { Double check! The pawn promotes with checkmate. }
+1. hxg8=Q#
 
 
 
@@ -339,7 +339,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "iOyhy"]
 [Themes "doubleCheck mate mateIn1 middlegame oneMove"]
 
-1... Bxc3# { Double check! The bishop delivers checkmate with a discovered attack. }
+1... Bxc3#
 
 
 
@@ -360,7 +360,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "dXAyL"]
 [Themes "doubleCheck mate mateIn1 middlegame oneMove"]
 
-1. Nc7# { Double check! The knight delivers checkmate with a discovered attack. }
+1. Nc7#
 
 
 
@@ -381,7 +381,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "U6WFi"]
 [Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Re1#
 
 
 
@@ -402,7 +402,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "TDEmA"]
 [Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
 
-1... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Rf8#
 
 
 

@@ -17,7 +17,7 @@ This section focuses on With sacrifices, removing defenders.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-31... Qe1+ { Brilliant sacrifice! Give up the queen to open the back rank for mate. } 32. Rxe1 Rxe1# *
+31... Qe1+ 32. Rxe1 Rxe1# *
 
 
 
@@ -60,8 +60,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "9h4aW"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-51. h4 { Back rank breakthrough! Creating a passed pawn to win the endgame. }
-51... a5 52. h5 { Converting the breakthrough. }
+51. h4
+51... a5 52. h5
 
 
 
@@ -258,8 +258,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "9T59M"]
 [Themes "crushing defensiveMove endgame short"]
 
-52... Ke5 { Back rank breakthrough! Creating a fork to win material. }
-53. Nxe4 Kxe4 { Converting the breakthrough. }
+52... Ke5
+53. Nxe4 Kxe4
 
 
 
@@ -456,8 +456,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "nJY6X"]
 [Themes "crushing defensiveMove endgame short"]
 
-39. Kxb6 { Back rank breakthrough! Capturing the rook to win the endgame. }
-39... Ke7 40. c5 { Converting the breakthrough. }
+39. Kxb6
+39... Ke7 40. c5
 
 
 

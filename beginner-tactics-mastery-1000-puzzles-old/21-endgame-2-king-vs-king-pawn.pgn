@@ -18,7 +18,7 @@ This section focuses on Opposition, key squares.
 Build core habits and quick recognition by checking forcing moves first.
 }
 
-52... b4 { King vs pawn! Push the pawn and create a passed pawn. } 53. Ke5 b3 54. f5 b2 55. f6 b1=Q { Promote to queen! } *
+52... b4 53. Ke5 b3 54. f5 b2 55. f6 b1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -33,7 +33,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "5UzY4"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-45. a6 { King vs pawn! Push the pawn and create a passed pawn. } 45... b4 46. a7 { Promote to queen! } *
+45. a6 45... b4 46. a7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -48,7 +48,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "BvoHD"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-48. g5 { King vs pawn! Push the pawn and create a passed pawn. } 48... Kb5 49. g6 a4 50. g7 { Promote to queen! } *
+48. g5 48... Kb5 49. g6 a4 50. g7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -63,7 +63,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GjgAy"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-57. g6 { King vs pawn! Push the pawn and create a passed pawn. } 57... b3 58. g7 { Promote to queen! } *
+57. g6 57... b3 58. g7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -78,7 +78,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "O8LFf"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-69. c5 { King vs pawn! Push the pawn and create a passed pawn. } 69... Kg5 70. c6 { Promote to queen! } *
+69. c5 69... Kg5 70. c6 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -93,7 +93,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "H9MGg"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
 
-59... e2 { King vs pawn! Push the pawn and create a passed pawn. } 60. d7 e1=Q { Promote to queen! } *
+59... e2 60. d7 e1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -108,7 +108,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "I0NHh"]
 [Themes "advancedPawn crushing endgame master pawnEndgame promotion quietMove veryLong"]
 
-51. Ke5 { King vs pawn! Block the pawn and maintain opposition. } 51... b4 52. f5 b3 53. f6 b2 54. f7 b1=Q { Promote to queen! } *
+51. Ke5 51... b4 52. f5 b3 53. f6 b2 54. f7 b1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -123,7 +123,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "J1OIj"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-44. a6 { King vs pawn! Push the pawn and create a passed pawn. } 44... b4 45. a7 { Promote to queen! } *
+44. a6 44... b4 45. a7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -138,7 +138,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "K2PJk"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-47. g5 { King vs pawn! Push the pawn and create a passed pawn. } 47... Kb5 48. g6 a4 49. g7 { Promote to queen! } *
+47. g5 47... Kb5 48. g6 a4 49. g7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -153,7 +153,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "L3QKl"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-56. g6 { King vs pawn! Push the pawn and create a passed pawn. } 56... b3 57. g7 { Promote to queen! } *
+56. g6 56... b3 57. g7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -168,7 +168,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "M4RLm"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-68. c5 { King vs pawn! Push the pawn and create a passed pawn. } 68... Kg5 69. c6 { Promote to queen! } *
+68. c5 68... Kg5 69. c6 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -183,7 +183,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "N5SMn"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
 
-58... e2 { King vs pawn! Push the pawn and create a passed pawn. } 59. d7 e1=Q { Promote to queen! } *
+58... e2 59. d7 e1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -198,7 +198,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "O6TNo"]
 [Themes "advancedPawn crushing endgame master pawnEndgame promotion quietMove veryLong"]
 
-50. Ke5 { King vs pawn! Block the pawn and maintain opposition. } 50... b4 51. f5 b3 52. f6 b2 53. f7 b1=Q { Promote to queen! } *
+50. Ke5 50... b4 51. f5 b3 52. f6 b2 53. f7 b1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -213,7 +213,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "P7UOp"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-43. a6 { King vs pawn! Push the pawn and create a passed pawn. } 43... b4 44. a7 { Promote to queen! } *
+43. a6 43... b4 44. a7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -228,7 +228,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "Q8VPq"]
 [Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
 
-46. g5 { King vs pawn! Push the pawn and create a passed pawn. } 46... Kb5 47. g6 a4 48. g7 { Promote to queen! } *
+46. g5 46... Kb5 47. g6 a4 48. g7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -243,7 +243,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "R9WQr"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-55. g6 { King vs pawn! Push the pawn and create a passed pawn. } 55... b3 56. g7 { Promote to queen! } *
+55. g6 55... b3 56. g7 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -258,7 +258,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "S0XRt"]
 [Themes "crushing endgame pawnEndgame quietMove short"]
 
-67. c5 { King vs pawn! Push the pawn and create a passed pawn. } 67... Kg5 68. c6 { Promote to queen! } *
+67. c5 67... Kg5 68. c6 *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -273,7 +273,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "T1YSu"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion short"]
 
-57... e2 { King vs pawn! Push the pawn and create a passed pawn. } 58. d7 e1=Q { Promote to queen! } *
+57... e2 58. d7 e1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -288,7 +288,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "U2ZTv"]
 [Themes "advancedPawn crushing endgame master pawnEndgame promotion quietMove veryLong"]
 
-49. Ke5 { King vs pawn! Block the pawn and maintain opposition. } 49... b4 50. f5 b3 51. f6 b2 52. f7 b1=Q { Promote to queen! } *
+49. Ke5 49... b4 50. f5 b3 51. f6 b2 52. f7 b1=Q *
 
 [Event "Endgame 2: King vs King & Pawn"]
 [Site "https://lichess.org"]
@@ -303,4 +303,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "V3aWw"]
 [Themes "advancedPawn crushing endgame pawnEndgame short"]
 
-42. a6 { King vs pawn! Push the pawn and create a passed pawn. } 42... b4 43. a7 { Promote to queen! } *
+42. a6 42... b4 43. a7 *

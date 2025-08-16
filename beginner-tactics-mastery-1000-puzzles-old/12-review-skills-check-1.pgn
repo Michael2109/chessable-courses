@@ -62,8 +62,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "0DWW4"]
 [Themes "crushing defensiveMove endgame rookEndgame short"]
 
-51. Rxc5 { Review defensive move! Capturing the rook to save the position. }
-51... Kxc5 52. h5 { Converting the defensive tactic. }
+51. Rxc5
+51... Kxc5 52. h5
 
 
 
@@ -260,8 +260,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xmPOv"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-53... Rf3 { Review defensive move! Pinning the queen to save the position. }
-54. Qxf3+ Kxf3 { Converting the defensive tactic. }
+53... Rf3
+54. Qxf3+ Kxf3
 
 
 
@@ -282,7 +282,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "N0S5f"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove"]
 
-1... Qxe1# { Queen checkmate! The queen captures the rook with mate. }
+1... Qxe1#
 
 
 

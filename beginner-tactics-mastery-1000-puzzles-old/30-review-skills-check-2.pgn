@@ -62,8 +62,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "tqP1u"]
 [Themes "crushing defensiveMove endgame long queenEndgame quietMove"]
 
-41... Qxe4 { Skills check! Exchanging queens to save the position. }
-42. fxe4 a5 43. Kf4 a4 { Converting the defensive tactic. }
+41... Qxe4
+42. fxe4 a5 43. Kf4 a4
 
 
 
@@ -84,8 +84,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "hTYme"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Ra1+ { Skills check! Back rank infiltration. }
-2. Rb1 Rxb1# { Back rank mate! }
+1... Ra1+
+2. Rb1 Rxb1#
 
 
 
@@ -128,7 +128,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "iHfRT"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
 
-1... Rxc1# { Skills check! Back rank mate - the king has no escape. }
+1... Rxc1#
 
 
 
@@ -501,8 +501,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "REVIEW23"]
 [Themes "mate mateIn1 opening"]
 
-1. Bxf7+ { Skills check! Attacking the weak f7 square. }
-1... Kxf7 2. Ne5+ { Fork attack! }
+1. Bxf7+
+1... Kxf7 2. Ne5+
 
 
 
@@ -523,8 +523,8 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "REVIEW24"]
 [Themes "mate mateIn1 opening"]
 
-1... Nxe4 { Skills check! Attacking the weak e4 square. }
-2. Bxf7+ Kxf7 3. Qd5+ { Fork attack! }
+1... Nxe4
+2. Bxf7+ Kxf7 3. Qd5+
 
 
 

@@ -17,7 +17,7 @@ This section focuses on Octopus Knights & Outposts.
 
 Learn to recognize and exploit the magical power of knights in endgames.
 }
-42. Nf7# { Knight magic! The knight creates a magical outpost and delivers mate. } *
+42. Nf7# *
 
 
 
@@ -38,7 +38,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "IuFTY"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-45... c3+ { Knight magic! The knight creates a magical outpost and wins. }
+45... c3+
 46. Kxd3 c2 *
 
 
@@ -60,7 +60,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "kg7Es"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-61. e6+ { Knight magic! The knight creates a magical outpost and wins. }
+61. e6+
 61... Kxf6 62. e7 *
 
 
@@ -82,7 +82,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "OAGTf"]
 [Themes "advancedPawn crushing endgame knightEndgame promotion short"]
 
-58... f2 { Knight magic! The knight creates a magical outpost and wins. }
+58... f2
 59. Kc3 f1=Q *
 
 
@@ -104,7 +104,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "2Vebh"]
 [Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
 
-64. g7 { Knight magic! The knight creates a magical outpost and wins. }
+64. g7
 64... Nd5 65. g8=Q *
 
 
@@ -148,7 +148,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "DmgUQ"]
 [Themes "advancedPawn crushing endgame knightEndgame master short"]
 
-56. a6 { Knight magic! The knight creates a magical outpost and wins. }
+56. a6
 56... Kd6 57. a7 *
 
 
@@ -170,7 +170,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "SY2jy"]
 [Themes "advancedPawn crushing endgame knightEndgame short"]
 
-52... h3 { Knight magic! The knight creates a magical outpost and wins. }
+52... h3
 53. Nf4 h2 *
 
 
@@ -192,7 +192,7 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [PuzzleId "rYN4K"]
 [Themes "advancedPawn advantage endgame knightEndgame master promotion short"]
 
-57. g7 { Knight magic! The knight creates a magical outpost and wins. }
+57. g7
 57... Kxd4 58. g8=Q *
 
 

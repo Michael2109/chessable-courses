@@ -17,7 +17,7 @@ This section focuses on Rook vs rook tactics.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rf8# { Rook endgame! Back rank mate with the rook. }
+1. Rf8#
 
 
 
@@ -38,7 +38,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "ui6iw"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Rc1+ { Rook endgame! Infiltrating the back rank. }
+1... Rc1+
 2. Rd1 Rxd1# *
 
 
@@ -60,7 +60,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "F51ej"]
 [Themes "endgame mate mateIn1 oneMove rookEndgame"]
 
-1. Rh5# { Rook endgame! Direct checkmate with the rook. }
+1. Rh5#
 
 
 
@@ -81,7 +81,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "Mzvdr"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Rd1+ { Rook endgame! Infiltrating the back rank. }
+1... Rd1+
 2. Re1 Rxe1# *
 
 
@@ -103,7 +103,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "pQFzV"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1. Ra8+ { Rook endgame! Infiltrating the back rank. }
+1. Ra8+
 3... Rd8 32. Rxd8# *
 
 
@@ -125,7 +125,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "GxHhG"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Rb1+ { Rook endgame! Infiltrating the back rank. }
+1... Rb1+
 2. Rc1 Rxc1# *
 
 
@@ -147,7 +147,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "MBsnu"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1. Rb8+ { Rook endgame! Infiltrating the back rank. }
+1. Rb8+
 3... Re8 34. Rxe8# *
 
 
@@ -169,7 +169,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "DTvBN"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Rc1+ { Rook endgame! Infiltrating the back rank. }
+1... Rc1+
 2. Rd1 Rxd1# *
 
 
@@ -191,7 +191,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "61Yld"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1. Rd8+ { Rook endgame! Infiltrating the back rank. }
+1. Rd8+
 3... Re8 36. Rxe8# *
 
 
@@ -213,7 +213,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "CXPl7"]
 [Themes "endgame master mate mateIn1 oneMove rookEndgame"]
 
-1... Re4# { Rook endgame! Direct checkmate with the rook. }
+1... Re4#
 
 
 
@@ -234,7 +234,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "fiNwS"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
 
-1. Rxe8# { Rook endgame! Hanging piece tactic. }
+1. Rxe8#
 
 
 
@@ -255,7 +255,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "1lszn"]
 [Themes "endgame master mate mateIn1 oneMove rookEndgame"]
 
-1... Rc1# { Rook endgame! Back rank mate with the rook. }
+1... Rc1#
 
 
 
@@ -276,7 +276,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "BHu6q"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1. Rd8+ { Rook endgame! Infiltrating the back rank. }
+1. Rd8+
 3... Re8 30. Rxe8# *
 
 
@@ -298,7 +298,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "W5vnG"]
 [Themes "endgame mate mateIn2 rookEndgame short"]
 
-1... Re1+ { Rook endgame! Back rank mate threat. }
+1... Re1+
 2. Rf1 Rxf1# *
 
 
@@ -320,5 +320,5 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "D2me7"]
 [Themes "endgame mate mateIn2 rookEndgame short"]
 
-1. Ra8+ { Rook endgame! Back rank mate threat. }
+1. Ra8+
 3... Rb8 62. Rxb8# *

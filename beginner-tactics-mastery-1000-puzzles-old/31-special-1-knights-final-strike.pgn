@@ -20,7 +20,7 @@ Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mat
 Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
 }
 
-35... Nxf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+35... Nxf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -35,7 +35,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "JIRJm"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-19... Ng3# { Knight's final strike! The smothered mate delivers checkmate. } *
+19... Ng3# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -50,7 +50,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "j1GFb"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-33. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+33. Nxf7# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -65,7 +65,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "8tf8N"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-26... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+26... Nf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -80,7 +80,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "wLGMx"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-19... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+19... Nf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -95,7 +95,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "k2HGc"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-18. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+18. Nxf7# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -110,7 +110,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "l3IHd"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-34... Nxf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+34... Nxf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -125,7 +125,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "m4JIe"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-18... Ng3# { Knight's final strike! The smothered mate delivers checkmate. } *
+18... Ng3# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -140,7 +140,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "n5KJf"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-32. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+32. Nxf7# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -155,7 +155,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "o6LKg"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-25... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+25... Nf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -170,7 +170,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "p7MLh"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-18... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+18... Nf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -185,7 +185,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "q8NMj"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-17. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+17. Nxf7# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -200,7 +200,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "r9ONk"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
-36... Nxf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+36... Nxf2# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -215,7 +215,7 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "s0POl"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-20... Ng3# { Knight's final strike! The smothered mate delivers checkmate. } *
+20... Ng3# *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
@@ -230,4 +230,4 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [PuzzleId "t1QPm"]
 [Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-34. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+34. Nxf7# *

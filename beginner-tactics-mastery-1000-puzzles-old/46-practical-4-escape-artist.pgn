@@ -17,7 +17,7 @@ This section focuses on Escaping from bad positions.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-45... Rc5+ { Escape artist! Check the king to create counterplay. } 46. Kf4 Rxg5 47. Kxg5 c5 { Create a passed pawn! } *
+45... Rc5+ 46. Kf4 Rxg5 47. Kxg5 c5 *
 
 
 
@@ -39,7 +39,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing defensiveMove endgame short"]
 [Rating "1154"]
 
-29... Rxc3 { Escape artist! Capture the queen to prevent promotion. } 30. b8=Q+ Kh7 { Block the check! } *
+29... Rxc3 30. b8=Q+ Kh7 *
 
 
 
@@ -83,7 +83,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing defensiveMove endgame pawnEndgame short"]
 [Rating "1195"]
 
-31... cxb4+ { Escape artist! Create a passed pawn to counterattack. } 32. Kxb4 Kd4 { Centralize the king! } *
+31... cxb4+ 32. Kxb4 Kd4 *
 
 
 

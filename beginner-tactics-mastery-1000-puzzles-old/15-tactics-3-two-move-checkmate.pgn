@@ -17,7 +17,7 @@ This section focuses on Forcing checks, simple sequences.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rd8+ { A forcing check that leads to mate! }
+1. Rd8+
 1... Re8 2. Rxe8# *
 
 
@@ -61,7 +61,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "nBzhA"]
 [Themes "kingsideAttack mate mateIn2 middlegame short"]
 
-1... Qh2+ { A forcing check that leads to mate! } 2. Kf1 3. Qh1# *
+1... Qh2+ 2. Kf1 3. Qh1# *
 
 
 
@@ -104,7 +104,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "NyZDw"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rb8+ { A forcing check that leads to back rank mate! }
+1. Rb8+
 1... Ne8 2. Rxe8# *
 
 
@@ -126,7 +126,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0sRkd"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rc1+ { A forcing check that leads to back rank mate! }
+1... Rc1+
 2. Re1 Rxe1# *
 
 
@@ -148,7 +148,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hOeeC"]
 [Themes "endgame mate mateIn2 short"]
 
-1. Re8+ { A forcing check that leads to mate! }
+1. Re8+
 1... Rf8 2. Rxf8# *
 
 
@@ -170,7 +170,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "25iUy"]
 [Themes "backRankMate endgame master mate mateIn2 short"]
 
-1... Rc1+ { A forcing check that leads to back rank mate! }
+1... Rc1+
 2. Ne1 Rxe1# *
 
 
@@ -192,7 +192,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xT5ql"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Qxe8+ { A forcing check that leads to back rank mate! }
+1. Qxe8+
 1... Qxe8 2. Rxe8# *
 
 
@@ -214,7 +214,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "7TEUu"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Qa1+ { A forcing check that leads to back rank mate! }
+1... Qa1+
 2. Qe1 Qxe1# *
 
 
@@ -236,7 +236,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "0DSKt"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rd8+ { A forcing check that leads to back rank mate! }
+1. Rd8+
 1... Re8 2. Rxe8# *
 
 
@@ -280,7 +280,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xfrDe"]
 [Themes "endgame mate mateIn2 short"]
 
-1. Rd8+ { A forcing check that leads to mate! }
+1. Rd8+
 1... Rf8 2. Rxf8# *
 
 
@@ -302,7 +302,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "aFkbL"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rf1+ { A forcing check that leads to back rank mate! }
+1... Rf1+
 2. Rxf1 Rxf1# *
 
 
@@ -324,7 +324,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "6gMeL"]
 [Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Rxe8+ { A forcing check that leads to back rank mate! }
+1. Rxe8+
 1... Rxe8 2. Rxe8# *
 
 
@@ -346,7 +346,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example16"]
 [Themes "mate mateIn2 opening short"]
 
-1. Bxc6+ { A forcing check that leads to mate! }
+1. Bxc6+
 1... bxc6 2. Qe2# *
 
 
@@ -390,7 +390,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "example18"]
 [Themes "mate mateIn2 opening short"]
 
-1... Nxe4 { A forcing move that leads to mate! }
+1... Nxe4
 2. Bxf7+ Kxf7 3. Qe2# *
 
 

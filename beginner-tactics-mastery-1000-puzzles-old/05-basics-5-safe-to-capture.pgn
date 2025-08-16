@@ -18,7 +18,7 @@ This section focuses on Is it safe to take? Simple counting.
 Build core habits and quick recognition by checking forcing moves first.
 }
 
-39. Rd8+ { Safe to capture! Check the king and win the rook. } 39... Rxd8 40. Rxd8+ { Now capture the other rook! } *
+39. Rd8+ 39... Rxd8 40. Rxd8+ *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -33,7 +33,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "MhMPa"]
 [Themes "advantage endgame short"]
 
-26... Rxe1+ { Safe to capture! Check the king and win the rook. } 27. Rxe1 Rxe1+ { Now capture the other rook! } *
+26... Rxe1+ 27. Rxe1 Rxe1+ *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -48,7 +48,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "hSYPK"]
 [Themes "advancedPawn advantage endgame knightEndgame master promotion short"]
 
-85. d7 { Safe to capture! Push the pawn and promote. } 85... Ne3 86. d8=Q { Promote to queen! } *
+85. d7 85... Ne3 86. d8=Q *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -63,7 +63,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "PTJGb"]
 [Themes "advancedPawn advantage endgame master promotion rookEndgame short"]
 
-58... h2 { Safe to capture! Push the pawn and promote. } 59. Kc7 h1=Q { Promote to queen! } *
+58... h2 59. Kc7 h1=Q *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -78,7 +78,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "oLJcn"]
 [Themes "advantage endgame fork short"]
 
-39. Nxf6+ { Safe to capture! Fork the king and bishop. } 39... Kg6 40. Nxd7 { Now capture the rook! } *
+39. Nxf6+ 39... Kg6 40. Nxd7 *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -93,7 +93,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "pQr7s"]
 [Themes "advantage middlegame short"]
 
-23... Qxd6 { Safe to capture! Take the knight and win material. } *
+23... Qxd6 *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -108,7 +108,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "qRs8t"]
 [Themes "advantage endgame mate mateIn1 oneMove"]
 
-27. Rxd8# { Safe to capture! The rook delivers mate on the back rank. } *
+27. Rxd8# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -123,7 +123,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "rSt9u"]
 [Themes "advantage endgame mate mateIn1 oneMove rookEndgame"]
 
-34... Rf1# { Safe to capture! The rook delivers mate on the back rank. } *
+34... Rf1# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -138,7 +138,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "sTu0v"]
 [Themes "advantage mate mateIn1 oneMove"]
 
-29. Rf8# { Safe to capture! The rook delivers mate on the back rank. } *
+29. Rf8# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -153,7 +153,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "tUv1w"]
 [Themes "advantage mate mateIn1 middlegame oneMove"]
 
-23... Rxd1# { Safe to capture! The rook delivers mate on the back rank. } *
+23... Rxd1# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -168,7 +168,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "uVw2x"]
 [Themes "advantage endgame mate mateIn2 short"]
 
-30. Rd8+ { Safe to capture! Check the king and force mate. } 30... Ne8 31. Rxe8# { Deliver mate! } *
+30. Rd8+ 30... Ne8 31. Rxe8# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -183,7 +183,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "vWx3y"]
 [Themes "advantage endgame mate mateIn2 rookEndgame short"]
 
-27... Re1+ { Safe to capture! Check the king and force mate. } 28. Rd1 Rxd1# { Deliver mate! } *
+27... Re1+ 28. Rd1 Rxd1# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -198,7 +198,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "wXy4z"]
 [Themes "advantage endgame mate mateIn1 oneMove"]
 
-28. Rxd8# { Safe to capture! The rook delivers mate on the back rank. } *
+28. Rxd8# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -213,7 +213,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "xYz5a"]
 [Themes "advantage endgame mate mateIn1 oneMove rookEndgame"]
 
-35... Rf1# { Safe to capture! The rook delivers mate on the back rank. } *
+35... Rf1# *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -228,4 +228,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "yZa6b"]
 [Themes "advantage mate mateIn1 oneMove"]
 
-30. Rf8# { Safe to capture! The rook delivers mate on the back rank. } *
+30. Rf8# *
