@@ -56,13 +56,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/1K6/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/rgPo6m4Y/black#104"]
-[PuzzleId "UPrBD"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/1k2p3/1p2P3/1P6/1Kr5/8/8/8 w - - 0 55"]
+[LichessURL "https://lichess.org/NZTkEcLQ/black#108"]
+[PuzzleId "b9qJ1"]
+[Themes "crushing defensiveMove endgame master short"]
 
-1. a4 { Escape artist! Creating a passed pawn to save the position. }
-3... Kf2 54. a5 { The pawn advance creates winning chances. }
+55. Kxc4 { Escape artist! Capturing the rook to save the position. }
+55... Kc7 56. Kd5 { The king capture creates winning chances. }
 
 
 
@@ -78,13 +78,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/5p2/2pr4/2k1QK2/5P2/8 b - - 7 58"]
-[LichessURL "https://lichess.org/WrzczQb9#115"]
-[PuzzleId "hmIaq"]
-[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+[FEN "8/4k1R1/8/3p2N1/6r1/7p/8/7K b - - 3 51"]
+[LichessURL "https://lichess.org/65JdZwcu#101"]
+[PuzzleId "5YS3t"]
+[Themes "advantage defensiveMove endgame master short"]
 
-1... Rd3 { Escape artist! Pinning the queen to save the position. }
-2. Kf4 Rxe3 { Converting the defensive tactic. }
+51... Kf6 { Escape artist! Moving the king to save the position. }
+52. Rf7+ Kxg5 { Converting the defensive tactic. }
 
 
 
@@ -100,13 +100,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6p1/2K5/8/5k2/1P6/8/8 w - - 1 62"]
-[LichessURL "https://lichess.org/TXd2UjGW/black#122"]
-[PuzzleId "haY0a"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/8/7k/7p/7P/6rK/6P1/8 w - - 0 59"]
+[LichessURL "https://lichess.org/mhOtLHed/black#116"]
+[PuzzleId "oqYLQ"]
+[Themes "crushing defensiveMove endgame short"]
 
-1. b4 { Escape artist! Creating a passed pawn to save the position. }
-3... g5 63. b5 { The pawn advance creates winning chances. }
+59. Kxg3 { Escape artist! Capturing the rook to save the position. }
+59... Kg6 60. Kf4 { The king capture creates winning chances. }
 
 
 
@@ -122,13 +122,13 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/5p2/1p6/1P4k1/1K6/P7/8 b - - 1 70"]
-[LichessURL "https://lichess.org/s0bcsxd2#139"]
-[PuzzleId "xEBE4"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "5r2/4k1Q1/p1p2p2/4pP2/2p1P1N1/7R/P1q3PP/1r3R1K b - - 0 36"]
+[LichessURL "https://lichess.org/6U5K9p0R#71"]
+[PuzzleId "zSrJS"]
+[Themes "crushing defensiveMove middlegame short"]
 
-1... f5 { Escape artist! Creating a passed pawn to save the position. }
-2. Kc3 f4 { The pawn advance creates winning chances. }
+36... Rf7 { Escape artist! Blocking the queen to save the position. }
+37. Qxf7+ Kxf7 { Converting the defensive tactic. }
 
 
 
@@ -418,7 +418,7 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [SetUp "1"]
 [FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
 [LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
+[PuzzleId "8aBcD"]
 [Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
 
 1. Ne4 { Escape artist! Moving the knight to save the position. }
@@ -442,7 +442,7 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [SetUp "1"]
 [FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
 [LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS2"]
+[PuzzleId "8bCdE"]
 [Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
 
 1... h2+ { Escape artist! Creating a passed pawn to save the position. }

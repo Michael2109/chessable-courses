@@ -530,32 +530,9 @@ Build core habits and quick recognition by checking forcing moves first.}
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r1k/1q5r/3p1p1Q/1p2pNn1/2pPP3/2P3R1/1PB2PP1/6K1 w - - 1 40"]
+[FEN "5r1k/1q5r/3p1p1Q/1p2pNn1/2cPP3/2P3R1/1PB2PP1/6K1 w - - 1 40"]
 [LichessURL "https://lichess.org/b3x0pZAD/black#78"]
 [PuzzleId "v3yoc"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
 1. Qxf8# { The queen grabs the hanging rook on f8 and it's checkmate! The Black king on h8 is completely trapped - g8 and g7 are controlled by your queen, h7 is blocked by Black's own rook. Your knight on f5 helps by controlling g7 and h6. When pieces hang near the enemy king, checkmate opportunities often appear! } *
-
-
-
-
-
-
-
-
-
-[Event "Basics 1: Deliver Checkmate"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "58"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/6k1/4PR2/1P4B1/6PK/r1r4P/8 b - - 0 54"]
-[LichessURL "https://lichess.org/hz9FrmCf#107"]
-[PuzzleId "x3Tr5"]
-[Themes "endgame master mate mateIn1 oneMove"]
-
-1... Rxh2# { The final blow! Your rook from c2 captures the h2 pawn with checkmate. The White king on h3 is caught in a mating net - g3 has a pawn, g2 and g4 are controlled by your rook on a2, and h4 is covered by your rook that just captured on h2. Two rooks working together are absolutely lethal! } *

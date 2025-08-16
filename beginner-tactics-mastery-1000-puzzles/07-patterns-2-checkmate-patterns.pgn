@@ -54,12 +54,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
-[PuzzleId "wTFX8"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "8/6p1/7p/3p2kP/3P4/2PK4/8/8 w - - 2 57"]
+[LichessURL "https://lichess.org/KwWQjT1p/black#112"]
+[PuzzleId "CYOq7"]
+[Themes "crushing defensiveMove endgame long pawnEndgame"]
 
-1. Rd8# { Rook checkmate! The rook slides to d8, delivering mate while the king has no escape. }
+57. c4 { Pawn breakthrough! Creating a passed pawn to win the endgame. }
+57... dxc4+ 58. Kxc4 Kxh5 59. d5 { The pawn advance creates winning chances. }
 
 
 

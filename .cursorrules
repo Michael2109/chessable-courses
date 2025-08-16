@@ -5,7 +5,9 @@ Read the README.md and you'll see a table of chapters. Each chapter has an assoc
 
 Each chapter pgn should have the amount of puzzles that is written in the README.md description. The puzzles should be ordered from very easy to more difficult. Keep the difficulty appropriate for beginners (roughly 200-1200 rating range).
 
-Ensure all of the puzzles are unique across the entire course.
+Ensure all of the puzzles are unique across the entire course. If replacing duplicates, make sure to replace the entire puzzle. Not just change the puzzle id etc. 
+
+Make sure to copy the puzzles directly from the directory into the chapters. They should be the same, but annotated.
 
 Each puzzle should have annotations for the key winning moves only. Keep annotations friendly, human-like, and encouraging. Focus on explaining why the winning moves work rather than critiquing alternatives. The first puzzle in each chapter should include a brief description of the tactical theme.
 
@@ -20,5 +22,7 @@ Ensure each puzzle is valid pgn format.
 Validate the pgns after working on them.
 
 Don't write or use scripts! Go through the files yourself.
+
+Only use puzzles from the directory suggested. Never make your own.
 
 Ultrathink. Be extra careful that each of your puzzle choices match the chapter category and difficulty.

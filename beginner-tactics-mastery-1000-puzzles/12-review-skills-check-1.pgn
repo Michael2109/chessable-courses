@@ -54,12 +54,13 @@ A mixed check-up to reinforce retention across previously learned themes.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
-[PuzzleId "wTFX8"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "8/1p6/5p2/2r4R/3k3P/6K1/6P1/8 w - - 1 51"]
+[LichessURL "https://lichess.org/FHBSoDod/black#100"]
+[PuzzleId "0DWW4"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
 
-1. Rd8# { Rook checkmate! The rook slides to d8, delivering mate while the king has no escape. }
+51. Rxc5 { Review defensive move! Capturing the rook to save the position. }
+51... Kxc5 52. h5 { Converting the defensive tactic. }
 
 
 
@@ -239,16 +240,17 @@ A mixed check-up to reinforce retention across previously learned themes.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "12"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
-[PuzzleId "wTFX8"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "8/8/8/1p6/5r2/3KQ1k1/P6p/8 b - - 3 53"]
+[LichessURL "https://lichess.org/oKT1b5im#105"]
+[PuzzleId "xmPOv"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1. Rd8# { Rook checkmate! The rook slides to d8 for the decisive blow. }
+53... Rf3 { Review defensive move! Pinning the queen to save the position. }
+54. Qxf3+ Kxf3 { Converting the defensive tactic. }
 
 
 

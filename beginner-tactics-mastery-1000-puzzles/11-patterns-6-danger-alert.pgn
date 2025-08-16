@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
-[PuzzleId "QrqhB"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
+[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
+[PuzzleId "IHYtG"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
 
 {Patterns 6: Danger Alert!
 
@@ -17,8 +17,8 @@ This section focuses on What is my opponent threatening?
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-1... Kf2 2. a5 *
+48. Qxc4+ { Defensive move! Exchanging queens to prevent the opponent from creating a passed pawn. }
+48... Kxc4 49. h5 *
 
 
 
@@ -30,17 +30,17 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/8/8/PK4k1/8/8 b - - 0 52"]
-[LichessURL "https://lichess.org/6b5bPuyC#103"]
-[PuzzleId "bYqhT"]
+[FEN "8/8/6p1/K7/5k2/1P6/8/8 w - - 1 55"]
+[LichessURL "https://lichess.org/YXTDSJrp/black#108"]
+[PuzzleId "U9Lbt"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1... h5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. a4 h4 *
+55. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+55... g5 56. b5 *
 
 
 
@@ -61,8 +61,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UPrBD"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-1... Kf2 2. a5 *
+53. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+53... Kf2 54. a5 *
 
 
 
@@ -83,8 +83,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hmIaq"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
-2. Kf4 Rxe3 *
+58... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
+59. Kf4 Rxe3 *
 
 
 
@@ -105,8 +105,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "haY0a"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-1... g5 2. b5 *
+62. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+62... g5 63. b5 *
 
 
 
@@ -127,8 +127,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xEBE4"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. Kc3 f4 *
+70... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+71. Kc3 f4 *
 
 
 
@@ -140,17 +140,17 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
-[PuzzleId "QrqhB"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "k7/8/p7/8/q5QK/6P1/7P/8 b - - 0 71"]
+[LichessURL "https://lichess.org/CQCEugOH#141"]
+[PuzzleId "GIZHQ"]
+[Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
 
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+71... Qxg4+ { Defensive move! Exchanging queens to prevent the opponent from creating a passed pawn. }
+72. Kxg4 a5 73. Kf5 a4 *
 
 
 
@@ -166,13 +166,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/8/8/PK4k1/8/8 b - - 0 52"]
-[LichessURL "https://lichess.org/6b5bPuyC#103"]
-[PuzzleId "bYqhT"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/5k2/p7/5PK1/8/8/8/8 b - - 0 71"]
+[LichessURL "https://lichess.org/XGDvwCZ2#141"]
+[PuzzleId "coA5i"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
 
-1... h5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. a4 h4 *
+71... a5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+72. Kf4 a4 *
 
 
 
@@ -193,8 +193,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UPrBD"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+53. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+53... Kf2 54. a5 *
 
 
 
@@ -215,8 +215,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hmIaq"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
-2. Kf4 Rxe3 *
+58... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
+59. Kf4 Rxe3 *
 
 
 
@@ -237,8 +237,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "haY0a"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... g5 63. b5 *
+62. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+62... g5 63. b5 *
 
 
 
@@ -259,8 +259,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xEBE4"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. Kc3 f4 *
+70... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+71. Kc3 f4 *
 
 
 
@@ -276,13 +276,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
-[PuzzleId "QrqhB"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
+[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
+[PuzzleId "BawTl"]
+[Themes "advantage defensiveMove endgame master masterVsMaster short"]
 
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+44. Bxf1 { Defensive move! Exchanging pieces to prevent the opponent from creating a passed pawn. }
+44... Nxf1 45. a5 *
 
 
 
@@ -298,13 +298,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/8/8/PK4k1/8/8 b - - 0 52"]
-[LichessURL "https://lichess.org/6b5bPuyC#103"]
-[PuzzleId "bYqhT"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/5p1k/1P2p2p/8/4q1p1/P7/2KQ4/8 w - - 8 56"]
+[LichessURL "https://lichess.org/UswDFMF6/black#110"]
+[PuzzleId "ShZ6g"]
+[Themes "crushing defensiveMove endgame queenEndgame short"]
 
-1... h5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. a4 h4 *
+56. Qd3 { Defensive move! Exchanging queens to prevent the opponent from creating a passed pawn. }
+56... Qxd3+ 57. Kxd3 *
 
 
 
@@ -325,8 +325,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "UPrBD"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+53. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+53... Kf2 54. a5 *
 
 
 
@@ -347,8 +347,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "hmIaq"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
-2. Kf4 Rxe3 *
+58... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
+59. Kf4 Rxe3 *
 
 
 
@@ -369,8 +369,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "haY0a"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... g5 63. b5 *
+62. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+62... g5 63. b5 *
 
 
 
@@ -391,8 +391,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "xEBE4"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. Kc3 f4 *
+70... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+71. Kc3 f4 *
 
 
 
@@ -404,17 +404,17 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "19"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
-[PuzzleId "QrqhB"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/8/4p3/5p2/2kPpP1p/4K2P/1p1N2P1/8 b - - 1 55"]
+[LichessURL "https://lichess.org/YzxX791a#109"]
+[PuzzleId "EMda2"]
+[Themes "crushing defensiveMove endgame knightEndgame master short"]
 
-1. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-3... Kf2 54. a5 *
+55... Kc3 { Defensive move! Moving the king to prevent the opponent from creating a passed pawn. }
+56. Nb1+ Kc2 *
 
 
 
@@ -430,10 +430,10 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/8/8/PK4k1/8/8 b - - 0 52"]
-[LichessURL "https://lichess.org/6b5bPuyC#103"]
-[PuzzleId "bYqhT"]
+[FEN "8/8/p7/6Kp/1k5P/6P1/8/8 b - - 2 55"]
+[LichessURL "https://lichess.org/0TEwMEE8#109"]
+[PuzzleId "1g9Nq"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1... h5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-2. a4 h4 *
+55... a5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
+56. Kxh5 a4 *

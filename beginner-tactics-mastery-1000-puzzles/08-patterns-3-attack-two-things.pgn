@@ -254,13 +254,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 b kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ#28"]
-[PuzzleId "wTFX8"]
-[Themes "fork mate mateIn1 middlegame oneMove"]
+[FEN "5r2/p7/5P1p/8/1P6/2r5/1k1Q1KP1/8 b - - 6 52"]
+[LichessURL "https://lichess.org/n8JOLG8b#103"]
+[PuzzleId "yJJnD"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1... Rd1+ { Fork! The rook attacks both the king and threatens mate. }
-2. Re1 Rxe1# *
+52... Rc2 { Fork! The rook attacks both the queen and creates a pin. }
+53. Qxc2+ Kxc2 { Converting the double attack. }
 
 
 
@@ -426,17 +426,17 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "20"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 b kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ#28"]
-[PuzzleId "wTFX8"]
-[Themes "fork mate mateIn1 middlegame oneMove"]
+[FEN "8/8/4p1p1/1k4r1/1P5P/1K6/8/8 w - - 0 53"]
+[LichessURL "https://lichess.org/nf75huzl/black#104"]
+[PuzzleId "XNR7I"]
+[Themes "crushing defensiveMove endgame master short"]
 
-1... Rd1+ { Fork! The rook attacks both the king and threatens mate. }
-2. Re1 Rxe1# *
+53. hxg5 { Fork! The pawn captures the rook and creates a passed pawn. }
+53... e5 54. Kc3 { Converting the double attack. }
 
 
 
@@ -606,13 +606,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 b kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ#28"]
-[PuzzleId "wTFX8"]
-[Themes "fork mate mateIn1 middlegame oneMove"]
+[FEN "8/8/8/r2R1kp1/3K4/8/P1P5/8 b - - 0 47"]
+[LichessURL "https://lichess.org/8XuVBHQ3#93"]
+[PuzzleId "lInES"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
 
-1... Rd1+ { Fork! The rook attacks both the king and threatens mate. }
-2. Re1 Rxe1# *
+47... Rxd5+ { Fork! The rook attacks both the king and the pawn. }
+48. Kxd5 g4 { Converting the double attack. }
 
 
 

@@ -54,12 +54,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
-[PuzzleId "wTFX8"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "8/p7/4K3/8/2k5/7P/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/4oQYHNCm/black#100"]
+[PuzzleId "9h4aW"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. Rd8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
+51. h4 { Back rank breakthrough! Creating a passed pawn to win the endgame. }
+51... a5 52. h5 { Converting the breakthrough. }
 
 
 
@@ -239,16 +240,17 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "12"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
-[PuzzleId "wTFX8"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "8/8/p2N4/5k1p/1P2pprP/PB1p4/3K1P2/8 b - - 6 52"]
+[LichessURL "https://lichess.org/MBtAhL8c#103"]
+[PuzzleId "9T59M"]
+[Themes "crushing defensiveMove endgame short"]
 
-1. Rd8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
+52... Ke5 { Back rank breakthrough! Creating a fork to win material. }
+53. Nxe4 Kxe4 { Converting the breakthrough. }
 
 
 
@@ -432,12 +434,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
-[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
-[PuzzleId "wTFX8"]
-[Themes "mate mateIn1 middlegame oneMove"]
+[FEN "5k2/8/1r3p2/1K4pp/2P5/6P1/7P/8 w - - 0 39"]
+[LichessURL "https://lichess.org/d2pw2TvB/black#76"]
+[PuzzleId "nJY6X"]
+[Themes "crushing defensiveMove endgame short"]
 
-1. Rd8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
+39. Kxb6 { Back rank breakthrough! Capturing the rook to win the endgame. }
+39... Ke7 40. c5 { Converting the breakthrough. }
 
 
 

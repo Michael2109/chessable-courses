@@ -56,14 +56,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/1K6/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/rgPo6m4Y/black#104"]
-[PuzzleId "UPrBD"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/8/p7/1p1K1qk1/1P1Q4/2P5/8/8 w - - 16 69"]
+[LichessURL "https://lichess.org/oqC9vas2/black#136"]
+[PuzzleId "APlpd"]
+[Themes "crushing defensiveMove endgame master queenEndgame short"]
 
-1. a4 Kf2 2. a5 *
+69. Qe5 Qxe5+ 70. Kxe5 *
 
-{ Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+{ Defensive queen exchange! By playing Qe5, we exchange queens to prevent the opponent from creating a passed pawn. Sometimes the best defense is simplification! }
 
 
 
@@ -81,14 +81,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/5p2/2pr4/2k1QK2/5P2/8 b - - 7 58"]
-[LichessURL "https://lichess.org/WrzczQb9#115"]
-[PuzzleId "hmIaq"]
+[FEN "8/7k/5r2/7Q/5rPK/P6P/8/8 b - - 0 54"]
+[LichessURL "https://lichess.org/CAnmoQTl#107"]
+[PuzzleId "IfhGC"]
 [Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
 
-1... Rd3 2. Kf4 Rxe3 *
+54... Rh6 55. Qxh6+ Kxh6 *
 
-{ Defensive pin! By playing Rd3, we pin the queen to the king, preventing it from escaping. The rook defends by attacking! }
+{ Defensive rook move! By playing Rh6, we defend against the queen attack by blocking the diagonal. The rook defends by controlling key squares! }
 
 
 
@@ -106,14 +106,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6p1/2K5/8/5k2/1P6/8/8 w - - 1 62"]
-[LichessURL "https://lichess.org/TXd2UjGW/black#122"]
-[PuzzleId "haY0a"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/2p5/8/8/p7/7P/2K5/5k2 w - - 0 59"]
+[LichessURL "https://lichess.org/1s6kEINC/black#116"]
+[PuzzleId "PenYN"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
 
-1. b4 g5 63. b5 *
+59. h4 Ke1 60. h5 *
 
-{ Defensive pawn advance! By playing b4, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
+{ Defensive pawn advance! By playing h4, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
 
 
 
@@ -131,14 +131,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/5p2/1p6/1P4k1/1K6/P7/8 b - - 1 70"]
-[LichessURL "https://lichess.org/s0bcsxd2#139"]
-[PuzzleId "xEBE4"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "8/3k4/K1P4p/4p1pP/4P1P1/8/8/8 b - - 0 55"]
+[LichessURL "https://lichess.org/CFHWWjYr#109"]
+[PuzzleId "gLXlu"]
+[Themes "crushing defensiveMove endgame pawnEndgame short"]
 
-1... f5 71. Kc3 f4 *
+55... Kxc6 56. Ka5 Kc5 *
 
-{ Defensive pawn advance! By playing f5, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+{ Defensive king move! By playing Kxc6, we capture the pawn to prevent the opponent from creating a passed pawn. The king defends by controlling key squares! }
 
 
 
@@ -606,11 +606,11 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
+[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
+[PuzzleId "0IC0n"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
-1. h2+ Kh1 63. Kxf2 *
+1. a4 1... Kf2 2. a5 *
 
-{ Defensive pawn advance! By playing h2+, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+{ Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }

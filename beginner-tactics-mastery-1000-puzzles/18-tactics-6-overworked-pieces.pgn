@@ -331,14 +331,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "3bK3/2kP4/8/1Pp5/2P5/8/8/8 w - - 5 68"]
+[LichessURL "https://lichess.org/y7fOAQpL/black#134"]
+[PuzzleId "dvqbx"]
+[Themes "bishopEndgame crushing deflection endgame short"]
 
-1... h2+ 2. Kh1 Kxf2 *
+1. b6+ 1... Kxb6 2. Kxd8 *
 
-{ The king on g3 is overworked - it's defending both the pawn on h2 and the knight on f1. By advancing the pawn with h2+, we force Kh1, then capture the undefended knight with Kxf2. Overworked pieces always fail! }
+{ The king on c7 is overworked - it's defending both the pawn on b6 and the bishop on d8. By advancing the pawn with b6+, we force Kxb6, then capture the undefended bishop with Kxd8. Overworked pieces always fail! }
 
 
 
@@ -356,14 +356,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "3n4/4k1p1/4b1Bp/4B2P/3KP3/6P1/8/8 w - - 0 44"]
+[LichessURL "https://lichess.org/ZqAxpEzw#125"]
+[PuzzleId "xYoVh"]
+[Themes "advantage deflection endgame master short"]
 
-1. Nf6+ Rxf6 2. Rxe8+ *
+1. Nc6+ 1... Ke3 2. Nxe5 *
 
-{ The rook on f6 is overworked - it's defending both the knight on f6 and the rook on e2. By capturing the knight with Nf6+, we force Rxf6, then capture the undefended rook with Rxe8+. One piece can't do two jobs! }
+{ The king on e4 is overworked - it's defending both the knight on c6 and the bishop on e5. By checking with Nc6+, we force Ke3, then capture the undefended bishop with Nxe5. One piece can't do two jobs! }
 
 
 
@@ -381,14 +381,14 @@
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "1kb1Q1R1/2p5/pp1p4/8/3P4/1P6/PKP5/5q1r w - - 0 35"]
+[LichessURL "https://lichess.org/TSUSRQbZ/black#68"]
+[PuzzleId "1FCVQ"]
+[Themes "deflection endgame mate mateIn2 short"]
 
-1... Nc5+ 2. Ke2 Nxe4 *
+1. Qxc8+ 1... Ka7 2. Qxc7# *
 
-{ The king on e2 is overworked - it's defending both the knight on c5 and the bishop on e1. By checking with Nc5+, we force Ke2, then capture the undefended bishop with Nxe4. Overworked pieces always break! }
+{ The king on b8 is overworked - it's defending both the queen on c8 and the pawn on c7. By capturing the queen with Qxc8+, we force Ka7, then deliver checkmate with Qxc7#. Overworked pieces always break! }
 
 
 
@@ -406,14 +406,14 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 w - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short"]
+[FEN "5rk1/pQ2R1p1/4pq1p/4N3/1P1PP3/6P1/5P1P/5BK1 w - - 0 32"]
+[LichessURL "https://lichess.org/u9kARR5o#63"]
+[PuzzleId "nZk15"]
+[Themes "deflection endgame mate mateIn2 short"]
 
-1. Nc6+ Kf4 2. Nxd4 *
+1. Qxf2+ 1... Kh1 2. Qxf1# *
 
-{ The king on f4 is overworked - it's defending both the knight on c6 and the bishop on d2. By checking with Nc6+, we force Kf4, then capture the undefended bishop with Nxd4. One piece can't guard everything! }
+{ The king on g1 is overworked - it's defending both the queen on f2 and the rook on f1. By checking with Qxf2+, we force Kh1, then deliver checkmate with Qxf1#. One piece can't guard everything! }
 
 
 
