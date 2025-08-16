@@ -38,7 +38,7 @@ Always look for forcing moves that attack the enemy king.
 [PuzzleId "SbNfk"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qxg7# { Queen takes g7 with checkmate. } *
+1. Qxg7# *
 
 
 
@@ -168,7 +168,7 @@ Always look for forcing moves that attack the enemy king.
 [PuzzleId "rlfL3"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qh7# { Classic mate on h7. The king cannot escape. } *
+1. Qh7# *
 
 
 
@@ -352,7 +352,7 @@ Always look for forcing moves that attack the enemy king.
 [PuzzleId "konkQ"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qh7# { The king is trapped! } *
+1. Qh7# *
 
 
 
