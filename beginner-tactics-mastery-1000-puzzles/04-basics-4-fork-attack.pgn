@@ -426,6 +426,27 @@ Build core habits and quick recognition by checking forcing moves first.}
 [Event "Basics 4: Fork Attack!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/3k2P1/8/5p1N/1K3P2/8/8/8 w - - 0 66"]
+[LichessURL "https://lichess.org/UiacB5HK/black#130"]
+[PuzzleId "wK5sc"]
+[Themes "crushing endgame fork short"]
+
+1. Nf6+ { Fork! The knight check forks the king and rook, winning material. } 1... Ke7 2. Nxg8+ *
+
+
+
+
+
+
+
+[Event "Basics 4: Fork Attack!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
 [Round "22"]
 [White "Opponent"]
 [Black "You"]

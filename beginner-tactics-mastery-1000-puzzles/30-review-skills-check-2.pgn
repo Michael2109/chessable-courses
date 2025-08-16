@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "5r1k/p1p3pp/1pn5/4p3/1P2P3/2P2R2/P3q1PP/R6K w - - 0 23"]
+[LichessURL "https://lichess.org/t921Riyq/black#44"]
+[PuzzleId "F4tRS"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
 
 {Review: Skills Check #2
 
@@ -17,7 +17,7 @@ This section focuses on All tactics so far combined.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Rd8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
+1. Rxf8# { Skills check! Back rank mate - the king is trapped by its own pawns. }
 
 
 
@@ -38,8 +38,8 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [PuzzleId "l1iNq"]
 [Themes "endgame mate mateIn2 short"]
 
-1... Rc1+ { Skills check! Combining multiple tactics. }
-2... Rd1 45. Rxd1# *
+1... Rc1+ { Skills check! Back rank mate threat. }
+2. Rd1 Rxd1# { Back rank mate! }
 
 
 
@@ -55,12 +55,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/R1p1r1pp/1p6/1n2N3/3P4/8/6PP/6K1 w - - 1 29"]
-[LichessURL "https://lichess.org/Q94ydhMa/black#56"]
-[PuzzleId "pWOMi"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1b1k2r/1p2nppp/p1p1p3/B3P3/4Pn2/1B6/P4PPP/RN1R2K1 w kq - 1 15"]
+[LichessURL "https://lichess.org/dmYb6ciQ/black#28"]
+[PuzzleId "wTFX8"]
+[Themes "mate mateIn1 middlegame oneMove"]
 
-1. Ra8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
+1. Rd8# { Skills check! Back rank mate - the king has no escape. }
 
 
 
@@ -76,12 +76,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/R3p3/3p4/3Pn3/5NB1/5PPP/2R3K1 b - - 0 26"]
-[LichessURL "https://lichess.org/s2RzNSO8#51"]
-[PuzzleId "jwwhR"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
+[LichessURL "https://lichess.org/ZzONJuGy#93"]
+[PuzzleId "hTYme"]
+[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-1... Rxc1+ { Skills check! Combining multiple tactics. } 2. Ne1 3. Rxe1# *
+1... Ra1+ { Skills check! Back rank infiltration. }
+2. Rb1 Rxb1# { Back rank mate! }
 
 
 
@@ -97,12 +98,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
+[LichessURL "https://lichess.org/hDibIiAO/black#54"]
+[PuzzleId "92Oqp"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-1. Rb8+ { Skills check! Combining multiple tactics. } 1... Ne8 2. Rxe8# *
+1. Rxd8# { Skills check! Back rank mate - the king is trapped. }
 
 
 
@@ -118,12 +119,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 b - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "2r2rk1/5p1p/5Pp1/PR1P4/8/6pP/6P1/2R3K1 b - - 0 37"]
+[LichessURL "https://lichess.org/tTVnjIIl#73"]
+[PuzzleId "iHfRT"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
 
-1... Rd8+ { Skills check! Combining multiple tactics. } 2. Re8 3. Rxe8# *
+1... Rxc1# { Skills check! Back rank mate - the king has no escape. }
 
 
 
@@ -139,12 +140,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 w - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1b1r1k1/ppp2ppp/3p2q1/3P4/2P5/3nQ1P1/P2B1PBP/R4RK1 w - - 0 17"]
+[LichessURL "https://lichess.org/8QNGwytV/black#32"]
+[PuzzleId "DbkyF"]
+[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Rc1+ { Skills check! Combining multiple tactics. } 1... Rd1 2. Rxd1# *
+1. Qxe8# { Skills check! Back rank mate - the king is trapped. }
 
 
 
@@ -160,12 +161,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/pp3ppp/8/8/4r3/2P4P/PPqR1PP1/R5K1 w - - 0 27"]
-[LichessURL "https://lichess.org/X1fo6nHG/black#52"]
-[PuzzleId "gClHv"]
-[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[FEN "8/6pp/5pk1/R7/1P1P4/P4N2/r4PPP/6K1 b - - 2 36"]
+[LichessURL "https://lichess.org/ozGusdTh#71"]
+[PuzzleId "eVwya"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-1. Rxd8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
+1... Ra1+ { Skills check! Back rank infiltration. }
+2. Ne1 Rxe1# { Back rank mate! }
 
 
 
@@ -181,12 +183,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r7/8/3RR3/5p2/1k1p4/3P2pP/2P3P1/6K1 b - - 2 49"]
-[LichessURL "https://lichess.org/3CHnIYrg#97"]
-[PuzzleId "ww7tp"]
-[Themes "endgame mate mateIn2 rookEndgame short"]
+[FEN "6k1/5p1p/1p6/p5p1/P2B2P1/5P2/4R1K1/2q5 w - - 0 37"]
+[LichessURL "https://lichess.org/wJDngWbZ/black#72"]
+[PuzzleId "cL6cc"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1... Ra1+ { Skills check! Combining multiple tactics. } 2. Re1 3. Rxe1# *
+1. Re8# { Skills check! Back rank mate - the king has no escape. }
 
 
 
@@ -202,12 +204,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 b - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
+[FEN "3r2k1/Rb3ppp/2p1p3/8/2Nr4/1P6/1P3PPP/2R3K1 b - - 0 18"]
+[LichessURL "https://lichess.org/EYf0H0sE#35"]
+[PuzzleId "66t8g"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rb8+ { Skills check! Combining multiple tactics. } 2. Ne8 3. Rxe8# *
+1... Rd1+ { Skills check! Back rank infiltration. }
+2. Rxd1 Rxd1# { Back rank mate! }
 
 
 
@@ -223,12 +226,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 w - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "r1bqk2r/ppp2p1p/2nb4/8/2p1PQ2/2N5/PPPP2PP/R1B2RK1 w kq - 4 11"]
+[LichessURL "https://lichess.org/3zAsf7XE/black#20"]
+[PuzzleId "3aOBX"]
+[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
 
-1. Rd8+ { Skills check! Combining multiple tactics. } 1... Re8 2. Rxe8# *
+1. Qxf7# { Skills check! Attacking the weak f7 square. }
 
 
 
@@ -244,13 +247,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "3q3k/pp5p/5R1P/4r3/4P3/1P1P4/P7/1K3R2 w - - 0 37"]
+[LichessURL "https://lichess.org/s1gkfjMM/black#72"]
+[PuzzleId "9oppm"]
+[Themes "endgame fork mate mateIn2 queenRookEndgame short"]
 
-1... Rc1+ { Skills check! Combining multiple tactics. }
-2... Rd1 45. Rxd1# *
+1. Rf8+ { Skills check! Fork threat with back rank mate. }
+1... Qxf8 2. Rxf8# { Back rank mate! }
 
 
 
@@ -266,12 +269,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r2r2k1/5ppp/3Q4/2p1P3/8/4qP2/1P4PP/3R1K2 w - - 0 31"]
-[LichessURL "https://lichess.org/ovhR5m8j/black#60"]
-[PuzzleId "6eGks"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "2kr3r/ppp1R1pp/8/8/8/2p5/P1P2PPP/RNB3K1 b - - 0 16"]
+[LichessURL "https://lichess.org/C4sn5kq2#31"]
+[PuzzleId "n24rx"]
+[Themes "backRankMate endgame fork mate mateIn2 short"]
 
-1. Qxd8+ { Skills check! Combining multiple tactics. } 1... Rxd8 2. Rxd8# *
+1... Rd1+ { Skills check! Back rank infiltration. }
+2. Re1 Rxe1# { Back rank mate! }
 
 
 
@@ -287,13 +291,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/r6p/8/6pk/8/1R4PP/7K b - - 0 47"]
-[LichessURL "https://lichess.org/ZzONJuGy#93"]
-[PuzzleId "hTYme"]
-[Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
+[FEN "b5k1/5ppp/3Rp3/1qnnP1B1/5PPP/2P5/1P1K4/4R3 w - - 0 25"]
+[LichessURL "https://lichess.org/Y9TQR9bC/black#48"]
+[PuzzleId "mxsBt"]
+[Themes "backRankMate fork mate mateIn2 middlegame short"]
 
-1... Ra1+ { Skills check! Combining multiple tactics. }
-2. Rb1 48. Rxb1# *
+1. Rd8+ { Skills check! Back rank infiltration. }
+1... Qe8 2. Rxe8# { Back rank mate! }
 
 
 
@@ -309,13 +313,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 w - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "2n5/8/1k6/8/p2P1Q2/7P/6P1/1r1r1BK1 b - - 6 51"]
+[LichessURL "https://lichess.org/89DEPz2t#101"]
+[PuzzleId "xFG1B"]
+[Themes "crushing endgame fork short"]
 
-1. Rb8+ { Skills check! Combining multiple tactics. }
-3... Ne8 37. Rxe8# *
+1... Rxf1+ { Skills check! Fork attack. }
+2. Qxf1 Rxf1+ { Winning the queen! }
 
 
 
@@ -331,13 +335,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5pp1/4r2p/p7/1p3P2/1Pb2K1P/P4P2/1B1R4 b - - 4 29"]
-[LichessURL "https://lichess.org/hufGGxJF/black#56"]
-[PuzzleId "wGXNF"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "2b3k1/4rppp/5q2/4pP2/2p5/2P5/PPB3PP/3R1R1K w - - 0 27"]
+[LichessURL "https://lichess.org/YPf1LDY7/black#52"]
+[PuzzleId "cqoFH"]
+[Themes "backRankMate endgame fork mate mateIn2 short"]
 
-1... Rd8+ { Skills check! Combining multiple tactics. }
-1... Re8 2. Rxe8# *
+1. Rd8+ { Skills check! Back rank infiltration. }
+1... Re8 2. Rxe8# { Back rank mate! }
 
 
 
@@ -353,13 +357,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 w - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "6k1/p1r2npp/8/1p1R4/4p3/P1p4P/B4P2/4K3 w - - 0 41"]
+[LichessURL "https://lichess.org/SMTKq7l0/black#80"]
+[PuzzleId "wQp5K"]
+[Themes "endgame master mate mateIn1 oneMove pin"]
 
-1. Rc1+ { Skills check! Combining multiple tactics. }
-1... Rd1 2. Rxd1# *
+1. Rd8# { Skills check! Back rank mate - the king is trapped. }
 
 
 
@@ -375,13 +378,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/R3p3/3p4/3Pn3/5NB1/5PPP/2R3K1 b - - 0 26"]
-[LichessURL "https://lichess.org/s2RzNSO8#51"]
-[PuzzleId "jwwhR"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "1r4k1/pr3p1p/p3p1p1/3b2P1/N1pPpP2/P3P2R/2P4P/1RQ3K1 b - - 0 23"]
+[LichessURL "https://lichess.org/6KMPNgmR#45"]
+[PuzzleId "x89pv"]
+[Themes "crushing master middlegame pin short"]
 
-1... Rxc1+ { Skills check! Combining multiple tactics. }
-1... Ne1 2. Rxe1# *
+1... Rxb1 { Skills check! Pin attack. }
+2. Qxb1 Rxb1+ { Winning the queen! }
 
 
 
@@ -397,13 +400,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r7/8/3RR3/5p2/1k1p4/3P2pP/2P3P1/6K1 b - - 2 49"]
-[LichessURL "https://lichess.org/3CHnIYrg#97"]
-[PuzzleId "ww7tp"]
-[Themes "endgame mate mateIn2 rookEndgame short"]
+[FEN "6k1/2q2rpp/p7/1p6/3n4/1B4PP/P3RP1K/8 w - - 0 33"]
+[LichessURL "https://lichess.org/qiGfJffY/black#64"]
+[PuzzleId "SwaeV"]
+[Themes "endgame mate mateIn1 oneMove pin"]
 
-1... Ra1+ { Skills check! Combining multiple tactics. }
-1... Re1 2. Rxe1# *
+1. Re8# { Skills check! Back rank mate - the king is trapped. }
 
 
 
@@ -419,12 +421,121 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/2p2n2/p3p3/4P3/2bp2P1/1R3PKP/r7 b - - 0 36"]
-[LichessURL "https://lichess.org/PH6ExC04/black#70"]
-[PuzzleId "NyZDw"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "2r3k1/5ppp/7b/p3p3/4P3/6P1/5P1P/3Q2K1 b - - 0 26"]
+[LichessURL "https://lichess.org/4fDwkc1K#51"]
+[PuzzleId "MTHWe"]
+[Themes "crushing endgame pin short"]
 
-1... Rb8+ { Skills check! Combining multiple tactics. }
-1... Ne8 2. Rxe8# *
+1... Rc1 { Skills check! Pin attack. }
+2. Qxc1 Bxc1 { Winning the queen! }
+
+
+
+
+
+
+
+[Event "Review: Skills Check #2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5rpp/3R4/1p2p3/1P2P3/1BPK1nP1/4R2P/5q2 w - - 0 35"]
+[LichessURL "https://lichess.org/ngEkUqoz/black#68"]
+[PuzzleId "s2Wvc"]
+[Themes "endgame mate mateIn1 oneMove pin"]
+
+1. Rd8# { Skills check! Back rank mate - the king is trapped. }
+
+
+
+
+
+
+
+[Event "Review: Skills Check #2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1p3pp1/4p2p/3p4/p1r5/5PP1/1R5P/2RQ2K1 b - - 0 34"]
+[LichessURL "https://lichess.org/sUlJ92vv#67"]
+[PuzzleId "E6may"]
+[Themes "crushing endgame pin queenRookEndgame short"]
+
+1... Rxc1 { Skills check! Pin attack. }
+2. Qxc1 Rxc1+ { Winning the queen! }
+
+
+
+
+
+
+
+[Event "Review: Skills Check #2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "REVIEW23"]
+[Themes "mate mateIn1 opening"]
+
+1. Bxf7+ { Skills check! Attacking the weak f7 square. }
+1... Kxf7 2. Ne5+ { Fork attack! }
+
+
+
+
+
+
+
+[Event "Review: Skills Check #2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
+[LichessURL "https://lichess.org/example#6"]
+[PuzzleId "REVIEW24"]
+[Themes "mate mateIn1 opening"]
+
+1... Nxe4 { Skills check! Attacking the weak e4 square. }
+2. Bxf7+ Kxf7 3. Qd5+ { Fork attack! }
+
+
+
+
+
+
+
+[Event "Review: Skills Check #2"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
+[LichessURL "https://lichess.org/example/black#8"]
+[PuzzleId "REVIEW25"]
+[Themes "mate mateIn1 opening"]
+
+1. Bxf7+ { Skills check! Attacking the weak f7 square. }
+1... Kxf7 2. Ne5+ { Fork attack! }
 
 

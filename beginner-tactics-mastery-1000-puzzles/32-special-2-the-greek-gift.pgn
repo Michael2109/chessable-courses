@@ -439,3 +439,121 @@ Sharpen named motif recognition and learn how to exploit them fast.
 2. Kxf2 Nxe4+ *
 
 
+
+
+
+
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5k/pp3Qpp/n1p5/8/4P3/2qP3P/P1P3P1/5R1K w - - 1 25"]
+[LichessURL "https://lichess.org/XRiv6Ruk/black#48"]
+[PuzzleId "Zppyo"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+1. Qf8+ { Greek Gift! The queen sacrifice leads to back rank mate. }
+1... Rxf8 2. Rxf8# { Back rank mate! }
+
+
+
+
+
+
+
+
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/p6p/Bp3p1n/7P/2P2R1Q/3q4/PP3PP1/K6R b - - 8 30"]
+[LichessURL "https://lichess.org/lsA8Ho2Y#59"]
+[PuzzleId "ukcei"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+
+1... Qd1+ { Greek Gift! The queen sacrifice leads to back rank mate. }
+2. Rxd1 Rxd1# { Back rank mate! }
+
+
+
+
+
+
+
+
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3p1p/2q2bpB/3R1b2/1pB5/1r2P2P/5PP1/3R2K1 w - - 2 30"]
+[LichessURL "https://lichess.org/qOUh7RPo/black#58"]
+[PuzzleId "O0lYD"]
+[Themes "long mate mateIn3 middlegame sacrifice"]
+
+1. Rd8+ { Greek Gift! The rook sacrifice leads to mate. }
+1... Bxd8 2. Rxd8+ Qe8 3. Rxe8# { Mate! }
+
+
+
+
+
+
+
+
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p4p1p/1p2p2P/8/7Q/6P1/PPPq4/1K4R1 b - - 5 34"]
+[LichessURL "https://lichess.org/XR7x5VI6#67"]
+[PuzzleId "vHD6H"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+
+1... Qd1+ { Greek Gift! The queen sacrifice leads to back rank mate. }
+2. Rxd1 Rxd1# { Back rank mate! }
+
+
+
+
+
+
+
+
+
+[Event "Special 2: The Greek Gift"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/p4ppp/2R5/3Nbb2/4p3/1P2P3/P3qPPP/2R3K1 w - - 1 27"]
+[LichessURL "https://lichess.org/0qbu4jZ6/black#52"]
+[PuzzleId "xvNIC"]
+[Themes "endgame master mate mateIn2 sacrifice short"]
+
+1. Rc8+ { Greek Gift! The rook sacrifice leads to mate. }
+1... Bxc8 2. Rxc8# { Mate! }
+
+

@@ -439,3 +439,113 @@ Sharpen named motif recognition and learn how to exploit them fast.
 2. Kh1 Kxf2 *
 
 
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/pp3p2/1N1p1kpp/3Pb3/4K1P1/PP4PP/8 w - - 0 37"]
+[LichessURL "https://lichess.org/1l4uD0hl/black#72"]
+[PuzzleId "lvtum"]
+[Themes "advantage deflection endgame short"]
+
+1. Nd6+ { Deflection! The knight deflects the king from protecting the bishop. }
+1... Ke6 2. Nxe4 *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/P7/8/4B1p1/5p2/2P5/4K1k1 b - - 0 54"]
+[LichessURL "https://lichess.org/6d8ATJ99#107"]
+[PuzzleId "ApoTX"]
+[Themes "advancedPawn bishopEndgame crushing deflection endgame promotion short"]
+
+1... f2+ { Deflection! The pawn deflects the king from protecting the promotion square. }
+2. Kd2 f1=Q *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/7p/5pk1/6r1/5KP1/5P2/8 w - - 6 44"]
+[LichessURL "https://lichess.org/P4kLKQze/black#86"]
+[PuzzleId "vFXOU"]
+[Themes "crushing deflection endgame long rookEndgame"]
+
+1. Rg7+ { Deflection! The rook deflects the king from protecting the rook. }
+1... Kf6 2. Rxg4 fxg4+ 3. Kxg4 *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp1q1k1p/5p1P/2Q1p1p1/2b5/P1P2P2/1P3KP1/4R3 b - - 3 40"]
+[LichessURL "https://lichess.org/Fz2UpXMj#79"]
+[PuzzleId "EH5kF"]
+[Themes "advantage deflection endgame master short"]
+
+1... Qd2+ { Deflection! The queen deflects the king from protecting the rook. }
+2. Kg1 Qxe1+ *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kP/6r1/6PK/8/8/8/8 w - - 1 86"]
+[LichessURL "https://lichess.org/uqxmgxB2/black#170"]
+[PuzzleId "zS9Ch"]
+[Themes "advancedPawn crushing deflection endgame promotion short"]
+
+1. h8=Q+ { Deflection! The queen deflects the king from protecting the rook. }
+1... Kxh8 2. Kxg6 *
+
+

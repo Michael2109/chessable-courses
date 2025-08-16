@@ -6,10 +6,10 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN1"]
-[Themes "intermezzo opening"]
+[FEN "3q1rk1/1pp2p2/4p1pp/4n3/7P/1P6/1B3PP1/1K1R3R w - - 0 26"]
+[LichessURL "https://lichess.org/sCXFHAVh/black#50"]
+[PuzzleId "WLCgH"]
+[Themes "advantage endgame intermezzo master short"]
 
 {Intermediate 5: In-Between Moves
 
@@ -17,8 +17,8 @@ This section focuses on Zwischenzug, desperado moves.
 
 Sharpen named motif recognition and learn how to exploit them fast.
 }
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Rxd8 { In-between move! The rook sacrifice creates a zwischenzug. }
+1... Rxd8 2. Bxe5 { Winning the knight with the intermezzo! }
 
 
 
@@ -34,13 +34,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN2"]
-[Themes "intermezzo opening"]
+[FEN "1r3rk1/p4pp1/1p6/2p1pb1p/2Pp1R1P/P2Q1B1R/1PP3P1/5K2 b - - 0 24"]
+[LichessURL "https://lichess.org/4F5yajOv#47"]
+[PuzzleId "aCewA"]
+[Themes "advantage intermezzo middlegame short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Bxd3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+2. cxd3 exf4 { Winning the rook with the intermezzo! }
 
 
 
@@ -56,13 +56,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN3"]
-[Themes "intermezzo opening"]
+[FEN "6k1/3r1p2/p4P1p/1p1n1ppP/1P1P4/2r5/5PPK/1B2R3 w - - 0 34"]
+[LichessURL "https://lichess.org/00KMv3qn/black#66"]
+[PuzzleId "N0rDP"]
+[Themes "endgame intermezzo mate mateIn2 short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Re8+ { In-between move! The rook sacrifice creates a zwischenzug. }
+1... Kh7 2. Bxf5# { Checkmate with the intermezzo! }
 
 
 
@@ -78,13 +78,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN4"]
-[Themes "intermezzo opening"]
+[FEN "r4rk1/p1pq1pp1/2n2n1p/1B2p2P/1B1pP1P1/3Q1P2/2P5/R3K1NR b KQ - 0 17"]
+[LichessURL "https://lichess.org/CKt1R4kR#33"]
+[PuzzleId "ppcBi"]
+[Themes "crushing exposedKing intermezzo long middlegame"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxb4 { In-between move! The knight sacrifice creates a zwischenzug. }
+2. Bxd7 Nxd3+ 3. cxd3 Nxd7 { Winning material with the intermezzo! }
 
 
 
@@ -100,13 +100,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN5"]
-[Themes "intermezzo opening"]
+[FEN "6k1/5pp1/p1p4p/4p3/P1P1n3/1rNR3P/6P1/7K w - - 0 33"]
+[LichessURL "https://lichess.org/6ORNTvxd/black#64"]
+[PuzzleId "FsN5a"]
+[Themes "advantage endgame intermezzo short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Rd8+ { In-between move! The rook sacrifice creates a zwischenzug. }
+1... Kh7 2. Nxe4 { Winning the knight with the intermezzo! }
 
 
 
@@ -122,13 +122,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN6"]
-[Themes "intermezzo opening"]
+[FEN "2kr3r/1bpnq3/1p1b4/1P1pn1Bp/8/1N1P1NP1/4PPB1/R2Q1RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/uiBa23qD#35"]
+[PuzzleId "ahK8f"]
+[Themes "crushing intermezzo kingsideAttack middlegame short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxf3+ { In-between move! The knight sacrifice creates a zwischenzug. }
+2. exf3 Qxg5 { Winning the bishop with the intermezzo! }
 
 
 
@@ -144,13 +144,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN7"]
-[Themes "intermezzo opening"]
+[FEN "3rk1nr/ppp1pp1p/2n3p1/4b3/8/5B2/PPPN1PPP/R1BKR3 w k - 0 11"]
+[LichessURL "https://lichess.org/wUWX8ku5/black#20"]
+[PuzzleId "gqgZ5"]
+[Themes "advantage intermezzo middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+1... bxc6 2. Rxe5 { Winning the bishop with the intermezzo! }
 
 
 
@@ -166,13 +166,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN8"]
-[Themes "intermezzo opening"]
+[FEN "1k1r1bnr/p1pbqp2/Pp1pp3/3Pn1B1/4P2p/2NB1N1P/1PP2PP1/R2Q1RK1 b - - 0 13"]
+[LichessURL "https://lichess.org/FsLVLnOt#25"]
+[PuzzleId "ogIIg"]
+[Themes "advantage intermezzo kingsideAttack opening short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxf3+ { In-between move! The knight sacrifice creates a zwischenzug. }
+2. Qxf3 Qxg5 { Winning the bishop with the intermezzo! }
 
 
 
@@ -188,13 +188,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN9"]
-[Themes "intermezzo opening"]
+[FEN "r4rk1/pp3pp1/2p1pn1p/7q/3PN3/2P5/PP2QPP1/R4RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/ab9A59MG/black#36"]
+[PuzzleId "0IC0n"]
+[Themes "crushing intermezzo kingsideAttack middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Nxf6+ { In-between move! The knight sacrifice creates a zwischenzug. }
+1... gxf6 2. Qxh5 { Winning the queen with the intermezzo! }
 
 
 
@@ -210,13 +210,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN10"]
-[Themes "intermezzo opening"]
+[FEN "8/1R2rkpp/1B1b4/2N1p3/5p2/2P5/1P4PP/6K1 b - - 0 32"]
+[LichessURL "https://lichess.org/cLaLEcVw#63"]
+[PuzzleId "rTP3a"]
+[Themes "advantage endgame intermezzo short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Bxc5+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+2. Bxc5 Rxb7 { Winning the rook with the intermezzo! }
 
 
 
@@ -232,13 +232,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN11"]
-[Themes "intermezzo opening"]
+[FEN "r3k2r/ppp2ppp/2n1p3/8/3q4/5BP1/PP1QPP1P/R4RK1 w kq - 0 13"]
+[LichessURL "https://lichess.org/PEeT1ifw/black#24"]
+[PuzzleId "mwqzx"]
+[Themes "advantage intermezzo middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
 
 
 
@@ -254,13 +254,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN12"]
-[Themes "intermezzo opening"]
+[FEN "r3k2r/p1P2ppp/5p2/q4b2/2BnP3/2Q2P2/4N1PP/1R3RK1 b kq - 0 18"]
+[LichessURL "https://lichess.org/qdnXJWIn#35"]
+[PuzzleId "VtyqP"]
+[Themes "crushing intermezzo middlegame short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxe2+ { In-between move! The knight sacrifice creates a zwischenzug. }
+2. Bxe2 Qxc3 { Winning the queen with the intermezzo! }
 
 
 
@@ -276,13 +276,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN13"]
-[Themes "intermezzo opening"]
+[FEN "r3k2r/ppp1bppp/2n2n2/8/3q4/5B1P/PP3PP1/RNBQ1RK1 w kq - 0 11"]
+[LichessURL "https://lichess.org/vlMd9bGh/black#20"]
+[PuzzleId "SuqsL"]
+[Themes "crushing intermezzo middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
 
 
 
@@ -298,13 +298,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN14"]
-[Themes "intermezzo opening"]
+[FEN "rk5r/2pq3p/p4p1B/1p2nNp1/3p4/5Q2/PPP1BPPP/R3R1K1 b - - 0 23"]
+[LichessURL "https://lichess.org/sGnFUGEs#45"]
+[PuzzleId "OD5NZ"]
+[Themes "advantage intermezzo kingsideAttack middlegame short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nxf3+ { In-between move! The knight sacrifice creates a zwischenzug. }
+2. Bxf3 Qxf5 { Winning the queen with the intermezzo! }
 
 
 
@@ -320,13 +320,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN15"]
-[Themes "intermezzo opening"]
+[FEN "r3kb1r/pp2pp1p/2n3p1/4P3/3q4/5B2/PP4PP/R1BQK2R w KQkq - 0 13"]
+[LichessURL "https://lichess.org/EVHK07yn/black#24"]
+[PuzzleId "G8giA"]
+[Themes "crushing intermezzo middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
 
 
 
@@ -342,13 +342,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN16"]
-[Themes "intermezzo opening"]
+[FEN "r2q2nr/ppp1k1pp/8/8/3QP1bb/1B3N2/PPP4p/RNB2R1K b - - 0 12"]
+[LichessURL "https://lichess.org/R4gwx51D#23"]
+[PuzzleId "4NRbZ"]
+[Themes "crushing intermezzo kingsideAttack opening short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Bxf3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+2. Rxf3 Qxd4 { Winning the queen with the intermezzo! }
 
 
 
@@ -364,13 +364,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN17"]
-[Themes "intermezzo opening"]
+[FEN "r1b2k1r/ppp1n1pp/8/3q2B1/3P4/1Q3N2/PP3KPP/R7 w - - 0 16"]
+[LichessURL "https://lichess.org/b5sakGII/black#30"]
+[PuzzleId "icRku"]
+[Themes "crushing intermezzo middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Bxe7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+1... Kxe7 2. Qxd5 { Winning the queen with the intermezzo! }
 
 
 
@@ -386,13 +386,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN18"]
-[Themes "intermezzo opening"]
+[FEN "rnbq1rk1/5pp1/p6p/1p1Qb3/8/P1N1P2P/1PB2PP1/R3K2R b KQ - 0 16"]
+[LichessURL "https://lichess.org/bulsHCtd#31"]
+[PuzzleId "8W103"]
+[Themes "crushing intermezzo middlegame short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Bxc3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+2. bxc3 Qxd5 { Winning the queen with the intermezzo! }
 
 
 
@@ -408,13 +408,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "ZWISCHEN19"]
-[Themes "intermezzo opening"]
+[FEN "r4rk1/p4pp1/1p3n2/n1pq2p1/4N1b1/P4N2/1P3PPP/R2QRBK1 w - - 0 19"]
+[LichessURL "https://lichess.org/tDPSn0QO/black#36"]
+[PuzzleId "caDZg"]
+[Themes "crushing intermezzo kingsideAttack middlegame short"]
 
-1. Bxf7+ { In-between move! The bishop sacrifice creates a zwischenzug. }
-3... Kxf7 5. Ne5+ *
+1. Nxf6+ { In-between move! The knight sacrifice creates a zwischenzug. }
+1... gxf6 2. Qxd5 { Winning the queen with the intermezzo! }
 
 
 
@@ -430,12 +430,122 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "ZWISCHEN20"]
-[Themes "intermezzo opening"]
+[FEN "r2qk2r/pp4pp/2n2b2/1B1Q4/6b1/2N1PN2/PP3PPP/R3K2R b KQkq - 0 12"]
+[LichessURL "https://lichess.org/18oHYcSH#23"]
+[PuzzleId "i425h"]
+[Themes "crushing intermezzo middlegame short"]
 
-1... Nxe4 { In-between move! The knight creates a zwischenzug. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Bxc3+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+2. bxc3 Qxd5 { Winning the queen with the intermezzo! }
+
+
+
+
+
+
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbnr/1pp1pppp/p1n5/8/P2q4/5B2/1PP2PPP/RNBQK2R w KQkq - 0 8"]
+[LichessURL "https://lichess.org/necinSoJ/black#14"]
+[PuzzleId "eEggm"]
+[Themes "crushing intermezzo opening short"]
+
+1. Bxc6+ { In-between move! The bishop sacrifice creates a zwischenzug. }
+1... bxc6 2. Qxd4 { Winning the queen with the intermezzo! }
+
+
+
+
+
+
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bB1rk1/p4ppp/2p1p3/3p4/8/2nB4/PPP1QPPP/R4RK1 b - - 0 12"]
+[LichessURL "https://lichess.org/N3N1rbbB#23"]
+[PuzzleId "ODEvD"]
+[Themes "advantage intermezzo middlegame short"]
+
+1... Nxe2+ { In-between move! The knight sacrifice creates a zwischenzug. }
+2. Bxe2 Rxd8 { Winning the bishop with the intermezzo! }
+
+
+
+
+
+
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/2p1nppp/p1qpbb2/3Np3/Q1P1P3/5NP1/PP3P1P/R1B2RK1 w - - 0 17"]
+[LichessURL "https://lichess.org/Lq5evA0i/black#32"]
+[PuzzleId "jFQPo"]
+[Themes "crushing intermezzo middlegame short"]
+
+1. Nxe7+ { In-between move! The knight sacrifice creates a zwischenzug. }
+1... Bxe7 2. Qxc6 { Winning the queen with the intermezzo! }
+
+
+
+
+
+
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5Rp1/7p/p2r4/8/1P4PP/r4RK1/8 w - - 0 31"]
+[LichessURL "https://lichess.org/Iu8SaiAO/black#60"]
+[PuzzleId "GlbJK"]
+[Themes "crushing endgame intermezzo rookEndgame short"]
+
+1. Rf8+ { In-between move! The rook sacrifice creates a zwischenzug. }
+1... Kh7 2. Rxa2 { Winning the rook with the intermezzo! }
+
+
+
+
+
+
+
+[Event "Intermediate 5: In-Between Moves"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p4p1/p4b1p/7R/P1PrNp2/3R1P2/1P4PK/8 w - - 0 32"]
+[LichessURL "https://lichess.org/Xkzs75Rr/black#62"]
+[PuzzleId "XlvyV"]
+[Themes "crushing endgame intermezzo short"]
+
+1. Nxf6+ { In-between move! The knight sacrifice creates a zwischenzug. }
+1... Rxf6 2. Rxd4 { Winning the rook with the intermezzo! }
 
 

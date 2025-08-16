@@ -327,3 +327,123 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 
 1. Qe5 { Escape artist! Trading queens to save the position. }
 3... Qxe5+ 70. Kxe5 { Converting the defensive tactic. }
+
+
+
+
+
+
+
+
+
+[Event "Practical 4: Escape Artist"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/5r2/7Q/5rPK/P6P/8/8 b - - 0 54"]
+[LichessURL "https://lichess.org/CAnmoQTl#107"]
+[PuzzleId "IfhGC"]
+[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+
+1... Rh6 { Escape artist! Pinning the queen to save the position. }
+2. Qxh6+ Kxh6 { Converting the defensive tactic. }
+
+
+
+
+
+
+
+
+
+[Event "Practical 4: Escape Artist"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/8/8/p7/7P/2K5/5k2 w - - 0 59"]
+[LichessURL "https://lichess.org/1s6kEINC/black#116"]
+[PuzzleId "PenYN"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+
+1. h4 { Escape artist! Creating a passed pawn to save the position. }
+2. Ke1 h5 { The pawn advance creates winning chances. }
+
+
+
+
+
+
+
+
+
+[Event "Practical 4: Escape Artist"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/K1P4p/4p1pP/4P1P1/8/8/8 b - - 0 55"]
+[LichessURL "https://lichess.org/CFHWWjYr#109"]
+[PuzzleId "gLXlu"]
+[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+
+1... h5 { Escape artist! Creating a passed pawn to save the position. }
+2. Kb7 h4 { The pawn advance creates winning chances. }
+
+
+
+
+
+
+
+
+
+[Event "Practical 4: Escape Artist"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+1. Ne4 { Escape artist! Moving the knight to save the position. }
+2. Kh1 Kxf2 { Converting the defensive tactic. }
+
+
+
+
+
+
+
+
+
+[Event "Practical 4: Escape Artist"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS2"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+1... h2+ { Escape artist! Creating a passed pawn to save the position. }
+2. Kh1 Kxf2 { Converting the defensive tactic. }

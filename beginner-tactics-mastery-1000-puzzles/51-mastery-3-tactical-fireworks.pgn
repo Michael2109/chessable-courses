@@ -549,3 +549,123 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 
 1. Rc8+ { Tactical fireworks! Rook sacrifice to force mate. }
 3... Bxc8 28. Rxc8# { The mate after the sacrifice. }
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+
+1... h2+ { Tactical fireworks! Pawn deflection to win the knight. }
+2. Kh1 Kxf2 { Converting the tactical combination. }
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short"]
+
+1. Nf6+ { Tactical fireworks! Knight deflection to win the rook. }
+1... Rxf6 2. Rxe8+ { Converting the tactical combination. }
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short"]
+
+1... Nc5+ { Tactical fireworks! Knight deflection to win the bishop. }
+2. Ke2 Nxe4 { Converting the tactical combination. }
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
+[PuzzleId "xcSSX"]
+[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+
+1. d6 { Tactical fireworks! Pawn advance to force promotion. }
+1... g3 2. d7+ Kb7 3. d8=Q { Converting the tactical combination. }
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
+[LichessURL "https://lichess.org/Ab0KdMec#87"]
+[PuzzleId "kKSIl"]
+[Themes "crushing deflection endgame master short"]
+
+1... Nc6+ { Tactical fireworks! Knight deflection to win the bishop. }
+2. Kf4 Nxd4 { Converting the tactical combination. }

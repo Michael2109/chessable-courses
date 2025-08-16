@@ -18,7 +18,7 @@ This section focuses on Trapped bishops (15), queens (10), rooks (10).
 Sharpen named motif recognition and learn how to exploit them fast.
 }
 1. Kxg2 { Trapped piece! The bishop is trapped and will be captured. }
-3... Rxc1 25. Rxc1 *
+1... Rxc1 2. Rxc1 { Winning the trapped bishop! }
 
 
 
@@ -40,7 +40,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing endgame knightEndgame short trappedPiece"]
 
 1... Kb2 { Trapped piece! The knight is trapped and will be captured. }
-2. g4 Kxa1 *
+2. g4 Kxa1 { Winning the trapped knight! }
 
 
 
@@ -62,7 +62,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage middlegame short trappedPiece"]
 
 1. Qxd3 { Trapped piece! The bishop is trapped and will be captured. }
-3... Bxf2+ 13. Kxf2 *
+1... Bxf2+ 2. Kxf2 { Winning the trapped bishop! }
 
 
 
@@ -84,7 +84,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage master middlegame short trappedPiece"]
 
 1... Rxa7 { Trapped piece! The rook is trapped and will be captured. }
-2. Rxd7+ Kxd7 *
+2. Rxd7+ Kxd7 { Winning the trapped rook! }
 
 
 
@@ -106,7 +106,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
 
 1. g6+ { Trapped piece! The bishop is trapped and will be captured. }
-3... Ke7 59. g7 Bxg7 60. hxg7 *
+1... Ke7 2. g7 Bxg7 3. hxg7 { Winning the trapped bishop! }
 
 
 
@@ -128,7 +128,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage hangingPiece middlegame short trappedPiece"]
 
 1... Qxd5 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxf6+ Kxf6 *
+2. Qxf6+ Kxf6 { Winning the trapped queen! }
 
 
 
@@ -150,7 +150,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing middlegame short trappedPiece"]
 
 1. Kxc1 { Trapped piece! The rook is trapped and will be captured. }
-3... Rxb3 23. Nxb3 *
+1... Rxb3 2. Nxb3 { Winning the trapped rook! }
 
 
 
@@ -172,7 +172,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "crushing middlegame short trappedPiece"]
 
 1... Rxg6 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxg6+ Kxg6 *
+2. Qxg6+ Kxg6 { Winning the trapped queen! }
 
 
 
@@ -194,7 +194,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage middlegame short trappedPiece"]
 
 1. Kxf3 { Trapped piece! The queen is trapped and will be captured. }
-3... Qh4 19. Rxh4 *
+1... Qh4 2. Rxh4 { Winning the trapped queen! }
 
 
 
@@ -216,7 +216,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage endgame short trappedPiece"]
 
 1... Bxd3 { Trapped piece! The queen is trapped and will be captured. }
-2. Qxd3+ Kxd3 *
+2. Qxd3+ Kxd3 { Winning the trapped queen! }
 
 
 
@@ -238,7 +238,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advantage middlegame short trappedPiece"]
 
 1. Kxe2 { Trapped piece! The knight is trapped and will be captured. }
-3... Nf2 21. Kxf2 *
+1... Nf2 2. Kxf2 { Winning the trapped knight! }
 
 
 
@@ -260,7 +260,7 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Themes "advancedPawn bishopEndgame crushing endgame long promotion trappedPiece"]
 
 1... g2 { Trapped piece! The bishop is trapped and will be captured. }
-2. b6 g1=Q 41. b7 Qg6+ 42. Kf4 Qxb1 *
+2. b6 g1=Q 3. b7 Qg6+ 4. Kf4 Qxb1 { Winning the trapped bishop! }
 
 
 
@@ -276,13 +276,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED13"]
-[Themes "trappedPiece opening"]
+[FEN "r5k1/4B1p1/4b2p/3p1p2/1Q4Pq/1P5P/5rK1/3R1R2 w - - 0 31"]
+[LichessURL "https://lichess.org/eEyhxRoK/black#60"]
+[PuzzleId "zG16q"]
+[Themes "crushing middlegame short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Rxf2 { Trapped piece! The queen is trapped and will be captured. }
+1... Qxf2+ 2. Kxf2 { Winning the trapped queen! }
 
 
 
@@ -298,13 +298,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED14"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/7P/8/6p1/5p2/5k1K/7B b - - 0 55"]
+[LichessURL "https://lichess.org/jEsfy5IP#109"]
+[PuzzleId "prdqj"]
+[Themes "advancedPawn bishopEndgame crushing endgame long trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... g3+ { Trapped piece! The bishop is trapped and will be captured. }
+2. Kh3 g2 3. Bxg2 fxg2 { Winning the trapped bishop! }
 
 
 
@@ -320,13 +320,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED15"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/2p1kp1p/p3r1pP/Pp1pP1P1/1PP5/3KR3/8 w - - 0 48"]
+[LichessURL "https://lichess.org/rTFG2WoK/black#94"]
+[PuzzleId "1giyd"]
+[Themes "crushing endgame master rookEndgame short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. cxd4 { Trapped piece! The rook is trapped and will be captured. }
+1... Rxe4 2. Rxe4+ { Winning the trapped rook! }
 
 
 
@@ -342,13 +342,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED16"]
-[Themes "trappedPiece opening"]
+[FEN "8/pp2kR2/2p2n1Q/7r/5P2/4r3/1P6/5RK1 b - - 0 35"]
+[LichessURL "https://lichess.org/uvtJzxoa#69"]
+[PuzzleId "1oL78"]
+[Themes "crushing endgame master short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Kxf7 { Trapped piece! The queen is trapped and will be captured. }
+2. Qxh5+ Nxh5 { Winning the trapped queen! }
 
 
 
@@ -364,13 +364,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED17"]
-[Themes "trappedPiece opening"]
+[FEN "3n4/2RP4/4K3/1p5k/2p5/6P1/P7/3r4 w - - 3 47"]
+[LichessURL "https://lichess.org/ey4K2QLr/black#92"]
+[PuzzleId "3C1sr"]
+[Themes "advantage defensiveMove endgame master short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Ke7 { Trapped piece! The knight is trapped and will be captured. }
+1... Nf7 2. Kxf7 { Winning the trapped knight! }
 
 
 
@@ -386,13 +386,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED18"]
-[Themes "trappedPiece opening"]
+[FEN "r4rk1/1Q3Bp1/pp1q1n1p/8/3Pb3/4B2P/PP3PP1/3R1RK1 b - - 0 22"]
+[LichessURL "https://lichess.org/k69W30kU#43"]
+[PuzzleId "GIabZ"]
+[Themes "crushing middlegame short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Rxf7 { Trapped piece! The queen is trapped and will be captured. }
+2. Qxf7+ Kxf7 { Winning the trapped queen! }
 
 
 
@@ -408,13 +408,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED19"]
-[Themes "trappedPiece opening"]
+[FEN "n7/P7/2K2p2/8/8/5k2/8/8 w - - 0 50"]
+[LichessURL "https://lichess.org/X59SGfXK/black#98"]
+[PuzzleId "64DXd"]
+[Themes "crushing endgame knightEndgame master short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Kb7 { Trapped piece! The knight is trapped and will be captured. }
+1... f5 2. Kxa8 { Winning the trapped knight! }
 
 
 
@@ -430,13 +430,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED20"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/8/1K6/1p6/1P1k4/p7/N7 b - - 6 57"]
+[LichessURL "https://lichess.org/BWOefwQS#113"]
+[PuzzleId "lGb9w"]
+[Themes "crushing endgame knightEndgame long trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Kc3 { Trapped piece! The knight is trapped and will be captured. }
+2. Kc5 Kb2 3. Kxb4 Kxa1 { Winning the trapped knight! }
 
 
 
@@ -452,13 +452,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED21"]
-[Themes "trappedPiece opening"]
+[FEN "7k/ppn4p/2p3pP/3pPnq1/3P2P1/2P5/P2BK3/5N2 w - - 0 26"]
+[LichessURL "https://lichess.org/aZuo7qO8/black#50"]
+[PuzzleId "YVGjd"]
+[Themes "advantage endgame master short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Bxg5 { Trapped piece! The knight is trapped and will be captured. }
+1... Nxh6 2. Bxh6 { Winning the trapped knight! }
 
 
 
@@ -474,13 +474,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED22"]
-[Themes "trappedPiece opening"]
+[FEN "2Q3k1/5ppp/pq1rp3/1pb5/8/2P2N2/PP3PPP/4RQK1 b - - 5 22"]
+[LichessURL "https://lichess.org/QgwuPLfp#43"]
+[PuzzleId "mhb5l"]
+[Themes "crushing endgame short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Rd8 { Trapped piece! The queen is trapped and will be captured. }
+2. Qxd8+ Qxd8 { Winning the trapped queen! }
 
 
 
@@ -496,13 +496,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED23"]
-[Themes "trappedPiece opening"]
+[FEN "6k1/p4p1p/2p3p1/2P5/PN1p4/1P6/2Pr1P1P/4rK2 w - - 0 32"]
+[LichessURL "https://lichess.org/Ol0Dr2Am/black#62"]
+[PuzzleId "V4RmJ"]
+[Themes "advantage endgame short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Kxe1 { Trapped piece! The rook is trapped and will be captured. }
+1... Rxc2 2. Nxc2 { Winning the trapped rook! }
 
 
 
@@ -518,13 +518,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED24"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/6p1/5k1p/4p1pB/4K1P1/8/8 b - - 1 50"]
+[LichessURL "https://lichess.org/lncBAmE0#99"]
+[PuzzleId "9GpH9"]
+[Themes "bishopEndgame crushing endgame long trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... g5 { Trapped piece! The bishop is trapped and will be captured. }
+2. Bxg5 Kxg5 3. Kxe4 h4 { Winning the trapped bishop! }
 
 
 
@@ -540,13 +540,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED25"]
-[Themes "trappedPiece opening"]
+[FEN "7b/8/6PP/8/6K1/1p6/k7/8 w - - 1 49"]
+[LichessURL "https://lichess.org/q3oCQR29/black#96"]
+[PuzzleId "pecmJ"]
+[Themes "advancedPawn bishopEndgame crushing endgame long master promotion trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. g7 { Trapped piece! The bishop is trapped and will be captured. }
+1... Bxg7 2. hxg7 b2 3. g8=Q+ { Winning the trapped bishop! }
 
 
 
@@ -562,13 +562,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED26"]
-[Themes "trappedPiece opening"]
+[FEN "8/2n5/2k1p1p1/N2pPpP1/P2P1P2/1K6/8/8 b - - 0 41"]
+[LichessURL "https://lichess.org/C2FhXCfp#81"]
+[PuzzleId "wALCU"]
+[Themes "crushing endgame knightEndgame short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Kb6 { Trapped piece! The knight is trapped and will be captured. }
+2. Nb7 Kxb7 { Winning the trapped knight! }
 
 
 
@@ -584,13 +584,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED27"]
-[Themes "trappedPiece opening"]
+[FEN "8/5k1p/5Pb1/2p3P1/pp1p2KP/3P4/PPP5/8 w - - 3 54"]
+[LichessURL "https://lichess.org/v8CJjWYV/black#106"]
+[PuzzleId "FC7RK"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. h5 { Trapped piece! The bishop is trapped and will be captured. }
+1... Ke6 2. hxg6 { Winning the trapped bishop! }
 
 
 
@@ -606,13 +606,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED28"]
-[Themes "trappedPiece opening"]
+[FEN "8/p6p/8/kp6/7P/B7/1K6/8 b - - 0 50"]
+[LichessURL "https://lichess.org/DCWeP7Gh#99"]
+[PuzzleId "YlbGO"]
+[Themes "bishopEndgame crushing endgame short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... b4 { Trapped piece! The bishop is trapped and will be captured. }
+2. Kb3 bxa3 { Winning the trapped bishop! }
 
 
 
@@ -628,13 +628,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED29"]
-[Themes "trappedPiece opening"]
+[FEN "6k1/pp4pp/2b1r3/4Bp2/3P1P2/1P6/P2QR1P1/1q4K1 w - - 3 29"]
+[LichessURL "https://lichess.org/83fK8RoA/black#56"]
+[PuzzleId "UGWpQ"]
+[Themes "advantage defensiveMove endgame master short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Re1 { Trapped piece! The queen is trapped and will be captured. }
+1... Qxe1+ 2. Qxe1 { Winning the trapped queen! }
 
 
 
@@ -650,13 +650,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED30"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
+[LichessURL "https://lichess.org/AlPuT5Jd#123"]
+[PuzzleId "UEKwS"]
+[Themes "advancedPawn crushing deflection endgame knightEndgame master short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... h2+ { Trapped piece! The knight is trapped and will be captured. }
+2. Kh1 Kxf2 { Winning the trapped knight! }
 
 
 
@@ -672,13 +672,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED31"]
-[Themes "trappedPiece opening"]
+[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
+[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
+[PuzzleId "CT01B"]
+[Themes "advantage deflection discoveredAttack endgame short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Nf6+ { Trapped piece! The rook is trapped and will be captured. }
+1... Rxf6 2. Rxe8+ { Winning the trapped rook! }
 
 
 
@@ -694,13 +694,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED32"]
-[Themes "trappedPiece opening"]
+[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
+[LichessURL "https://lichess.org/GEmDbLQ6#55"]
+[PuzzleId "CxmD7"]
+[Themes "crushing deflection endgame master short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nc5+ { Trapped piece! The bishop is trapped and will be captured. }
+2. Ke2 Nxe4 { Winning the trapped bishop! }
 
 
 
@@ -716,13 +716,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED33"]
-[Themes "trappedPiece opening"]
+[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
+[PuzzleId "xcSSX"]
+[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. d6 { Trapped piece! The king is trapped and will be checkmated. }
+1... g3 2. d7+ Kb7 3. d8=Q { Winning the trapped king! }
 
 
 
@@ -738,13 +738,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 3 3"]
-[LichessURL "https://lichess.org/example#6"]
-[PuzzleId "TRAPPED34"]
-[Themes "trappedPiece opening"]
+[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
+[LichessURL "https://lichess.org/Ab0KdMec#87"]
+[PuzzleId "kKSIl"]
+[Themes "crushing deflection endgame master short trappedPiece"]
 
-1... Nxe4 { Trapped piece! The knight is trapped after this move. }
-2. Bxf7+ Kxf7 5. Qd5+ *
+1... Nc6+ { Trapped piece! The bishop is trapped and will be captured. }
+2. Kf4 Nxd4 { Winning the trapped bishop! }
 
 
 
@@ -760,10 +760,10 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4"]
-[LichessURL "https://lichess.org/example/black#8"]
-[PuzzleId "TRAPPED35"]
-[Themes "trappedPiece opening"]
+[FEN "8/8/pp3p2/1N1p1kpp/3Pb3/4K1P1/PP4PP/8 w - - 0 37"]
+[LichessURL "https://lichess.org/1l4uD0hl/black#72"]
+[PuzzleId "lvtum"]
+[Themes "advantage deflection endgame short trappedPiece"]
 
-1. Bxf7+ { Trapped piece! The bishop is trapped after this move. }
-3... Kxf7 5. Ne5+ *
+1. Nd6+ { Trapped piece! The bishop is trapped and will be captured. }
+1... Ke6 2. Nxe4 { Winning the trapped bishop! }

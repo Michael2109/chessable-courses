@@ -33,12 +33,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
-[LichessURL "https://lichess.org/ttfIvwau/black#72"]
-[PuzzleId "TDEmA"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
+[LichessURL "https://lichess.org/5pPfcHh9#59"]
+[PuzzleId "02NvQ"]
+[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
 
-1... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
 
 
 
@@ -54,13 +54,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
+[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
+[PuzzleId "cg7r3"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Bxf5+ { Double check! The bishop delivers a discovered attack. }
-1... Kb8 2. Rxd8+ *
+1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -76,13 +75,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
+[LichessURL "https://lichess.org/PJKKkqjI#71"]
+[PuzzleId "dTxZJ"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-1... h2+ { Double check! The pawn delivers a discovered attack. }
-2. Kh1 Kxf2 *
+1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
 
 
 
@@ -98,13 +96,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
+[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
+[PuzzleId "6P7X6"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
 
-1. Nf6+ { Double check! The knight delivers a discovered attack. }
-1... Rxf6 2. Rxe8+ *
+1. Rxc8+ { Double check! The rook delivers a discovered attack. }
+1... Rb8 2. axb8=Q# { Promoting with checkmate! }
 
 
 
@@ -120,13 +118,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
+[LichessURL "https://lichess.org/Ptkq55Ir#59"]
+[PuzzleId "qFETP"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Nc5+ { Double check! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+1... Rxf1# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -142,12 +139,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+[FEN "1r4k1/b5pp/4R3/1r1B4/8/6P1/5P1P/6K1 w - - 0 32"]
+[LichessURL "https://lichess.org/EE1eZE6p/black#62"]
+[PuzzleId "u4BgB"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Re8# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -163,12 +160,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
-[LichessURL "https://lichess.org/ttfIvwau/black#72"]
-[PuzzleId "TDEmA"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+[FEN "8/pp1k3p/5p2/2bp2p1/8/1N1Pr1P1/PPP3PP/R5K1 b - - 2 23"]
+[LichessURL "https://lichess.org/antmLGUA#45"]
+[PuzzleId "g15Ea"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -184,13 +181,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "6rk/1pp4P/2n2b2/p7/3P4/1PP1Pq2/P7/1K4RR w - - 0 38"]
+[LichessURL "https://lichess.org/NFlYOyUu/black#74"]
+[PuzzleId "bwcw8"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-1. Bxf5+ { Double check! The bishop delivers a discovered attack. }
-3... Kb8 28. Rxd8+ *
+1. hxg8=Q# { Double check! The pawn promotes with checkmate. }
 
 
 
@@ -206,13 +202,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "8/p2kp3/1p6/N2b1p2/P3r3/1PN5/2P4P/2R4K b - - 3 35"]
+[LichessURL "https://lichess.org/d76KpB5D#69"]
+[PuzzleId "ZDzVK"]
+[Themes "doubleCheck endgame master mate mateIn1 oneMove"]
 
-1... h2+ { Double check! The pawn delivers a discovered attack. }
-2. Kh1 Kxf2 *
+1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -228,13 +223,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "r2qr1k1/2p3pp/pp2R3/5p2/3n1P2/BQ3P2/P5PP/R6K w - - 1 26"]
+[LichessURL "https://lichess.org/mhXUE09j/black#50"]
+[PuzzleId "O4VNZ"]
+[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Nf6+ { Double check! The knight delivers a discovered attack. }
-3... Rxf6 28. Rxe8+ *
+1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -250,13 +244,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "2k5/p1p4p/2q3p1/8/4n2Q/1P1P4/P1P2R1P/6RK b - - 0 27"]
+[LichessURL "https://lichess.org/EmOXHsqN#53"]
+[PuzzleId "6Qz3p"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Nc5+ { Double check! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+1... Nxf2# { Double check! The knight delivers checkmate with a discovered attack. }
 
 
 
@@ -272,12 +265,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+[FEN "r2qkb1r/p1p1pppp/5n2/1N1Pn3/Q1p1P1b1/8/PP3PPP/R1B1KBNR w KQkq - 1 8"]
+[LichessURL "https://lichess.org/mzTmwTRr/black#14"]
+[PuzzleId "b5W0c"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
 
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Nd6# { Double check! The knight delivers checkmate with a discovered attack. }
 
 
 
@@ -293,12 +286,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
-[LichessURL "https://lichess.org/ttfIvwau/black#72"]
-[PuzzleId "TDEmA"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+[FEN "6k1/2p4p/6p1/p1bP4/8/2N1r3/PB4PP/R5K1 b - - 2 23"]
+[LichessURL "https://lichess.org/IP2Rvq58#45"]
+[PuzzleId "TaWI6"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -314,13 +307,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "6rk/1r5P/4p3/3pq3/3p4/pP1P4/P4P1R/1K4R1 w - - 0 37"]
+[LichessURL "https://lichess.org/UXsf2pAX/black#72"]
+[PuzzleId "BmVH2"]
+[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
 
-1. Bxf5+ { Double check! The bishop delivers a discovered attack. }
-3... Kb8 28. Rxd8+ *
+1. hxg8=Q# { Double check! The pawn promotes with checkmate. }
 
 
 
@@ -336,13 +328,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "rnb1r1k1/ppp2p1p/6p1/4b3/8/B1N4P/PPP2PP1/3RKB1R b K - 2 12"]
+[LichessURL "https://lichess.org/ashpIDlL#23"]
+[PuzzleId "iOyhy"]
+[Themes "doubleCheck mate mateIn1 middlegame oneMove"]
 
-1... h2+ { Double check! The pawn delivers a discovered attack. }
-2. Kh1 Kxf2 *
+1... Bxc3# { Double check! The bishop delivers checkmate with a discovered attack. }
 
 
 
@@ -358,13 +349,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "8/4p3/6p1/5k1p/p7/7P/2KB2r1/3N4 w - - 0 43"]
+[LichessURL "https://lichess.org/ZoDzXCqO/black#84"]
+[PuzzleId "y1204"]
+[Themes "advantage doubleCheck endgame fork master short"]
 
-1. Nf6+ { Double check! The knight delivers a discovered attack. }
-3... Rxf6 28. Rxe8+ *
+1. Ne3+ { Double check! The knight delivers a discovered attack. }
+1... Kf4 2. Nxg2+ { Winning the rook with a fork! }
 
 
 
@@ -380,13 +371,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "8/p7/5kpK/3Bp3/4Pr2/1R2b2P/P7/8 b - - 0 36"]
+[LichessURL "https://lichess.org/BymmXfxb#71"]
+[PuzzleId "U6WFi"]
+[Themes "doubleCheck endgame mate mateIn1 oneMove"]
 
-1... Nc5+ { Double check! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+1... Re1# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -402,12 +392,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
 
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+1... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
 
 
 
@@ -419,15 +409,16 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "20"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/4r3/8/1p1p1R2/P4P2/3R1PKP/4r3 b - - 3 37"]
-[LichessURL "https://lichess.org/ttfIvwau/black#72"]
-[PuzzleId "TDEmA"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
 
-1... Rf8# { Double check! The rook delivers checkmate with a discovered attack. }
+1. Bxf5+ { Double check! The bishop delivers a discovered attack. }
+1... Kb8 2. Rxd8+ { Winning the rook! }
 
 

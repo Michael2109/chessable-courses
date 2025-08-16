@@ -536,3 +536,109 @@ Completing this section means you've achieved tactical mastery worthy of serious
 
 1. Nd5+ { Final boss! Knight fork to win material. }
 3... Ke6 46. Nxe7 { Converting the advantage. }
+
+
+
+
+
+
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "26"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
+[LichessURL "https://lichess.org/ttfIvwau/black#72"]
+[PuzzleId "TDEmA"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame superGM"]
+
+1. Rf8# { Final boss! Back rank mate with the king trapped. }
+
+
+
+
+
+
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pp4p1/3p3q/8/4N2Q/1P3p2/P1P2P2/6RK b - - 0 33"]
+[LichessURL "https://lichess.org/3lYQ7nLQ#65"]
+[PuzzleId "l7OYo"]
+[Themes "endgame master superGM"]
+
+1... Qxh4# { Final boss! Queen mate exploiting the exposed king. }
+
+
+
+
+
+
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "28"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2rk/pp2R3/5p2/2Pp4/1P6/2P2Pq1/P1Q4p/5R1K w - - 5 36"]
+[LichessURL "https://lichess.org/0Xo6pQkH/black#70"]
+[PuzzleId "oHA6T"]
+[Themes "endgame master mate mateIn1 oneMove superGM"]
+
+1. Rh7# { Final boss! Rook mate exploiting the exposed king. }
+
+
+
+
+
+
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "29"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/7p/Q3bpk1/1p6/8/P7/1P5P/K7 b - - 0 40"]
+[LichessURL "https://lichess.org/B9D41E5d#79"]
+[PuzzleId "ttBko"]
+[Themes "endgame master mate mateIn1 oneMove superGM"]
+
+1... Rc1# { Final boss! Rook mate on the back rank. }
+
+
+
+
+
+
+
+[Event "Mastery 4: Final Boss"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "30"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/pp3p1p/3R1Pp1/8/8/4B3/4q1PP/3R3K w - - 1 28"]
+[LichessURL "https://lichess.org/8XlfXvEd/black#54"]
+[PuzzleId "4KLOw"]
+[Themes "endgame master mate mateIn2 short superGM"]
+
+1. Rd8+ { Final boss! Rook sacrifice to force mate. }
+1... Rxd8 2. Rxd8# { The mate after the sacrifice. }
