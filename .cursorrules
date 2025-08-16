@@ -1,9 +1,9 @@
-There is a directory containing all lichess puzzles organised by theme in the themes_pgn_0-1300 directory.
-The pgns in each theme are organised from least difficult to most difficult.
+There is a directory containing all lichess puzzles organised by theme in the beginner_puzzles directory.
+The pgns in each theme are organised from least difficult to most difficult and have the difficulty in the event name.
 
 Read the README.md and you'll see a table of chapters. Each chapter has an associated pgn file in the "beginner-tactics-mastery-1000-puzzles" directory.
 
-Each chapter pgn should have the amount of puzzles that is written in the README.md description. The puzzles should be ordered from very easy to more difficult. Keep the difficulty appropriate for beginners (roughly 800-1200 rating range).
+Each chapter pgn should have the amount of puzzles that is written in the README.md description. The puzzles should be ordered from very easy to more difficult. Keep the difficulty appropriate for beginners (roughly 200-1200 rating range).
 
 Ensure all of the puzzles are unique across the entire course.
 

@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 from typing import List, Optional, Sequence
 
-from app.puzzles import build_puzzles_pipeline, write_puzzles_per_theme_to_directory
+from app.puzzles import build_puzzles_pipeline, write_puzzles_per_theme_to_directory, process_all_puzzles_by_theme_streaming
 
 def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -42,6 +42,18 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         type=int,
         default=800,
         help="Maximum rating (inclusive)",
+    )
+    parser.add_argument(
+        "--min-popularity",
+        type=int,
+        default=None,
+        help="Minimum popularity percentile (e.g., 90 for 90th percentile)",
+    )
+    parser.add_argument(
+        "--min-plays",
+        type=int,
+        default=None,
+        help="Minimum number of plays/reviews (inclusive)",
     )
     parser.add_argument(
         "--center",
@@ -121,6 +133,22 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
             "Defaults to a name derived from rating range, e.g., 'themes_pgn_200-700'."
         ),
     )
+    parser.add_argument(
+        "--stream-all",
+        action="store_true",
+        default=False,
+        help=(
+            "Process all puzzles by theme using streaming (memory-efficient). "
+            "This will create one file per theme with all puzzles in that theme, "
+            "sorted by difficulty. Ignores --per-theme and --limit-total."
+        ),
+    )
+    parser.add_argument(
+        "--include-difficulty",
+        action="store_true",
+        default=True,
+        help="Include difficulty information in PGN event names (default: True)",
+    )
 
     return parser.parse_args(argv)
 
@@ -129,6 +157,35 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     # Parse CLI arguments (defaults applied when argv is None)
     args = parse_args(argv)
 
+    if args.stream_all:
+        # Use streaming processing for all puzzles
+        print("Processing all puzzles by theme using streaming...")
+        counts = process_all_puzzles_by_theme_streaming(
+            csv_path=args.csv_path,
+            min_rating=args.min_rating,
+            max_rating=args.max_rating,
+            min_popularity=args.min_popularity,
+            min_plays=args.min_plays,
+            output_dir=args.out_dir or f"themes_pgn_{args.min_rating}-{args.max_rating}",
+            present_after_opponent_first_move=args.start_after_first_move,
+            opening_color_tag=args.opening_color_tag,
+            event_prefix=args.event_prefix,
+            include_difficulty_in_event=args.include_difficulty,
+        )
+        
+        print(f"\nProcessing complete!")
+        print(f"Total themes processed: {len(counts)}")
+        print(f"Total puzzles written: {sum(counts.values())}")
+        
+        # Show all themes by puzzle count
+        sorted_themes = sorted(counts.items(), key=lambda x: x[1], reverse=True)
+        print(f"\nAll themes by puzzle count:")
+        for theme, count in sorted_themes:
+            print(f"  {theme}: {count} puzzles")
+            
+        return 0
+
+    # Use the original pipeline for selective processing
     written, summary, selected = build_puzzles_pipeline(
         csv_path=args.csv_path,
         rating_min=args.min_rating,
@@ -142,6 +199,8 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         force_color=args.force_color,
         opening_color_tag=args.opening_color_tag,
         event_prefix=args.event_prefix,
+        min_popularity=args.min_popularity,
+        min_plays=args.min_plays,
     )
 
     if args.out_pgn:
@@ -209,15 +268,18 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     try:
         derived_dir = f"themes_pgn_{args.min_rating}-{args.max_rating}"
         out_dir = args.out_dir or os.path.join(os.getcwd(), derived_dir)
+        print(f"Writing per-theme PGNs to {out_dir}...")
         counts = write_puzzles_per_theme_to_directory(
             puzzles_with_theme=selected,
             output_dir=out_dir,
             present_after_opponent_first_move=args.start_after_first_move,
             opening_color_tag=args.opening_color_tag,
             event_prefix=args.event_prefix,
+            include_difficulty_in_event=args.include_difficulty,
         )
-        print(f"Wrote per-theme PGNs to {out_dir}")
-    except Exception:
+        print(f"✓ Wrote per-theme PGNs to {out_dir}")
+    except Exception as e:
+        print(f"Error writing per-theme PGNs: {e}")
         pass
     return 0
 

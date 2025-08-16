@@ -1,0 +1,18 @@
+[Event "Castling (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp3p2/2p4p/6p1/1b2n3/2N3B1/PP3PPP/R2QKB1R w KQkq - 0 12"]
+[LichessURL "https://lichess.org/OlsDEqLD/black#22"]
+[PuzzleId "TWRdc"]
+[Themes "castling crushing discoveredAttack middlegame short"]
+[Rating "1191"]
+
+12. Qxd8+ Kxd8 13. O-O-O+ *
+
+
+

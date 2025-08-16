@@ -3,7 +3,7 @@
 # Beginner Tactics Mastery — 1000 Puzzles (Deluxe Edition)
 
 A structured Chessable-style puzzle collection for beginners, grouped by tactical theme and ordered by difficulty (easy → medium → hard).  
-Includes core tactical motifs, defensive patterns, and bonus “crowd-pleaser” puzzles like traps and sacrifices to make learning fun.
+Includes core tactical motifs, defensive patterns, and bonus "crowd-pleaser" puzzles like traps and sacrifices to make learning fun.
 
 # Complete Beginner Chess Tactics Course – 1000 Puzzles
 
@@ -77,7 +77,7 @@ Includes core tactical motifs, defensive patterns, and bonus “crowd-pleaser”
   ~65% attacking, ~25% defensive tactics, ~10% practical/endgame & bonus content.
 
 - **Fun factor:**  
-  Includes traps, sacrifices, mating nets, and a final “exam” for extra engagement.
+  Includes traps, sacrifices, mating nets, and a final "exam" for extra engagement.
 
 ---
 
@@ -92,5 +92,103 @@ Includes core tactical motifs, defensive patterns, and bonus “crowd-pleaser”
 
 This ensures a smooth transition from obvious patterns to realistic in-game scenarios, with plenty of variety to keep learners hooked.
 
+---
 
+## Using the Streaming Puzzle Processing Features
+
+The project now includes advanced streaming puzzle processing capabilities that can handle large Lichess puzzle datasets efficiently.
+
+### Prerequisites
+
+1. **Download the Lichess Puzzles Database:**
+   ```bash
+   # Download the compressed version (recommended)
+   wget https://database.lichess.org/lichess_db_puzzle.csv.zst
+   
+   # Or download the uncompressed version
+   wget https://database.lichess.org/lichess_db_puzzle.csv
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   # For compressed .zst files
+   pip install zstandard
+   
+   # Core dependencies
+   pip install chess
+   ```
+
+### Basic Usage
+
+#### Process All Puzzles by Theme (Streaming)
+```bash
+# Process all puzzles with basic filtering
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 800 --max-rating 1200 --out-dir themes_pgn_800-1200
+```
+
+#### High-Quality Beginner Puzzles
+```bash
+# Create beginner puzzles with quality filters
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 200 --max-rating 1200 --min-popularity 85 --min-plays 50 --out-dir beginner_puzzles
+```
+
+#### Expert-Level Puzzles
+```bash
+# Create expert puzzles with strict quality filters
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 1400 --max-rating 2000 --min-popularity 95 --min-plays 200 --out-dir expert_puzzles
+```
+
+### Key Features
+
+- **Memory Efficient:** Processes millions of puzzles without loading everything into memory
+- **Quality Filtering:** Filter by popularity percentile and minimum plays/reviews
+- **Difficulty Sorting:** Puzzles are sorted by rating within each theme
+- **Difficulty Labels:** Event names include difficulty information (Easy, Medium, Hard, etc.)
+- **Theme Organization:** Creates one PGN file per tactical theme
+
+### Command Line Options
+
+| Option | Description | Example |
+|--------|-------------|---------|
+| `--stream-all` | Enable streaming processing | `--stream-all` |
+| `--min-rating` | Minimum rating filter | `--min-rating 800` |
+| `--max-rating` | Maximum rating filter | `--max-rating 1200` |
+| `--min-popularity` | Minimum popularity percentile | `--min-popularity 90` |
+| `--min-plays` | Minimum number of plays/reviews | `--min-plays 100` |
+| `--out-dir` | Output directory | `--out-dir my_puzzles` |
+
+### Output Structure
+
+The script creates one PGN file per theme:
+```
+output_directory/
+├── Fork.pgn
+├── Pin.pgn
+├── Mate In 1.pgn
+├── Back Rank Mate.pgn
+└── ...
+```
+
+Each file contains puzzles sorted by difficulty, with event names like:
+- `"Fork Attack (Medium)"`
+- `"Pin the Pieces (Hard)"`
+- `"Mate In 1 (Easy)"`
+
+### Performance Notes
+
+- **Memory Usage:** Constant regardless of CSV size
+- **Processing Speed:** Depends on file size and filters
+- **Progress Reporting:** Updates every 10,000 puzzles
+- **Incremental Output:** Files created as themes are completed
+
+For more detailed information, see [STREAMING_FEATURES.md](STREAMING_FEATURES.md).
+
+---
+
+## Original Usage (Selective Processing)
+
+For selective processing of specific themes or smaller datasets:
+
+```bash
 uv run python -m app.main --csv-path lichess_db_puzzle.csv --min-rating 200 --max-rating 1500 --per-theme 100
+```

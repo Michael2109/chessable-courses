@@ -59,6 +59,8 @@ class GenerationConfig:
     force_color: Optional[str] = None
     opening_color_tag: Optional[str] = None
     event_prefix: Optional[str] = None
+    min_popularity: Optional[int] = None
+    min_plays: Optional[int] = None
 
 
 def _open_text_stream(path: str) -> io.TextIOBase:
@@ -182,6 +184,24 @@ def filter_puzzles_by_rating(
     for puzzle in puzzles:
         if min_rating <= puzzle.rating <= max_rating:
             yield puzzle
+
+
+def filter_puzzles_by_criteria(
+    puzzles: Iterable[Puzzle], 
+    min_rating: int, 
+    max_rating: int,
+    min_popularity: Optional[int] = None,
+    min_plays: Optional[int] = None,
+) -> Iterator[Puzzle]:
+    """Filter puzzles by rating, popularity, and minimum number of plays."""
+    for puzzle in puzzles:
+        if not (min_rating <= puzzle.rating <= max_rating):
+            continue
+        if min_popularity is not None and puzzle.popularity < min_popularity:
+            continue
+        if min_plays is not None and puzzle.num_plays < min_plays:
+            continue
+        yield puzzle
 
 
 def group_puzzles_by_theme(puzzles: Iterable[Puzzle]) -> Dict[str, List[Puzzle]]:
@@ -419,6 +439,7 @@ def write_puzzles_to_pgn(
     present_after_opponent_first_move: bool = False,
     opening_color_tag: Optional[str] = None,
     event_prefix: Optional[str] = None,
+    include_difficulty_in_event: bool = True,
 ) -> int:
     """Write puzzles to a single PGN file and return count written.
 
@@ -427,6 +448,8 @@ def write_puzzles_to_pgn(
     is True, we apply the first move (opponent move per Lichess spec), so the
     solver to move starts the sequence from the second move. By default this is
     disabled to show the solver as the side to move directly from the FEN.
+    
+    If include_difficulty_in_event is True, difficulty information will be added to the event name.
     """
 
     games_written = 0
@@ -447,15 +470,25 @@ def write_puzzles_to_pgn(
                     # Skip if first move is invalid for the given FEN
                     continue
 
-
             game = chess.pgn.Game()
             # Group by theme via Event using a human-friendly name, with optional prefix
             friendly_theme = _humanize_theme(theme)
-            if event_prefix:
-                sep = "" if event_prefix.endswith(" ") else " "
-                game.headers["Event"] = f"{event_prefix}{sep}{friendly_theme or theme}".strip()
+            
+            # Create event name with difficulty information if requested
+            if include_difficulty_in_event:
+                difficulty_label = _get_difficulty_label(puzzle.rating)
+                if event_prefix:
+                    sep = "" if event_prefix.endswith(" ") else " "
+                    game.headers["Event"] = f"{event_prefix}{sep}{friendly_theme or theme} ({difficulty_label})".strip()
+                else:
+                    game.headers["Event"] = f"{friendly_theme or theme} ({difficulty_label})"
             else:
-                game.headers["Event"] = friendly_theme or theme
+                if event_prefix:
+                    sep = "" if event_prefix.endswith(" ") else " "
+                    game.headers["Event"] = f"{event_prefix}{sep}{friendly_theme or theme}".strip()
+                else:
+                    game.headers["Event"] = friendly_theme or theme
+                    
             # Use neutral site to avoid any accidental orientation hints from URLs like /black#
             game.headers["Site"] = "https://lichess.org"
             game.headers["SetUp"] = "1"
@@ -476,6 +509,7 @@ def write_puzzles_to_pgn(
                 game.headers["OpeningColor"] = opening_color_tag
             game.headers["PuzzleId"] = puzzle.puzzle_id
             game.headers["Themes"] = " ".join(puzzle.primary_themes)
+            game.headers["Rating"] = str(puzzle.rating)
             per_theme_index[theme] += 1
             game.headers["Round"] = str(per_theme_index[theme])
 
@@ -486,38 +520,9 @@ def write_puzzles_to_pgn(
                     if move not in board.legal_moves:
                         # If it's illegal from this state, skip this puzzle
                         raise ValueError("Illegal move sequence for FEN")
-                    moving_piece = board.piece_at(move.from_square)
-                    side_to_move = board.turn
-                    opponent = chess.BLACK if side_to_move == chess.WHITE else chess.WHITE
-                    opponent_back_rank = 0 if opponent == chess.WHITE else 7
 
                     board.push(move)
                     node = node.add_variation(move)
-
-                    if is_back_rank_theme:
-                        comments: List[str] = []
-                        # After the move, annotate check/mate and back-rank infiltration
-                        if board.is_checkmate():
-                            comments.append(
-                                "Back rank mate! The king is trapped by its own pawns and has no escape squares."
-                            )
-                        else:
-                            # Infiltration on the back rank by heavy piece
-                            if (
-                                moving_piece is not None
-                                and moving_piece.piece_type in {chess.ROOK, chess.QUEEN}
-                                and chess.square_rank(move.to_square) == opponent_back_rank
-                            ):
-                                comments.append(
-                                    "Infiltrates the back rank, tying down the king and threatening mate."
-                                )
-                            if board.is_check():
-                                comments.append(
-                                    "Check — the king remains boxed in behind its pawn shield on the back rank."
-                                )
-
-                        if comments:
-                            node.comment = " " .join(comments)
             except Exception:
                 # Skip malformed sequences
                 continue
@@ -536,10 +541,12 @@ def write_puzzles_per_theme_to_directory(
     present_after_opponent_first_move: bool = False,
     opening_color_tag: Optional[str] = None,
     event_prefix: Optional[str] = None,
+    include_difficulty_in_event: bool = True,
 ) -> Dict[str, int]:
     """Write one PGN file per theme; returns mapping theme -> count written.
 
     If event_prefix is provided, it will be prepended to the PGN Event header.
+    If include_difficulty_in_event is True, difficulty information will be added to the event name.
     """
 
     os.makedirs(output_dir, exist_ok=True)
@@ -555,18 +562,38 @@ def write_puzzles_per_theme_to_directory(
         return safe
 
     out_counts: Dict[str, int] = {}
+    total_themes = len(grouped)
+    current_theme = 0
+    
+    print(f"Writing {total_themes} theme files to {output_dir}...")
+    
     for theme, puzzles in grouped.items():
+        current_theme += 1
+        print(f"[{current_theme}/{total_themes}] Processing theme: {theme} ({len(puzzles)} puzzles)")
+        
+        # Get evenly distributed subset of puzzles (max 2000)
+        puzzles_subset = get_evenly_distributed_subset(puzzles, 2000)
+        print(f"  Selected {len(puzzles_subset)} puzzles for even distribution")
+        
+        # Sort puzzles by difficulty (rating) within each theme
+        puzzles_sorted = sorted(puzzles_subset, key=lambda p: p.rating)
+        
         filename = sanitize(theme) + ".pgn"
         path = os.path.join(output_dir, filename)
+        
+        print(f"  Writing to: {filename}")
         count = write_puzzles_to_pgn(
-            puzzles_with_theme=[(theme, p) for p in puzzles],
+            puzzles_with_theme=[(theme, p) for p in puzzles_sorted],
             output_path=path,
             present_after_opponent_first_move=present_after_opponent_first_move,
             opening_color_tag=opening_color_tag,
             event_prefix=event_prefix,
+            include_difficulty_in_event=include_difficulty_in_event,
         )
         out_counts[theme] = count
-
+        print(f"  ✓ Wrote {count} puzzles to {filename}")
+    
+    print(f"Completed! Wrote {sum(out_counts.values())} total puzzles across {len(out_counts)} themes.")
     return out_counts
 
 
@@ -690,6 +717,8 @@ def build_puzzles_pipeline(
     force_color: Optional[str] = None,
     opening_color_tag: Optional[str] = None,
     event_prefix: Optional[str] = None,
+    min_popularity: Optional[int] = None,
+    min_plays: Optional[int] = None,
 ) -> Tuple[int, Dict[str, Any], List[Tuple[str, Puzzle]]]:
     """End-to-end pipeline: stream, filter, group, select, and emit PGN.
 
@@ -697,7 +726,13 @@ def build_puzzles_pipeline(
     """
 
     streamed = iter_puzzles_csv(csv_path)
-    filtered = filter_puzzles_by_rating(streamed, rating_min, rating_max)
+    filtered = filter_puzzles_by_criteria(
+        streamed, 
+        rating_min, 
+        rating_max, 
+        min_popularity, 
+        min_plays
+    )
     # Default difficulty center to the midpoint of the band if not provided
     center_to_use: Optional[int]
     if difficulty_center is None:
@@ -784,6 +819,8 @@ def generate_from_config(config: GenerationConfig) -> Dict[str, Any]:
         force_color=config.force_color,
         opening_color_tag=config.opening_color_tag,
         event_prefix=config.event_prefix,
+        min_popularity=config.min_popularity,
+        min_plays=config.min_plays,
     )
 
     # Determine output directory for per-theme PGNs
@@ -810,4 +847,168 @@ def generate_from_config(config: GenerationConfig) -> Dict[str, Any]:
         "out_dir": out_dir,
         "out_pgn": config.out_pgn,
     }
+
+
+def _get_difficulty_label(rating: int) -> str:
+    """Convert rating to a human-readable difficulty label."""
+    if rating < 600:
+        return "Very Easy"
+    elif rating < 800:
+        return "Easy"
+    elif rating < 1000:
+        return "Medium"
+    elif rating < 1200:
+        return "Hard"
+    elif rating < 1400:
+        return "Very Hard"
+    else:
+        return "Expert"
+
+
+def get_evenly_distributed_subset(puzzles: List[Puzzle], target_count: int = 2000) -> List[Puzzle]:
+    """Select an evenly distributed subset of puzzles across the rating range.
+    
+    This function ensures that puzzles are selected evenly across the rating spectrum,
+    not just taking the easiest or hardest puzzles.
+    
+    Args:
+        puzzles: List of puzzles sorted by rating
+        target_count: Number of puzzles to select (default: 2000)
+    
+    Returns:
+        List of puzzles with even distribution across ratings
+    """
+    if len(puzzles) <= target_count:
+        return puzzles
+    
+    # Sort puzzles by rating to ensure proper distribution
+    sorted_puzzles = sorted(puzzles, key=lambda p: p.rating)
+    
+    # Calculate step size to get even distribution
+    step = len(sorted_puzzles) / target_count
+    
+    selected_puzzles = []
+    for i in range(target_count):
+        index = int(i * step)
+        if index < len(sorted_puzzles):
+            selected_puzzles.append(sorted_puzzles[index])
+    
+    return selected_puzzles
+
+
+def process_all_puzzles_by_theme_streaming(
+    csv_path: str,
+    min_rating: int = 0,
+    max_rating: int = 3000,
+    min_popularity: Optional[int] = None,
+    min_plays: Optional[int] = None,
+    output_dir: str = "themes_pgn_all",
+    present_after_opponent_first_move: bool = False,
+    opening_color_tag: Optional[str] = None,
+    event_prefix: Optional[str] = None,
+    include_difficulty_in_event: bool = True,
+) -> Dict[str, int]:
+    """Process all puzzles from CSV by theme using streaming to avoid memory issues.
+    
+    This function processes the entire CSV file without loading everything into memory.
+    It groups puzzles by theme and writes them to separate files, sorted by difficulty.
+    
+    Args:
+        csv_path: Path to the Lichess puzzles CSV file
+        min_rating: Minimum rating filter (inclusive)
+        max_rating: Maximum rating filter (inclusive)
+        min_popularity: Minimum popularity filter (inclusive, e.g., 90 for 90th percentile)
+        min_plays: Minimum number of plays/reviews filter (inclusive)
+        output_dir: Directory to write theme files
+        present_after_opponent_first_move: Whether to present position after first move
+        opening_color_tag: Optional color tag for PGN headers
+        event_prefix: Optional prefix for event names
+        include_difficulty_in_event: Whether to include difficulty in event names
+    
+    Returns:
+        Dictionary mapping theme names to number of puzzles written
+    """
+    
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Track puzzles per theme using streaming approach
+    theme_files: Dict[str, List[Tuple[str, Puzzle]]] = {}
+    
+    def sanitize(name: str) -> str:
+        friendly = _humanize_theme(name) or name
+        safe = re.sub(r"[^\w\- ]+", "_", friendly).strip()
+        safe = re.sub(r"\s+", " ", safe)
+        return safe
+    
+    def write_theme_file(theme: str, puzzles: List[Puzzle]) -> int:
+        """Write puzzles for a specific theme to a file."""
+        if not puzzles:
+            return 0
+            
+        # Get evenly distributed subset of puzzles (max 2000)
+        puzzles_subset = get_evenly_distributed_subset(puzzles, 2000)
+        
+        # Sort puzzles by difficulty (rating) for final output
+        puzzles_sorted = sorted(puzzles_subset, key=lambda p: p.rating)
+        
+        filename = sanitize(theme) + ".pgn"
+        path = os.path.join(output_dir, filename)
+        
+        count = write_puzzles_to_pgn(
+            puzzles_with_theme=[(theme, p) for p in puzzles_sorted],
+            output_path=path,
+            present_after_opponent_first_move=present_after_opponent_first_move,
+            opening_color_tag=opening_color_tag,
+            event_prefix=event_prefix,
+            include_difficulty_in_event=include_difficulty_in_event,
+        )
+        return count
+
+    
+
+    # Process puzzles in streaming fashion
+    puzzle_count = 0
+    filtered_count = 0
+    for puzzle in iter_puzzles_csv(csv_path):
+        puzzle_count += 1
+        
+        # Apply all filters
+        if not (min_rating <= puzzle.rating <= max_rating):
+            continue
+        if min_popularity is not None and puzzle.popularity < min_popularity:
+            continue
+        if min_plays is not None and puzzle.num_plays < min_plays:
+            continue
+            
+        filtered_count += 1
+            
+        # Group by theme
+        for theme in puzzle.primary_themes:
+            if theme not in theme_files:
+                theme_files[theme] = []
+                
+            theme_files[theme].append((theme, puzzle))
+        
+        # Periodically write completed themes to free memory
+        if puzzle_count % 10000 == 0:
+            print(f"Processed {puzzle_count} puzzles, filtered to {filtered_count}...")
+    
+    # Write remaining themes
+    print(f"Writing {len(theme_files)} theme files...")
+    final_counts: Dict[str, int] = {}
+    total_themes = len(theme_files)
+    current_theme = 0
+    
+    for theme, puzzles in theme_files.items():
+        current_theme += 1
+        print(f"[{current_theme}/{total_themes}] Writing theme: {theme} ({len(puzzles)} puzzles)")
+        count = write_theme_file(theme, [p for _, p in puzzles])
+        final_counts[theme] = count
+        print(f"  ✓ Wrote {count} puzzles to {sanitize(theme)}.pgn")
+    
+    print(f"Total puzzles processed: {puzzle_count}")
+    print(f"Puzzles after filtering: {filtered_count}")
+    print(f"Puzzles written: {sum(final_counts.values())}")
+    
+    return final_counts
 
