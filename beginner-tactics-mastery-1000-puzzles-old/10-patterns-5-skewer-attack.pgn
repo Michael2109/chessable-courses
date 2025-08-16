@@ -511,17 +511,18 @@ A skewer is when you attack a valuable piece, forcing it to move, and then captu
 [Event "Patterns 5: Skewer Attack"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "823"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6pk/4p2p/1Q1p4/1KpP4/P1P5/1P3r2/8 b - - 1 39"]
-[LichessURL "https://lichess.org/HdjXxVIp#77"]
-[PuzzleId "GpO0O"]
-[Themes "crushing endgame queenRookEndgame short skewer"]
+[FEN "5k2/1r3p2/2p4p/p1PpK1p1/8/P7/1P2RPPP/8 b - - 3 28"]
+[LichessURL "https://lichess.org/6idxuXMX#55"]
+[PuzzleId "AUIdC"]
+[Themes "crushing endgame rookEndgame short skewer"]
+[Rating "943"]
 
-1... Rxb2+ { Skewer! The rook attacks the king, forcing it to move, then captures the queen behind. } 40. Ka5 Rxb5+ *
+28... Re7+ 29. Kd4 Rxe2 *
 
 
 

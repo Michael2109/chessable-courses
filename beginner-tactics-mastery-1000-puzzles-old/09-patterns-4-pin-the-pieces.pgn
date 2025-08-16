@@ -265,17 +265,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "1317"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/p1r2npp/8/1p1R4/4p3/P1p4P/B4P2/4K3 w - - 0 41"]
-[LichessURL "https://lichess.org/SMTKq7l0/black#80"]
-[PuzzleId "wQp5K"]
-[Themes "endgame master mate mateIn1 oneMove pin"]
+[FEN "r1b2rk1/3pqp1n/p1p3p1/1p2p3/4P3/P2P2QP/BPP2P2/R3K1R1 w Q - 0 20"]
+[LichessURL "https://lichess.org/mfDDeyVT/black#38"]
+[PuzzleId "8mzWh"]
+[Themes "kingsideAttack mate mateIn2 middlegame pin short"]
+[Rating "1111"]
 
-1. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+20. Qxg6+ Kh8 21. Qg7# *
 
 
 
@@ -286,39 +287,62 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
+[Round "1893"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/b1pb1q2/p3p1nQ/Pp1pP3/3P2R1/1NP4P/1P3r1K/5R2 w - - 0 29"]
+[LichessURL "https://lichess.org/XWX7KLv6/black#56"]
+[PuzzleId "39XAg"]
+[Themes "advantage middlegame pin short"]
+[Rating "1190"]
+
+29. Rxf2 Qxf2+ 30. Rg2 *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "328"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1k1r/1p1bn1pQ/p2BpbB1/8/8/5N2/P4PPP/3R2K1 w - - 7 25"]
+[LichessURL "https://lichess.org/QX76Y6HX/black#48"]
+[PuzzleId "KDTPS"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove pin"]
+[Rating "938"]
+
+25. Qxh8# *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1704"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r4k1/pr3p1p/p3p1p1/3b2P1/N1pPpP2/P3P2R/2P4P/1RQ3K1 b - - 0 23"]
-[LichessURL "https://lichess.org/6KMPNgmR#45"]
-[PuzzleId "x89pv"]
-[Themes "crushing master middlegame pin short"]
+[FEN "r1b1k2r/p4ppp/4pn2/2qp4/Np1n1P2/P2B2P1/1PPQ1P1P/2KR2NR b kq - 1 13"]
+[LichessURL "https://lichess.org/JE3JCchQ#25"]
+[PuzzleId "b132S"]
+[Themes "crushing middlegame pin queensideAttack short"]
+[Rating "1169"]
 
-1... Rxb1 { Pin! The rook pins the queen to the king. }
-2. Qxb1 Rxb1+ *
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "15"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/2q2rpp/p7/1p6/3n4/1B4PP/P3RP1K/8 w - - 0 33"]
-[LichessURL "https://lichess.org/qiGfJffY/black#64"]
-[PuzzleId "SwaeV"]
-[Themes "endgame mate mateIn1 oneMove pin"]
-
-1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+13... Nb3+ 14. Kb1 Nxd2+ *
 
 
 
@@ -329,39 +353,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "1027"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5ppp/7b/p3p3/4P3/6P1/5P1P/3Q2K1 b - - 0 26"]
-[LichessURL "https://lichess.org/4fDwkc1K#51"]
-[PuzzleId "MTHWe"]
-[Themes "crushing endgame pin short"]
+[FEN "3rkb1r/1q3ppp/p1p1b3/8/8/2Q1B3/PPP1BPPP/R3K2R b KQk - 3 15"]
+[LichessURL "https://lichess.org/kptQsFyq#29"]
+[PuzzleId "YVVO8"]
+[Themes "advantage middlegame pin short"]
+[Rating "1070"]
 
-1... Rc1 { Pin! The rook pins the queen to the king. }
-2. Qxc1 Bxc1 *
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "17"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/5rpp/3R4/1p2p3/1P2P3/1BPK1nP1/4R2P/5q2 w - - 0 35"]
-[LichessURL "https://lichess.org/ngEkUqoz/black#68"]
-[PuzzleId "s2Wvc"]
-[Themes "endgame mate mateIn1 oneMove pin"]
-
-1. Rd8# { Pin! The rook pins the queen to the king, delivering checkmate. }
+15... Bb4 16. O-O Bxc3 *
 
 
 
@@ -372,18 +375,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "1543"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/1p3pp1/4p2p/3p4/p1r5/5PP1/1R5P/2RQ2K1 b - - 0 34"]
-[LichessURL "https://lichess.org/sUlJ92vv#67"]
-[PuzzleId "E6may"]
-[Themes "crushing endgame pin queenRookEndgame short"]
+[FEN "r3R1k1/p5pp/8/3q1p2/N2p4/P2n2PP/1P3Q2/R1B3K1 b - - 0 23"]
+[LichessURL "https://lichess.org/BUJ9VTIq#45"]
+[PuzzleId "IElqf"]
+[Themes "crushing long middlegame pin"]
+[Rating "1148"]
 
-1... Rxc1 { Pin! The rook pins the queen to the king. }
-2. Qxc1 Rxc1+ *
+23... Rxe8 24. Qf1 Re1 25. Bf4 Rxf1+ *
 
 
 
@@ -394,18 +397,62 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "755"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1p6/2p4p/4P3/1P4p1/3Q2Pb/4RK2/r7 b - - 3 36"]
+[LichessURL "https://lichess.org/CnPwyysG#71"]
+[PuzzleId "0971v"]
+[Themes "crushing endgame pin skewer veryLong"]
+[Rating "1027"]
+
+36... Rf1+ 37. Ke3 Rf3+ 38. Kd4 Rxd3+ 39. Kxd3 Bf1 40. Ke3 Bxe2 *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1082"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/2pb2kp/3p1p2/8/8/2R3K1/8 w - - 2 46"]
-[LichessURL "https://lichess.org/w5BBPRho/black#90"]
-[PuzzleId "veeHN"]
+[FEN "1r3rk1/q2b2bp/p2p4/3Npp1Q/pP6/2P3P1/5PBP/R4RK1 w - - 0 24"]
+[LichessURL "https://lichess.org/OuaHlRG6/black#46"]
+[PuzzleId "tsLrB"]
+[Themes "crushing kingsideAttack master middlegame pin short"]
+[Rating "1077"]
+
+24. Ne7+ Kh8 25. Ng6+ *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "548"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krr3/p1p4p/b1p2p2/3p4/2P5/PP1B2P1/3K1P1P/R6R b - - 0 19"]
+[LichessURL "https://lichess.org/I9ksScuJ#37"]
+[PuzzleId "Zwtra"]
 [Themes "crushing endgame master pin short"]
+[Rating "992"]
 
-1. Rxc6 { Pin! The rook pins the bishop to the king. }
-3... Kf6 47. Rxd6+ *
+19... dxc4 20. bxc4 Bxc4 *
 
 
 
@@ -416,121 +463,81 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 4: Pin the Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "974"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r4k/5p1p/5p2/3p4/p4P1N/P3P1P1/3p3P/3R2K1 b - - 3 36"]
-[LichessURL "https://lichess.org/CdgvM2hU#71"]
-[PuzzleId "3BfX0"]
+[FEN "4kr2/5n2/3p1P2/2p1pR1Q/1pP1P3/3PP3/6P1/1r4NK b - - 1 31"]
+[LichessURL "https://lichess.org/f0S3Au7z#61"]
+[PuzzleId "7nr94"]
+[Themes "advantage endgame pin short"]
+[Rating "1063"]
+
+31... Rh8 32. Qxh8+ Nxh8 *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1229"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp2qppp/2ppPnn1/3P4/1PP2PB1/P1Q2RKP/3N4/4R3 w - - 1 30"]
+[LichessURL "https://lichess.org/y38CripU/black#58"]
+[PuzzleId "Ym5VW"]
+[Themes "advancedPawn clearance crushing kingsideAttack middlegame pin short"]
+[Rating "1096"]
+
+30. exf7+ Qxf7 31. Be6 *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "52"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5pk/2p2p1p/p3n2P/1p4PQ/3q4/PP6/1K1B1R2 w - - 0 29"]
+[LichessURL "https://lichess.org/BBZPNYTm/black#56"]
+[PuzzleId "X6FE7"]
+[Themes "advantage defensiveMove endgame pin short"]
+[Rating "777"]
+
+29. Bc2 Qxc2+ 30. Kxc2 *
+
+
+
+
+
+
+
+[Event "Patterns 4: Pin the Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "79"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p2k2/1p1p1b2/3P4/P1Pp4/6R1/5K2/8 b - - 1 41"]
+[LichessURL "https://lichess.org/WT83xbI2#81"]
+[PuzzleId "Fu5xq"]
 [Themes "crushing endgame pin short"]
+[Rating "817"]
 
-1... Rc1 { Pin! The rook pins the rook to the king. }
-2. Kf1 Rxd1+ *
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "21"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/5rpp/p7/8/6q1/1B2R3/PPP4P/2K5 w - - 0 27"]
-[LichessURL "https://lichess.org/FUZtpb9h/black#52"]
-[PuzzleId "U5Qeu"]
-[Themes "endgame mate mateIn1 oneMove pin"]
-
-1. Re8# { Pin! The rook pins the queen to the king, delivering checkmate. }
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "22"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2k2r2/pbpp2pp/1n6/2p5/2PN4/1P3rP1/P1Q3BP/5R1K b - - 0 21"]
-[LichessURL "https://lichess.org/sYd43OCn#41"]
-[PuzzleId "kooUU"]
-[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
-
-1... Rxf1# { Pin! The rook pins the rook to the king, delivering checkmate. }
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "23"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "4r1k1/pp2Pppp/8/8/8/8/r4PPP/3R1RK1 w - - 0 26"]
-[LichessURL "https://lichess.org/gIooDAeV/black#50"]
-[PuzzleId "yrvQ6"]
-[Themes "advantage endgame pin rookEndgame short"]
-
-1. Rd8 { Pin! The rook pins the rook to the king. }
-3... f5 27. Rxe8+ *
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/b4pp1/P1p4p/1p1pr3/8/1B6/2Q2RPP/6K1 b - - 0 31"]
-[LichessURL "https://lichess.org/R392uMJs#61"]
-[PuzzleId "GAIsa"]
-[Themes "endgame mate mateIn1 oneMove pin"]
-
-1... Rxe1# { Pin! The rook pins the rook to the king, delivering checkmate. }
-
-
-
-
-
-
-
-[Event "Patterns 4: Pin the Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "25"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6k1/p1r2npp/8/1p1R4/4p3/P1p4P/B4P2/4K3 w - - 0 41"]
-[LichessURL "https://lichess.org/SMTKq7l0/black#80"]
-[PuzzleId "wQp5K"]
-[Themes "endgame master mate mateIn1 oneMove pin"]
-
-1. Rd8# { Pin! The rook pins the knight to the king, delivering checkmate. }
+41... Bh4 42. Kg2 Bxg3 *

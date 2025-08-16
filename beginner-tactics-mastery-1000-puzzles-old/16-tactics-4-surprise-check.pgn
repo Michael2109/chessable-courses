@@ -134,17 +134,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "568"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+[FEN "r1bq1rk1/pppn1pB1/3p1npQ/8/4P3/5P2/PpP3PP/R3KBNR w KQ - 0 12"]
+[LichessURL "https://lichess.org/pxXSArQw/black#22"]
+[PuzzleId "Bc018"]
+[Themes "master mate mateIn1 oneMove opening"]
+[Rating "702"]
 
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+12. Qh8# *
 
 
 
@@ -155,38 +156,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "8"]
+[Round "151"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
-[LichessURL "https://lichess.org/5pPfcHh9#59"]
-[PuzzleId "02NvQ"]
-[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+[FEN "r3kbnr/ppp2ppp/6q1/3pP3/3P4/2PB3b/P4PPP/RNBQ1RK1 b kq - 2 10"]
+[LichessURL "https://lichess.org/AaJgw6Nb#19"]
+[PuzzleId "6Fea6"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[Rating "487"]
 
-1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 4: Surprise Check!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "9"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
-[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
-[PuzzleId "cg7r3"]
-[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
-
-1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+10... Qxg2# *
 
 
 
@@ -197,17 +178,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "956"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
-[LichessURL "https://lichess.org/PJKKkqjI#71"]
-[PuzzleId "dTxZJ"]
-[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+[FEN "2r2k1r/q4pN1/2p5/4P1BP/2P5/ppn2Q2/8/K4R1R b - - 3 31"]
+[LichessURL "https://lichess.org/gZltguhb#61"]
+[PuzzleId "TNn0u"]
+[Themes "advancedPawn mate mateIn1 middlegame oneMove"]
+[Rating "836"]
 
-1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+31... b2# *
 
 
 
@@ -218,18 +200,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "363"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
-[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
-[PuzzleId "6P7X6"]
-[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+[FEN "3r1rk1/5ppp/1pq5/p7/4n3/4Pb2/PQP2P1P/R3K1R1 w Q - 2 26"]
+[LichessURL "https://lichess.org/0G0s2WIl/black#50"]
+[PuzzleId "i3Kal"]
+[Themes "kingsideAttack master mate mateIn1 middlegame oneMove"]
+[Rating "607"]
 
-1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-3... Rb8 30. axb8=Q# { Promotion checkmate! }
+26. Qxg7# *
 
 
 
@@ -240,38 +222,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "904"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
-[LichessURL "https://lichess.org/Ptkq55Ir#59"]
-[PuzzleId "qFETP"]
-[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+[FEN "r5k1/6pp/4p3/3pQ3/4p1PP/2p1P3/PP3q2/1K4RR b - - 0 26"]
+[LichessURL "https://lichess.org/K4C1gRpw#51"]
+[PuzzleId "EfEFc"]
+[Themes "endgame mate mateIn1 oneMove queensideAttack"]
+[Rating "822"]
 
-1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
-
-
-
-
-
-
-
-[Event "Tactics 4: Surprise Check!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "13"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
-
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+26... Qxb2# *
 
 
 
@@ -282,38 +244,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
+[Round "711"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
-[LichessURL "https://lichess.org/5pPfcHh9#59"]
-[PuzzleId "02NvQ"]
-[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+[FEN "r3k3/pp1n3r/2p1p1p1/3p2B1/3P4/2NB2q1/PPP4Q/4RRbK b q - 5 22"]
+[LichessURL "https://lichess.org/c778Xve2#43"]
+[PuzzleId "IvEU0"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[Rating "757"]
 
-1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 4: Surprise Check!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "15"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
-[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
-[PuzzleId "cg7r3"]
-[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
-
-1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+22... Rxh2# *
 
 
 
@@ -324,17 +266,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "1839"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
-[LichessURL "https://lichess.org/PJKKkqjI#71"]
-[PuzzleId "dTxZJ"]
-[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+[FEN "r2k4/2R4p/p3p1p1/1p1b2P1/1Q1pqB2/3N3P/PP4P1/6K1 b - - 4 34"]
+[LichessURL "https://lichess.org/fd2bbtGu#67"]
+[PuzzleId "eGU7H"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[Rating "1114"]
 
-1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
+34... Qxg2# *
 
 
 
@@ -345,18 +288,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "930"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
-[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
-[PuzzleId "6P7X6"]
-[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
+[FEN "5nk1/5b1p/5Q1P/4P1p1/5p2/KP3P2/P5q1/8 w - - 2 51"]
+[LichessURL "https://lichess.org/1ohJJrUw/black#100"]
+[PuzzleId "PR4dV"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[Rating "829"]
 
-1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-3... Rb8 30. axb8=Q# { Promotion checkmate! }
+51. Qg7# *
 
 
 
@@ -367,17 +310,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "779"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
-[LichessURL "https://lichess.org/Ptkq55Ir#59"]
-[PuzzleId "qFETP"]
-[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+[FEN "r3k1nB/ppp2p1p/3p4/6q1/1P6/3P1N2/2b1PPPP/RN2KB1R b KQq - 2 10"]
+[LichessURL "https://lichess.org/jo6l3mFR#19"]
+[PuzzleId "3p2iY"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "783"]
 
-1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+10... Qc1# *
 
 
 
@@ -388,17 +332,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "1089"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+[FEN "2b2rk1/2p2ppp/8/3P4/2P5/1PQ3R1/r1q3PP/5R1K w - - 0 24"]
+[LichessURL "https://lichess.org/eW9tWrNH/black#46"]
+[PuzzleId "GSAp9"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "872"]
 
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+24. Qxg7# *
 
 
 
@@ -409,38 +354,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "470"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2krr3/1pp3p1/p4p2/5P2/5P2/7P/PPQp2R1/1R1KBB2 b - - 0 30"]
-[LichessURL "https://lichess.org/5pPfcHh9#59"]
-[PuzzleId "02NvQ"]
-[Themes "advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion"]
+[FEN "2Q5/1p3pk1/4p2p/6p1/2P5/P2q4/5PPP/1R4K1 b - - 0 33"]
+[LichessURL "https://lichess.org/04hJJbsM#65"]
+[PuzzleId "LrM5V"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[Rating "664"]
 
-1... dxe1=Q# { Double check! The pawn promotes with checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 4: Surprise Check!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "21"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "4r1k1/p2b2pp/2p1Rr2/1pP2p2/2BP1q2/8/PP3PPP/4R1K1 w - - 0 25"]
-[LichessURL "https://lichess.org/gu4d25gJ/black#48"]
-[PuzzleId "cg7r3"]
-[Themes "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove"]
-
-1. Rxe8# { Double check! The rook delivers checkmate with a discovered attack. }
+33... Qxb1# *
 
 
 
@@ -451,39 +376,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "22"]
+[Round "305"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2rr3k/Q5p1/7p/8/4p3/P3P1R1/1Pp2PP1/2KB4 b - - 0 36"]
-[LichessURL "https://lichess.org/PJKKkqjI#71"]
-[PuzzleId "dTxZJ"]
-[Themes "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion"]
+[FEN "r2qkbnr/ppp2ppp/8/4P3/4Q1b1/8/PPP2PPP/RNB1KB1R b KQkq - 0 7"]
+[LichessURL "https://lichess.org/yewXorEG#13"]
+[PuzzleId "nHpiS"]
+[Themes "mate mateIn1 oneMove opening"]
+[Rating "574"]
 
-1... cxd1=Q# { Double check! The pawn promotes with checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 4: Surprise Check!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "23"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "k1r5/Pr3p2/4p2p/1P4p1/8/8/1q3PPP/R1R3K1 w - - 0 29"]
-[LichessURL "https://lichess.org/iIYOS2VD/black#56"]
-[PuzzleId "6P7X6"]
-[Themes "advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short"]
-
-1. Rxc8+ { Double check! The rook delivers check with discovered attack. }
-3... Rb8 30. axb8=Q# { Promotion checkmate! }
+7... Qd1# *
 
 
 
@@ -494,17 +398,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "24"]
+[Round "107"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/5R1K b - - 0 30"]
-[LichessURL "https://lichess.org/Ptkq55Ir#59"]
-[PuzzleId "qFETP"]
-[Themes "doubleCheck endgame mate mateIn1 oneMove"]
+[FEN "2r2rk1/p1qnbppp/Qp3p2/8/3B4/5BPP/PPP2P2/2KRR3 b - - 6 16"]
+[LichessURL "https://lichess.org/QCPkMYeg#31"]
+[PuzzleId "4GIdG"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
+[Rating "461"]
 
-1... Rxf1# { Double check! The rook delivers checkmate with discovered attack. }
+16... Qxc2# *
 
 
 
@@ -515,14 +420,125 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 4: Surprise Check!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "187"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 w - - 0 29"]
-[LichessURL "https://lichess.org/SjUYUmbY/black#56"]
-[PuzzleId "2wMMN"]
-[Themes "doubleCheck master mate mateIn1 middlegame oneMove"]
+[FEN "8/8/R7/1p4p1/1P2n2k/P2b3P/7K/8 w - - 3 50"]
+[LichessURL "https://lichess.org/0IXG0i1q/black#98"]
+[PuzzleId "0bDGa"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "508"]
 
-1. Rxd8# { Double check! The rook delivers checkmate with a discovered attack. }
+50. Rh6# *
+
+
+
+
+
+
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1947"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/p2P1pp1/1p6/1P2q3/PBn3P1/2Q2P1P/5K2 b - - 4 35"]
+[LichessURL "https://lichess.org/C8mv7lGL#69"]
+[PuzzleId "ZeOof"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "1172"]
+
+35... Qh1# *
+
+
+
+
+
+
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1044"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb1k1r1/2Q2p1p/p1p1p3/3p4/2P5/B4q2/P4PPP/5RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/D5rgXiEG/black#36"]
+[PuzzleId "GiVBP"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "860"]
+
+19. Qe7# *
+
+
+
+
+
+
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "361"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/1b3p1k/1qn1pPp1/1p1pP3/3P4/5R2/p1B1N1PP/7K w - - 0 27"]
+[LichessURL "https://lichess.org/BTGs6Z9G/black#52"]
+[PuzzleId "OXSFQ"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "606"]
+
+27. Rh3# *
+
+
+
+
+
+
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1193"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1R4/2p5/p2p4/1pkP4/1nP4B/2K5/7P/8 w - - 0 36"]
+[LichessURL "https://lichess.org/rdH8G34m/black#70"]
+[PuzzleId "JGxeh"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "900"]
+
+36. Bf2# *
+
+
+
+
+
+
+
+[Event "Tactics 4: Surprise Check!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1960"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p2qppp/2p5/p3PQ2/5P2/P3P1P1/2P1K1P1/3r3R w - - 0 25"]
+[LichessURL "https://lichess.org/lw5CyzRX/black#48"]
+[PuzzleId "IvHJN"]
+[Themes "endgame kingsideAttack mate mateIn1 oneMove"]
+[Rating "1179"]
+
+25. Qxh7# *

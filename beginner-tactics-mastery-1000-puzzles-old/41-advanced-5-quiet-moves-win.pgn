@@ -1,24 +1,18 @@
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
+[Round "515"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
-[LichessURL "https://lichess.org/Hp7keymc/black#110"]
-[PuzzleId "iO9oS"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
+[FEN "8/8/p5k1/5pP1/5P2/6K1/8/8 b - - 0 60"]
+[LichessURL "https://lichess.org/PtLINZxX#119"]
+[PuzzleId "iVcpa"]
+[Themes "crushing endgame long pawnEndgame quietMove"]
+[Rating "746"]
 
-{Advanced 5: Quiet Moves Win
-
-This section focuses on Non-Forcing Winning Moves.
-
-Learn to recognize quiet moves that create winning positions without immediate threats. These subtle moves often create zugzwang, improve piece placement, or prepare decisive breakthroughs.
-}
-1. g5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... Kc3 57. g6 { The pawn advance creates winning chances. }
+60... a5 61. Kf2 a4 62. Ke2 a3 *
 
 
 
@@ -51,40 +45,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "3"]
+[Round "1119"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1K4pp/PP4k1/8/8/8 w - - 0 44"]
-[LichessURL "https://lichess.org/TCE9IvjH/black#86"]
-[PuzzleId "tyQKY"]
+[FEN "8/5p2/p3p1p1/K3k2p/1P5P/8/8/8 w - - 0 51"]
+[LichessURL "https://lichess.org/aViI2u9d/black#100"]
+[PuzzleId "jSrRy"]
 [Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[Rating "1001"]
 
-1. a5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... Kh4 45. a6 g4 46. a7 g3 47. a8=Q { The pawn advance creates winning chances. }
-
-
-
-
-
-
-
-[Event "Advanced 5: Quiet Moves Win"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "4"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/T8946uuZ#95"]
-[PuzzleId "1vrby"]
-[Themes "crushing endgame long pawnEndgame quietMove"]
-
-1... f5 { Quiet move! Creating a passed pawn without immediate threats. }
-2. Kh6 f4 50. Kxh5 f3 { The pawn advance creates winning chances. }
+51. Kxa6 Kf5 52. b5 g5 53. b6 g4 54. b7 g3 55. b8=Q *
 
 
 
@@ -95,18 +67,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "5"]
+[Round "961"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/Pp4K1/3k4/8/8/8 w - - 0 50"]
-[LichessURL "https://lichess.org/08LAmnjZ/black#98"]
-[PuzzleId "x36AN"]
-[Themes "advancedPawn crushing endgame pawnEndgame short"]
+[FEN "8/8/6K1/4pN2/4n3/3k3P/8/8 w - - 2 58"]
+[LichessURL "https://lichess.org/EZTFroW6/black#114"]
+[PuzzleId "EGJPx"]
+[Themes "crushing defensiveMove endgame knightEndgame master quietMove short"]
+[Rating "957"]
 
-1. a6 { Quiet move! Creating a passed pawn without immediate threats. }
-3... b4 51. a7 { The pawn advance creates winning chances. }
+58. h4 Nc5 59. h5 *
 
 
 
@@ -117,18 +89,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "1262"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/pk4K1/6PP/8/8/8 b - - 0 60"]
-[LichessURL "https://lichess.org/qV8DxwCU#119"]
-[PuzzleId "YsJBB"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/6pp/8/1K1pk3/1P6/P5P1/7P/8 b - - 0 44"]
+[LichessURL "https://lichess.org/oyoteHKE#87"]
+[PuzzleId "B7pgo"]
+[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[Rating "1044"]
 
-1... a4 { Quiet move! Creating a passed pawn without immediate threats. }
-2. Kh5 a3 62. g5 a2 63. g6 a1=Q { The pawn advance creates winning chances. }
+44... d4 45. Kc4 Ke4 *
 
 
 
@@ -139,18 +111,62 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "1767"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/8/1P2p3/2NpPp2/2pP4/K1P1k3/8/8 b - - 0 61"]
+[LichessURL "https://lichess.org/KMYxNdhD#121"]
+[PuzzleId "KmmP6"]
+[Themes "crushing endgame quietMove short"]
+[Rating "1163"]
+
+61... f4 62. b7 Bxb7 *
+
+
+
+
+
+
+
+[Event "Advanced 5: Quiet Moves Win"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "107"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p3K2/k5P1/8/8/8 b - - 1 62"]
+[LichessURL "https://lichess.org/7ZRs20qf#123"]
+[PuzzleId "FA1dv"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[Rating "489"]
+
+62... b4 63. g5 b3 64. g6 b2 *
+
+
+
+
+
+
+
+[Event "Advanced 5: Quiet Moves Win"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "866"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/1K4p1/P7/5k2/8/8 w - - 1 59"]
-[LichessURL "https://lichess.org/9u0BPKbC/black#116"]
-[PuzzleId "ngBTW"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "R7/8/4pk2/8/P4r2/8/4K3/8 w - - 0 50"]
+[LichessURL "https://lichess.org/Sk7vvtPj/black#98"]
+[PuzzleId "d405u"]
+[Themes "crushing endgame quietMove rookEndgame veryLong"]
+[Rating "925"]
 
-1. a5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... g4 60. a6 g3 61. a7 g2 62. a8=Q+ { The pawn advance creates winning chances. }
+50. Rf8+ Ke5 51. Rxf4 Kxf4 52. a5 Ke5 53. a6 *
 
 
 
@@ -161,18 +177,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "8"]
+[Round "428"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p2PKpk1/8/6p1/8/8 w - - 0 53"]
-[LichessURL "https://lichess.org/wesg785b/black#104"]
-[PuzzleId "cN3m4"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/2k5/K2p4/2pP4/4P3/8/8/8 b - - 7 65"]
+[LichessURL "https://lichess.org/1Ejw6KzJ#129"]
+[PuzzleId "dNUjE"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[Rating "684"]
 
-1. d6 { Quiet move! Creating a passed pawn without immediate threats. }
-3... a4 54. d7 g2 55. d8=Q+ { The pawn advance creates winning chances. }
+65... c4 66. Kb5 c3 67. Kc4 c2 *
 
 
 
@@ -183,40 +199,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "743"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/P7/P1K3kp/8/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/Y8EQBUr1#95"]
-[PuzzleId "nadTW"]
-[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
+[FEN "8/8/1KQ3qk/7p/1P6/P7/8/8 b - - 2 58"]
+[LichessURL "https://lichess.org/frCALFs4#115"]
+[PuzzleId "365Bp"]
+[Themes "advancedPawn crushing endgame master promotion queenEndgame quietMove veryLong"]
+[Rating "879"]
 
-1... h3 { Quiet move! Creating a passed pawn without immediate threats. }
-2. a6 h2 50. a7 h1=Q { The pawn advance creates winning chances. }
-
-
-
-
-
-
-
-[Event "Advanced 5: Quiet Moves Win"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "10"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/2p5/8/P3k3/4p3/4K3/8 w - - 1 41"]
-[LichessURL "https://lichess.org/zbAcN4nU/black#80"]
-[PuzzleId "VwoKr"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
-
-1. a5 { Quiet move! Creating a passed pawn without immediate threats. }
-3... c5 42. a6 { The pawn advance creates winning chances. }
+58... Qxc6+ 59. Kxc6 h4 60. b5 h3 61. b6 h2 62. b7 h1=Q+ *
 
 
 
@@ -227,18 +221,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "879"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/5PKp/8/6k1/8 b - - 0 55"]
-[LichessURL "https://lichess.org/ILamApKA#109"]
-[PuzzleId "YC4bk"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "2k5/p1R5/8/8/7K/5p1P/5P2/8 b - - 0 44"]
+[LichessURL "https://lichess.org/r9o6xzar#87"]
+[PuzzleId "1B14I"]
+[Themes "crushing endgame quietMove veryLong"]
+[Rating "931"]
 
-1... h3 { Quiet move! Creating a passed pawn without immediate threats. }
-2. f5 h2 57. f6 h1=Q { The pawn advance creates winning chances. }
+44... Kxc7 45. Kg3 a5 46. Kxf3 a4 47. Ke4 a3 *
 
 
 
@@ -337,18 +331,18 @@ Learn to recognize quiet moves that create winning positions without immediate t
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "556"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6p1/1K5p/8/8/P5k1/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/Amjc8mEN/black#100"]
-[PuzzleId "XtZgK"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/6p1/5pp1/1K3p2/P4k1P/8/8/8 w - - 0 65"]
+[LichessURL "https://lichess.org/QojEwh2H/black#128"]
+[PuzzleId "Wg0ac"]
+[Themes "advancedPawn crushing endgame master pawnEndgame promotion quietMove veryLong"]
+[Rating "781"]
 
-1. a4 { Quiet move! Creating a passed pawn without immediate threats. }
-3... g5 52. a5 g4 53. a6 Kh2 54. a7 g3 55. a8=Q { The pawn advance creates winning chances. }
+65. a5 Ke3 66. a6 f4 67. a7 f3 68. a8=Q *
 
 
 

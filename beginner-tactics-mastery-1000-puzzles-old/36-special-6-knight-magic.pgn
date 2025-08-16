@@ -116,18 +116,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "1039"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/N7/8/6pK/5k2/2P5/8 b - - 0 45"]
-[LichessURL "https://lichess.org/dMCxIhrU#89"]
-[PuzzleId "uHki1"]
-[Themes "advancedPawn crushing endgame knightEndgame short"]
+[FEN "8/8/8/p1pp1k2/P3pN2/1PP1K3/8/8 b - - 3 45"]
+[LichessURL "https://lichess.org/WbEmXj6f#89"]
+[PuzzleId "GfOlh"]
+[Themes "crushing endgame exposedKing knightEndgame long"]
+[Rating "985"]
 
-45... g3 { Knight magic! The knight creates a magical outpost and wins. }
-46. Nc7 g2 *
+45... d4+ 46. cxd4 cxd4+ 47. Kxd4 Kxf4 *
 
 
 
@@ -204,40 +204,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT10"]
-[Themes "endgame master short"]
-
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
-
-
-
-
-
-
-
-[Event "Special 6: Knight Magic"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "11"]
+[Round "1367"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT11"]
-[Themes "knightEndgame endgame"]
+[FEN "8/8/8/6KP/p1n5/2p5/N2k4/8 w - - 3 65"]
+[LichessURL "https://lichess.org/CZk6joXn/black#128"]
+[PuzzleId "CUh7s"]
+[Themes "advancedPawn advantage endgame knightEndgame long master"]
+[Rating "1068"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+65. h6 c2 66. h7 c1=Q 67. Nxc1 *
 
 
 
@@ -248,18 +226,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "1910"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT12"]
-[Themes "endgame master short"]
+[FEN "8/5PK1/8/3kn3/8/6N1/7p/8 b - - 0 64"]
+[LichessURL "https://lichess.org/1mDCCRiQ#127"]
+[PuzzleId "Nwk7J"]
+[Themes "crushing endgame knightEndgame long sacrifice"]
+[Rating "1183"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+64... Nxf7 65. Kxf7 Ke5 66. Ke7 Kf4 *
 
 
 
@@ -270,18 +248,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "1856"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT13"]
-[Themes "knightEndgame endgame"]
+[FEN "8/4n2p/4P1p1/2p2p2/k1K2P1P/6P1/8/8 w - - 0 50"]
+[LichessURL "https://lichess.org/TRxv17Ab/black#98"]
+[PuzzleId "auygh"]
+[Themes "advancedPawn crushing endgame knightEndgame veryLong"]
+[Rating "1172"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+50. Kxc5 Ng8 51. Kd6 Kb4 52. e7 Nf6 53. Ke6 *
 
 
 
@@ -292,18 +270,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
+[Round "610"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT14"]
-[Themes "endgame master short"]
+[FEN "8/8/8/7p/1ppk1K1P/8/1P3N2/8 b - - 1 53"]
+[LichessURL "https://lichess.org/odO5KcEE#105"]
+[PuzzleId "f1982"]
+[Themes "advancedPawn crushing endgame knightEndgame long"]
+[Rating "866"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+53... c3 54. bxc3+ bxc3 55. Ne4 c2 *
 
 
 
@@ -314,18 +292,40 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "1972"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6kn/6p1/p3p2p/1p1pP3/1P1P1KPN/P6P/8/8 b - - 3 38"]
+[LichessURL "https://lichess.org/d6KMvgOW#75"]
+[PuzzleId "8rxlo"]
+[Themes "crushing endgame fork knightEndgame short"]
+[Rating "1195"]
+
+38... g5+ 39. Kg3 gxh4+ *
+
+
+
+
+
+
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "429"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT15"]
-[Themes "knightEndgame endgame"]
+[FEN "8/8/1p5p/2pPk3/1nP1NpP1/4K1P1/8/8 w - - 0 36"]
+[LichessURL "https://lichess.org/FtyouYdq/black#70"]
+[PuzzleId "Jhd5A"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
+[Rating "787"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+36. gxf4# *
 
 
 
@@ -336,18 +336,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "1121"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT16"]
-[Themes "endgame master short"]
+[FEN "8/8/7p/7P/1p6/1k6/1p1K4/1N6 b - - 1 58"]
+[LichessURL "https://lichess.org/tansHlrb#115"]
+[PuzzleId "DIKPm"]
+[Themes "crushing deflection endgame exposedKing knightEndgame long"]
+[Rating "1004"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+58... Ka2 59. Kc2 b3+ 60. Kc3 Kxb1 *
 
 
 
@@ -358,18 +358,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "1387"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT17"]
-[Themes "knightEndgame endgame"]
+[FEN "8/8/1p1kn2p/pP1pN2P/P2P4/4K3/8/8 w - - 1 72"]
+[LichessURL "https://lichess.org/ApYpjsVL/black#142"]
+[PuzzleId "vnWJd"]
+[Themes "crushing endgame knightEndgame master short"]
+[Rating "1072"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+72. Nf7+ Kd7 73. Nxh6 *
 
 
 
@@ -380,40 +380,18 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "939"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT18"]
-[Themes "endgame master short"]
+[FEN "8/4p3/3p4/3PnK2/4P1Np/4k2P/8/8 b - - 5 47"]
+[LichessURL "https://lichess.org/M3VRVscf#93"]
+[PuzzleId "TXboF"]
+[Themes "crushing endgame knightEndgame long master"]
+[Rating "964"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
-
-
-
-
-
-
-
-[Event "Special 6: Knight Magic"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "19"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT19"]
-[Themes "knightEndgame endgame"]
-
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+47... Nxg4 48. Kxg4 Kxe4 49. Kxh4 Kxd5 *
 
 
 
@@ -424,17 +402,39 @@ Learn to recognize and exploit the magical power of knights in endgames.
 [Event "Special 6: Knight Magic"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "799"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT20"]
-[Themes "endgame master short"]
+[FEN "8/6pp/1N6/3p1p2/1K1PpP1P/6P1/5k2/8 b - - 1 48"]
+[LichessURL "https://lichess.org/M0GBl50A#95"]
+[PuzzleId "lRRWJ"]
+[Themes "advancedPawn crushing endgame knightEndgame master short"]
+[Rating "931"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+48... e3 49. Nxd5 e2 *
+
+
+
+
+
+
+
+[Event "Special 6: Knight Magic"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "49"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p7/2p5/2P3N1/1k1K4/8 b - - 3 58"]
+[LichessURL "https://lichess.org/2fiNzNLT#115"]
+[PuzzleId "0kPJE"]
+[Themes "crushing endgame knightEndgame quietMove short"]
+[Rating "495"]
+
+58... a4 59. Ne4 a3 *
 
 

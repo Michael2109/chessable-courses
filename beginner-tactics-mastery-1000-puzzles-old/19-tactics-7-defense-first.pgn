@@ -151,44 +151,18 @@
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "286"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6Q1/8/1p4K1/8/2q4P/1k6/8/8 w - - 0 48"]
-[LichessURL "https://lichess.org/lqPHi3yY/black#94"]
-[PuzzleId "IHYtG"]
-[Themes "crushing defensiveMove endgame queenEndgame short"]
+[FEN "8/1p6/8/r1k5/7R/6P1/5K2/8 w - - 2 49"]
+[LichessURL "https://lichess.org/IPgx8uCW/black#96"]
+[PuzzleId "yJHN3"]
+[Themes "crushing defensiveMove endgame long rookEndgame"]
+[Rating "909"]
 
-1. Qxc4+ Kxc4 49. h5 *
-
-{ Defensive exchange! By playing Qxc4+, we force the exchange of queens, then advance our pawn. Sometimes the best defense is simplification! }
-
-
-
-
-
-
-
-
-
-[Event "Tactics 7: Defense First"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "8"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "k7/8/p7/8/q5QK/6P1/7P/8 b - - 0 71"]
-[LichessURL "https://lichess.org/CQCEugOH#141"]
-[PuzzleId "GIZHQ"]
-[Themes "crushing defensiveMove endgame long master queenEndgame quietMove"]
-
-1... Qxg4+ 72. Kxg4 a5 73. Kf5 a4 *
-
-{ Defensive exchange! By playing Qxg4+, we force the exchange of queens, then advance our pawn. Sometimes the best defense is simplification! }
+49. Rh5+ Kb6 50. Rxa5 Kxa5 51. g4 *
 
 
 
@@ -201,44 +175,18 @@
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "803"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
-[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
-[PuzzleId "BawTl"]
-[Themes "advantage defensiveMove endgame master masterVsMaster short"]
+[FEN "8/5p2/p3p3/1pR1r1K1/1P2k3/P6P/6P1/8 w - - 0 47"]
+[LichessURL "https://lichess.org/e89AiKMB/black#92"]
+[PuzzleId "aRGuB"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
+[Rating "1038"]
 
-1. Bxf1 Nxf1 45. a5 *
-
-{ Defensive exchange! By playing Bxf1, we force the exchange of pieces, then advance our pawn. Sometimes the best defense is simplification! }
-
-
-
-
-
-
-
-
-
-[Event "Tactics 7: Defense First"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "10"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/4p3/5p2/2kPpP1p/4K2P/1p1N2P1/8 b - - 1 55"]
-[LichessURL "https://lichess.org/YzxX791a#109"]
-[PuzzleId "EMda2"]
-[Themes "crushing defensiveMove endgame knightEndgame master short"]
-
-1... Kc3 56. Nb1+ Kc2 *
-
-{ Defensive king move! By playing Kc3, we escape the knight fork and maintain control. Sometimes the best defense is escaping! }
+47. Rxe5+ Kxe5 48. h4 *
 
 
 
@@ -251,19 +199,18 @@
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "1907"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6p1/K7/5k2/1P6/8/8 w - - 1 55"]
-[LichessURL "https://lichess.org/YXTDSJrp/black#108"]
-[PuzzleId "U9Lbt"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "r4rk1/2p1npp1/p2p3p/3Pp3/1PP1nq2/PB3N1P/6PK/R3QR2 w - - 6 20"]
+[LichessURL "https://lichess.org/5g7rbnf6/black#38"]
+[PuzzleId "O2lwK"]
+[Themes "advantage defensiveMove middlegame short"]
+[Rating "1192"]
 
-1. b4 g5 56. b5 *
-
-{ Defensive pawn advance! By playing b4, we create a passed pawn that can't be stopped. The best defense is often a strong counter-attack! }
+20. g3 Nxg3 21. Qxg3 *
 
 
 
@@ -276,19 +223,66 @@
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "936"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5k2/p7/5PK1/8/8/8/8 b - - 0 71"]
-[LichessURL "https://lichess.org/XGDvwCZ2#141"]
-[PuzzleId "coA5i"]
-[Themes "crushing defensiveMove endgame master pawnEndgame quietMove short"]
+[FEN "r1b2rk1/p1R1n1bp/p3P1p1/P2Q1pP1/1P3B2/5N1P/8/5RK1 b - - 0 24"]
+[LichessURL "https://lichess.org/QH70WoD7#47"]
+[PuzzleId "JN984"]
+[Themes "advantage defensiveMove fork long middlegame"]
+[Rating "1062"]
 
-1... a5 72. Kf4 a4 *
+24... Nxd5 25. Rxg7+ Kxg7 26. Be5+ Kg8 *
 
-{ Defensive pawn advance! By playing a5, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+
+
+
+
+
+
+
+
+[Event "Tactics 7: Defense First"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1720"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kbr4/2p4p/1p3n2/1P3P2/4p3/Pr5P/2qN1QP1/3RR1K1 w - - 0 33"]
+[LichessURL "https://lichess.org/DDxjZbTL/black#64"]
+[PuzzleId "akDJa"]
+[Themes "advantage defensiveMove long middlegame"]
+[Rating "1173"]
+
+33. Nxb3 Qxd1 34. Rxd1 Rxd1+ 35. Kh2 *
+
+
+
+
+
+
+
+
+
+[Event "Tactics 7: Defense First"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1662"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6r1/4p1k1/2p1P3/1p1p1K2/1P1P4/2P5/2R5 w - - 3 42"]
+[LichessURL "https://lichess.org/OVTzfF1E/black#82"]
+[PuzzleId "AnUB1"]
+[Themes "crushing defensiveMove endgame exposedKing long rookEndgame zugzwang"]
+[Rating "1167"]
+
+42. Rg1+ Kf7 43. Rxg7+ Kxg7 44. Kg5 *
 
 
 
@@ -601,16 +595,15 @@
 [Event "Tactics 7: Defense First"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "1585"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1K5p/8/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/U5QAbCTx/black#104"]
-[PuzzleId "0IC0n"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "3r2k1/pp2R1pp/n1pB1p2/3p1Q2/8/1PP5/1q3KPP/8 w - - 3 27"]
+[LichessURL "https://lichess.org/zqMj4LNX/black#52"]
+[PuzzleId "l4O7w"]
+[Themes "crushing defensiveMove endgame short"]
+[Rating "1157"]
 
-1. a4 1... Kf2 2. a5 *
-
-{ Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped. Sometimes the best defense is a strong counter-attack! }
+27. Re2 Qxe2+ 28. Kxe2 *

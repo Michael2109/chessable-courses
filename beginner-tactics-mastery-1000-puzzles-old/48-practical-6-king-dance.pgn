@@ -411,18 +411,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 6: King Dance"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
-[White "You"]
-[Black "Opponent"]
+[Round "1283"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "8/8/3k3p/1p3p2/1P3P2/3K3P/8/8 b - - 2 45"]
+[LichessURL "https://lichess.org/YhRg0J6q#89"]
+[PuzzleId "0Svz6"]
+[Themes "crushing endgame long pawnEndgame quietMove zugzwang"]
+[Rating "1102"]
 
-1. Ne4 { King dance! Moving the knight to save the position. }
-2. Kh1 Kxf2 { Converting the defensive tactic. }
+45... Kd5 46. h4 h5 47. Ke3 Kc4 *
 
 
 
@@ -435,15 +435,15 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 6: King Dance"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "1975"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS2"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "8/8/8/p1pk2p1/P3p1P1/2P1P3/2K5/8 b - - 0 34"]
+[LichessURL "https://lichess.org/L8V1FaVO#67"]
+[PuzzleId "FoWFo"]
+[Themes "crushing endgame pawnEndgame short zugzwang"]
+[Rating "1197"]
 
-1... h2+ { King dance! Creating a passed pawn to save the position. }
-2. Kh1 Kxf2 { Converting the defensive tactic. }
+34... Kc4 35. Kd2 Kb3 *

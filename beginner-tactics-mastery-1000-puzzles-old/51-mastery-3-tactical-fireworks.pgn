@@ -1,68 +1,18 @@
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3r2k1/5ppp/2p5/p2r1qP1/1n6/1P1P4/P3QP2/1K1RR3 w - - 0 26"]
-[LichessURL "https://lichess.org/Ivo5qM9m/black#50"]
-[PuzzleId "n2GVM"]
-[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
-
-{Mastery 3: Tactical Fireworks
-
-This section focuses on 2-3 Tactical Themes Combined.
-
-Challenging mixed puzzles that combine several ideas—aim for clean, forcing solutions. These puzzles test your ability to recognize and execute complex tactical combinations involving multiple themes.
-}
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxe8 27. Rxe8# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "2"]
+[Round "794"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k1r3/1pp1q2p/8/5p2/2PP4/6Q1/5PPP/R5K1 b - - 2 24"]
-[LichessURL "https://lichess.org/DhfiRsJb#47"]
-[PuzzleId "gjlCN"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[FEN "7k/3R2p1/1p5p/p3p2Q/qp1b1R2/3P3B/6PP/7K b - - 0 35"]
+[LichessURL "https://lichess.org/npB8Y7Xi#69"]
+[PuzzleId "JHn7Y"]
+[Themes "endgame long mate mateIn3"]
+[Rating "978"]
 
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxe1 Rxe1# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "3"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r6k/p3Q1pp/1p3p2/2p5/2Pp4/3q2P1/PP3P2/4R1K1 w - - 0 28"]
-[LichessURL "https://lichess.org/lxLkAuO0/black#54"]
-[PuzzleId "4371k"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
-
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxe8 29. Rxe8# { The back rank mate after the sacrifice. }
+35... Qa1+ 36. Qd1 Qxd1+ 37. Rf1 Qxf1# *
 
 
 
@@ -73,40 +23,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "1577"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r1k1/6pp/P1p1q3/2Qp4/8/P1P5/5PPP/R5K1 b - - 0 32"]
-[LichessURL "https://lichess.org/pCPxzMEV#63"]
-[PuzzleId "qSq7h"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[FEN "r5k1/r5b1/2pp2pp/8/1p4P1/1P1B4/3Q4/1K1NR3 b - - 0 30"]
+[LichessURL "https://lichess.org/wgwklCVP#59"]
+[PuzzleId "VvWwB"]
+[Themes "exposedKing long mate mateIn3 middlegame"]
+[Rating "1120"]
 
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxe1 Rxe1# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "5"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r5k1/p1q2ppp/2p5/1p3b2/3B1b2/1PP2N1P/1P2QPP1/4R1K1 w - - 0 23"]
-[LichessURL "https://lichess.org/cZiaRMVy/black#44"]
-[PuzzleId "uB1Jy"]
-[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
-
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force mate. }
-3... Rxe8 24. Rxe8# { The mate after the sacrifice. }
+30... Ra1+ 31. Kc2 R8a2+ 32. Nb2 Rxb2# *
 
 
 
@@ -117,18 +45,84 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "689"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r2k/6pp/P1Q5/4q3/8/2P2pP1/1P3P1P/R6K b - - 0 34"]
-[LichessURL "https://lichess.org/rRPGrpBO#67"]
-[PuzzleId "OClVI"]
-[Themes "endgame mate mateIn2 sacrifice short"]
+[FEN "5r1k/4Q1bp/8/3Np3/4P3/2P5/q4PPP/3R2K1 b - - 0 29"]
+[LichessURL "https://lichess.org/g6rNFJ4D#57"]
+[PuzzleId "dcLDb"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "956"]
 
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force mate. }
-2. Rxe1 Rxe1# { The mate after the sacrifice. }
+29... Qxf2+ 30. Kh1 Qf1+ 31. Rxf1 Rxf1# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "98"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b6k/3q3p/3B2pP/1p2p3/3p3b/1BpP4/8/6K1 w - - 0 45"]
+[LichessURL "https://lichess.org/3HbzhupO/black#88"]
+[PuzzleId "5d4Su"]
+[Themes "advancedPawn endgame long mate mateIn3"]
+[Rating "621"]
+
+45. Bxe5+ Bf6 46. Bxf6+ Qg7 47. hxg7# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "621"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/1pp1R3/p1p4p/2q3B1/8/1Q1P4/PP3PPP/R5K1 b - - 0 19"]
+[LichessURL "https://lichess.org/fUqKIhXc#37"]
+[PuzzleId "BwhNj"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[Rating "940"]
+
+19... Qxf2+ 20. Kh1 Qf1+ 21. Rxf1 Rxf1# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1333"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2p2R1p/1p4p1/p7/3q4/7Q/PPP5/2K4R b - - 0 29"]
+[LichessURL "https://lichess.org/B5AgXm9Z#57"]
+[PuzzleId "3ktDB"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "1079"]
+
+29... Qd2+ 30. Kb1 Qd1+ 31. Rxd1 Rxd1# *
 
 
 
@@ -161,41 +155,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "8"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1b2r2k/pp2qp2/2p2np1/2Pp1BB1/3P4/2P2Q1P/P4PP1/1R4K1 b - - 1 24"]
-[LichessURL "https://lichess.org/roTjoEei#47"]
-[PuzzleId "CQz7Z"]
-[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
-
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force mate. }
-2. Rxe1 Rxe1# { The mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "9"]
+[Round "1756"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/p1n2rpp/8/8/8/4Q1P1/Pq5P/4R1K1 w - - 0 29"]
-[LichessURL "https://lichess.org/0kHmOoNZ/black#56"]
-[PuzzleId "FWAO8"]
-[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[FEN "5k2/1p4pQ/2p1r1Bp/r1P5/5P2/4q1P1/6PK/8 w - - 8 32"]
+[LichessURL "https://lichess.org/0WOep0wE/black#62"]
+[PuzzleId "OpPh4"]
+[Themes "endgame long mate mateIn3"]
+[Rating "1158"]
 
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force mate. }
-3... Nxe8 30. Rxe8+ { Continuing the attack. }
-5... Rf8 31. Rxf8# { The mate after the sacrifice. }
+32. Qh8+ Ke7 33. Qe8+ Kf6 34. Qf7# *
 
 
 
@@ -206,40 +177,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "926"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1k2/4b2Q/1ppq1pB1/p5p1/P7/2P1B3/1P3PPP/R5K1 b - - 2 30"]
-[LichessURL "https://lichess.org/R2pD5dEE#59"]
-[PuzzleId "QR2lU"]
-[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[FEN "4r1k1/1Q3p1p/3B4/6p1/3b4/6P1/5qBP/1R5K b - - 1 30"]
+[LichessURL "https://lichess.org/k30Orquf#59"]
+[PuzzleId "8usra"]
+[Themes "long master masterVsMaster mate mateIn3 middlegame"]
+[Rating "999"]
 
-1... Qd1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxd1 Rxd1# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "11"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2r3k1/p4ppp/1p1p1q2/3b4/8/8/P2NQPPP/4R1K1 w - - 0 22"]
-[LichessURL "https://lichess.org/b1rHOoIh/black#42"]
-[PuzzleId "tWFIO"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
-
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxe8 23. Rxe8# { The back rank mate after the sacrifice. }
+30... Re1+ 31. Rxe1 Qxe1+ 32. Bf1 Qxf1# *
 
 
 
@@ -250,107 +199,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "664"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r1k1/1p3pp1/p3q2p/5b2/3Q4/8/PBPR1PPP/3R2K1 b - - 2 20"]
-[LichessURL "https://lichess.org/4h9h4nnt#39"]
-[PuzzleId "ixCvR"]
-[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
-
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxe1 Rxe1# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "13"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2r3k1/p4ppp/q3p3/8/8/1P3P2/P2Q1P1P/3R2K1 w - - 0 25"]
-[LichessURL "https://lichess.org/uaYbJzBA/black#48"]
-[PuzzleId "P9mwa"]
-[Themes "backRankMate endgame master mate mateIn2 sacrifice short"]
-
-1. Qd8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxd8 26. Rxd8# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "14"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1b1r2k1/5ppp/1Qp5/3q4/PP2p3/2P1B2P/5PP1/R5K1 b - - 0 27"]
-[LichessURL "https://lichess.org/vmfuPXFW#53"]
-[PuzzleId "F768l"]
-[Themes "endgame mate mateIn2 sacrifice short"]
-
-1... Qd1+ { Tactical fireworks! Queen sacrifice to force mate. }
-2. Rxd1 Rxd1# { The mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "15"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2r3k1/1p3ppp/pq6/3p4/1Pr5/P1b5/4QPPP/2R1R1K1 w - - 0 23"]
-[LichessURL "https://lichess.org/qRmCjXMx/black#44"]
-[PuzzleId "5HjkD"]
-[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
-
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-3... Rxe8 24. Rxe8# { The back rank mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "16"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r4bk1/q4ppp/8/2p1B3/1p2RN2/1P4Q1/5PPP/6K1 b - - 0 29"]
-[LichessURL "https://lichess.org/8usBSfzw#57"]
-[PuzzleId "qVjyD"]
+[FEN "r1b2r2/p5pp/2p1kq2/3nP3/1p2Q3/1B6/PPP3PP/R1B1R1K1 b - - 0 17"]
+[LichessURL "https://lichess.org/OwL0hXyo#33"]
+[PuzzleId "jgnSd"]
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[Rating "950"]
 
-1... Qa1+ { Tactical fireworks! Queen sacrifice to force mate. }
-2. Bxa1 Rxa1+ { Continuing the attack. }
-4. Re1 Rxe1# { The mate after the sacrifice. }
+17... Qf2+ 18. Kh1 Qf1+ 19. Rxf1 Rxf1# *
 
 
 
@@ -361,18 +221,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "617"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1br2kb/p1q2p1p/6pB/2pp1pN1/5P2/4Q3/PPP3PP/4RRK1 w - - 0 20"]
-[LichessURL "https://lichess.org/HVa0WWmW/black#38"]
-[PuzzleId "Pm7gv"]
-[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short"]
+[FEN "6k1/1rp2rpp/3p4/Q1pP4/8/4P3/P1q3PP/5RK1 w - - 0 24"]
+[LichessURL "https://lichess.org/eWVzD4aM/black#46"]
+[PuzzleId "AMQKk"]
+[Themes "endgame fork long mate mateIn3"]
+[Rating "939"]
 
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force mate. }
-3... Rxe8 21. Rxe8# { The mate after the sacrifice. }
+24. Qa8+ Rb8 25. Qxb8+ Rf8 26. Rxf8# *
 
 
 
@@ -383,18 +243,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "1343"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r1k1/p4ppb/2p1q2p/3p4/PP1P1Q2/7P/5PPB/2R3K1 b - - 0 29"]
-[LichessURL "https://lichess.org/0YnTNLLN#57"]
-[PuzzleId "7Q6mx"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[FEN "5r2/ppp4k/2n1Q1pp/2qN4/8/8/PPP2PPP/4R1K1 b - - 3 21"]
+[LichessURL "https://lichess.org/dSAfQpBR#41"]
+[PuzzleId "aSdlD"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "1080"]
 
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxe1 Rxe1# { The back rank mate after the sacrifice. }
+21... Qxf2+ 22. Kh1 Qf1+ 23. Rxf1 Rxf1# *
 
 
 
@@ -405,18 +265,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "1003"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/1pp2pp1/2n2q1p/p7/P6P/2P5/1PB1QPP1/4R1K1 w - - 0 30"]
-[LichessURL "https://lichess.org/2uoF0V19/black#58"]
-[PuzzleId "tfB9k"]
-[Themes "endgame kingsideAttack mate mateIn2 sacrifice short"]
+[FEN "4r1k1/1p4np/2p3p1/p2pq3/6P1/7P/PP3Q2/5RK1 w - - 0 28"]
+[LichessURL "https://lichess.org/h57FK7p3/black#54"]
+[PuzzleId "frGdV"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "1016"]
 
-1. Qe8+ { Tactical fireworks! Queen sacrifice to force mate. }
-3... Rxe8 31. Rxe8# { The mate after the sacrifice. }
+28. Qf7+ Kh8 29. Qf8+ Rxf8 30. Rxf8# *
 
 
 
@@ -427,18 +287,150 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "119"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r1k1/ppN2pbp/4q1p1/8/8/1P3Q2/P4PPP/3R2K1 b - - 2 25"]
-[LichessURL "https://lichess.org/C3oaySNQ#49"]
-[PuzzleId "R74Jc"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[FEN "2r3k1/1r4q1/3Rp1p1/ppP2p1p/1P6/P3P2P/2R2PPQ/6K1 b - - 1 31"]
+[LichessURL "https://lichess.org/Dt24zy9J#61"]
+[PuzzleId "FUT5T"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[Rating "661"]
 
-1... Qe1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxe1 Rxe1# { The back rank mate after the sacrifice. }
+31... Qa1+ 32. Rc1 Qxc1+ 33. Rd1 Qxd1# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "27"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p5p1/4p2p/8/P3R3/4B3/1rP2PPP/6K1 b - - 0 25"]
+[LichessURL "https://lichess.org/jtgdauN1#49"]
+[PuzzleId "3jV1Y"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[Rating "459"]
+
+25... Rb1+ 26. Bc1 Rxc1+ 27. Re1 Rxe1# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "206"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/pp3rpk/2p3pp/2P2q2/8/1Q2P3/P4PPP/3R2K1 b - - 3 26"]
+[LichessURL "https://lichess.org/90px36yq#51"]
+[PuzzleId "gkYbo"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "769"]
+
+26... Qxf2+ 27. Kh1 Qf1+ 28. Rxf1 Rxf1# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1347"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/2PQp1k1/p5pp/3P4/8/4N2P/Pr3rP1/R2R2K1 b - - 0 34"]
+[LichessURL "https://lichess.org/qfp3nYZg#67"]
+[PuzzleId "DLecc"]
+[Themes "clearance long mate mateIn3 middlegame sacrifice"]
+[Rating "1081"]
+
+34... Rxg2+ 35. Nxg2 Qf2+ 36. Kh2 Qxg2# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1298"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/pp6/2pP1p2/8/3B4/1B3qPp/PP5Q/3R1RK1 b - - 0 33"]
+[LichessURL "https://lichess.org/79LrG3ho#65"]
+[PuzzleId "nun9w"]
+[Themes "exposedKing long mate mateIn3 middlegame"]
+[Rating "1073"]
+
+33... Rxg3+ 34. Qxg3 Qxg3+ 35. Kh1 Qg2# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "913"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3r1k/pp2R3/6Qp/8/3P4/8/PP1q1PPP/R5K1 b - - 4 20"]
+[LichessURL "https://lichess.org/v7lEB5u8#39"]
+[PuzzleId "1FekV"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[Rating "997"]
+
+20... Qxf2+ 21. Kh1 Qf1+ 22. Rxf1 Rxf1# *
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "941"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/2Q3p1/p7/3P4/5r1N/4b1pP/PP2B1R1/7K b - - 0 31"]
+[LichessURL "https://lichess.org/T7U0Ooj5#61"]
+[PuzzleId "BAEll"]
+[Themes "exposedKing long mate mateIn3 middlegame sacrifice"]
+[Rating "1002"]
+
+31... Rf1+ 32. Bxf1 Rxf1+ 33. Rg1 Rxg1# *
 
 
 
@@ -471,18 +463,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "22"]
+[Round "1377"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r1r1k/p6p/Bp3p1n/7P/2P2R1Q/3q4/PP3PP1/K6R b - - 8 30"]
-[LichessURL "https://lichess.org/lsA8Ho2Y#59"]
-[PuzzleId "ukcei"]
-[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[FEN "2r2r1k/4R1pp/2p5/p2pQ3/3P1q2/1P6/P5PP/4R1K1 b - - 3 31"]
+[LichessURL "https://lichess.org/BSidOmc2#61"]
+[PuzzleId "jedmt"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "1085"]
 
-1... Qd1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxd1 Rxd1# { The back rank mate after the sacrifice. }
+31... Qf2+ 32. Kh1 Qf1+ 33. Rxf1 Rxf1# *
 
 
 
@@ -493,40 +485,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "23"]
+[Round "539"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3p1p/2q2bpB/3R1b2/1pB5/1r2P2P/5PP1/3R2K1 w - - 2 30"]
-[LichessURL "https://lichess.org/qOUh7RPo/black#58"]
-[PuzzleId "O0lYD"]
-[Themes "long mate mateIn3 middlegame sacrifice"]
+[FEN "7r/6bp/r5p1/1R3p2/2P5/1Pk2P1P/5P2/1K2R3 w - - 0 32"]
+[LichessURL "https://lichess.org/AZFFvzCN/black#62"]
+[PuzzleId "QGWDY"]
+[Themes "endgame long mate mateIn3"]
+[Rating "917"]
 
-1. Rd8+ { Tactical fireworks! Rook sacrifice to force mate. }
-3... Bxd8 31. Rxd8+ Qe8 32. Rxe8# { The mate after the sacrifice. }
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3r3k/p4p1p/1p2p2P/8/7Q/6P1/PPPq4/1K4R1 b - - 5 34"]
-[LichessURL "https://lichess.org/XR7x5VI6#67"]
-[PuzzleId "vHD6H"]
-[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
-
-1... Qd1+ { Tactical fireworks! Queen sacrifice to force back rank mate. }
-2. Rxd1 Rxd1# { The back rank mate after the sacrifice. }
+32. Re3+ Kd2 33. Rd5+ Bd4 34. Rxd4# *
 
 
 
@@ -537,20 +507,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "1558"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/p4ppp/2R5/3Nbb2/4p3/1P2P3/P3qPPP/2R3K1 w - - 1 27"]
-[LichessURL "https://lichess.org/0qbu4jZ6/black#52"]
-[PuzzleId "xvNIC"]
-[Themes "endgame master mate mateIn2 sacrifice short"]
+[FEN "r5k1/pbpQ2pp/1p5q/1N2p3/4P3/3P4/PPP1n2P/5R1K w - - 1 24"]
+[LichessURL "https://lichess.org/G78xXCrj/black#46"]
+[PuzzleId "80FXN"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[Rating "1116"]
 
-1. Rc8+ { Tactical fireworks! Rook sacrifice to force mate. }
-3... Bxc8 28. Rxc8# { The mate after the sacrifice. }
-
-
+24. Qf7+ Kh8 25. Qf8+ Rxf8 26. Rxf8# *
 
 
 
@@ -561,42 +529,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "26"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
-
-1... h2+ { Tactical fireworks! Pawn deflection to win the knight. }
-2. Kh1 Kxf2 { Converting the tactical combination. }
-
-
-
-
-
-
-
-
-
-[Event "Mastery 3: Tactical Fireworks"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "27"]
+[Round "1794"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "rn1q2k1/2p3pp/1p1pp3/pP6/P1PP3b/4PQ2/1r5P/R4R1K w - - 0 21"]
+[LichessURL "https://lichess.org/z4DZcFg7/black#40"]
+[PuzzleId "FlmMM"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+[Rating "1165"]
 
-1. Nf6+ { Tactical fireworks! Knight deflection to win the rook. }
-1... Rxf6 2. Rxe8+ { Converting the tactical combination. }
+21. Qf7+ Kh8 22. Qf8+ Qxf8 23. Rxf8# *
 
 
 
@@ -609,18 +553,66 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "28"]
+[Round "1973"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "8/PR6/6kp/6p1/6p1/r6P/6PK/8 b - - 0 37"]
+[LichessURL "https://lichess.org/0nD7EyYK#73"]
+[PuzzleId "oogzl"]
+[Themes "endgame long mate mateIn3 rookEndgame"]
+[Rating "1195"]
 
-1... Nc5+ { Tactical fireworks! Knight deflection to win the bishop. }
-2. Ke2 Nxe4 { Converting the tactical combination. }
+37... g3+ 38. Kg1 Ra1+ 39. Rb1 Rxb1# *
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "133"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5rpp/4p3/2ppP3/p2Pb1P1/P1P4q/1P3Q1N/5RK1 w - - 0 36"]
+[LichessURL "https://lichess.org/6rMqcvvB/black#70"]
+[PuzzleId "ly56P"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+[Rating "680"]
+
+36. Qxf7+ Kh8 37. Qf8+ Rxf8 38. Rxf8# *
+
+
+
+
+
+
+
+
+
+[Event "Mastery 3: Tactical Fireworks"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1809"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/ppp3pk/5r1r/4P3/5p2/P1P2P2/1B2q1PP/1R4RK b - - 0 33"]
+[LichessURL "https://lichess.org/rNWmjllW#65"]
+[PuzzleId "wvh3w"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[Rating "1167"]
+
+33... Rxh2+ 34. Kxh2 Rh6+ 35. Qh5 Rxh5# *
 
 
 
@@ -634,17 +626,17 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "29"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "xcSSX"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+[FEN "2r5/5N1p/kB2R3/pp3p2/3P2p1/3Q4/PP4PP/7K b - - 0 33"]
+[LichessURL "https://lichess.org/Ja15DvrH#65"]
+[PuzzleId "UWUYz"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[Rating "464"]
 
-1. d6 { Tactical fireworks! Pawn advance to force promotion. }
-1... g3 2. d7+ Kb7 3. d8=Q { Converting the tactical combination. }
+33... Rc1+ 34. Re1 Rxe1+ 35. Qf1 Rxf1# *
 
 
 
@@ -657,15 +649,15 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "30"]
+[Round "257"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short"]
+[FEN "4r3/p3q1kp/n1pBr1p1/1pP5/6Q1/P1P5/5PPP/R2R2K1 b - - 4 30"]
+[LichessURL "https://lichess.org/z4JlEHGn#59"]
+[PuzzleId "8MkEz"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[Rating "808"]
 
-1... Nc6+ { Tactical fireworks! Knight deflection to win the bishop. }
-2. Kf4 Nxd4 { Converting the tactical combination. }
+30... Re1+ 31. Rxe1 Qxe1+ 32. Rxe1 Rxe1# *

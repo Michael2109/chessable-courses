@@ -347,59 +347,18 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [Event "Mastery 1: Special Checkmates"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/pbp1N1pk/8/3pR3/3P4/2r5/P1P4P/6K1 w - - 4 32"]
-[LichessURL "https://lichess.org/WB8TK4MA/black#62"]
-[PuzzleId "jddRG"]
-[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
-
-1. Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
-
-
-
-
-
-
-
-[Event "Mastery 1: Special Checkmates"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "18"]
+[Round "267"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "R4rk1/5ppp/8/8/3p1N2/5P2/KP1n2PP/7R b - - 0 29"]
-[LichessURL "https://lichess.org/MXgikwkX#57"]
-[PuzzleId "VQ67P"]
-[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+[FEN "2kr4/pbq2p1Q/4p3/8/3p4/6P1/PPPN4/R1B2RK1 b - - 0 18"]
+[LichessURL "https://lichess.org/6gwlHF6X#35"]
+[PuzzleId "viHMh"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "552"]
 
-1... Rxa8# { Anastasia's Mate! The rook delivers mate on the back rank. }
-
-
-
-
-
-
-
-[Event "Mastery 1: Special Checkmates"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "19"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3r1r2/p3Nppk/1p1P4/1qb1R3/8/8/P4PPP/3R2K1 w - - 0 28"]
-[LichessURL "https://lichess.org/u7xYINe3/black#54"]
-[PuzzleId "T3IQf"]
-[Themes "anastasiaMate master masterVsMaster mate mateIn1 middlegame oneMove"]
-
-1. Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+18... Qxg3# *
 
 
 
@@ -410,14 +369,59 @@ Learning these special mates will add artistry to your tactical arsenal. Each pa
 [Event "Mastery 1: Special Checkmates"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "443"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "R7/4N1pk/7p/5r2/3P4/4n1PK/7P/8 b - - 2 37"]
-[LichessURL "https://lichess.org/tiv5czSR#73"]
-[PuzzleId "OyIeU"]
-[Themes "anastasiaMate endgame mate mateIn1 oneMove"]
+[FEN "8/1p6/6k1/4Qp2/4bK2/3r4/P6P/8 b - - 0 41"]
+[LichessURL "https://lichess.org/1AGAN3D5#81"]
+[PuzzleId "QKCue"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "653"]
 
-1... Rh5# { Anastasia's Mate! The rook delivers mate with knight support. }
+41... Rf3# *
+
+
+
+
+
+
+
+[Event "Mastery 1: Special Checkmates"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "516"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/1r1p3p/5p1P/4b3/2Q1PqP1/1B3P1R/4K3 w - - 0 33"]
+[LichessURL "https://lichess.org/iTO5AvYO/black#64"]
+[PuzzleId "jgBos"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "682"]
+
+33. Qxg7# *
+
+
+
+
+
+
+
+[Event "Mastery 1: Special Checkmates"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "977"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q3Q3/8/6pk/7p/2P2P2/1P4PP/2P1R2K/3r4 b - - 2 36"]
+[LichessURL "https://lichess.org/5rARJR12#71"]
+[PuzzleId "62d9h"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "842"]
+
+36... Rh1# *

@@ -183,40 +183,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 6: Danger Alert!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "1152"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/1K6/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/rgPo6m4Y/black#104"]
-[PuzzleId "UPrBD"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "6rk/ppq1Nr1p/2p1bP1P/5p2/1P6/P1N5/1B3P1P/6RK w - - 0 32"]
+[LichessURL "https://lichess.org/fI1KrZnB/black#62"]
+[PuzzleId "88c5o"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[Rating "889"]
 
-53. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-53... Kf2 54. a5 *
-
-
-
-
-
-
-
-[Event "Patterns 6: Danger Alert!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "10"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/5p2/2pr4/2k1QK2/5P2/8 b - - 7 58"]
-[LichessURL "https://lichess.org/WrzczQb9#115"]
-[PuzzleId "hmIaq"]
-[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
-
-58... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
-59. Kf4 Rxe3 *
+32. Rxg8# *
 
 
 
@@ -227,18 +205,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 6: Danger Alert!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "14"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6p1/2K5/8/5k2/1P6/8/8 w - - 1 62"]
-[LichessURL "https://lichess.org/TXd2UjGW/black#122"]
-[PuzzleId "haY0a"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "1k6/1P6/PK6/2N1r3/8/8/8/8 w - - 0 81"]
+[LichessURL "https://lichess.org/pQWoN6N0/black#160"]
+[PuzzleId "02c59"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove"]
+[Rating "400"]
 
-62. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-62... g5 63. b5 *
+81. a7# *
 
 
 
@@ -249,18 +227,40 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 6: Danger Alert!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "1081"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Rn1k1/5pp1/8/8/P6p/3BbP2/6PP/2q3BK w - - 8 42"]
+[LichessURL "https://lichess.org/qxwwunl3/black#82"]
+[PuzzleId "AE2nL"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[Rating "870"]
+
+42. Rxe8# *
+
+
+
+
+
+
+
+[Event "Patterns 6: Danger Alert!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "670"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/5p2/1p6/1P4k1/1K6/P7/8 b - - 1 70"]
-[LichessURL "https://lichess.org/s0bcsxd2#139"]
-[PuzzleId "xEBE4"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "5rk1/3R1pr1/1p2pQp1/4P2p/4q3/2PR4/PP3PPP/6K1 b - - 2 37"]
+[LichessURL "https://lichess.org/HK84Im32#73"]
+[PuzzleId "HOrDW"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "741"]
 
-70... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-71. Kc3 f4 *
+37... Qe1# *
 
 
 
@@ -276,13 +276,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2K2k2/8/B6p/8/P7/8/7n/5q2 w - - 0 44"]
-[LichessURL "https://lichess.org/dyHaqyxJ/black#86"]
-[PuzzleId "BawTl"]
-[Themes "advantage defensiveMove endgame master masterVsMaster short"]
+[FEN "8/5PR1/p1p5/P1Ppk1K1/8/8/8/6r1 w - - 1 49"]
+[LichessURL "https://lichess.org/zklandp7/black#96"]
+[PuzzleId "LWnZX"]
+[Themes "crushing defensiveMove endgame rookEndgame short"]
 
-44. Bxf1 { Defensive move! Exchanging pieces to prevent the opponent from creating a passed pawn. }
-44... Nxf1 45. a5 *
+49. Kh6 { Defensive move! Moving the king to safety to prevent the opponent from creating a passed pawn. }
+49... Rh1+ 50. Kg6 *
 
 
 
@@ -315,18 +315,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 6: Danger Alert!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "1751"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7p/1K6/8/P5k1/8/8 w - - 2 53"]
-[LichessURL "https://lichess.org/rgPo6m4Y/black#104"]
-[PuzzleId "UPrBD"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "r1b3nr/pp1p2pp/2pk4/2b2Q2/4PP2/2N3P1/PPPP3q/R1B2K2 w - - 0 13"]
+[LichessURL "https://lichess.org/4Zvh4RBI/black#24"]
+[PuzzleId "JoOo5"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "1076"]
 
-53. a4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-53... Kf2 54. a5 *
+13. Qe5# *
 
 
 
@@ -337,40 +337,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 6: Danger Alert!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "330"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/5p2/2pr4/2k1QK2/5P2/8 b - - 7 58"]
-[LichessURL "https://lichess.org/WrzczQb9#115"]
-[PuzzleId "hmIaq"]
-[Themes "crushing defensiveMove endgame pin queenRookEndgame short"]
+[FEN "8/6pk/7p/p1p5/P1P5/1P3QPq/5P1P/5R1K b - - 0 36"]
+[LichessURL "https://lichess.org/1hm0zyBi#71"]
+[PuzzleId "tLEBK"]
+[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[Rating "588"]
 
-58... Rd3 { Defensive move! Pinning the queen to prevent it from escaping. }
-59. Kf4 Rxe3 *
-
-
-
-
-
-
-
-[Event "Patterns 6: Danger Alert!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "17"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/6p1/2K5/8/5k2/1P6/8/8 w - - 1 62"]
-[LichessURL "https://lichess.org/TXd2UjGW/black#122"]
-[PuzzleId "haY0a"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
-
-62. b4 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-62... g5 63. b5 *
+36... Qxf1# *
 
 
 
@@ -381,18 +359,40 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Patterns 6: Danger Alert!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "1381"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/5p2/1p6/1P4k1/1K6/P7/8 b - - 1 70"]
-[LichessURL "https://lichess.org/s0bcsxd2#139"]
-[PuzzleId "xEBE4"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "rnbqk1nr/ppp3bp/3p2p1/4pp2/6P1/1PN2P1P/PBPPP3/R2QKBNR b KQkq - 0 6"]
+[LichessURL "https://lichess.org/QQLc5r7E#11"]
+[PuzzleId "R2RHL"]
+[Themes "mate mateIn1 oneMove opening"]
+[Rating "951"]
 
-70... f5 { Defensive move! Advancing the pawn to prevent the opponent from creating a passed pawn. }
-71. Kc3 f4 *
+6... Qh4# *
+
+
+
+
+
+
+
+[Event "Patterns 6: Danger Alert!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "864"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1R2Q2p/p7/2pP4/P1P2q2/8/2Pr2P1/4K3 b - - 8 44"]
+[LichessURL "https://lichess.org/CmkLooDi#87"]
+[PuzzleId "7BRRy"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[Rating "811"]
+
+44... Qf2# *
 
 
 

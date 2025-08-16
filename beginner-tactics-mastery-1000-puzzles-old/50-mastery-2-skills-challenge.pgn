@@ -1,23 +1,18 @@
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
+[Round "1884"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "7k/pp4pp/4r3/8/1P1p1R2/P4P2/3R1PKP/4r3 w - - 3 37"]
-[LichessURL "https://lichess.org/ttfIvwau/black#72"]
-[PuzzleId "TDEmA"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove rookEndgame"]
+[FEN "5rk1/R1R2p2/3p3p/3P4/2Q1P1P1/6Pn/6K1/1q6 b - - 0 43"]
+[LichessURL "https://lichess.org/2VgMggiL#85"]
+[PuzzleId "uegnO"]
+[Themes "endgame mate mateIn2 sacrifice short"]
+[Rating "1170"]
 
-{Mastery 2: Skills Challenge
-
-This section focuses on Medium Difficulty Combinations.
-
-Challenging mixed puzzles that combine several ideas—aim for clean, forcing solutions. These puzzles test your ability to recognize and execute complex tactical combinations.
-}
-1. Rf8# { Skills challenge! Back rank mate with the king trapped by its own pawns. }
+43... Qg1+ 44. Kxh3 Qh1# *
 
 
 
@@ -261,17 +256,18 @@ Challenging mixed puzzles that combine several ideas—aim for clean, forcing so
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "1307"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3ppp/p7/q6P/8/2p4P/8/4R1K1 w - - 0 39"]
-[LichessURL "https://lichess.org/rmtlhGXo/black#76"]
-[PuzzleId "fImTO"]
-[Themes "backRankMate endgame master mate mateIn1 oneMove queenRookEndgame"]
+[FEN "8/5q1k/4pBp1/3p2Q1/5PP1/1p1b4/7K/8 w - - 1 36"]
+[LichessURL "https://lichess.org/TJeKeMYO/black#70"]
+[PuzzleId "nGYSE"]
+[Themes "endgame mate mateIn2 short"]
+[Rating "1013"]
 
-1. Re8# { Skills challenge! Back rank mate with the king trapped. }
+36. Qh4+ Kg8 37. Qh8# *
 
 
 

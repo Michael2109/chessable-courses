@@ -1,23 +1,18 @@
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
+[Round "489"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r1k/p1p3pp/1pn5/4p3/1P2P3/2P2R2/P3q1PP/R6K w - - 0 23"]
-[LichessURL "https://lichess.org/t921Riyq/black#44"]
-[PuzzleId "F4tRS"]
-[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[FEN "4r2k/5Q1p/1p3p2/p3q3/P7/1P6/5PPP/3R2K1 b - - 0 31"]
+[LichessURL "https://lichess.org/PEh4VbBv#61"]
+[PuzzleId "TWNAG"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[Rating "528"]
 
-{Tactics 5: Back Rank Breakthrough
-
-This section focuses on With sacrifices, removing defenders.
-
-Sharpen named motif recognition and learn how to exploit them fast.
-}
-1. Rxf8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
+31... Qe1+ 32. Rxe1 Rxe1# *
 
 
 
@@ -28,17 +23,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "2"]
+[Round "1508"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r1k/7p/3Q2p1/p7/2P1p3/P7/6PP/5R1K b - - 0 38"]
-[LichessURL "https://lichess.org/A7NXmOKi#75"]
-[PuzzleId "Nc9zc"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+[FEN "3r2k1/p4pp1/1p2p2p/6q1/4P3/1P3PQ1/PB4PP/2R4K b - - 2 28"]
+[LichessURL "https://lichess.org/w2io9Pnl#55"]
+[PuzzleId "chwvG"]
+[Themes "backRankMate endgame fork long mate mateIn3 sacrifice"]
+[Rating "975"]
 
-1... Rxf1# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
+28... Qxc1+ 29. Bxc1 Rd1+ 30. Qe1 Rxe1# *
 
 
 
@@ -71,38 +67,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "928"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b2knr/p2ppp2/2p3pb/q1p1P1Np/4N3/3P1Q2/PPP2PPP/R1B1R1K1 b - - 4 12"]
-[LichessURL "https://lichess.org/jl4N1VVl#23"]
-[PuzzleId "52I2M"]
-[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+[FEN "r1bk1r2/pp5p/2pp1qp1/8/2B5/1Q2R3/PPP2PPP/RN4K1 b - - 2 16"]
+[LichessURL "https://lichess.org/SEuLSw6p#31"]
+[PuzzleId "s9ZlK"]
+[Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
+[Rating "747"]
 
-1... Qxe1# { Back rank breakthrough! The queen sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "5"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
-[LichessURL "https://lichess.org/hDibIiAO/black#54"]
-[PuzzleId "92Oqp"]
-[Themes "backRankMate endgame mate mateIn1 oneMove"]
-
-1. Rxd8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
+16... Qxf2+ 17. Kh1 Qf1+ 18. Bxf1 Rxf1# *
 
 
 
@@ -113,59 +89,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
-[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
-[PuzzleId "5sWvq"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
-
-1. Nf7# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "7"]
+[Round "1438"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
-[LichessURL "https://lichess.org/ng2ueKxW#41"]
-[PuzzleId "N0S5f"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+[FEN "5rk1/Q5p1/1n2R2p/3p4/2p5/1P6/P4qPP/4R2K b - - 1 31"]
+[LichessURL "https://lichess.org/oSSIYx6D#61"]
+[PuzzleId "p8RhE"]
+[Themes "backRankMate endgame mate mateIn2 sacrifice short"]
+[Rating "951"]
 
-1... Nxf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "8"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r2qkb1r/pb1pnp1p/1pn1p1p1/2p1P3/4NP2/3P1N2/PPP3PP/R1BQKB1R w KQkq - 1 8"]
-[LichessURL "https://lichess.org/HLTnd2Nu/black#14"]
-[PuzzleId "Ce9yv"]
-[Themes "master mate mateIn1 oneMove opening smotheredMate"]
-
-1. Nd6# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+31... Qf1+ 32. Rxf1 Rxf1# *
 
 
 
@@ -176,38 +111,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "888"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5p2/2k5/B2pP2p/3P2p1/b2n4/P4PPP/1R4NK b - - 0 32"]
-[LichessURL "https://lichess.org/Suwj1uz0#63"]
-[PuzzleId "qT0qy"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[FEN "B5k1/5p2/6pp/2B1P3/8/8/p4PPP/1R4K1 b - - 0 30"]
+[LichessURL "https://lichess.org/K0edDZMY#59"]
+[PuzzleId "Zdtpt"]
+[Themes "advancedPawn backRankMate endgame master mate mateIn1 oneMove promotion"]
+[Rating "725"]
 
-1... Nxf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "10"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 33"]
-[LichessURL "https://lichess.org/QgTnF4DD/black#64"]
-[PuzzleId "j1GFb"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
-
-1. Nxf7# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+30... axb1=Q# *
 
 
 
@@ -218,17 +133,106 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "471"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r2/p2r2k1/1p5p/4pppP/8/3n1P2/6PQ/1R4NK b - - 0 37"]
-[LichessURL "https://lichess.org/JznEtHRk#73"]
-[PuzzleId "ojsIc"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[FEN "2b2r1k/p5bp/1pp3p1/4Bq2/2P5/2N5/PP1Q2PP/4RR1K b - - 6 24"]
+[LichessURL "https://lichess.org/3VCZyC1X#47"]
+[PuzzleId "Mt2Yh"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
+[Rating "521"]
 
-1... Nf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+24... Qxf1+ 25. Rxf1 Rxf1# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "259"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3R1p1p/p5p1/1p6/4r3/2P5/PP3PPP/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/8qaybZHe#51"]
+[PuzzleId "VKozA"]
+[Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
+[Rating "449"]
+
+26... Re1# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1487"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2krR3/ppp2ppp/3b4/8/3P2P1/2N3qP/PPQ5/5K1n w - - 0 24"]
+[LichessURL "https://lichess.org/3PZjplCw/black#46"]
+[PuzzleId "ft4Bs"]
+[Themes "backRankMate deflection mate mateIn2 middlegame short"]
+[Rating "968"]
+
+24. Qf5+ Kb8 25. Rxd8# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1630"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kq1R1b1/pp4B1/2p5/8/5P2/1P6/P4P1P/6K1 w - - 2 33"]
+[LichessURL "https://lichess.org/coONr0bT/black#64"]
+[PuzzleId "lMsx5"]
+[Themes "backRankMate endgame mate mateIn2 pin short"]
+[Rating "1015"]
+
+33. Be5+ Ka8 34. Rxc8# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "431"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/p7/1p6/3N3n/PP4q1/4K3/2R5 w - - 0 37"]
+[LichessURL "https://lichess.org/ddDqXgLb/black#72"]
+[PuzzleId "PlPGZ"]
+[Themes "backRankMate endgame master mate mateIn1 oneMove"]
+[Rating "506"]
+
+37. Rc8# *
 
 
 
@@ -261,59 +265,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r4rk1/1b2bpp1/2q1pn1p/p1p1N3/Nn5B/1B1P4/1PP2PPP/R3QRK1 b - - 0 18"]
-[LichessURL "https://lichess.org/ng2ueKxW#35"]
-[PuzzleId "N0S5f"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
-
-1... Qxe1# { Back rank breakthrough! The queen sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "14"]
+[Round "1835"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
-[LichessURL "https://lichess.org/hDibIiAO/black#54"]
-[PuzzleId "92Oqp"]
-[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[FEN "5k2/4qpp1/1p4n1/1bppr1PQ/8/r2P1B2/2PN2K1/2R4R w - - 4 32"]
+[LichessURL "https://lichess.org/2tUJDuDf/black#62"]
+[PuzzleId "NxFVw"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[Rating "1097"]
 
-1. Rxd8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "15"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
-[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
-[PuzzleId "5sWvq"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
-
-1. Nf7# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+32. Qh8+ Nxh8 33. Rxh8# *
 
 
 
@@ -324,17 +287,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "1391"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
-[LichessURL "https://lichess.org/ng2ueKxW#41"]
-[PuzzleId "N0S5f"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+[FEN "r3r1k1/1R3N1p/2p2p2/p1np1Bp1/3P4/8/P1Q2PPP/6K1 b - - 0 25"]
+[LichessURL "https://lichess.org/jGR4DLIv#49"]
+[PuzzleId "bj9v7"]
+[Themes "backRankMate mate mateIn1 middlegame oneMove"]
+[Rating "935"]
 
-1... Nxf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+25... Re1# *
 
 
 
@@ -345,38 +309,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "303"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r2qkb1r/pb1pnp1p/1pn1p1p1/2p1P3/4NP2/3P1N2/PPP3PP/R1BQKB1R w KQkq - 1 8"]
-[LichessURL "https://lichess.org/HLTnd2Nu/black#14"]
-[PuzzleId "Ce9yv"]
-[Themes "master mate mateIn1 oneMove opening smotheredMate"]
+[FEN "3q3k/pp4pp/2b3p1/8/4P3/8/2P2R1P/5RK1 w - - 0 35"]
+[LichessURL "https://lichess.org/dBOBtbZC/black#68"]
+[PuzzleId "WdXL3"]
+[Themes "backRankMate endgame fork mate mateIn2 short"]
+[Rating "462"]
 
-1. Nd6# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "18"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/5p2/2k5/B2pP2p/3P2p1/b2n4/P4PPP/1R4NK b - - 0 32"]
-[LichessURL "https://lichess.org/Suwj1uz0#63"]
-[PuzzleId "qT0qy"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
-
-1... Nxf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+35. Rf8+ Qxf8 36. Rxf8# *
 
 
 
@@ -387,17 +331,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "1143"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 33"]
-[LichessURL "https://lichess.org/QgTnF4DD/black#64"]
-[PuzzleId "j1GFb"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+[FEN "1r4k1/p1p2ppp/3p1q2/3P4/4Q1b1/8/Pr3PPP/R3R1K1 w - - 0 24"]
+[LichessURL "https://lichess.org/SO7U5gZS/black#46"]
+[PuzzleId "CoxGX"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
+[Rating "845"]
 
-1. Nxf7# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+24. Qe8+ Rxe8 25. Rxe8# *
 
 
 
@@ -408,17 +353,84 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "1027"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r2/p2r2k1/1p5p/4pppP/8/3n1P2/6PQ/1R4NK b - - 0 37"]
-[LichessURL "https://lichess.org/JznEtHRk#73"]
-[PuzzleId "ojsIc"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[FEN "4r1k1/pp5p/6p1/8/PP1Prp2/3b4/3P1PPP/R1BR2K1 b - - 2 24"]
+[LichessURL "https://lichess.org/1cO4z8lw#47"]
+[PuzzleId "N92Mu"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[Rating "802"]
 
-1... Nf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+24... Re1+ 25. Rxe1 Rxe1# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "147"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1pR2ppp/3p4/3P4/8/3q4/PP2r1PP/6RK w - - 0 26"]
+[LichessURL "https://lichess.org/vgWN5GKg/black#50"]
+[PuzzleId "rQWkj"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
+[Rating "416"]
+
+26. Rc8+ Re8 27. Rxe8# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "570"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/6kP/5p2/3pr3/6P1/1P5Q/PP6/K1R5 b - - 0 40"]
+[LichessURL "https://lichess.org/FoiSYK4q#79"]
+[PuzzleId "1NauH"]
+[Themes "backRankMate endgame master masterVsMaster mate mateIn1 oneMove queenRookEndgame"]
+[Rating "562"]
+
+40... Rxc1# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1994"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/2p3pp/7k/5p2/3q4/5B2/P4PPP/7K b - - 3 33"]
+[LichessURL "https://lichess.org/Lfd79ZSK#65"]
+[PuzzleId "dyOKN"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[Rating "1195"]
+
+33... Qa1+ 34. Bd1 Qxd1+ 35. Qe1 Qxe1# *
 
 
 
@@ -451,17 +463,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "22"]
-[White "Opponent"]
-[Black "You"]
+[Round "1122"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4rk1/1b2bpp1/2q1pn1p/p1p1N3/Nn5B/1B1P4/1PP2PPP/R3QRK1 b - - 0 18"]
-[LichessURL "https://lichess.org/ng2ueKxW#35"]
-[PuzzleId "N0S5f"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[FEN "3r2k1/5ppp/p3p3/1p2P3/2q5/P1P5/1P3QPP/5R1K w - - 3 25"]
+[LichessURL "https://lichess.org/4Pr10BkU/black#48"]
+[PuzzleId "nj3tb"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "837"]
 
-1... Qxe1# { Back rank breakthrough! The queen sacrifices itself to deliver checkmate. }
+25. Qxf7+ Kh8 26. Qf8+ Rxf8 27. Rxf8# *
 
 
 
@@ -472,56 +485,59 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "23"]
+[Round "1849"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/5ppp/8/2B1p3/4P3/2q5/b4PPP/3R2K1 w - - 0 28"]
-[LichessURL "https://lichess.org/hDibIiAO/black#54"]
-[PuzzleId "92Oqp"]
+[FEN "r1b4k/1p3rpp/8/8/p1B5/4nP2/PPP3P1/1K1R4 w - - 0 24"]
+[LichessURL "https://lichess.org/o4jNVfyr/black#46"]
+[PuzzleId "MFm1n"]
+[Themes "backRankMate endgame mate mateIn2 short"]
+[Rating "1104"]
+
+24. Rd8+ Rf8 25. Rxf8# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1331"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p3Rppp/2p2n2/8/PR6/4PPKP/3rq1P1/8 w - - 4 31"]
+[LichessURL "https://lichess.org/dF0b3GLb/black#60"]
+[PuzzleId "Arq8w"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[Rating "914"]
+
+31. Rb8+ Rd8 32. Rxd8+ Ne8 33. Rexe8# *
+
+
+
+
+
+
+
+[Event "Tactics 5: Back Rank Breakthrough"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "263"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/1n2p3/4Q3/8/8/P5PP/2N4K b - - 0 27"]
+[LichessURL "https://lichess.org/AyMC5Uu0#53"]
+[PuzzleId "Xyxvz"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
+[Rating "450"]
 
-1. Rxd8# { Back rank breakthrough! The rook sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
-[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
-[PuzzleId "5sWvq"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
-
-1. Nf7# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
-
-
-
-
-
-
-
-[Event "Tactics 5: Back Rank Breakthrough"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "25"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
-[LichessURL "https://lichess.org/ng2ueKxW#41"]
-[PuzzleId "N0S5f"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
-
-1... Nxf2# { Back rank breakthrough! The knight sacrifices itself to deliver checkmate. }
+27... Rf1# *

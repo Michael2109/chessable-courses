@@ -28,17 +28,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "2"]
+[Round "472"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example2"]
-[Themes "opening defensiveMove short"]
+[FEN "6k1/2Q2ppp/p7/1pP5/1P4q1/P1P5/5PPP/3R2K1 b - - 0 27"]
+[LichessURL "https://lichess.org/KhEUKU7E#53"]
+[PuzzleId "AcZOi"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
+[Rating "665"]
 
-1. e4 { Control the center! } *
+27... Qxd1# *
 
 
 
@@ -49,17 +50,40 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "3"]
+[Round "1424"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/ppp1ppp1/2n5/8/6Q1/2NP3q/PPP2P1N/R1B2RK1 b kq - 0 12"]
+[LichessURL "https://lichess.org/y1pFdQCB#23"]
+[PuzzleId "ETovz"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[Rating "963"]
+
+12... Qxh2# *
+
+
+
+
+
+
+
+[Event "Practical 1: Survive the Opening!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "193"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example3"]
-[Themes "opening defensiveMove short"]
+[FEN "r1b4k/ppp1r1pp/8/8/2B2R2/8/PPP4P/1K4R1 w - - 0 26"]
+[LichessURL "https://lichess.org/tAFThFUa/black#50"]
+[PuzzleId "Lfv3o"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "511"]
 
-1. d4 { Control the center! } *
+26. Rf8# *
 
 
 
@@ -70,17 +94,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "983"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example4"]
-[Themes "opening defensiveMove short"]
+[FEN "r1b1k2r/pp3pp1/2nb1n1p/1Np1q1N1/4P3/2B2B2/PPP2PPP/R2Q1RK1 b kq - 2 13"]
+[LichessURL "https://lichess.org/d21662Bj#25"]
+[PuzzleId "nBRPm"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[Rating "843"]
 
-1. d4 { Control the center! } *
+13... Qxh2# *
 
 
 
@@ -91,38 +116,62 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "5"]
+[Round "774"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1nk1/5p2/1R1bp2p/pB1p4/3P1Ppq/PQ2P3/1P2N1PP/6K1 b - - 0 28"]
+[LichessURL "https://lichess.org/Tm4ie9fU#55"]
+[PuzzleId "EbDQk"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "781"]
+
+28... Qe1# *
+
+
+
+
+
+
+
+[Event "Practical 1: Survive the Opening!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1764"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1q5p/3Pp1p1/p7/1bQn4/6P1/5P1P/R2R1K2 b - - 2 30"]
+[LichessURL "https://lichess.org/kkPLkqIB#59"]
+[PuzzleId "UpzDZ"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "1081"]
+
+30... Qh1# *
+
+
+
+
+
+
+
+[Event "Practical 1: Survive the Opening!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "343"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example5"]
-[Themes "opening defensiveMove short"]
+[FEN "r2q1bnr/1p5k/p2pP2p/2pP1p2/4QP2/2N5/PPP2P1P/R3K1R1 w Q - 0 20"]
+[LichessURL "https://lichess.org/gjJgqqme/black#38"]
+[PuzzleId "D3LGm"]
+[Themes "mate mateIn1 middlegame oneMove"]
+[Rating "596"]
 
-1. Nf3 { Develop with tempo! } *
-
-
-
-
-
-
-
-[Event "Practical 1: Survive the Opening!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "6"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example6"]
-[Themes "opening defensiveMove short"]
-
-1. Nf3 { Develop with tempo! } *
+20. Qxf5# *
 
 
 
@@ -133,38 +182,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "416"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example7"]
-[Themes "opening defensiveMove short"]
+[FEN "r2q1r1k/pp3ppb/2pb1n1p/5N2/3P2Q1/6P1/PP3PBP/R1B1R1K1 w - - 9 17"]
+[LichessURL "https://lichess.org/1TrjB6aG/black#32"]
+[PuzzleId "g7Cf1"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[Rating "639"]
 
-1. c4 { Control the center! } *
-
-
-
-
-
-
-
-[Event "Practical 1: Survive the Opening!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "8"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example8"]
-[Themes "opening defensiveMove short"]
-
-1. c4 { Control the center! } *
+17. Qxg7# *
 
 
 
@@ -175,17 +204,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "968"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example9"]
-[Themes "opening defensiveMove short"]
+[FEN "q3rbk1/2pb1ppp/2n5/1p6/3pQ3/2P2N2/1PB2PPP/2B1R1K1 w - - 0 20"]
+[LichessURL "https://lichess.org/RWBoAMEm/black#38"]
+[PuzzleId "e5Wth"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[Rating "839"]
 
-1. g3 { Develop safely! } *
+20. Qxh7# *
 
 
 
@@ -196,17 +226,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "122"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example10"]
-[Themes "opening defensiveMove short"]
+[FEN "5k2/6p1/4r2p/8/8/3R2P1/3p1PP1/5K2 b - - 1 50"]
+[LichessURL "https://lichess.org/mJ1bNDbC#99"]
+[PuzzleId "maTYy"]
+[Themes "endgame mate mateIn1 oneMove rookEndgame"]
+[Rating "470"]
 
-1. g3 { Develop safely! } *
+50... Re1# *
 
 
 
@@ -217,38 +248,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "1884"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example11"]
-[Themes "opening defensiveMove short"]
+[FEN "5k2/pp3pp1/q3p3/4PnQ1/P3N2p/1Pr5/5PP1/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/sKfivCZr/black#56"]
+[PuzzleId "31H0a"]
+[Themes "endgame master mate mateIn1 oneMove"]
+[Rating "1139"]
 
-1. b3 { Develop safely! } *
-
-
-
-
-
-
-
-[Event "Practical 1: Survive the Opening!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "12"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example12"]
-[Themes "opening defensiveMove short"]
-
-1. b3 { Develop safely! } *
+29. Qd8# *
 
 
 
@@ -259,17 +270,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "1849"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example13"]
-[Themes "opening defensiveMove short"]
+[FEN "4q1k1/2pQ2p1/p5bp/1p6/3B4/7P/PP4P1/n5K1 w - - 0 35"]
+[LichessURL "https://lichess.org/GPuGzo7w/black#68"]
+[PuzzleId "LQKa4"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "1120"]
 
-1. f4 { Control the center! } *
+35. Qxg7# *
 
 
 
@@ -280,17 +292,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
+[Round "1470"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example14"]
-[Themes "opening defensiveMove short"]
+[FEN "r3k1nr/ppp2ppp/1b1pb3/3PPq2/1n6/2N1PNP1/PPPBQ2P/2KR1B1R b kq - 2 11"]
+[LichessURL "https://lichess.org/Ih2hyNsB#21"]
+[PuzzleId "LXjZk"]
+[Themes "mate mateIn1 oneMove opening queensideAttack"]
+[Rating "976"]
 
-1. f4 { Control the center! } *
+11... Qxc2# *
 
 
 
@@ -301,38 +314,62 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "1629"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p5/p3r1pK/2pq4/5BRP/1P6/P1Q5/8 b - - 3 42"]
+[LichessURL "https://lichess.org/DuhkKviZ#83"]
+[PuzzleId "lRUj7"]
+[Themes "endgame mate mateIn1 oneMove"]
+[Rating "1029"]
+
+42... Qh5# *
+
+
+
+
+
+
+
+[Event "Practical 1: Survive the Opening!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1072"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2k3r/pp3pp1/3Bp1p1/P6n/Q2P4/2PBnP2/1q4PP/1R3RK1 b - - 4 21"]
+[LichessURL "https://lichess.org/DpCiXx0x#41"]
+[PuzzleId "me1DH"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
+[Rating "867"]
+
+21... Qxg2# *
+
+
+
+
+
+
+
+[Event "Practical 1: Survive the Opening!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1306"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example15"]
-[Themes "opening defensiveMove short"]
+[FEN "r4rk1/pp3pb1/3p2p1/2pNp3/2P1P1q1/2NP4/PP6/R3K2R w KQ - 0 19"]
+[LichessURL "https://lichess.org/O2PZ08WL/black#36"]
+[PuzzleId "WK1aS"]
+[Themes "master mate mateIn1 middlegame oneMove"]
+[Rating "930"]
 
-1. Nc3 { Develop with tempo! } *
-
-
-
-
-
-
-
-[Event "Practical 1: Survive the Opening!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "16"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example16"]
-[Themes "opening defensiveMove short"]
-
-1. Nc3 { Develop with tempo! } *
+19. Ne7# *
 
 
 
@@ -343,38 +380,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "1604"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example17"]
-[Themes "opening defensiveMove short"]
+[FEN "4nn1k/1b4bp/p1qp2p1/8/NpB5/1P6/PBP3PP/5RK1 w - - 0 24"]
+[LichessURL "https://lichess.org/dwBrv4Ww/black#46"]
+[PuzzleId "c2W8D"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove pin"]
+[Rating "1019"]
 
-1. Bc4 { Develop actively! } *
-
-
-
-
-
-
-
-[Event "Practical 1: Survive the Opening!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "18"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example18"]
-[Themes "opening defensiveMove short"]
-
-1. Bc4 { Develop actively! } *
+24. Rxf8# *
 
 
 
@@ -385,17 +402,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "1150"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example19"]
-[Themes "opening defensiveMove short"]
+[FEN "r1bq1rk1/1pp2pp1/p1n5/2b1n1NQ/3p4/P6P/1PP3P1/RNB2RK1 w - - 0 14"]
+[LichessURL "https://lichess.org/MQNIYGVk/black#26"]
+[PuzzleId "bmdWd"]
+[Themes "mate mateIn1 oneMove opening"]
+[Rating "888"]
 
-1. Bf4 { Develop actively! } *
+14. Qh7# *
 
 
 
@@ -406,14 +424,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Practical 1: Survive the Opening!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "1681"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example20"]
-[Themes "opening defensiveMove short"]
+[FEN "2k4r/ppp3p1/2n5/B1b1p2B/4N1p1/P2P2P1/1PP3PK/R4R2 b - - 0 19"]
+[LichessURL "https://lichess.org/YwLq8UKS#37"]
+[PuzzleId "pg5k3"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[Rating "1049"]
 
-1. Bf4 { Develop actively! } *
+19... Rxh5# *

@@ -202,40 +202,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "1966"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6K1/7P/1pk3p1/6P1/5P2/8 b - - 1 45"]
-[LichessURL "https://lichess.org/7ma2m8bA#89"]
-[PuzzleId "xjPbB"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/8/8/5p2/8/6k1/1P1K4/8 b - - 1 48"]
+[LichessURL "https://lichess.org/su9LvyxZ#95"]
+[PuzzleId "dVVmu"]
+[Themes "advancedPawn crushing defensiveMove endgame pawnEndgame quietMove veryLong"]
+[Rating "1195"]
 
-1... b3 { Passed pawn power! Advancing the passed pawn. }
-2. h6 b2 47. h7 b1=Q+ *
-
-
-
-
-
-
-
-[Event "Endgame 5: Passed Pawn Power"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "11"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/5p2/K7/1P5p/7p/6k1/8/8 w - - 0 54"]
-[LichessURL "https://lichess.org/vQhHh9Df/black#106"]
-[PuzzleId "qT432"]
-[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
-
-1. b6 { Passed pawn power! Advancing the passed pawn. }
-3... h3 55. b7 h2 56. b8=Q+ *
+48... f4 49. b4 f3 50. b5 f2 51. Ke2 Kg2 *
 
 
 
@@ -246,18 +224,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "327"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/2K5/7p/1P3k2/8/8/8 b - - 1 58"]
-[LichessURL "https://lichess.org/xe2DfiLJ#115"]
-[PuzzleId "WIYYh"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/8/8/3KP3/5pk1/4p3/4N3/8 b - - 0 72"]
+[LichessURL "https://lichess.org/ZPhuD3oW#143"]
+[PuzzleId "1kgQs"]
+[Themes "advancedPawn advantage endgame knightEndgame long promotion"]
+[Rating "783"]
 
-1... h4 { Passed pawn power! Advancing the passed pawn. }
-2. b5 h3 60. Kc7 h2 61. b6 h1=Q *
+72... f3 73. e6 fxe2 74. e7 e1=Q *
 
 
 
@@ -268,18 +246,40 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "1427"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p2PKpk1/8/6p1/8/8 w - - 0 53"]
-[LichessURL "https://lichess.org/wesg785b/black#104"]
-[PuzzleId "cN3m4"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "r3nrk1/2q2pbp/4pnp1/pp1bP3/2pP4/P1P2NB1/1PB1Q1PP/2R2RK1 w - - 0 19"]
+[LichessURL "https://lichess.org/bNHQroRV/black#36"]
+[PuzzleId "lPZjP"]
+[Themes "advancedPawn crushing master middlegame short"]
+[Rating "1092"]
 
-1. d6 { Passed pawn power! Advancing the passed pawn. }
-3... a4 54. d7 g2 55. d8=Q+ *
+19. exf6 Qd8 20. fxg7 *
+
+
+
+
+
+
+
+[Event "Endgame 5: Passed Pawn Power"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1266"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2K1k3/3pP1p1/1P4P1/8/8/8 b - - 0 51"]
+[LichessURL "https://lichess.org/DAsbu0aM#101"]
+[PuzzleId "MqGus"]
+[Themes "advancedPawn crushing endgame long pawnEndgame quietMove"]
+[Rating "1064"]
+
+51... d4 52. b5 d3 53. b6 d2 *
 
 
 
@@ -334,18 +334,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "16"]
+[Round "1692"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/P7/P1K3kp/8/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/Y8EQBUr1#95"]
-[PuzzleId "nadTW"]
-[Themes "advancedPawn crushing endgame long master pawnEndgame promotion"]
+[FEN "8/5pk1/8/3R1KPp/1p5P/p1b5/P7/8 b - - 3 46"]
+[LichessURL "https://lichess.org/uDdYieZk#91"]
+[PuzzleId "Gs72G"]
+[Themes "advancedPawn crushing endgame short"]
+[Rating "1150"]
 
-1... h3 { Passed pawn power! Advancing the passed pawn. }
-2. a6 h2 50. a7 h1=Q *
+46... b3 47. axb3 a2 *
 
 
 
@@ -378,18 +378,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Endgame 5: Passed Pawn Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "521"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/5PKp/8/6k1/8 b - - 0 55"]
-[LichessURL "https://lichess.org/ILamApKA#109"]
-[PuzzleId "YC4bk"]
-[Themes "advancedPawn crushing endgame long pawnEndgame promotion"]
+[FEN "8/2B1b3/3p4/1P1Pp3/2p1P2k/1P3K2/8/8 b - - 0 36"]
+[LichessURL "https://lichess.org/WQsUavv5#71"]
+[PuzzleId "t9tzd"]
+[Themes "advancedPawn bishopEndgame crushing endgame short"]
+[Rating "873"]
 
-1... h3 { Passed pawn power! Advancing the passed pawn. }
-2. Kf3 h2 57. Kg2 h1=Q+ *
+36... cxb3 37. Ke2 b2 *
 
 
 

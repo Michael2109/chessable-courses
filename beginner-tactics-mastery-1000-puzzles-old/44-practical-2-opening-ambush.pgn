@@ -1,68 +1,18 @@
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3qr1k1/p5bp/1p3pp1/n3p3/P6Q/R2P2P1/3NPPbP/1rBR1K2 w - - 0 24"]
-[LichessURL "https://lichess.org/xRULhrsi/black#46"]
-[PuzzleId "eDwzg"]
-[Themes "crushing master middlegame short trappedPiece"]
-
-{Practical 2: Opening Ambush
-
-This section focuses on Legal's Trap, Queen Traps, and Quick Wins.
-
-Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize and execute opening traps that can quickly win material or create decisive advantages.
-}
-1. Kxg2 { Legal's trap! Capturing the bishop with the king. }
-3... Rxc1 25. Rxc1 { Winning the trapped rook. }
-
-
-
-
-
-
-
-[Event "Practical 2: Opening Ambush"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "2"]
+[Round "1624"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/7P/2k3P1/p6K/N7 b - - 0 53"]
-[LichessURL "https://lichess.org/VJSO7c4c#105"]
-[PuzzleId "NskoT"]
-[Themes "crushing endgame knightEndgame short trappedPiece"]
+[FEN "rnbqk2r/pp3ppp/3bp3/3Q4/8/5N2/PPP2PPP/RNB1R1K1 b kq - 0 9"]
+[LichessURL "https://lichess.org/Kz8XNYl9#17"]
+[PuzzleId "KAQaI"]
+[Themes "crushing discoveredAttack kingsideAttack opening short"]
+[Rating "1110"]
 
-1... Kb2 { Trapping the knight! }
-2. g4 Kxa1 { Winning the trapped knight. }
-
-
-
-
-
-
-
-[Event "Practical 2: Opening Ambush"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "3"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1b1k2r/ppq2ppp/1b2p1n1/P2p4/1P6/2Pn1N2/4QPPP/RNB1K2R w KQkq - 0 12"]
-[LichessURL "https://lichess.org/wPU0NR0v/black#22"]
-[PuzzleId "SUEla"]
-[Themes "advantage middlegame short trappedPiece"]
-
-1. Qxd3 { Queen trap! Capturing the trapped pawn. }
-3... Bxf2+ 13. Kxf2 { Winning the trapped bishop. }
+9... Bxh2+ 10. Nxh2 Qxd5 *
 
 
 
@@ -73,40 +23,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "1004"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r7/Rb1nk3/3RN3/1p1P1p1p/1P3P2/7P/5NP1/5K2 b - - 0 39"]
-[LichessURL "https://lichess.org/RJNyPDGt#77"]
-[PuzzleId "E16tz"]
-[Themes "advantage master middlegame short trappedPiece"]
+[FEN "r2qkb1r/pp1npppp/5n2/1Bp5/8/3P1N1P/PPP2PP1/R1BQK2R b KQkq - 0 10"]
+[LichessURL "https://lichess.org/dKZsqlgu#19"]
+[PuzzleId "uQenM"]
+[Themes "advantage fork opening short"]
+[Rating "960"]
 
-1... Rxa7 { Trapping the rook! }
-2. Rxd7+ Kxd7 { Winning the trapped rook. }
-
-
-
-
-
-
-
-[Event "Practical 2: Opening Ambush"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "5"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "7b/5k2/7P/5KP1/5P2/8/8/8 w - - 1 58"]
-[LichessURL "https://lichess.org/S3GDPT4f/black#114"]
-[PuzzleId "NwSlE"]
-[Themes "advancedPawn bishopEndgame crushing endgame long master trappedPiece"]
-
-1. g6+ { Trapping the bishop! }
-3... Ke7 59. g7 Bxg7 60. hxg7 { Winning the trapped bishop. }
+10... Qa5+ 11. Bd2 Qxb5 *
 
 
 
@@ -117,18 +45,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "1554"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r2q3r/5k2/p4bp1/1p1BnQ2/1P1p1B2/7P/P1P2PP1/R4RK1 b - - 1 27"]
-[LichessURL "https://lichess.org/tOpclHAR#53"]
-[PuzzleId "7i8hC"]
-[Themes "advantage hangingPiece middlegame short trappedPiece"]
+[FEN "3qkb1r/rb1p1ppp/2n1pn2/1B6/3P4/4PN2/P1P2PPP/RNBQK2R b KQk - 1 8"]
+[LichessURL "https://lichess.org/ZPua5yFf#15"]
+[PuzzleId "8UXW2"]
+[Themes "advantage fork master opening short"]
+[Rating "1093"]
 
-1... Qxd5 { Queen trap! Capturing the trapped queen. }
-2. Qxf6+ Kxf6 { Winning the trapped queen. }
+8... Qa5+ 9. Nbd2 Qxb5 *
 
 
 
@@ -139,40 +67,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "1231"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/p4ppp/1n2p3/7b/3PP3/PB3P2/1r1N2PP/2rK3R w - - 0 22"]
-[LichessURL "https://lichess.org/NqoDDvIe/black#42"]
-[PuzzleId "xMeus"]
-[Themes "crushing middlegame short trappedPiece"]
+[FEN "r1bq1k1r/pppp2p1/2n2nQ1/8/3b1p2/P7/BPP3PP/RN2KR2 w Q - 0 14"]
+[LichessURL "https://lichess.org/ATuaZ4N4/black#26"]
+[PuzzleId "xbZC4"]
+[Themes "mate mateIn1 oneMove opening"]
+[Rating "1016"]
 
-1. Kxc1 { Trapping the rook! }
-3... Rxb3 23. Nxb3 { Winning the trapped rook. }
-
-
-
-
-
-
-
-[Event "Practical 2: Opening Ambush"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "8"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2q1r3/1p3kr1/p4nBQ/2Pp2p1/8/2P1P2P/PP3PP1/3R1RK1 b - - 8 29"]
-[LichessURL "https://lichess.org/iuVo7jwi#57"]
-[PuzzleId "Lxj5n"]
-[Themes "crushing middlegame short trappedPiece"]
-
-1... Rxg6 { Trapping the queen! }
-2. Qxg6+ Kxg6 { Winning the trapped queen. }
+14. Qf7# *
 
 
 
@@ -183,18 +89,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "535"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4rk1/pp3ppp/2n2n2/3p4/8/2NNPbb1/PPPBK1Pq/R2Q3R w - - 0 18"]
-[LichessURL "https://lichess.org/fy5OhxZ4/black#34"]
-[PuzzleId "LmWls"]
-[Themes "advantage middlegame short trappedPiece"]
+[FEN "r1bqkbr1/ppp1np1N/3ppnp1/8/3PP3/8/PPP2PPP/RN1QKB1R w KQq - 0 8"]
+[LichessURL "https://lichess.org/dCqDAlOW/black#14"]
+[PuzzleId "rX1Xa"]
+[Themes "mate mateIn1 oneMove opening"]
+[Rating "816"]
 
-1. Kxf3 { Trapping the queen! }
-3... Qh4 19. Rxh4 { Winning the trapped queen. }
+8. Nxf6# *
 
 
 
@@ -205,18 +111,106 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "1544"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/r5p1/4p2p/4Pb2/8/2PR4/1P1k1PPP/5QK1 b - - 0 35"]
-[LichessURL "https://lichess.org/DoqyVESE#69"]
-[PuzzleId "fWZoK"]
-[Themes "advantage endgame short trappedPiece"]
+[FEN "r1br2k1/1p2bppp/1pp1p3/7q/P2PP1n1/1P1B2N1/2PB2PP/R2Q1R1K b - - 2 16"]
+[LichessURL "https://lichess.org/I0oqrimC#31"]
+[PuzzleId "q1Vhp"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[Rating "1090"]
 
-1... Bxd3 { Trapping the queen! }
-2. Qxd3+ Kxd3 { Winning the trapped queen. }
+16... Qxh2# *
+
+
+
+
+
+
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1089"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp3pp/3b1np1/6N1/3Q4/2N5/PPP2PPP/R1B1R1K1 b - - 0 14"]
+[LichessURL "https://lichess.org/I8fASVVe#27"]
+[PuzzleId "O87Gf"]
+[Themes "crushing discoveredAttack kingsideAttack opening short"]
+[Rating "980"]
+
+14... Bxh2+ 15. Kxh2 Qxd4 *
+
+
+
+
+
+
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "45"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/1p1bbppp/p1n1p3/2Pp4/1P2n3/P1Q1PN2/1B2BPPP/RN1R2K1 w - - 1 14"]
+[LichessURL "https://lichess.org/Bq00uIZP/black#26"]
+[PuzzleId "Vc0CI"]
+[Themes "kingsideAttack mate mateIn1 oneMove opening"]
+[Rating "464"]
+
+14. Qxg7# *
+
+
+
+
+
+
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1084"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/ppp2ppp/5b2/3p4/3n2b1/P1NP1N2/1PP1BPPP/1R1Q1RK1 w - - 1 12"]
+[LichessURL "https://lichess.org/An4lvB0R/black#22"]
+[PuzzleId "CIFrG"]
+[Themes "advantage discoveredAttack opening short"]
+[Rating "979"]
+
+12. Nxd4 Bxd4 13. Bxg4 *
+
+
+
+
+
+
+
+[Event "Practical 2: Opening Ambush"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "506"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/ppp1ppp1/2q1bn2/1N5p/P4P2/7P/1PPBB1P1/R2QK2R w KQ - 1 14"]
+[LichessURL "https://lichess.org/9ndku82t/black#26"]
+[PuzzleId "MmYcC"]
+[Themes "crushing fork opening short"]
+[Rating "805"]
+
+14. Nxa7+ Kb8 15. Nxc6+ *
 
 
 
@@ -291,17 +285,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
-[White "Opponent"]
-[Black "You"]
+[Round "1871"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b2knr/p2ppp2/2p3pb/q1p1P1Np/4N3/3P1Q2/PPP2PPP/R1B1R1K1 b - - 4 12"]
-[LichessURL "https://lichess.org/jl4N1VVl#23"]
-[PuzzleId "52I2M"]
-[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+[FEN "rnbq1b1r/p2p1kp1/1p5p/4P3/8/5N2/PP3QPP/RNB1K2R w KQ - 0 11"]
+[LichessURL "https://lichess.org/9abpxp5N/black#20"]
+[PuzzleId "L6Cre"]
+[Themes "doubleCheck mate mateIn2 opening short"]
+[Rating "1171"]
 
-1... Qxe1# { Opening ambush! Quick mate in the opening. } *
+11. Ng5+ Kg8 12. Qf7# *
 
 
 

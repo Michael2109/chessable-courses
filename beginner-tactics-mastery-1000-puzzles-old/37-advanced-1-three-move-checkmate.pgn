@@ -559,16 +559,15 @@ Master these complex mating patterns and you'll develop the calculating ability 
 [Event "Advanced 1: Three-Move Checkmate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "1901"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/1p3p1p/2q2bpB/3R1b2/1pB5/1r2P2P/5PP1/3R2K1 w - - 2 30"]
-[LichessURL "https://lichess.org/qOUh7RPo/black#58"]
-[PuzzleId "O0lYD"]
-[Themes "long mate mateIn3 middlegame sacrifice"]
+[FEN "1k6/pp3ppp/4qb2/3p4/3Pr3/2Q5/PP3PPP/2R3K1 w - - 4 24"]
+[LichessURL "https://lichess.org/gp8ZFwdW/black#46"]
+[PuzzleId "3JS4X"]
+[Themes "backRankMate endgame long mate mateIn3"]
+[Rating "1184"]
 
-1. Rd8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Bxd8 31. Rxd8+ { Forcing sequence continues with another check. }
-5... Qe8 32. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+24. Qc7+ Ka8 25. Qc8+ Qxc8 26. Rxc8# *

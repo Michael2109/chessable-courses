@@ -645,40 +645,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "30"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short trappedPiece"]
-
-1... h2+ { Trapped piece! The knight is trapped and will be captured. }
-2. Kh1 Kxf2 { Winning the trapped knight! }
-
-
-
-
-
-
-
-[Event "Intermediate 4: Trapped Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "31"]
+[Round "1742"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "CT01B"]
-[Themes "advantage deflection discoveredAttack endgame short trappedPiece"]
+[FEN "r1b1k2r/pp4p1/1q2ppn1/2pp4/4P1Q1/1PPP2P1/P3BPn1/RN2K1NR w KQkq - 2 18"]
+[LichessURL "https://lichess.org/CxpaQN6o/black#34"]
+[PuzzleId "ek7Fs"]
+[Themes "advantage defensiveMove long middlegame trappedPiece"]
+[Rating "1185"]
 
-1. Nf6+ { Trapped piece! The rook is trapped and will be captured. }
-1... Rxf6 2. Rxe8+ { Winning the trapped rook! }
+18. Kf1 Ne3+ 19. fxe3 Rxh1 20. Qxg6+ *
 
 
 
@@ -689,18 +667,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "32"]
+[Round "1921"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short trappedPiece"]
+[FEN "2r3k1/Qp1qbpp1/5n1p/P2p4/5B2/2P4P/1P3PP1/R2R2K1 b - - 7 27"]
+[LichessURL "https://lichess.org/UmcSDR9d#53"]
+[PuzzleId "0kiWC"]
+[Themes "advantage middlegame short trappedPiece"]
+[Rating "1196"]
 
-1... Nc5+ { Trapped piece! The bishop is trapped and will be captured. }
-2. Ke2 Nxe4 { Winning the trapped bishop! }
+27... Bc5 28. Qxc5 Rxc5 *
 
 
 
@@ -711,18 +689,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "33"]
+[Round "724"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "xcSSX"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion trappedPiece"]
+[FEN "r4rk1/pp3p2/3p3p/3Pp1p1/6Pq/4R3/PP3PK1/R2Q4 w - - 0 21"]
+[LichessURL "https://lichess.org/48gu3Me4/black#40"]
+[PuzzleId "CEKF5"]
+[Themes "crushing endgame master short trappedPiece"]
+[Rating "1080"]
 
-1. d6 { Trapped piece! The king is trapped and will be checkmated. }
-1... g3 2. d7+ Kb7 3. d8=Q { Winning the trapped king! }
+21. Rh3 Qxh3+ 22. Kxh3 *
 
 
 
@@ -733,18 +711,40 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "34"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p4pp1/2pbp2p/3p4/3N1P2/2PPqR2/PP4b1/RN1Q3K w - - 0 17"]
+[LichessURL "https://lichess.org/VXdelGWe/black#32"]
+[PuzzleId "wpxyl"]
+[Themes "advantage hangingPiece middlegame short trappedPiece"]
+[Rating "516"]
+
+17. Kxg2 Qxf4 18. Rxf4 *
+
+
+
+
+
+
+
+[Event "Intermediate 4: Trapped Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "379"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "kKSIl"]
-[Themes "crushing deflection endgame master short trappedPiece"]
+[FEN "rnbqk2r/ppp2ppp/4p3/3pP3/4n3/3BPP2/PPP3PP/RN1QK1NR b KQkq - 0 7"]
+[LichessURL "https://lichess.org/s49AR8a1#13"]
+[PuzzleId "NFDUt"]
+[Themes "crushing long opening pin trappedPiece"]
+[Rating "1008"]
 
-1... Nc6+ { Trapped piece! The bishop is trapped and will be captured. }
-2. Kf4 Nxd4 { Winning the trapped bishop! }
+7... Qh4+ 8. g3 Nxg3 9. hxg3 Qxh1 *
 
 
 
@@ -755,15 +755,15 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 4: Trapped Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "35"]
+[Round "1715"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/pp3p2/1N1p1kpp/3Pb3/4K1P1/PP4PP/8 w - - 0 37"]
-[LichessURL "https://lichess.org/1l4uD0hl/black#72"]
-[PuzzleId "lvtum"]
-[Themes "advantage deflection endgame short trappedPiece"]
+[FEN "1k4nr/1p4pp/p1qNn3/4p3/P7/1P5P/3PPP1P/2Q1KR2 w - - 2 18"]
+[LichessURL "https://lichess.org/nqT6Bl4H/black#34"]
+[PuzzleId "BIwfP"]
+[Themes "advantage long middlegame trappedPiece"]
+[Rating "1184"]
 
-1. Nd6+ { Trapped piece! The bishop is trapped and will be captured. }
-1... Ke6 2. Nxe4 { Winning the trapped bishop! }
+18. Qxc6 bxc6 19. Nf7 Nh6 20. Nxh8 *

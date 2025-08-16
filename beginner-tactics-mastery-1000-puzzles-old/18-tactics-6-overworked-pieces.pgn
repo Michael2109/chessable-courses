@@ -1,69 +1,18 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2r3k1/5ppp/4q3/p7/1pQ1P3/P2P3P/KP6/2R5 w - - 4 29"]
-[LichessURL "https://lichess.org/tNlaMmUf/black#56"]
-[PuzzleId "a0LbN"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
-
-1. Qxe6 fxe6 2. Rxc8+ *
-
-{ The queen on e6 is overworked - it's defending both the rook on c8 and the f7 pawn. By capturing the queen with Qxe6, we force fxe6, then capture the undefended rook with Rxc8+. One piece can't guard everything! }
-
-
-
-
-
-
-
-
-
-[Event "Tactics 6: Overworked Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "2"]
+[Round "246"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r4/4k3/3q2p1/6P1/1Q1N1P2/2P5/P2K4/8 b - - 0 43"]
-[LichessURL "https://lichess.org/QuBDCdp4#85"]
-[PuzzleId "x2e2f"]
-[Themes "capturingDefender crushing discoveredAttack endgame short"]
+[FEN "r5k1/pp1b1ppp/1nn1r3/1B2P3/3N1B2/P1P5/5PPP/R4RK1 b - - 9 19"]
+[LichessURL "https://lichess.org/aRx6J9DT#37"]
+[PuzzleId "eHOEe"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+[Rating "956"]
 
-1... Qxb4 2. cxb4 Rxd4+ *
-
-{ The queen on b4 is overworked - it's defending both the pawn on b4 and the knight on d1. By capturing the queen with Qxb4, we force cxb4, then capture the undefended knight with Rxd4+. Overworked pieces crack under pressure! }
-
-
-
-
-
-
-
-
-
-[Event "Tactics 6: Overworked Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "3"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3qr1k1/pb2p2p/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 w - - 2 26"]
-[LichessURL "https://lichess.org/IyouuyvD/black#50"]
-[PuzzleId "6LyUQ"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
-
-1. Nxd8 Rxd8 2. Rxe7 *
-
-{ The rook on d8 is overworked - it's defending both the queen on e8 and the knight on d2. By capturing the knight with Nxd8, we force Rxd8, then capture the undefended queen with Rxe7. One piece can't do two jobs! }
+19... Nxd4 20. cxd4 Bxb5 *
 
 
 
@@ -76,44 +25,18 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "89"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r6/nR3pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 b - - 0 28"]
-[LichessURL "https://lichess.org/QabW2atH#55"]
-[PuzzleId "vVN1I"]
-[Themes "capturingDefender crushing endgame short"]
+[FEN "1r6/ppp3k1/2bp2q1/4p2R/6Q1/2PP1P2/PP2P1B1/1K6 b - - 0 29"]
+[LichessURL "https://lichess.org/TlqDs3jm#57"]
+[PuzzleId "Kpwfg"]
+[Themes "advantage capturingDefender endgame short"]
+[Rating "883"]
 
-1... Rxb7 2. Bxb7 Nxb5 *
-
-{ The rook on b7 is overworked - it's defending both the pawn on b7 and the knight on b1. By capturing the rook with Rxb7, we force Bxb7, then capture the undefended knight with Nxb5. Overworked pieces always break! }
-
-
-
-
-
-
-
-
-
-[Event "Tactics 6: Overworked Pieces"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "5"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "3r2k1/pp4pp/2p1r3/3q4/4Q1P1/7P/2P1R1K1/4R3 w - - 0 29"]
-[LichessURL "https://lichess.org/4v5HIK5U/black#56"]
-[PuzzleId "Wob5X"]
-[Themes "capturingDefender crushing discoveredAttack endgame master pin short"]
-
-1. Qxd5 Rxd5 2. Rxe6 *
-
-{ The queen on d5 is overworked - it's defending both the rook on d5 and the rook on e2. By capturing the queen with Qxd5, we force Rxd5, then capture the undefended rook with Rxe6. One piece can't guard everything! }
+29... Qxg4 30. fxg4 Bxg2 *
 
 
 
@@ -126,19 +49,18 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "1035"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4b3/3r2k1/p1NR1p2/2P2P1p/1P5K/P7/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/yaUD9B2C#87"]
-[PuzzleId "QpIOg"]
-[Themes "advantage capturingDefender discoveredAttack endgame short"]
+[FEN "2r2rk1/pp3pbp/q5p1/1NR1p3/1P2P3/P4Q2/5PPP/5RK1 b - - 0 23"]
+[LichessURL "https://lichess.org/6PrK7YI9#45"]
+[PuzzleId "nq1dY"]
+[Themes "capturingDefender crushing middlegame short"]
+[Rating "1110"]
 
-1... Rxd6 2. cxd6 Bxc6 *
-
-{ The rook on d6 is overworked - it's defending both the pawn on d6 and the bishop on c1. By capturing the rook with Rxd6, we force cxd6, then capture the undefended bishop with Bxc6. Overworked pieces always fail! }
+23... Rxc5 24. bxc5 Qxb5 *
 
 
 
@@ -151,19 +73,18 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "94"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1rr3k1/1q4p1/p1Q2p1p/4p3/8/1P4P1/P4PKP/2R1R3 w - - 4 30"]
-[LichessURL "https://lichess.org/2tNxx57F/black#58"]
-[PuzzleId "Mylsy"]
-[Themes "capturingDefender crushing discoveredAttack endgame master short"]
+[FEN "3r2nr/2k4p/2n2p2/1pP3p1/3q2b1/2bP1N2/4BPPP/1R1Q1RK1 w - - 0 20"]
+[LichessURL "https://lichess.org/ARRYr77g/black#38"]
+[PuzzleId "wHn2x"]
+[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+[Rating "887"]
 
-1. Qxb7 Rxb7 2. Rxc8+ *
-
-{ The queen on b7 is overworked - it's defending both the rook on b7 and the rook on c2. By capturing the queen with Qxb7, we force Rxb7, then capture the undefended rook with Rxc8+. One piece can't do two jobs! }
+20. Nxd4 Nxd4 21. Bxg4 *
 
 
 
@@ -176,19 +97,42 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "8"]
+[Round "1175"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbq1rk1/pp2b1pp/5n2/2p3B1/3pN3/1N4P1/PPP1PPBP/R2Q1RK1 b - - 0 11"]
-[LichessURL "https://lichess.org/u6hrU08f#21"]
-[PuzzleId "oPVA2"]
+[FEN "2r1r1k1/p4pp1/1p3n1p/8/4p3/PQN4P/4qPP1/3RNRK1 b - - 5 24"]
+[LichessURL "https://lichess.org/jdPWvTro#47"]
+[PuzzleId "cRDkP"]
+[Themes "advantage capturingDefender deflection middlegame short"]
+[Rating "1135"]
+
+24... Rxc3 25. Qxc3 Qxd1 *
+
+
+
+
+
+
+
+
+
+[Event "Tactics 6: Overworked Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "104"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1bpppp/2n2n2/1BP5/Q2N4/8/PP1P1PPP/RNB1K2R b KQkq - 2 8"]
+[LichessURL "https://lichess.org/qZ9PnlqI#15"]
+[PuzzleId "dLNpi"]
 [Themes "advantage capturingDefender discoveredAttack opening short"]
+[Rating "892"]
 
-1... Nxe4 2. Bxe4 Bxg5 *
-
-{ The bishop on e4 is overworked - it's defending both the knight on e4 and the bishop on g1. By capturing the knight with Nxe4, we force Bxe4, then capture the undefended bishop with Bxg5. Overworked pieces always break! }
+8... Nxd4 9. Qxd4 Bxb5 *
 
 
 
@@ -201,19 +145,66 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
+[Round "850"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr1bnr/ppp1pppp/8/1P2n2q/6b1/2N2N2/P1PPBPPP/R1BQ1RK1 w - - 1 9"]
-[LichessURL "https://lichess.org/UQxwm6gP/black#16"]
-[PuzzleId "2VJwa"]
-[Themes "capturingDefender crushing discoveredAttack opening short"]
+[FEN "4r1k1/5p2/p1b1r3/6pp/1P3q2/P1Q1R2P/5PP1/4R1K1 w - - 0 39"]
+[LichessURL "https://lichess.org/yXONGZeW/black#76"]
+[PuzzleId "AlvoO"]
+[Themes "advantage capturingDefender long master middlegame"]
+[Rating "1082"]
 
-1. Nxe5 Qxe5 2. Bxg4+ *
+39. Rxe6 Rxe6 40. Rxe6 fxe6 41. Qxc6 *
 
-{ The queen on e5 is overworked - it's defending both the knight on e5 and the bishop on g2. By capturing the knight with Nxe5, we force Qxe5, then capture the undefended bishop with Bxg4+. One piece can't guard everything! }
+
+
+
+
+
+
+
+
+[Event "Tactics 6: Overworked Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1869"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/ppp1nppp/4p3/4P3/1BP1p3/P7/1P3PPP/R2QKB1R w KQ - 3 13"]
+[LichessURL "https://lichess.org/gyFySbpq/black#24"]
+[PuzzleId "LjTeh"]
+[Themes "advantage capturingDefender middlegame short"]
+[Rating "1191"]
+
+13. Qxd8 Rxd8 14. Bxe7 *
+
+
+
+
+
+
+
+
+
+[Event "Tactics 6: Overworked Pieces"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "863"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br2k1/pp3ppp/n2Bp3/2P5/4p1P1/PP2P2P/2PKNP2/6RR b - - 0 17"]
+[LichessURL "https://lichess.org/NocjuX8N#33"]
+[PuzzleId "HMqq3"]
+[Themes "advantage capturingDefender middlegame pin short"]
+[Rating "1084"]
+
+17... Nxc5 18. Rd1 Rxd6+ *
 
 
 
@@ -251,19 +242,18 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "1087"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b2k2/3nnpb1/p2N4/1pp5/4PP2/2P3P1/PPK5/3RR3 w - - 0 32"]
-[LichessURL "https://lichess.org/k9O3AlTi/black#62"]
-[PuzzleId "O1hxk"]
-[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+[FEN "r2qk2r/pp2bppp/2n2n2/3p2B1/6bQ/2N1PN2/PP3PPP/R3KB1R w KQkq - 1 10"]
+[LichessURL "https://lichess.org/76bgIpG8/black#18"]
+[PuzzleId "GWe1l"]
+[Themes "advantage capturingDefender middlegame short"]
+[Rating "1120"]
 
-1. Nxc8 Rxc8 2. Rxd7 *
-
-{ The rook on c8 is overworked - it's defending both the knight on c8 and the bishop on d2. By capturing the knight with Nxc8, we force Rxc8, then capture the undefended bishop with Rxd7. One piece can't do two jobs! }
+10. Bxf6 Bxf6 11. Qxg4 *
 
 
 
@@ -276,19 +266,18 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
-[White "Opponent"]
-[Black "You"]
+[Round "714"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r1k3/2q2pr1/p2b2bp/3Pp3/2p1N2P/2P2PB1/PP2Q3/2KR3R b - - 1 23"]
-[LichessURL "https://lichess.org/nqNPFBgB#45"]
-[PuzzleId "Ic7CX"]
-[Themes "advantage capturingDefender discoveredAttack middlegame short"]
+[FEN "rn1qk2r/pp3ppp/2p1p3/3nP3/Qb1P4/2N2N2/PP3PPP/R1B2RK1 w kq - 2 13"]
+[LichessURL "https://lichess.org/5SELfucv/black#24"]
+[PuzzleId "fS8yW"]
+[Themes "capturingDefender crushing opening pin short"]
+[Rating "1060"]
 
-1... Qxe2 2. Rxe2 Rxc1 *
-
-{ The queen on e2 is overworked - it's defending both the rook on e2 and the rook on c1. By capturing the queen with Qxe2, we force Rxe2, then capture the undefended rook with Rxc1. Overworked pieces always break! }
+13. Nxd5 Qxd5 14. Qxb4 *
 
 
 
@@ -601,16 +590,15 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "218"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/p1b1kp2/6p1/2PP3p/3P4/2K2P1P/P5P1/8 w - - 1 31"]
-[LichessURL "https://lichess.org/0ECv411C/black#60"]
-[PuzzleId "YXRiP"]
-[Themes "bishopEndgame crushing endgame short"]
+[FEN "r1b1k1r1/pp3p1p/1b2pBp1/4P3/1P1q2Q1/3p4/P4PPP/R2R2K1 w q - 4 22"]
+[LichessURL "https://lichess.org/RIkHVe1k/black#42"]
+[PuzzleId "l0wOS"]
+[Themes "advantage capturingDefender middlegame short"]
+[Rating "945"]
 
-1. d6+ Bxd6 2. cxd6+ *
-
-{ The bishop on d6 is overworked - it's defending both the pawn on d6 and the pawn on c2. By capturing the bishop with d6+, we force Bxd6, then capture the undefended pawn with cxd6+. One piece can't guard everything! }
+22. Qxd4 Bxd4 23. Rxd3 *

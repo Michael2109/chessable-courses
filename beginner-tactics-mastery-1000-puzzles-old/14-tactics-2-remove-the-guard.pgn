@@ -491,40 +491,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "23"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example23"]
-[Themes "capturingDefender opening short"]
-
-1. Nxe5 { Remove the guard! Capturing the defender of the pawn. }
-1... Nxe4 2. Qe2 *
-
-
-
-
-
-
-
-[Event "Tactics 2: Remove the Guard"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "24"]
+[Round "1651"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example24"]
-[Themes "capturingDefender opening short"]
+[FEN "8/2r5/2P1pk1p/Pn4pP/2R5/4N3/2K5/8 b - - 2 42"]
+[LichessURL "https://lichess.org/ERaHktSW#83"]
+[PuzzleId "35CTY"]
+[Themes "attraction capturingDefender crushing endgame fork long"]
+[Rating "1179"]
 
-1... Nxe4 { Remove the guard! Capturing the defender of the pawn. }
-2. dxe5 Nxc3 *
+42... Na3+ 43. Kd3 Nxc4 44. Kxc4 Rxc6+ *
 
 
 
@@ -535,18 +513,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "25"]
+[Round "1935"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example25"]
-[Themes "capturingDefender opening short"]
+[FEN "rn1q1rk1/pp3pbp/2p2np1/3p2B1/6b1/2NP1NQ1/PPP1BPPP/R3K2R w KQ - 6 10"]
+[LichessURL "https://lichess.org/88ci5Aqz/black#18"]
+[PuzzleId "Uk0Fv"]
+[Themes "advantage capturingDefender middlegame short"]
+[Rating "1195"]
 
-1. e3 { Remove the guard! Protecting the pawn. }
-1... exd4 2. exd4 *
+10. Bxf6 Bxf6 11. Qxg4 *
 
 
 
@@ -557,18 +535,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "26"]
+[Round "1446"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example26"]
-[Themes "capturingDefender opening short"]
+[FEN "r1b1k2r/pp3ppp/2n1p3/3pP3/3N4/5N2/Pq1QBPPP/R4RK1 b kq - 0 13"]
+[LichessURL "https://lichess.org/Rrg1i6wr#25"]
+[PuzzleId "61Rfx"]
+[Themes "advantage capturingDefender middlegame short"]
+[Rating "1162"]
 
-1... Bb4+ { Remove the guard! Attacking the defender. }
-2. Bd2 Bxd2+ *
+13... Qxd2 14. Nxd2 Nxd4 *
 
 
 
@@ -579,40 +557,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "27"]
+[Round "1474"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example27"]
-[Themes "capturingDefender opening short"]
+[FEN "1rn2rk1/pp3ppp/2n1p3/q2pP1B1/3P2P1/P4N2/PQ3P1P/2R2RK1 w - - 3 18"]
+[LichessURL "https://lichess.org/9n3ukTD1/black#34"]
+[PuzzleId "MUob7"]
+[Themes "capturingDefender crushing middlegame short"]
+[Rating "1164"]
 
-1. Bg5 { Remove the guard! Attacking the defender. }
-1... Be7 2. Bxf6 *
-
-
-
-
-
-
-
-[Event "Tactics 2: Remove the Guard"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "28"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example28"]
-[Themes "capturingDefender opening short"]
-
-1... Bg4 { Remove the guard! Attacking the defender. }
-2. f3 Bxf3 *
+18. Rxc6 bxc6 19. Qxb8 *
 
 
 
@@ -623,18 +579,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "29"]
+[Round "469"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4"]
-[LichessURL "https://lichess.org/example/black#1"]
-[PuzzleId "example29"]
-[Themes "capturingDefender opening short"]
+[FEN "rn3rk1/5pp1/1pqbp2p/pQ1p4/P2P1B2/5N2/1PP2PPP/R2R2K1 w - - 0 17"]
+[LichessURL "https://lichess.org/95oayznD/black#32"]
+[PuzzleId "QpiDF"]
+[Themes "capturingDefender crushing middlegame short"]
+[Rating "1016"]
 
-1. a3 { Remove the guard! Protecting the knight. }
-1... Be7 2. dxe5 *
+17. Qxc6 Nxc6 18. Bxd6 *
 
 
 
@@ -645,15 +601,59 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Tactics 2: Remove the Guard"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "30"]
+[Round "632"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"]
-[LichessURL "https://lichess.org/example#1"]
-[PuzzleId "example30"]
-[Themes "capturingDefender opening short"]
+[FEN "5r1k/6pp/8/8/2p5/2P1B2P/PP1Q1PPK/3q4 b - - 0 28"]
+[LichessURL "https://lichess.org/n7VdGMgn#55"]
+[PuzzleId "ROawB"]
+[Themes "advantage capturingDefender endgame short"]
+[Rating "1045"]
 
-1... d5 { Remove the guard! Attacking the center. }
-2. exd5 Nxd5 *
+28... Qxd2 29. Bxd2 Rxf2 *
+
+
+
+
+
+
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1716"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1rk1/1pp1bppp/p2pN3/1B6/5B2/2P5/PPP2PPP/R2QR1K1 b - - 0 12"]
+[LichessURL "https://lichess.org/GjMSOIpU#23"]
+[PuzzleId "slV6j"]
+[Themes "advantage capturingDefender discoveredAttack opening short"]
+[Rating "1182"]
+
+12... fxe6 13. Bd3 Rxf4 *
+
+
+
+
+
+
+
+[Event "Tactics 2: Remove the Guard"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1277"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pppn1pp1/4pn2/q5Bp/3P2b1/2N2N1P/PPP1BPP1/R2Q1RK1 b kq - 2 9"]
+[LichessURL "https://lichess.org/FVHS5T9c#17"]
+[PuzzleId "pwsiB"]
+[Themes "advantage capturingDefender opening short"]
+[Rating "1147"]
+
+9... Bxf3 10. Bxf3 Qxg5 *

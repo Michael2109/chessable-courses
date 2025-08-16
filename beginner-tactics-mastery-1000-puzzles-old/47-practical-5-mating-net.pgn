@@ -1,46 +1,18 @@
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/6K1/p7/7P/1k6/8/8 w - - 2 48"]
-[LichessURL "https://lichess.org/nceY4y01/black#94"]
-[PuzzleId "GNtc9"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
-
-{Practical 5: Mating Net
-
-This section focuses on Quiet Moves Creating Inevitable Mate.
-
-Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Learn to recognize quiet moves that create mating nets and inevitable checkmate sequences.
-}
-1. h5 { Mating net! Quiet move creating inevitable mate. }
-3... Ka2 49. h6 Kb1 50. h7 a4 51. h8=Q { The pawn promotion creates mate. }
-
-
-
-
-
-
-
-[Event "Practical 5: Mating Net"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "2"]
+[Round "841"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p5K1/7P/8/8/1k6 b - - 1 47"]
-[LichessURL "https://lichess.org/3cY276LH#93"]
-[PuzzleId "QTxwg"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "2r5/8/R1p2k1p/6p1/1p3pK1/1P3P1P/2P1R1P1/8 b - - 0 37"]
+[LichessURL "https://lichess.org/0OELLwi4#73"]
+[PuzzleId "OzFQT"]
+[Themes "attraction endgame long mate mateIn3 rookEndgame"]
+[Rating "986"]
 
-1... a4 { Mating net! Quiet move creating inevitable mate. }
-2. h5 a3 49. h6 a2 50. h7 a1=Q { The pawn promotion creates mate. }
+37... h5+ 38. Kxh5 Rh8+ 39. Kg4 Rh4# *
 
 
 
@@ -51,18 +23,40 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "3"]
+[Round "1338"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/7K/p2p4/3k2P1/7P/8/8 w - - 0 56"]
-[LichessURL "https://lichess.org/Hp7keymc/black#110"]
-[PuzzleId "iO9oS"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
+[FEN "3r1r2/p4B2/2b5/2P5/3p3k/P3p2N/7P/5RK1 w - - 2 38"]
+[LichessURL "https://lichess.org/QYPBgCAH/black#74"]
+[PuzzleId "lzxym"]
+[Themes "endgame long mate mateIn3 sacrifice"]
+[Rating "1079"]
 
-1. g5 { Mating net! Quiet move creating inevitable mate. }
-3... Kc3 57. g6 { The pawn advance creates mate. }
+38. Rf4+ Kxh3 39. Be6+ Rf5 40. Bxf5# *
+
+
+
+
+
+
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1881"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5rk/4bqpp/2b2p2/p1p1pP2/2PpP1RQ/1p1P2RP/1P3NP1/7K w - - 4 30"]
+[LichessURL "https://lichess.org/7JEk19Za/black#58"]
+[PuzzleId "Wvdha"]
+[Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
+[Rating "1180"]
+
+30. Qxh7+ Kxh7 31. Rh4+ Qh5 32. Rxh5# *
 
 
 
@@ -95,40 +89,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "5"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/6K1/1p6/p7/k6P/8/8/8 w - - 0 57"]
-[LichessURL "https://lichess.org/Q4JOV3Gz/black#112"]
-[PuzzleId "NE4qD"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
-
-1. h5 { Mating net! Quiet move creating inevitable mate. }
-3... b5 58. h6 b4 59. h7 b3 60. h8=Q { The pawn promotion creates mate. }
-
-
-
-
-
-
-
-[Event "Practical 5: Mating Net"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "6"]
+[Round "1492"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6K1/k4p2/7p/1P5P/7P/8/8 b - - 0 48"]
-[LichessURL "https://lichess.org/T8946uuZ#95"]
-[PuzzleId "1vrby"]
-[Themes "crushing endgame long pawnEndgame quietMove"]
+[FEN "k4r2/pp6/8/B2P4/2p5/2N4Q/PPq3PP/3R2K1 b - - 0 31"]
+[LichessURL "https://lichess.org/vRXLFrMA#61"]
+[PuzzleId "w5Nne"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "1101"]
 
-1... f5 { Mating net! Quiet move creating inevitable mate. }
-2. Kh6 f4 50. Kxh5 f3 { The pawn advance creates mate. }
+31... Qf2+ 32. Kh1 Qf1+ 33. Rxf1 Rxf1# *
 
 
 
@@ -139,18 +111,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "1687"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/p7/1p4K1/7P/2k5/8/8 w - - 1 49"]
-[LichessURL "https://lichess.org/p8ypLh30/black#96"]
-[PuzzleId "oIjzZ"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "6k1/pp3rpp/4Qp2/8/6B1/3P3P/Pqr2PP1/4R1K1 w - - 0 27"]
+[LichessURL "https://lichess.org/7rMiLpjn/black#52"]
+[PuzzleId "tG47c"]
+[Themes "clearance deflection endgame long mate mateIn3"]
+[Rating "1144"]
 
-1. h5 { Mating net! Quiet move creating inevitable mate. }
-3... Kc2 50. h6 b4 51. h7 b3 52. h8=Q { The pawn promotion creates mate. }
+27. Qe8+ Rf8 28. Be6+ Kh8 29. Qxf8# *
 
 
 
@@ -161,18 +133,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "8"]
+[Round "822"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/8/3K4/7p/P7/8/8/8 b - - 0 54"]
-[LichessURL "https://lichess.org/HltJcU7B#107"]
-[PuzzleId "HYrir"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "k2q4/1p6/p1p5/4Q3/N3P3/8/PPP1Nb2/2K5 b - - 2 27"]
+[LichessURL "https://lichess.org/CutxxhFy#53"]
+[PuzzleId "KfvN7"]
+[Themes "endgame fork long mate mateIn3"]
+[Rating "983"]
 
-1... h4 { Mating net! Quiet move creating inevitable mate. }
-2. Kc7 h3 56. a5 h2 57. Kb8 h1=Q { The pawn promotion creates mate. }
+27... Be3+ 28. Kb1 Qd1+ 29. Nc1 Qxc1# *
 
 
 
@@ -183,18 +155,40 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "9"]
-[White "You"]
-[Black "Opponent"]
+[Round "1139"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/1K6/6p1/7p/P6k/8/8/8 w - - 0 56"]
-[LichessURL "https://lichess.org/11upt0Hi/black#110"]
-[PuzzleId "WaGjF"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "8/p4r1k/bpR3pp/8/3PQ3/4P3/PP1q1PPP/R5K1 b - - 1 26"]
+[LichessURL "https://lichess.org/g419VZ83#51"]
+[PuzzleId "S5Bno"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "1045"]
 
-1. a5 { Mating net! Quiet move creating inevitable mate. }
-3... g5 57. a6 g4 58. a7 g3 59. a8=Q { The pawn promotion creates mate. }
+26... Qxf2+ 27. Kh1 Qf1+ 28. Rxf1 Rxf1# *
+
+
+
+
+
+
+
+[Event "Practical 5: Mating Net"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1952"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppk5/6p1/4p3/4B3/4p2Q/PP2K1PP/2q5 b - - 3 40"]
+[LichessURL "https://lichess.org/SZ1uSot0#79"]
+[PuzzleId "SziKs"]
+[Themes "endgame exposedKing long mate mateIn3"]
+[Rating "1192"]
+
+40... Qd2+ 41. Kf3 Qf2+ 42. Kg4 Qf4# *
 
 
 
@@ -315,18 +309,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
-[White "You"]
-[Black "Opponent"]
+[Round "1695"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/6K1/1p6/7P/2k5/8/8 w - - 2 51"]
-[LichessURL "https://lichess.org/XtWz6pGW/black#100"]
-[PuzzleId "GT9Zy"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "r1b1k2r/ppp1qppn/2n4p/3PpP2/8/3P3P/PPPN2P1/R2QKBNR b KQkq - 0 10"]
+[LichessURL "https://lichess.org/WiJSdiCC#19"]
+[PuzzleId "kmSqS"]
+[Themes "exposedKing long mate mateIn3 opening"]
+[Rating "1146"]
 
-1. h5 { Mating net! Quiet move creating inevitable mate. }
-3... b4 52. h6 Kc2 53. h7 b3 54. h8=Q { The pawn promotion creates mate. }
+10... Qh4+ 11. g3 Qxg3+ 12. Ke2 Nd4# *
 
 
 
@@ -359,18 +353,18 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "17"]
+[Round "1371"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/2p5/8/P3k3/4p3/4K3/8 w - - 1 41"]
-[LichessURL "https://lichess.org/zbAcN4nU/black#80"]
-[PuzzleId "VwoKr"]
-[Themes "crushing endgame pawnEndgame quietMove short"]
+[FEN "r1bq2k1/pp3pnp/2p1r1p1/8/6P1/3B4/PPP2Q1P/R4RK1 w - - 1 24"]
+[LichessURL "https://lichess.org/8Q9k2Kle/black#46"]
+[PuzzleId "pZMJH"]
+[Themes "backRankMate long mate mateIn3 middlegame"]
+[Rating "1084"]
 
-1. a5 { Mating net! Quiet move creating inevitable mate. }
-3... c5 42. a6 { The pawn advance creates mate. }
+24. Qxf7+ Kh8 25. Qf8+ Qxf8 26. Rxf8# *
 
 
 
@@ -425,15 +419,15 @@ Game-like scenarios emphasizing decision-making, safety, and resourcefulness. Le
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "843"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/p2K3p/P1P5/6k1/8/8 b - - 1 48"]
-[LichessURL "https://lichess.org/KDVwVoN6#95"]
-[PuzzleId "RE0OS"]
-[Themes "advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong"]
+[FEN "5r1k/1Qp3pp/3p1q2/p3p3/4P3/6P1/PPP3PP/R5K1 b - - 0 21"]
+[LichessURL "https://lichess.org/4FCanmwz#41"]
+[PuzzleId "jmj0o"]
+[Themes "backRankMate endgame long mate mateIn3 sacrifice"]
+[Rating "986"]
 
-1... h4 { Mating net! Quiet move creating inevitable mate. }
-2. c5 h3 50. c6 h2 51. c7 h1=Q+ { The pawn promotion creates mate. }
+21... Qf2+ 22. Kh1 Qf1+ 23. Rxf1 Rxf1# *

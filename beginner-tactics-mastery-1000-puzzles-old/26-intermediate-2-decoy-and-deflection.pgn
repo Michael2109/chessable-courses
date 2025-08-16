@@ -1,68 +1,18 @@
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "MjjYD"]
-[Themes "crushing deflection discoveredAttack endgame short"]
-
-{Intermediate 2: Decoy & Deflection
-
-This section focuses on Luring pieces to bad squares.
-
-Sharpen named motif recognition and learn how to exploit them fast.
-}
-1. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-3... Kb8 28. Rxd8+ *
-
-
-
-
-
-
-
-[Event "Intermediate 2: Decoy & Deflection"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "2"]
+[Round "1816"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/r2R1kp1/3K4/8/P1P5/8 b - - 0 47"]
-[LichessURL "https://lichess.org/8XuVBHQ3#93"]
-[PuzzleId "0iCwz"]
-[Themes "crushing defensiveMove endgame rookEndgame short"]
-
-1... Rxd5+ { Deflection! The rook deflects the king from protecting the pawn. }
-2. Kxd5 g4 *
-
-
-
-
-
-
-
-[Event "Intermediate 2: Decoy & Deflection"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "3"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1kb1Q1R1/2p5/pp1p4/8/3P4/1P6/PKP5/5q1r w - - 0 35"]
-[LichessURL "https://lichess.org/TSUSRQbZ/black#68"]
-[PuzzleId "1giyd"]
+[FEN "5r1k/pp4pp/3Q4/4p3/N5qP/1PP3P1/1P5K/7R b - - 0 31"]
+[LichessURL "https://lichess.org/4HiShVwt#61"]
+[PuzzleId "5NCX4"]
 [Themes "deflection endgame mate mateIn2 short"]
+[Rating "1181"]
 
-1. Qxc8+ { Deflection! The queen deflects the king from protecting the pawn. }
-1... Ka7 2. Qxc7# *
+31... Rf2+ 32. Kg1 Qxg3# *
 
 
 
@@ -73,18 +23,62 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "1886"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5rk1/pQ2R1p1/4pq1p/4N3/1P1PP3/6P1/5P1P/5BK1 w - - 0 32"]
-[LichessURL "https://lichess.org/u9kARR5o#63"]
-[PuzzleId "1lszn"]
-[Themes "deflection endgame mate mateIn2 short"]
+[FEN "2kr2r1/2p2p2/1p1p1p2/8/P1QPP2p/5P1q/3B1K1P/1R4R1 b - - 0 26"]
+[LichessURL "https://lichess.org/5RXuVmHH#51"]
+[PuzzleId "XDOlx"]
+[Themes "crushing deflection middlegame short"]
+[Rating "1188"]
 
-1. Qxf2+ { Deflection! The queen deflects the king from protecting the rook. }
-1... Kh1 2. Qxf1# *
+26... Qxh2+ 27. Ke3 Rxg1 *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1473"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/r5kp/2NB2p1/p1Pp4/P7/8/1P3KPP/4R3 b - - 0 29"]
+[LichessURL "https://lichess.org/qTReyVG1#57"]
+[PuzzleId "Lu7su"]
+[Themes "advantage deflection endgame short"]
+[Rating "1136"]
+
+29... Rf7+ 30. Kg3 Rxe1 *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1554"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1rbk1/3n1p1p/pqb3p1/1p2B2Q/1P3P2/PBN5/6PP/R4R1K w - - 0 22"]
+[LichessURL "https://lichess.org/sc58pWA4/black#42"]
+[PuzzleId "VDvMi"]
+[Themes "attraction crushing deflection kingsideAttack middlegame short"]
+[Rating "1148"]
+
+22. Bxf7+ Kxf7 23. Qxh7+ *
 
 
 
@@ -117,18 +111,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "818"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/p7/4K3/8/2k5/7P/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/4oQYHNCm/black#100"]
-[PuzzleId "1oL78"]
-[Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
+[FEN "3r2k1/ppp2ppp/5b2/8/1B6/4PP2/PPP3PP/2KR4 b - - 0 17"]
+[LichessURL "https://lichess.org/GxGpg9jl#33"]
+[PuzzleId "TcRax"]
+[Themes "advantage deflection endgame queensideAttack short"]
+[Rating "1038"]
 
-1. h4 { Deflection! The pawn deflects the king from protecting the pawn. }
-1... a5 2. h5 *
+17... Bxb2+ 18. Kxb2 Rxd1 *
 
 
 
@@ -139,18 +133,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "7"]
+[Round "1949"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "3NmL7"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "r3r3/R2Rb3/3pk3/p3p1pp/1p2P3/PP6/1B3PPP/6K1 w - - 0 29"]
+[LichessURL "https://lichess.org/qxIHaVvS/black#56"]
+[PuzzleId "vbMaU"]
+[Themes "crushing deflection endgame short"]
+[Rating "1194"]
 
-1. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-3... Kb8 28. Rxd8+ *
+29. Rxe7+ Rxe7 30. Rxa8 *
 
 
 
@@ -227,18 +221,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "1625"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k5/4K3/8/p1pP4/6p1/3p4/8/8 w - - 0 51"]
-[LichessURL "https://lichess.org/cYY1SFY6/black#100"]
-[PuzzleId "5HjkD"]
-[Themes "advancedPawn crushing deflection endgame exposedKing long pawnEndgame promotion"]
+[FEN "4r2k/7p/6p1/4q3/1P1Q4/2P3P1/5R1K/2n5 w - - 2 50"]
+[LichessURL "https://lichess.org/xcVMyqW5/black#98"]
+[PuzzleId "kEOjx"]
+[Themes "crushing deflection endgame master short"]
+[Rating "1157"]
 
-1. d6 { Deflection! The pawn deflects the king from protecting the promotion square. }
-3... g3 52. d7+ Kb7 53. d8=Q *
+50. Rf8+ Rxf8 51. Qxe5+ *
 
 
 
@@ -271,18 +265,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "1582"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "4KLOw"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "2kr1bnr/p1p2ppp/1p6/4q3/8/2P1B3/PP3PPP/R2QKB1R w KQ - 0 11"]
+[LichessURL "https://lichess.org/2Pn9X6Ug/black#20"]
+[PuzzleId "F3VKF"]
+[Themes "deflection mate mateIn2 middlegame queensideAttack short"]
+[Rating "1152"]
 
-1. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-3... Kb8 28. Rxd8+ *
+11. Ba6+ Kb8 12. Qxd8# *
 
 
 
@@ -293,18 +287,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
+[Round "911"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "2cAVm"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "8/8/7k/2p1P1R1/6PK/5P2/2r5/8 b - - 0 43"]
+[LichessURL "https://lichess.org/wuLJjgNL#85"]
+[PuzzleId "ylVh5"]
+[Themes "crushing deflection endgame rookEndgame short"]
+[Rating "1054"]
 
-1... h2+ { Deflection! The pawn deflects the king from protecting the knight. }
-2. Kh1 Kxf2 *
+43... Rh2+ 44. Kg3 Kxg5 *
 
 
 
@@ -315,40 +309,40 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "460"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5bk1/Q6p/1p4p1/1P6/2P2pP1/3q1P1P/4RK2 b - - 0 38"]
+[LichessURL "https://lichess.org/sf8RMRq3#75"]
+[PuzzleId "mGEW3"]
+[Themes "deflection endgame mate mateIn2 short"]
+[Rating "970"]
+
+38... Bc4+ 39. Kg1 Qxe1# *
+
+
+
+
+
+
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1688"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4rrk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 w - - 1 27"]
-[LichessURL "https://lichess.org/KPb3dqFK/black#52"]
-[PuzzleId "3C1sr"]
-[Themes "advantage deflection discoveredAttack endgame short"]
+[FEN "8/p1p5/1p1pPbk1/3P2p1/3KNp2/1BN4r/PPP5/8 w - - 6 43"]
+[LichessURL "https://lichess.org/yxYeth6L/black#84"]
+[PuzzleId "sXm9n"]
+[Themes "advantage attraction deflection endgame long"]
+[Rating "1165"]
 
-1. Nf6+ { Deflection! The knight deflects the rook from protecting the other rook. }
-3... Rxf6 28. Rxe8+ *
-
-
-
-
-
-
-
-[Event "Intermediate 2: Decoy & Deflection"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "16"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "3FalB"]
-[Themes "crushing deflection endgame master short"]
-
-1... Nc5+ { Deflection! The knight deflects the king from protecting the bishop. }
-2. Ke2 Nxe4 *
+43. Nxf6 Kxf6 44. Ne4+ Ke7 45. Nxg5 *
 
 
 
@@ -381,18 +375,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "18"]
+[Round "1818"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/4nk2/4p1p1/4K2p/3BP3/6PP/8/8 b - - 0 44"]
-[LichessURL "https://lichess.org/Ab0KdMec#87"]
-[PuzzleId "3l0V1"]
-[Themes "crushing deflection endgame master short"]
+[FEN "6k1/p4pp1/4q2p/1p6/1P1P2QP/P4RPK/4r3/8 b - - 4 36"]
+[LichessURL "https://lichess.org/w7PRnN1Z#71"]
+[PuzzleId "HMIeK"]
+[Themes "crushing deflection endgame short"]
+[Rating "1181"]
 
-1... Nc6+ { Deflection! The knight deflects the king from protecting the bishop. }
-2. Kf4 Nxd4 *
+36... Rh2+ 37. Kxh2 Qxg4 *
 
 
 
@@ -403,18 +397,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "19"]
+[Round "1941"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
-[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
-[PuzzleId "52I2M"]
-[Themes "crushing deflection discoveredAttack endgame short"]
+[FEN "8/q2pR1Q1/2pP1np1/6kp/p7/P6P/2Pr2PK/1r6 w - - 3 31"]
+[LichessURL "https://lichess.org/kmZeInMc/black#60"]
+[PuzzleId "99Kxh"]
+[Themes "deflection endgame long mate mateIn3"]
+[Rating "1194"]
 
-1. Bxf5+ { Deflection! The bishop deflects the king from protecting the rook. }
-3... Kb8 28. Rxd8+ *
+31. Re5+ Kh4 32. Qxf6+ g5 33. Qxg5# *
 
 
 
@@ -425,18 +419,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Intermediate 2: Decoy & Deflection"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "20"]
+[Round "1746"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 b - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "2dJFE"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "4rbk1/2p3p1/2p4p/3nN3/1pN2P2/1P1P2Bq/2P2Q2/R5K1 b - - 1 28"]
+[LichessURL "https://lichess.org/v3OmY1ys#55"]
+[PuzzleId "5Bql2"]
+[Themes "advantage deflection long middlegame pin"]
+[Rating "1173"]
 
-1... h2+ { Deflection! The pawn deflects the king from protecting the knight. }
-2. Kh1 Kxf2 *
+28... Bc5 29. d4 Bxd4 30. Qxd4 Qxg3+ *
 
 
 

@@ -29,18 +29,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "2"]
+[Round "489"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "5k2/p7/6Q1/3pP3/2p2P2/7n/P1r3PP/6RK b - - 0 47"]
+[LichessURL "https://lichess.org/sKcx3CmE#93"]
+[PuzzleId "LHTjb"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[Rating "835"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+47... Nf2# *
 
 
 
@@ -51,18 +51,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "3"]
+[Round "802"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "r2qkr2/p2bnp1p/1p2p1p1/1N1pP3/3Q4/5P2/PPP3PP/2KR1B1R w q - 1 14"]
+[LichessURL "https://lichess.org/Hj9JEdCe/black#26"]
+[PuzzleId "u4oR0"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "879"]
 
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+14. Nd6# *
 
 
 
@@ -73,40 +73,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "4"]
+[Round "100"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "r4rk1/1b2bpp1/pqnpp2p/1pp4n/4PP2/P2P3P/BPP3PN/R1BQ1RNK b - - 7 14"]
+[LichessURL "https://lichess.org/lOarzv6d#27"]
+[PuzzleId "yUj1z"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "686"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "5"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
-
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+14... Ng3# *
 
 
 
@@ -117,40 +95,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "6"]
+[Round "1103"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "2r1r3/4kp1Q/p2p4/1p2p1p1/8/P1N4n/1P4PP/6RK b - - 0 34"]
+[LichessURL "https://lichess.org/PzkVqrYG#67"]
+[PuzzleId "Jokhk"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[Rating "921"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "7"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
-
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+34... Nf2# *
 
 
 
@@ -161,40 +117,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "8"]
+[Round "1927"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "r6r/3Bkp2/4p2q/2P3p1/3P2n1/5N2/3NQPP1/1R2RK2 b - - 2 29"]
+[LichessURL "https://lichess.org/8Jp1kqMh#57"]
+[PuzzleId "EOJut"]
+[Themes "mate mateIn2 middlegame short smotheredMate"]
+[Rating "1153"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "9"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
-
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+29... Qh1+ 30. Ng1 Nh2# *
 
 
 
@@ -205,18 +139,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "10"]
+[Round "1462"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "5rk1/Q5pp/4b3/1p2B1b1/3P4/n7/PP1N2PP/KR5R b - - 0 26"]
+[LichessURL "https://lichess.org/8QUuEV6K#51"]
+[PuzzleId "kyj7t"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "974"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+26... Nc2# *
 
 
 
@@ -227,18 +161,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "11"]
+[Round "984"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "6rk/1q1nR1bp/3p2pN/2p5/8/7P/1PP2PP1/2B3K1 w - - 0 25"]
+[LichessURL "https://lichess.org/FnJZwU3j/black#48"]
+[PuzzleId "fK2DL"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "904"]
 
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+25. Nf7# *
 
 
 
@@ -249,18 +183,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "12"]
+[Round "513"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "r5k1/1pp4b/5Q1p/3P4/p1P2b2/Pn5n/1B4PP/3R1BNK b - - 0 27"]
+[LichessURL "https://lichess.org/HBgROcD7#53"]
+[PuzzleId "BC4rZ"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "839"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+27... Nf2# *
 
 
 
@@ -271,18 +205,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "13"]
+[Round "621"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "1r4rk/6pp/3N4/p4pq1/2R2n2/1B5P/5PP1/3R2K1 w - - 0 37"]
+[LichessURL "https://lichess.org/ijzUqCbp/black#72"]
+[PuzzleId "q4m7j"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "855"]
 
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+37. Nf7# *
 
 
 
@@ -293,18 +227,18 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "14"]
+[Round "1977"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "CxmD7"]
-[Themes "crushing deflection endgame master short"]
+[FEN "r1bqr1k1/pppp1ppp/5n2/8/1PPn4/2N3P1/1P1BNP1P/R2QKB1R b KQ - 0 10"]
+[LichessURL "https://lichess.org/gzlZEhmc#19"]
+[PuzzleId "kIwlj"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+[Rating "1187"]
 
-1... Nc5+ { Knight's final strike! The knight delivers a discovered attack. }
-2. Ke2 Nxe4 *
+10... Nf3# *
 
 
 
@@ -315,17 +249,83 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "924"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/p1p3pp/3p1r2/8/3P2b1/2P2B1n/PPQN2PP/R5RK b - - 0 23"]
+[LichessURL "https://lichess.org/fC8mI4Yj#45"]
+[PuzzleId "VPsIO"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "896"]
+
+23... Nf2# *
+
+
+
+
+
+
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1002"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "r2qr1nk/pbpnb1pp/1p5N/8/3P4/PP1B4/1BP2PPP/R3R1K1 w - - 0 21"]
+[LichessURL "https://lichess.org/qNi1h2nx/black#40"]
+[PuzzleId "YX4Im"]
+[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "907"]
 
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
+21. Nf7# *
+
+
+
+
+
+
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "557"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq2rk/p3p1bp/1p4p1/4Nb2/8/1Q4Pn/PP3PKP/R3R3 w - - 0 22"]
+[LichessURL "https://lichess.org/w9rvRXAu/black#42"]
+[PuzzleId "0Ef1Q"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "846"]
+
+22. Nf7# *
+
+
+
+
+
+
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "715"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q2rk/3bp1bn/p2p2p1/3P1P2/1Pp1PN2/P1N4R/6PP/2R3K1 w - - 0 30"]
+[LichessURL "https://lichess.org/tqPzzNwf/black#58"]
+[PuzzleId "wU7K1"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "868"]
+
+30. Nxg6# *
 
 
