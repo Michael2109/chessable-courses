@@ -11,13 +11,7 @@
 [PuzzleId "YNqxV"]
 [Themes "advantage endgame fork hangingPiece short"]
 
-{Basics 2: Free Pieces!
-
-This section focuses on One-move captures, undefended pieces.
-
-Build core habits and quick recognition by checking forcing moves first.
-}
-1... Bxe3+ { Free piece! The bishop on e3 is undefended and can be captured for free. } 2. Kf1 Bxd2 *
+1... Bxe3+ { Nice fork! Capture the bishop and give check - two birds with one stone! } 2. Kf1 Bxd2 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -32,7 +26,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gI7gR"]
 [Themes "crushing endgame hangingPiece master short"]
 
-1. fxe5 { Free piece! The queen on e5 is undefended and can be captured for free. } 1... Kb4 2. e6 *
+1. fxe5 { Jackpot! The queen is completely undefended. Always look for hanging pieces! } 1... Kb4 2. e6 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -47,7 +41,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "u4EHA"]
 [Themes "crushing endgame hangingPiece master short"]
 
-1. Bxe6 { Free piece! The knight on e6 is undefended and can be captured for free. } 1... g1=Q+ 2. Kxg1 *
+1. Bxe6 { Grab the knight! Even with Black's dangerous pawn, you must capture free pieces. } 1... g1=Q+ 2. Kxg1 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -62,7 +56,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "GatFx"]
 [Themes "crushing endgame hangingPiece knightEndgame master short"]
 
-1. Nxe5 { Free piece! The pawn on e5 is undefended and can be captured for free. } 1... c4 2. Nxc4 *
+1. Nxe5 { Perfect knight maneuver! The pawn is hanging and you can clean up both pawns. } 1... c4 2. Nxc4 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -77,22 +71,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "QzAaC"]
 [Themes "advantage fork hangingPiece middlegame opening short"]
 
-1. Qxc2 { Free piece! The knight on c2 is undefended and can be captured for free. } 1... Qxd5 2. exd5 *
+1. Qxc2 { The knight overplayed! It's sitting undefended on c2 - time to punish it. } 1... Qxd5 2. exd5 *
 
-[Event "Basics 2: Free Pieces!"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "6"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1bq1rk1/ppp2ppp/2n5/2bpP3/8/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 8"]
-[LichessURL "https://lichess.org/8J06BdOD#15"]
-[PuzzleId "8J06B"]
-[Themes "advantage hangingPiece middlegame opening short"]
 
-1... Qxb7 { Free piece! The rook on b7 is undefended and can be captured for free. } 2. Rxg7+ Kxg7 *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -107,7 +88,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "YMjtG"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Qxe8# { Free piece! The rook on e8 is undefended and can be captured for checkmate. } *
+1. Qxe8# { Beautiful! The rook is hanging and capturing it delivers checkmate. Free piece plus mate! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -122,7 +103,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "pOn8P"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1... Qxe1# { Free piece! The rook on e1 is undefended and can be captured for checkmate. } *
+1... Qxe1# { Sweet revenge! The rook has no protection and capturing it ends the game instantly. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -137,7 +118,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "DbkyF"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Qxe8# { Free piece! The rook on e8 is undefended and can be captured for checkmate. } *
+1. Qxe8# { Checkmate! The back rank rook was completely undefended. Always scan for hanging pieces! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -152,7 +133,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "JzASt"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Rxe1# { Free piece! The rook on e1 is undefended and can be captured for checkmate. } *
+1... Rxe1# { Game over! The lonely rook on e1 had no defenders. Back rank mate! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -167,7 +148,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "m85Fo"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-1. Qxh8# { Free piece! The queen on h8 is undefended and can be captured for checkmate. } *
+1. Qxh8# { Brilliant! Capture the hanging queen with checkmate. Two prizes in one move! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -182,7 +163,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "c6xCr"]
 [Themes "backRankMate hangingPiece mate mateIn1 middlegame oneMove"]
 
-1... Rxf1# { Free piece! The rook on f1 is undefended and can be captured for checkmate. } *
+1... Rxf1# { Perfect timing! The rook was unprotected and you deliver back rank mate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -197,7 +178,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "VnWn2"]
 [Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove"]
 
-1. Qxe8# { Free piece! The rook on e8 is undefended and can be captured for checkmate. } *
+1. Qxe8# { Decisive! The back rank rook falls and it's mate. Your king is safe despite the chaos! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -212,7 +193,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "zw6mS"]
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Rxe1# { Free piece! The knight on e1 is undefended and can be captured for checkmate. } *
+1... Rxe1# { Checkmate on the back rank! The knight couldn't defend itself. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -227,7 +208,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "t98fJ"]
 [Themes "backRankMate hangingPiece mate mateIn2 middlegame short"]
 
-1. Rxc8+ { Free piece! The rook on c8 is undefended and can be captured. } 1... Qd8 2. Rxd8# { Checkmate! } *
+1. Rxc8+ { First grab the hanging rook with check! } 1... Qd8 2. Rxd8# { Now mate! Two free pieces in a row. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -242,7 +223,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "CcSzC"]
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove rookEndgame"]
 
-1... Rxf1# { Free piece! The rook on f1 is undefended and can be captured for checkmate. } *
+1... Rxf1# { Clean finish! The f1 rook was abandoned and you punish with back rank mate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -257,7 +238,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "z1pQr"]
 [Themes "endgame hangingPiece mate mateIn1 oneMove"]
 
-1. Qxe8# { Free piece! The queen on e8 is undefended and can be captured for checkmate. } *
+1. Qxe8# { Queen takes queen with mate! The ultimate free piece capture. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -272,7 +253,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "gFLyt"]
 [Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
 
-1... Rxd1# { Free piece! The rook on d1 is undefended and can be captured for checkmate. } *
+1... Rxd1# { Excellent! The rook was sitting there defenseless. Back rank mate strikes again! } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -287,7 +268,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "HsnWP"]
 [Themes "backRankMate endgame hangingPiece master mate mateIn1 oneMove rookEndgame"]
 
-1. Rxb8# { Free piece! The rook on b8 is undefended and can be captured for checkmate. } *
+1. Rxb8# { Perfect rook endgame technique! Capture the hanging rook with mate. } *
 
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
@@ -302,4 +283,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "5W94z"]
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
-1... Rxe1# { Free piece! The rook on e1 is undefended and can be captured for checkmate. } *
+1... Rxe1# { Beautiful endgame finish! The rook was completely undefended. Always stay alert for free pieces! } *
