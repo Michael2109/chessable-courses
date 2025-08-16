@@ -11,12 +11,7 @@
 [PuzzleId "txI8r"]
 [Themes "endgame mate mateIn1 oneMove"]
 
-{Basics 1: Deliver Checkmate!
-
-This section focuses on Direct threats, undefended squares.
-
-Build core habits and quick recognition by checking forcing moves first.}
-1. Qh8# { Beautiful! The queen swoops in from h4 to h8, delivering checkmate along the back rank. The poor Black king on f8 is completely trapped - it can't go to e7 (queen controls it), can't slide to g8 or g7 (queen's got those covered too), and its own pawn on f7 blocks the only other escape square. Classic back rank mate! } *
+1. Qh8# { Beautiful! The queen swoops to h8 for a classic back rank mate. The king is trapped by its own pawn! } *
 
 
 
@@ -37,7 +32,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "SbNfk"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qxg7# { Boom! The queen captures on g7 with checkmate. Notice how the rook on c7 is the unsung hero here - it covers the entire 7th rank, preventing the king from escaping to h7. Meanwhile, the knight on d5 guards f6. The Black king on h8 has nowhere to run! } *
+1. Qxg7# { Boom! Queen takes g7 with checkmate. The rook on c7 is the hero - it cuts off the king's escape to h7! } *
 
 
 
@@ -58,7 +53,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "3vn9w"]
 [Themes "endgame mate mateIn1 oneMove rookEndgame"]
 
-1... Ra2# { Simple but satisfying! Your rook slides from e2 to a2, delivering checkmate. The White king on a1 is boxed in - it can't move to a2 (your rook's there), b1 or b2 are controlled by that same rook, and its own rook on b1 blocks any escape. This is why controlling key squares in rook endgames is so crucial! } *
+1... Ra2# { Perfect! The rook slides to a2 and the king is completely boxed in. This shows how powerful rooks are in endgames! } *
 
 
 
@@ -79,7 +74,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "JFkzV"]
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Qxg7# { The queen strikes again! Taking the g7 pawn delivers instant checkmate. The Black king on h8 is cornered - your knight on f5 controls h6 and g7 (well, the queen's on g7 now!), while h7 is also covered by the queen. Sometimes the simplest moves are the most devastating! } *
+1. Qxg7# { The queen strikes on g7! The knight on f5 helps trap the king. Sometimes the simplest moves are the deadliest! } *
 
 
 
@@ -100,7 +95,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "FyjHp"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qh7# { Classic smothered mate pattern! The queen delivers checkmate on h7, and the Black king on h8 is completely helpless. Your knight on f6 is doing double duty here - it guards the queen AND controls g8. The Black king is trapped by its own pieces on g7 and f7. This is why knight and queen make such a deadly combo! } *
+1. Qh7# { Classic smothered mate! The queen lands on h7 while the knight guards it perfectly. The king is trapped by its own pawns! } *
 
 
 
@@ -121,7 +116,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "MxBSL"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1... Qh2# { Kaboom! Your queen on d6 swings all the way to h2 for the knockout punch. The White king on g1 is toast - it can't escape to f1 (blocked by its own rook), h1 is controlled by your queen, and the f2 and g2 pawns trap it from the front. Always look for these killer queen moves that come out of nowhere! } *
+1... Qh2# { Kaboom! The queen swings to h2 for the knockout punch. The king is trapped by its own pawns on the kingside! } *
 
 
 
@@ -144,7 +139,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "WXH6A"]
 [Themes "mate mateIn1 middlegame oneMove queensideAttack"]
 
-1... Qxb2# { Checkmate on the queenside! Your queen captures the b2 pawn and it's game over. The White king on c1 has no escape - your dark-squared bishop on d4 covers c3 and your queen controls all the squares around the king (b1, c2, d2). Sometimes the best attack comes where they least expect it! } *
+1... Qxb2# { Checkmate on the queenside! The queen captures b2 and the bishop on d4 helps control the escape squares. Attack where they least expect it! } *
 
 
 
@@ -167,7 +162,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "rlfL3"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qh7# { Another h7 checkmate special! The queen delivers the final blow from d3. The Black king on g8 is completely surrounded - f7 and g7 are blocked by its own pawns, f8 is occupied by the rook, and h8 plus h6 are controlled by your queen. When you see the enemy king this boxed in, there's usually a mate nearby! } *
+1. Qh7# { Another classic h7 checkmate! The king is boxed in by its own pawns. When you see this setup, look for mate! } *
 
 
 
@@ -190,7 +185,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "yBF47"]
 [Themes "advancedPawn endgame mate mateIn1 oneMove"]
 
-1... h2# { Pawn delivers the final blow! This little foot soldier marches from h3 to h2 and it's checkmate. The White king on g1 can't capture the pawn because your bishop on g2 protects it. The bishop also controls f1 and h1, while the rook on f2 covers f1 and g2. Even pawns can be heroes! } *
+1... h2# { The little pawn delivers the final blow! The bishop on g2 protects it perfectly. Even pawns can be heroes! } *
 
 
 
@@ -213,7 +208,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "KMlgF"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
 
-1... Nf2# { The perfect smothered mate! Your knight hops from g4 to f2, and the White king on h1 is completely suffocated by its own pieces. The g1 rook and g2 pawn block all escape squares. This is one of the most beautiful checkmate patterns in chess - the king literally can't breathe! } *
+1... Nf2# { Perfect smothered mate! The knight lands on f2 and the king is suffocated by its own pieces. One of chess's most beautiful patterns! } *
 
 
 
@@ -236,7 +231,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "ia7T0"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-1. Rxe8# { Back rank mate strikes again! Your rook captures Black's rook on e8 with check, and it's mate. The Black king on h8 is trapped on the back rank by its own pawns on g7 and h7. Your bishop on f7 is the key piece here - it guards the rook on e8. Always watch for these back rank weaknesses! } *
+1. Rxe8# { Back rank mate! The rook captures on e8 and the bishop on f7 protects it. Always watch for these back rank weaknesses! } *
 
 
 
@@ -259,7 +254,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "xhTRa"]
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1... Qxg2# { Crushing finish! Your queen from g6 takes the g2 pawn with checkmate. The White king on g1 has nowhere to hide - f1 is controlled by your queen, h1 too, and the f2 pawn blocks another escape. This is what happens when the king's shelter gets torn apart! } *
+1... Qxg2# { Crushing finish! The queen takes g2 with checkmate. This is what happens when the king's shelter gets torn apart! } *
 
 
 
@@ -282,7 +277,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "DYSsb"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qxg7# { The queen claims another victim on g7! With the Black king on h7, this capture is instantly mate. Your bishop on h4 is crucial here - it controls g5 and f6, cutting off escape routes. The king can't go to h8 (queen controls it) or h6 (bishop controls it). Teamwork makes the dream work! } *
+1. Qxg7# { The queen claims g7! The bishop on h4 helps cut off the king's escape. Teamwork makes the dream work! } *
 
 
 
@@ -305,7 +300,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "3FalB"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1... Qxf1# { Sweet revenge! Your queen on h3 swoops down to capture the undefended rook on f1, delivering checkmate. The White king on h1 is cornered - g1 is controlled by your queen, g2 and h2 are also in the queen's range. Notice how White's pieces are too far away to help their king! } *
+1... Qxf1# { Sweet revenge! The queen captures the hanging rook with checkmate. White's pieces are too far away to help! } *
 
 
 
@@ -328,7 +323,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "9PzrY"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1... Qh2# { Lights out! Your queen from c7 delivers the haymaker on h2. The White king on g1 is finished - f1 is blocked by White's own rook, and your queen controls all the escape squares (f2, g2, h1). This is why keeping your king safe should always be priority number one! } *
+1... Qh2# { Lights out! The queen delivers the haymaker on h2. This shows why king safety should always be priority number one! } *
 
 
 
@@ -351,7 +346,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "konkQ"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qh7# { Another h7 special delivery! Your queen from d3 lands the knockout blow. The Black king on g8 is trapped like a rat - f7 blocks one square, f8 has the rook, and your queen covers g7, h8, and h6. When you have this much firepower aimed at the enemy king, checkmate is often just one move away! } *
+1. Qh7# { Another h7 knockout punch! The king is trapped by its own pieces. When you have this much firepower, mate is often just one move away! } *
 
 
 
@@ -374,7 +369,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "dpNhO"]
 [Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1... Qxf2# { Fantastic finish! Your queen captures the bishop on f2 with checkmate. The White king on g1 has no chance - h1 is covered by your queen, f1 is blocked by White's own rook, and g2 is also controlled by your queen. Sometimes the best moves are right there in front of you! } *
+1... Qxf2# { Fantastic finish! The queen captures the bishop with checkmate. Sometimes the best moves are right there in front of you! } *
 
 
 
@@ -397,7 +392,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "o4sKS"]
 [Themes "endgame mate mateIn1 oneMove"]
 
-1. Rb8# { Boom! Your rook slides from b4 to b8, delivering checkmate. The Black king on c8 is completely trapped - it can't go to b8 (your rook's there), d8 or d7 are controlled by that same rook, c7 is also covered, and b7 is blocked by Black's own pawn. Clean and efficient! } *
+1. Rb8# { Boom! The rook slides to b8 and the king is completely trapped. Clean and efficient! } *
 
 
 
@@ -420,7 +415,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "6iFyV"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1... Qe3# { Incredible! Your queen from b6 lands on e3 with checkmate. The White king on d2 walked right into trouble - it can't escape to c1, d1, or d3 (all controlled by your queen), c2 is covered, and e2 has White's own knight. Plus, your bishop on f2 helps control key squares. When the king ventures out early, punishment often follows! } *
+1... Qe3# { Incredible! The queen lands on e3 with checkmate. When the king ventures out early, punishment often follows! } *
 
 
 
@@ -443,7 +438,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "plySJ"]
 [Themes "endgame mate mateIn1 oneMove"]
 
-1. Rh8# { Perfect execution! Your rook moves from a8 to h8, and it's checkmate. The Black king on h6 is doomed - g5 is controlled by your bishop on c5, g7 is blocked by Black's own pawn, and g6 has a pawn too. Your bishop and rook work together beautifully here! } *
+1. Rh8# { Perfect execution! The rook moves to h8 and the bishop helps trap the king. Teamwork in action! } *
 
 
 
@@ -466,7 +461,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "cMvNU"]
 [Themes "mate mateIn1 oneMove opening"]
 
-1... Qf2# { Game over in the opening! Your queen from f4 drops to f2 with mate. The White king on g2 made a fatal error wandering out so early - it can't go to f1 (blocked by its own bishop), g1 or h1 (queen controls them), and g3, h3, h2 are all covered by your queen. This is why you should castle early and keep your king safe! } *
+1... Qf2# { Game over in the opening! The king wandered out too early. This is why you should castle quickly and keep your king safe! } *
 
 
 
@@ -489,7 +484,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "wNgFg"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qg7# { The classic g7 checkmate! Your queen delivers the final blow, and the Black king on h8 has nowhere to run. Your knight on h5 is the perfect supporting actor - it controls f6 and g7 (though the queen's there now). Sometimes the most direct approach is the best! } *
+1. Qg7# { The classic g7 checkmate! The knight on h5 is the perfect supporting actor. Sometimes the most direct approach is the best! } *
 
 
 
@@ -512,7 +507,7 @@ Build core habits and quick recognition by checking forcing moves first.}
 [PuzzleId "hXYUL"]
 [Themes "mate mateIn1 middlegame oneMove"]
 
-1... Qf1# { Brilliant back rank mate! Your queen from f4 swoops to f1, and the White king on g1 is history. It can't escape to f2 (queen controls it), h1 (also queen), and the g2 pawn blocks its own king. This is why you should always give your king some breathing room! } *
+1... Qf1# { Brilliant back rank mate! The queen swoops to f1 and it's all over. Always give your king some breathing room! } *
 
 
 
@@ -530,9 +525,32 @@ Build core habits and quick recognition by checking forcing moves first.}
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r1k/1q5r/3p1p1Q/1p2pNn1/2cPP3/2P3R1/1PB2PP1/6K1 w - - 1 40"]
+[FEN "5r1k/1q5r/3p1p1Q/1p2pNn1/2pPP3/2P3R1/1PB2PP1/6K1 w - - 1 40"]
 [LichessURL "https://lichess.org/b3x0pZAD/black#78"]
 [PuzzleId "v3yoc"]
 [Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Qxf8# { The queen grabs the hanging rook on f8 and it's checkmate! The Black king on h8 is completely trapped - g8 and g7 are controlled by your queen, h7 is blocked by Black's own rook. Your knight on f5 helps by controlling g7 and h6. When pieces hang near the enemy king, checkmate opportunities often appear! } *
+1. Qxf8# { The queen grabs the hanging rook with checkmate! When pieces hang near the enemy king, look for mate! } *
+
+
+
+
+
+
+
+
+
+[Event "Basics 1: Deliver Checkmate"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "58"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/4PR2/1P4B1/6PK/r1r4P/8 b - - 0 54"]
+[LichessURL "https://lichess.org/hz9FrmCf#107"]
+[PuzzleId "x3Tr5"]
+[Themes "endgame master mate mateIn1 oneMove"]
+
+1... Rxh2# { The final blow! The rook captures h2 with checkmate. Two rooks working together are absolutely lethal! } *
