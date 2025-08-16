@@ -129,14 +129,100 @@ Build core habits and quick recognition by checking forcing moves first.
 [Event "Basics 2: Free Pieces!"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "15"]
+[Round "1178"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqnrk1/pp2bppB/2p5/2n1P3/7P/2N2N2/PP3PP1/R1BQK2R b KQ - 0 12"]
+[LichessURL "https://lichess.org/8pBZTO2s#23"]
+[PuzzleId "3m0rs"]
+[Themes "advantage hangingPiece opening short"]
+[Rating "957"]
+
+12... Kxh7 13. Qxd8 Bxd8 *
+
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1176"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "rnb4k/p3q1pp/8/5p1n/3P4/PP6/4BPPP/2R1K2R w K - 0 23"]
-[LichessURL "https://lichess.org/lVSaZKpZ/black#44"]
-[PuzzleId "t98fJ"]
-[Themes "backRankMate hangingPiece mate mateIn2 middlegame short"]
+[FEN "r1q2rk1/2pbbpp1/p2p1n1p/3PpN2/2P1P2n/8/1PB2PPP/R1BQK2R w KQ - 0 18"]
+[LichessURL "https://lichess.org/SBXkRTrl/black#34"]
+[PuzzleId "RPfoj"]
+[Themes "crushing fork hangingPiece middlegame short"]
+[Rating "956"]
 
-1. Rxc8+ { First grab the hanging rook with check! } 1... Qd8 2. Rxd8# { Now mate! } *
+18. Nxe7+ Kh8 19. Nxc8 *
+
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1174"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1q1p1p/6p1/2pPR3/2P3Q1/4P3/PP4PP/RNB3K1 b - - 0 16"]
+[LichessURL "https://lichess.org/63bVq5Gv#31"]
+[PuzzleId "p2tC1"]
+[Themes "crushing hangingPiece middlegame short"]
+[Rating "955"]
+
+16... Qxg4 17. Rxe8+ Rxe8 *
+
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1172"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/5Q2/6pk/P2pP3/3P1R2/3KP3/6q1/7R b - - 8 38"]
+[LichessURL "https://lichess.org/q06gfSmi#75"]
+[PuzzleId "7zEij"]
+[Themes "crushing endgame hangingPiece short"]
+[Rating "955"]
+
+38... Qxh1 39. Rh4+ Qxh4 *
+
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1170"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5b2/3N4/4pP2/2p1P2k/6p1/8/6K1 w - - 0 74"]
+[LichessURL "https://lichess.org/pGVq1DsY/black#146"]
+[PuzzleId "adfXv"]
+[Themes "crushing endgame hangingPiece master short"]
+[Rating "954"]
+
+74. Nxf7 c3 75. Nxe5 *
+
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1171"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6n1/1Q4bk/p4Np1/4p3/PP2q2p/8/6PP/6NK b - - 1 35"]
+[LichessURL "https://lichess.org/tIshrwen#69"]
+[PuzzleId "qBJQW"]
+[Themes "advantage endgame hangingPiece short"]
+[Rating "954"]
+
+35... Nxf6 { Taking the knight and protecting the queen } 36. Qxe4 Nxe4 *
