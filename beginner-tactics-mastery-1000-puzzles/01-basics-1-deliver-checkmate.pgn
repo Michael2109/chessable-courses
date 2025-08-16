@@ -11,6 +11,11 @@
 [PuzzleId "txI8r"]
 [Themes "endgame mate mateIn1 oneMove"]
 
+{Basics 1: Deliver Checkmate!
+
+This section focuses on Direct threats, undefended squares.
+
+Build core habits and quick recognition by checking forcing moves first.}
 1. Qh8# { Beautiful! The queen swoops to h8 for a classic back rank mate. The king is trapped by its own pawn! } *
 
 

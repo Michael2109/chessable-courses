@@ -11,6 +11,12 @@
 [PuzzleId "YNqxV"]
 [Themes "advantage endgame fork hangingPiece short"]
 
+{Basics 2: Free Pieces!
+
+This section focuses on One-move captures, undefended pieces.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 1... Bxe3+ { Nice fork! Capture the bishop and give check - two birds with one stone! } 2. Kf1 Bxd2 *
 
 [Event "Basics 2: Free Pieces!"]
