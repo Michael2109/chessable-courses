@@ -6,19 +6,18 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT1"]
-[Themes "knightEndgame endgame"]
+[FEN "8/8/pp1N1p2/5Pkp/P3P1n1/6K1/1P6/8 w - - 0 42"]
+[LichessURL "https://lichess.org/ETZmoe7f/black#82"]
+[PuzzleId "KZwBw"]
+[Themes "endgame knightEndgame mate mateIn1 oneMove"]
 
 {Special 6: Knight Magic
 
 This section focuses on Octopus Knights & Outposts.
 
-Sharpen named motif recognition and learn how to exploit them fast.
+Learn to recognize and exploit the magical power of knights in endgames.
 }
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+42. Nf7# { Knight magic! The knight creates a magical outpost and delivers mate. } *
 
 
 
@@ -34,13 +33,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT2"]
-[Themes "endgame master short"]
+[FEN "8/8/5N2/6p1/2p3P1/3p1P2/1k1K4/8 b - - 0 45"]
+[LichessURL "https://lichess.org/CYSzKggX#89"]
+[PuzzleId "IuFTY"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+45... c3+ { Knight magic! The knight creates a magical outpost and wins. }
+46. Kxd3 c2 *
 
 
 
@@ -56,13 +55,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT3"]
-[Themes "knightEndgame endgame"]
+[FEN "8/3K1k2/5P2/4P3/8/8/5n2/8 w - - 0 61"]
+[LichessURL "https://lichess.org/5FSSoIbI/black#120"]
+[PuzzleId "kg7Es"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+61. e6+ { Knight magic! The knight creates a magical outpost and wins. }
+61... Kxf6 62. e7 *
 
 
 
@@ -78,13 +77,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT4"]
-[Themes "endgame master short"]
+[FEN "8/8/5N2/4p1P1/4P3/3K1p2/6k1/8 b - - 1 58"]
+[LichessURL "https://lichess.org/bVqSHjP8#115"]
+[PuzzleId "OAGTf"]
+[Themes "advancedPawn crushing endgame knightEndgame promotion short"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+58... f2 { Knight magic! The knight creates a magical outpost and wins. }
+59. Kc3 f1=Q *
 
 
 
@@ -100,13 +99,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT5"]
-[Themes "knightEndgame endgame"]
+[FEN "8/8/6P1/5k2/8/2n5/8/7K w - - 11 64"]
+[LichessURL "https://lichess.org/q6a998e4/black#126"]
+[PuzzleId "2Vebh"]
+[Themes "advancedPawn crushing endgame knightEndgame master promotion short"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+64. g7 { Knight magic! The knight creates a magical outpost and wins. }
+64... Nd5 65. g8=Q *
 
 
 
@@ -122,13 +121,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT6"]
-[Themes "endgame master short"]
+[FEN "8/8/N7/8/6pK/5k2/2P5/8 b - - 0 45"]
+[LichessURL "https://lichess.org/dMCxIhrU#89"]
+[PuzzleId "uHki1"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+45... g3 { Knight magic! The knight creates a magical outpost and wins. }
+46. Nc7 g2 *
 
 
 
@@ -144,13 +143,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT7"]
-[Themes "knightEndgame endgame"]
+[FEN "8/4k3/6p1/P3p1P1/4P2K/3n4/8/8 w - - 0 56"]
+[LichessURL "https://lichess.org/07Xrx0jQ/black#110"]
+[PuzzleId "DmgUQ"]
+[Themes "advancedPawn crushing endgame knightEndgame master short"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+56. a6 { Knight magic! The knight creates a magical outpost and wins. }
+56... Kd6 57. a7 *
 
 
 
@@ -166,13 +165,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/3n2pp/3k1p2/p3p3/4B1P1/3KP2P/PPP5/8 b - - 5 28"]
-[LichessURL "https://lichess.org/GEmDbLQ6#55"]
-[PuzzleId "KNIGHT8"]
-[Themes "endgame master short"]
+[FEN "8/5k2/8/1p2KP2/1P5p/8/6N1/8 b - - 0 52"]
+[LichessURL "https://lichess.org/ut17xYHj#103"]
+[PuzzleId "SY2jy"]
+[Themes "advancedPawn crushing endgame knightEndgame short"]
 
-1... Nc5+ { Knight magic! The knight creates a magical outpost. }
-2. Ke2 Nxe4 *
+52... h3 { Knight magic! The knight creates a magical outpost and wins. }
+53. Nf4 h2 *
 
 
 
@@ -188,13 +187,13 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "KNIGHT9"]
-[Themes "knightEndgame endgame"]
+[FEN "8/8/2pn2P1/3k3K/3P4/2p5/8/8 w - - 0 57"]
+[LichessURL "https://lichess.org/r50qYGSt/black#112"]
+[PuzzleId "rYN4K"]
+[Themes "advancedPawn advantage endgame knightEndgame master promotion short"]
 
-1. h2+ { Knight magic! The knight creates a magical outpost. }
-3... Kh1 63. Nf2# *
+57. g7 { Knight magic! The knight creates a magical outpost and wins. }
+57... Kxd4 58. g8=Q *
 
 
 

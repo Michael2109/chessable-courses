@@ -18,7 +18,7 @@ This section focuses on Clearance and Line Opening Sacrifices.
 Learn to recognize when sacrificing material opens lines for attack and creates overwhelming tactical opportunities. These sacrifices often lead to mate or decisive material gains.
 }
 1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 27. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1... Rxe8 2. Rxe8# { Back rank mate! The sacrifice cleared the path. }
 
 
 
@@ -62,7 +62,7 @@ Learn to recognize when sacrificing material opens lines for attack and creates 
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
 
 1. Qe8+ { Queen sacrifice to open the back rank! }
-3... Rxe8 29. Rxe8# { Back rank mate! The sacrifice cleared the path. }
+1... Rxe8 2. Rxe8# { Back rank mate! The sacrifice cleared the path. }
 
 
 

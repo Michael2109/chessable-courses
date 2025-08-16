@@ -60,7 +60,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn bishopEndgame crushing endgame master short"]
 
 1. g6 { The bishop controls the long diagonal, but the pawn advance wins! }
-3... Bc7 68. g7 *
+1... Bc7 2. g7 *
 
 
 
@@ -125,7 +125,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn bishopEndgame crushing endgame long master promotion"]
 
 1... h3 { The bishop's long diagonal control supports the pawn advance! }
-2. g5 h2 71. Bb2 h1=Q *
+2. g5 h2 3. Bb2 h1=Q *
 
 
 
@@ -190,7 +190,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn advantage bishopEndgame endgame long promotion"]
 
 1. b6 { The bishop controls the long diagonal, but the pawn advance wins! }
-3... Be4 49. b7 d4 50. b8=Q *
+1... Be4 2. b7 d4 3. b8=Q *
 
 
 
@@ -255,7 +255,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn bishopEndgame crushing endgame long quietMove"]
 
 1... f4 { The bishop's long diagonal control supports the pawn advance! }
-2. Kf5 f3 52. Ke4 f2 *
+2. Kf5 f3 3. Ke4 f2 *
 
 
 
@@ -277,7 +277,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn bishopEndgame crushing endgame short"]
 
 1. c6+ { The bishop controls the long diagonal, but the pawn advance wins! }
-3... Kxd6 76. c7 *
+1... Kxd6 2. c7 *
 
 
 
@@ -321,7 +321,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn bishopEndgame crushing endgame long promotion"]
 
 1. e6 { The bishop controls the long diagonal, but the pawn advance wins! }
-3... Kxf3 63. e7 Kg2 64. e8=Q *
+1... Kxf3 2. e7 Kg2 3. e8=Q *
 
 
 
@@ -365,7 +365,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "advancedPawn bishopEndgame crushing endgame long quietMove"]
 
 1. h5 { The bishop controls the long diagonal, but the pawn advance wins! }
-3... Ke4 61. h6 Kf5 62. h7 *
+1... Ke4 2. h6 Kf5 3. h7 *
 
 
 
@@ -409,7 +409,7 @@ Learn to recognize and exploit the power of bishops controlling the long diagona
 [Themes "bishopEndgame crushing discoveredAttack endgame short"]
 
 1. e5+ { The bishop's long diagonal control creates a discovered attack! }
-3... Kxe5 40. Bxc6 *
+1... Kxe5 2. Bxc6 *
 
 
 

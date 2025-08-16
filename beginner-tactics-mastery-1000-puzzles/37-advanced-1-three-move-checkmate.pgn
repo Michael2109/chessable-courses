@@ -18,8 +18,8 @@ These challenging puzzles require you to find checkmate in exactly three moves. 
 Master these complex mating patterns and you'll develop the calculating ability needed for serious competitive play. Clear forcing sequences are the key to success.
 }
 1. Rc8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Bd8 29. Rxd8+ { Forcing sequence continues with another check. }
-5... Qe8 30. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+1... Bd8 2. Rxd8+ { Forcing sequence continues with another check. }
+2... Qe8 3. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -42,7 +42,7 @@ Master these complex mating patterns and you'll develop the calculating ability 
 
 1... Rb1+ { Back rank infiltration! The rook invades the 1st rank. }
 2. Qc1 Rxc1+ { Forcing sequence continues with another check. }
-4. Re1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+3. Re1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -64,8 +64,8 @@ Master these complex mating patterns and you'll develop the calculating ability 
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 
 1. Qe8+ { Back rank infiltration! The queen invades the 8th rank. }
-3... Rxe8 40. Rxe8+ { Forcing sequence continues with another check. }
-5... Qxe8 41. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
+1... Rxe8 2. Rxe8+ { Forcing sequence continues with another check. }
+2... Qxe8 3. Rxe8# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -88,7 +88,7 @@ Master these complex mating patterns and you'll develop the calculating ability 
 
 1... Qxd1+ { Back rank infiltration! The queen invades the 1st rank. }
 2. Bxd1 Rxd1+ { Forcing sequence continues with another check. }
-4. Qe1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+3. Qe1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -110,8 +110,8 @@ Master these complex mating patterns and you'll develop the calculating ability 
 [Themes "endgame long mate mateIn3"]
 
 1. Rb8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Bc8 36. Rxc8+ { Forcing sequence continues with another check. }
-5... Qd8 37. Rxd8# { Back rank mate! The king is trapped by its own pawns. }
+1... Bc8 2. Rxc8+ { Forcing sequence continues with another check. }
+2... Qd8 3. Rxd8# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -134,7 +134,7 @@ Master these complex mating patterns and you'll develop the calculating ability 
 
 1... Rxd1+ { Back rank infiltration! The rook invades the 1st rank. }
 2. Be1 Rxe1+ { Forcing sequence continues with another check. }
-4. Rf1 Rxf1# { Back rank mate! The king is trapped by its own pawns. }
+3. Rf1 Rxf1# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -156,8 +156,8 @@ Master these complex mating patterns and you'll develop the calculating ability 
 [Themes "backRankMate endgame long mate mateIn3 queenRookEndgame"]
 
 1. Rd8+ { Back rank infiltration! The rook invades the 8th rank. }
-3... Re8 37. Rxe8+ { Forcing sequence continues with another check. }
-5... Qf8 38. Rxf8# { Back rank mate! The king is trapped by its own pawns. }
+1... Re8 2. Rxe8+ { Forcing sequence continues with another check. }
+2... Qf8 3. Rxf8# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
@@ -180,7 +180,7 @@ Master these complex mating patterns and you'll develop the calculating ability 
 
 1... Rg1+ { Back rank infiltration! The rook invades the 1st rank. }
 2. Rf1 Rxf1+ { Forcing sequence continues with another check. }
-4. Be1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
+3. Be1 Rxe1# { Back rank mate! The king is trapped by its own pawns. }
 
 
 
