@@ -1,7 +1,7 @@
 [Event "Advanced 5: Quiet Moves Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "515"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -11,6 +11,13 @@
 [PuzzleId "iVcpa"]
 [Themes "crushing endgame long pawnEndgame quietMove"]
 [Rating "746"]
+
+{Advanced 5: Quiet Moves Win
+
+This section focuses on Non-forcing winning moves.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 
 60... a5 61. Kf2 a4 62. Ke2 a3 *
 

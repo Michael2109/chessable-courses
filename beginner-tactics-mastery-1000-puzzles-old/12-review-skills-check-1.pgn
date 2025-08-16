@@ -1,7 +1,7 @@
 [Event "Review: Skills Check #1"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "755"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -11,6 +11,13 @@
 [PuzzleId "wCm53"]
 [Themes "mate mateIn1 middlegame oneMove"]
 [Rating "773"]
+
+{Review: Skills Check #1
+
+This section focuses on Combining previous themes.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 
 16... Qg2# *
 

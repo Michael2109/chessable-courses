@@ -13,9 +13,9 @@
 
 {Advanced 1: Three-Move Checkmate
 
-These challenging puzzles require you to find checkmate in exactly three moves. They demand deeper calculation and pattern recognition, often involving forcing sequences with checks and threats.
+This section focuses on Clear forcing sequences.
 
-Master these complex mating patterns and you'll develop the calculating ability needed for serious competitive play. Clear forcing sequences are the key to success.
+Build core habits and quick recognition by checking forcing moves first.
 }
 1. Rc8+ { Back rank infiltration! The rook invades the 8th rank. }
 1... Bd8 2. Rxd8+ { Forcing sequence continues with another check. }

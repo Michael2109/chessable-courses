@@ -2,330 +2,232 @@
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/8/8/6p1/6kp/5N2/6K1 w - - 1 62"]
-[LichessURL "https://lichess.org/AlPuT5Jd#123"]
-[PuzzleId "UEKwS"]
-[Themes "advancedPawn crushing deflection endgame knightEndgame master short"]
+[FEN "6k1/Q4pp1/1p5p/3p4/8/1P1nP3/P4BPP/6RK b - - 0 35"]
+[LichessURL "https://lichess.org/XyxSoKvB#69"]
+[PuzzleId "a2jbL"]
+[Themes "endgame mate mateIn1 oneMove smotheredMate"]
 
 {Special 1: Knight's Final Strike
 
 This section focuses on Smothered mate, Philidor's legacy.
 
-Sharpen named motif recognition and learn how to exploit them fast.
+Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mate, Hook Mate, and other classical patterns. These elegant finishes have graced master games for centuries.
+
+Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
 }
-1. h2+ { Knight's final strike! The knight delivers a smothered mate. }
-3... Kh1 63. Nf2# *
 
-
-
-
-
-
+35... Nxf2# { Knight's final strike! The smothered mate delivers checkmate. } *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "489"]
+[Round "2"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/p7/6Q1/3pP3/2p2P2/7n/P1r3PP/6RK b - - 0 47"]
-[LichessURL "https://lichess.org/sKcx3CmE#93"]
-[PuzzleId "LHTjb"]
+[FEN "r4rk1/3bbppp/pq1p4/2p4n/1p2P3/1P1P3P/1PPB2PN/R2Q1RNK b - - 1 19"]
+[LichessURL "https://lichess.org/uq8peCfW#37"]
+[PuzzleId "JIRJm"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+19... Ng3# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 33"]
+[LichessURL "https://lichess.org/QgTnF4DD/black#64"]
+[PuzzleId "j1GFb"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+
+33. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/p5pp/2b2p2/2p2P2/4P3/2Pn4/P2N2BP/R5RK b - - 1 26"]
+[LichessURL "https://lichess.org/VtdZCPDu#51"]
+[PuzzleId "8tf8N"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+26... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/ppp2pp1/3p3p/3P1P2/Q1B3n1/N1P5/PP4PP/4R1RK b - - 0 19"]
+[LichessURL "https://lichess.org/b23afalM#37"]
+[PuzzleId "wLGMx"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+19... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3rk/pp1n2bp/1q1N2p1/2p1P3/4pP2/8/PP2N1PP/R1B2RK1 w - - 0 18"]
+[LichessURL "https://lichess.org/n5Kpfz2k/black#34"]
+[PuzzleId "k2HGc"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/Q4pp1/1p5p/3p4/8/1P1nP3/P4BPP/6RK b - - 0 34"]
+[LichessURL "https://lichess.org/XyxSoKvB#68"]
+[PuzzleId "l3IHd"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
-[Rating "835"]
 
-47... Nf2# *
-
-
-
-
-
-
+34... Nxf2# { Knight's final strike! The smothered mate delivers checkmate. } *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "802"]
+[Round "8"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/3bbppp/pq1p4/2p4n/1p2P3/1P1P3P/1PPB2PN/R2Q1RNK b - - 1 18"]
+[LichessURL "https://lichess.org/uq8peCfW#36"]
+[PuzzleId "m4JIe"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18... Ng3# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r2qkr2/p2bnp1p/1p2p1p1/1N1pP3/3Q4/5P2/PPP3PP/2KR1B1R w q - 1 14"]
-[LichessURL "https://lichess.org/Hj9JEdCe/black#26"]
-[PuzzleId "u4oR0"]
-[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "879"]
+[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 32"]
+[LichessURL "https://lichess.org/QgTnF4DD/black#63"]
+[PuzzleId "n5KJf"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-14. Nd6# *
-
-
-
-
-
-
+32. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "100"]
+[Round "10"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4rk1/1b2bpp1/pqnpp2p/1pp4n/4PP2/P2P3P/BPP3PN/R1BQ1RNK b - - 7 14"]
-[LichessURL "https://lichess.org/lOarzv6d#27"]
-[PuzzleId "yUj1z"]
+[FEN "2r2r1k/p5pp/2b2p2/2p2P2/4P3/2Pn4/P2N2BP/R5RK b - - 1 25"]
+[LichessURL "https://lichess.org/VtdZCPDu#50"]
+[PuzzleId "o6LKg"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "686"]
 
-14... Ng3# *
-
-
-
-
-
-
+25... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1103"]
+[Round "11"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r1r3/4kp1Q/p2p4/1p2p1p1/8/P1N4n/1P4PP/6RK b - - 0 34"]
-[LichessURL "https://lichess.org/PzkVqrYG#67"]
-[PuzzleId "Jokhk"]
+[FEN "2kr1b1r/ppp2pp1/3p3p/3P1P2/Q1B3n1/N1P5/PP4PP/4R1RK b - - 0 18"]
+[LichessURL "https://lichess.org/b23afalM#36"]
+[PuzzleId "p7MLh"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+18... Nf2# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3rk/pp1n2bp/1q1N2p1/2p1P3/4pP2/8/PP2N1PP/R1B2RK1 w - - 0 17"]
+[LichessURL "https://lichess.org/n5Kpfz2k/black#33"]
+[PuzzleId "q8NMj"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+
+17. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *
+
+[Event "Special 1: Knight's Final Strike"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/Q4pp1/1p5p/3p4/8/1P1nP3/P4BPP/6RK b - - 0 36"]
+[LichessURL "https://lichess.org/XyxSoKvB#70"]
+[PuzzleId "r9ONk"]
 [Themes "endgame mate mateIn1 oneMove smotheredMate"]
-[Rating "921"]
 
-34... Nf2# *
-
-
-
-
-
-
+36... Nxf2# { Knight's final strike! The smothered mate delivers checkmate. } *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1927"]
+[Round "14"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r6r/3Bkp2/4p2q/2P3p1/3P2n1/5N2/3NQPP1/1R2RK2 b - - 2 29"]
-[LichessURL "https://lichess.org/8Jp1kqMh#57"]
-[PuzzleId "EOJut"]
-[Themes "mate mateIn2 middlegame short smotheredMate"]
-[Rating "1153"]
-
-29... Qh1+ 30. Ng1 Nh2# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "1462"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5rk1/Q5pp/4b3/1p2B1b1/3P4/n7/PP1N2PP/KR5R b - - 0 26"]
-[LichessURL "https://lichess.org/8QUuEV6K#51"]
-[PuzzleId "kyj7t"]
+[FEN "r4rk1/3bbppp/pq1p4/2p4n/1p2P3/1P1P3P/1PPB2PN/R2Q1RNK b - - 1 20"]
+[LichessURL "https://lichess.org/uq8peCfW#38"]
+[PuzzleId "s0POl"]
 [Themes "mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "974"]
 
-26... Nc2# *
-
-
-
-
-
-
+20... Ng3# { Knight's final strike! The smothered mate delivers checkmate. } *
 
 [Event "Special 1: Knight's Final Strike"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "984"]
+[Round "15"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6rk/1q1nR1bp/3p2pN/2p5/8/7P/1PP2PP1/2B3K1 w - - 0 25"]
-[LichessURL "https://lichess.org/FnJZwU3j/black#48"]
-[PuzzleId "fK2DL"]
-[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "904"]
+[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 34"]
+[LichessURL "https://lichess.org/QgTnF4DD/black#65"]
+[PuzzleId "t1QPm"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
 
-25. Nf7# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "513"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r5k1/1pp4b/5Q1p/3P4/p1P2b2/Pn5n/1B4PP/3R1BNK b - - 0 27"]
-[LichessURL "https://lichess.org/HBgROcD7#53"]
-[PuzzleId "BC4rZ"]
-[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "839"]
-
-27... Nf2# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "621"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "1r4rk/6pp/3N4/p4pq1/2R2n2/1B5P/5PP1/3R2K1 w - - 0 37"]
-[LichessURL "https://lichess.org/ijzUqCbp/black#72"]
-[PuzzleId "q4m7j"]
-[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "855"]
-
-37. Nf7# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "1977"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r1bqr1k1/pppp1ppp/5n2/8/1PPn4/2N3P1/1P1BNP1P/R2QKB1R b KQ - 0 10"]
-[LichessURL "https://lichess.org/gzlZEhmc#19"]
-[PuzzleId "kIwlj"]
-[Themes "mate mateIn1 oneMove opening smotheredMate"]
-[Rating "1187"]
-
-10... Nf3# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "924"]
-[White "Opponent"]
-[Black "You"]
-[Result "*"]
-[SetUp "1"]
-[FEN "5r1k/p1p3pp/3p1r2/8/3P2b1/2P2B1n/PPQN2PP/R5RK b - - 0 23"]
-[LichessURL "https://lichess.org/fC8mI4Yj#45"]
-[PuzzleId "VPsIO"]
-[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "896"]
-
-23... Nf2# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "1002"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r2qr1nk/pbpnb1pp/1p5N/8/3P4/PP1B4/1BP2PPP/R3R1K1 w - - 0 21"]
-[LichessURL "https://lichess.org/qNi1h2nx/black#40"]
-[PuzzleId "YX4Im"]
-[Themes "master mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "907"]
-
-21. Nf7# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "557"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "2rq2rk/p3p1bp/1p4p1/4Nb2/8/1Q4Pn/PP3PKP/R3R3 w - - 0 22"]
-[LichessURL "https://lichess.org/w9rvRXAu/black#42"]
-[PuzzleId "0Ef1Q"]
-[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "846"]
-
-22. Nf7# *
-
-
-
-
-
-
-
-[Event "Special 1: Knight's Final Strike"]
-[Site "https://lichess.org"]
-[Date "????.??.??"]
-[Round "715"]
-[White "You"]
-[Black "Opponent"]
-[Result "*"]
-[SetUp "1"]
-[FEN "r2q2rk/3bp1bn/p2p2p1/3P1P2/1Pp1PN2/P1N4R/6PP/2R3K1 w - - 0 30"]
-[LichessURL "https://lichess.org/tqPzzNwf/black#58"]
-[PuzzleId "wU7K1"]
-[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
-[Rating "868"]
-
-30. Nxg6# *
-
-
+34. Nxf7# { Knight's final strike! The smothered mate delivers checkmate. } *

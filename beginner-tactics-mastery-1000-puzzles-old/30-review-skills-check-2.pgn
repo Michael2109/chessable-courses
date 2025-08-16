@@ -1,7 +1,7 @@
 [Event "Review: Skills Check #2"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1795"]
+[Round "1"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -11,6 +11,13 @@
 [PuzzleId "KYd4g"]
 [Themes "mate mateIn1 middlegame oneMove"]
 [Rating "1093"]
+
+{Review: Skills Check #2
+
+This section focuses on All tactics so far combined.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 
 17. Qc8# *
 

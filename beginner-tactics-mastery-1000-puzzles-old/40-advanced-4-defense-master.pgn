@@ -1,7 +1,7 @@
 [Event "Advanced 4: Defense Master"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "2"]
+[Round "1"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -11,6 +11,13 @@
 [PuzzleId "BawTl"]
 [Themes "advantage defensiveMove endgame master masterVsMaster short"]
 [Rating "506"]
+
+{Advanced 4: Defense Master
+
+This section focuses on Counter-threats, perpetual check.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 
 44. Bxf1 Nxf1 45. a5 *
 

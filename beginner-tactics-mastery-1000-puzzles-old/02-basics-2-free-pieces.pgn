@@ -290,3 +290,24 @@ Build core habits and quick recognition by checking forcing moves first.
 [Themes "endgame hangingPiece master mate mateIn1 oneMove"]
 
 1... Rxe1# { Beautiful endgame finish! The rook was completely undefended. Always stay alert for free pieces! } *
+
+
+
+
+
+
+
+[Event "Basics 2: Free Pieces!"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/1p1N2bp/p3p1p1/2p5/8/3P4/PPP3PP/5R1K b - - 0 25"]
+[LichessURL "https://lichess.org/ngjCVBy7#49"]
+[PuzzleId "D204b"]
+[Themes "backRankMate endgame hangingPiece mate mateIn1 oneMove"]
+
+25... Rxf1# { Perfect back rank mate! The rook was hanging and you punish with checkmate. } *

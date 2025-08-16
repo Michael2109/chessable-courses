@@ -1,7 +1,7 @@
 [Event "Tactics 5: Back Rank Breakthrough"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "489"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,14 @@
 [LichessURL "https://lichess.org/PEh4VbBv#61"]
 [PuzzleId "TWNAG"]
 [Themes "backRankMate endgame mate mateIn2 sacrifice short"]
-[Rating "528"]
 
-31... Qe1+ 32. Rxe1 Rxe1# *
+{Tactics 5: Back Rank Breakthrough
+
+This section focuses on With sacrifices, removing defenders.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
+31... Qe1+ { Brilliant sacrifice! Give up the queen to open the back rank for mate. } 32. Rxe1 Rxe1# *
 
 
 

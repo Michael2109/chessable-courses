@@ -1,7 +1,7 @@
 [Event "Practical 5: Mating Net"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "841"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,14 @@
 [LichessURL "https://lichess.org/0OELLwi4#73"]
 [PuzzleId "OzFQT"]
 [Themes "attraction endgame long mate mateIn3 rookEndgame"]
-[Rating "986"]
 
-37... h5+ 38. Kxh5 Rh8+ 39. Kg4 Rh4# *
+{Practical 5: Mating Net
+
+This section focuses on Building mating nets and combinations.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}
+37... h5+ { Mating net! Attract the king to h5. } 38. Kxh5 Rh8+ 39. Kg4 Rh4# { Deliver mate! } *
 
 
 
@@ -34,7 +39,7 @@
 [Themes "endgame long mate mateIn3 sacrifice"]
 [Rating "1079"]
 
-38. Rf4+ Kxh3 39. Be6+ Rf5 40. Bxf5# *
+38. Rf4+ { Mating net! Attract the king to h3. } 38... Kxh3 39. Be6+ Rf5 40. Bxf5# { Deliver mate! } *
 
 
 
@@ -56,7 +61,7 @@
 [Themes "attraction kingsideAttack long mate mateIn3 middlegame sacrifice"]
 [Rating "1180"]
 
-30. Qxh7+ Kxh7 31. Rh4+ Qh5 32. Rxh5# *
+30. Qxh7+ { Mating net! Sacrifice the queen to open the kingside. } 30... Kxh7 31. Rh4+ Qh5 32. Rxh5# { Deliver mate! } *
 
 
 

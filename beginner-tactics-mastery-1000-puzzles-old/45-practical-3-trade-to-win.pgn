@@ -1,7 +1,7 @@
 [Event "Practical 3: Trade to Win"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1941"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,14 @@
 [LichessURL "https://lichess.org/xcdE005T#75"]
 [PuzzleId "xdLWI"]
 [Themes "advantage endgame fork master short"]
-[Rating "1192"]
 
-38... Nf2+ 39. Kc1 Nxh3 *
+{Practical 3: Trade to Win
+
+This section focuses on Winning trades and exchanges.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}
+38... Nf2+ { Trade to win! Fork the king and rook. } 39. Kc1 Nxh3 { Win the rook! } *
 
 
 
@@ -34,7 +39,7 @@
 [Themes "advantage master middlegame short"]
 [Rating "1163"]
 
-28... Ng4+ 29. Kh3 Nxf2+ *
+28... Ng4+ { Trade to win! Check the king and win the bishop. } 29. Kh3 Nxf2+ { Win the bishop! } *
 
 
 
@@ -56,7 +61,7 @@
 [Themes "advantage fork middlegame short"]
 [Rating "1187"]
 
-18... Qc6+ 19. f3 Qxc4 *
+18... Qc6+ { Trade to win! Check the king and win the knight. } 19. f3 Qxc4 { Win the knight! } *
 
 
 

@@ -1,7 +1,7 @@
 [Event "Advanced 3: Interference"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "238"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -11,6 +11,13 @@
 [PuzzleId "Vxp1j"]
 [Themes "crushing endgame interference short"]
 [Rating "938"]
+
+{Advanced 3: Interference
+
+This section focuses on Blocking defensive lines.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 
 23... Qxb2+ 24. Kf1 Qxa1+ *
 

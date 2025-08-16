@@ -11,7 +11,7 @@ Includes core tactical motifs, defensive patterns, and bonus "crowd-pleaser" puz
 |----|----------------------------------------|------------------------------------------------|----------|-------------------------------|
 | 1  | **Basics 1: Deliver Checkmate!**       | Direct threats, undefended squares             | 25       | mate, mateIn1                 |
 | 2  | **Basics 2: Free Pieces!**             | One-move captures, undefended pieces           | 20       | hangingPiece, oneMove         |
-| 3  | **Basics 3: Back Rank Knockout**       | Simple back rank patterns                      | 15       | backRankMate, mateIn1         |
+| 3  | **Basics 3: Back Rank Blitz**          | Simple back rank patterns                      | 15       | backRankMate, mateIn1         |
 | 4  | **Basics 4: Fork Attack!**             | Knight forks (15), pawn forks (10)             | 25       | fork, knightFork              |
 | 5  | **Basics 5: Safe to Capture?**         | Is it safe to take? Simple counting            | 15       | capture, advantage            |
 | 6  | **Patterns 1: Pins to the King**       | Absolute pins, winning pinned pieces           | 25       | pin, absolutePin              |

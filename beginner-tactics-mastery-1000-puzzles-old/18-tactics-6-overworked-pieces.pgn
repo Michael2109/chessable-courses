@@ -1,7 +1,7 @@
 [Event "Tactics 6: Overworked Pieces"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "246"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,14 @@
 [LichessURL "https://lichess.org/aRx6J9DT#37"]
 [PuzzleId "eHOEe"]
 [Themes "advantage capturingDefender discoveredAttack middlegame short"]
-[Rating "956"]
 
-19... Nxd4 20. cxd4 Bxb5 *
+{Tactics 6: Overworked Pieces
+
+This section focuses on One piece guards too much.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
+19... Nxd4 { The knight is overworked! It can't defend both the bishop and the d4 square. } 20. cxd4 Bxb5 *
 
 
 

@@ -1,0 +1,381 @@
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 27"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#52"]
+[PuzzleId "MjjYD"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+{Intermediate 2: Decoy & Deflection
+
+This section focuses on Luring pieces to bad squares.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
+
+27. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 27... Kb8 28. Rxd8+ { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5K2/p1p1P3/1p6/1P6/P2r4/8/8 w - - 4 45"]
+[LichessURL "https://lichess.org/5xsUSwZE/black#88"]
+[PuzzleId "UAvRo"]
+[Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
+
+45. e7+ { Decoy and deflection! Lure the king away from the rook. } 45... Kc8 46. e8=Q+ { Now promote to queen! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/2p5/3knPP1/8/4K2P/3B4 b - - 2 38"]
+[LichessURL "https://lichess.org/bx9vt4kl#75"]
+[PuzzleId "kLjlO"]
+[Themes "crushing deflection endgame short"]
+
+38... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 39. Kf3 Nxd1 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5k2/6R1/r3PK2/8/8/8 b - - 0 49"]
+[LichessURL "https://lichess.org/J8COBvto#97"]
+[PuzzleId "CAe3q"]
+[Themes "crushing deflection endgame rookEndgame short"]
+
+49... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 50. Kxe4 Kxg5 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/8/p1k3p1/2Bp1pP1/1P1K1P2/P7/8/8 b - - 4 46"]
+[LichessURL "https://lichess.org/MApojw7q#91"]
+[PuzzleId "vsnJ7"]
+[Themes "crushing deflection endgame master masterVsMaster short"]
+
+46... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 47. Ke5 Nxc5 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2bk1Fp1/4p1P1/3rP3/p7/P2R1KB1/8 w - - 0 39"]
+[LichessURL "https://lichess.org/uoMWGWie/black#76"]
+[PuzzleId "wtnK8"]
+[Themes "crushing deflection endgame short"]
+
+39. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 39... Kxe5 40. Rxd4 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 26"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#51"]
+[PuzzleId "xuoL9"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+26. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 26... Kb8 27. Rxd8+ { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5K2/p1p1P3/1p6/1P6/P2r4/8/8 w - - 4 44"]
+[LichessURL "https://lichess.org/5xsUSwZE/black#87"]
+[PuzzleId "yvpM0"]
+[Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
+
+44. e7+ { Decoy and deflection! Lure the king away from the rook. } 44... Kc8 45. e8=Q+ { Now promote to queen! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/2p5/3knPP1/8/4K2P/3B4 b - - 2 37"]
+[LichessURL "https://lichess.org/bx9vt4kl#74"]
+[PuzzleId "zwqN1"]
+[Themes "crushing deflection endgame short"]
+
+37... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 38. Kf3 Nxd1 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5k2/6R1/r3PK2/8/8/8 b - - 0 48"]
+[LichessURL "https://lichess.org/J8COBvto#96"]
+[PuzzleId "a1rO2"]
+[Themes "crushing deflection endgame rookEndgame short"]
+
+48... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 49. Kxe4 Kxg5 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/8/p1k3p1/2Bp1pP1/1P1K1P2/P7/8/8 b - - 4 45"]
+[LichessURL "https://lichess.org/MApojw7q#90"]
+[PuzzleId "b2sP3"]
+[Themes "crushing deflection endgame master masterVsMaster short"]
+
+45... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 46. Ke5 Nxc5 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2bk1Fp1/4p1P1/3rP3/p7/P2R1KB1/8 w - - 0 38"]
+[LichessURL "https://lichess.org/uoMWGWie/black#75"]
+[PuzzleId "c3tQ4"]
+[Themes "crushing deflection endgame short"]
+
+38. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 38... Kxe5 39. Rxd4 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 25"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#50"]
+[PuzzleId "d4uR5"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+25. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 25... Kb8 26. Rxd8+ { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5K2/p1p1P3/1p6/1P6/P2r4/8/8 w - - 4 43"]
+[LichessURL "https://lichess.org/5xsUSwZE/black#86"]
+[PuzzleId "e5vS6"]
+[Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
+
+43. e7+ { Decoy and deflection! Lure the king away from the rook. } 43... Kc8 44. e8=Q+ { Now promote to queen! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/2p5/3knPP1/8/4K2P/3B4 b - - 2 36"]
+[LichessURL "https://lichess.org/bx9vt4kl#73"]
+[PuzzleId "f6wT7"]
+[Themes "crushing deflection endgame short"]
+
+36... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 37. Kf3 Nxd1 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5k2/6R1/r3PK2/8/8/8 b - - 0 47"]
+[LichessURL "https://lichess.org/J8COBvto#95"]
+[PuzzleId "g7xU8"]
+[Themes "crushing deflection endgame rookEndgame short"]
+
+47... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 48. Kxe4 Kxg5 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/8/p1k3p1/2Bp1pP1/1P1K1P2/P7/8/8 b - - 4 44"]
+[LichessURL "https://lichess.org/MApojw7q#89"]
+[PuzzleId "h8yV9"]
+[Themes "crushing deflection endgame master masterVsMaster short"]
+
+44... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 45. Ke5 Nxc5 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2bk1Fp1/4p1P1/3rP3/p7/P2R1KB1/8 w - - 0 37"]
+[LichessURL "https://lichess.org/uoMWGWie/black#74"]
+[PuzzleId "i9zW0"]
+[Themes "crushing deflection endgame short"]
+
+37. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 37... Kxe5 38. Rxd4 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 24"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#49"]
+[PuzzleId "j0aX1"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+24. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 24... Kb8 25. Rxd8+ { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5K2/p1p1P3/1p6/1P6/P2r4/8/8 w - - 4 42"]
+[LichessURL "https://lichess.org/5xsUSwZE/black#85"]
+[PuzzleId "k1bY2"]
+[Themes "advancedPawn advantage deflection endgame promotion rookEndgame short"]
+
+42. e7+ { Decoy and deflection! Lure the king away from the rook. } 42... Kc8 43. e8=Q+ { Now promote to queen! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/2p5/3knPP1/8/4K2P/3B4 b - - 2 35"]
+[LichessURL "https://lichess.org/bx9vt4kl#72"]
+[PuzzleId "l2cZ3"]
+[Themes "crushing deflection endgame short"]
+
+35... Nc3+ { Decoy and deflection! Lure the king away from the bishop. } 36. Kf3 Nxd1 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5k2/6R1/r3PK2/8/8/8 b - - 0 46"]
+[LichessURL "https://lichess.org/J8COBvto#94"]
+[PuzzleId "m3dA4"]
+[Themes "crushing deflection endgame rookEndgame short"]
+
+46... Rxe4+ { Decoy and deflection! Lure the king away from the rook. } 47. Kxe4 Kxg5 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/8/p1k3p1/2Bp1pP1/1P1K1P2/P7/8/8 b - - 4 43"]
+[LichessURL "https://lichess.org/MApojw7q#88"]
+[PuzzleId "n4eB5"]
+[Themes "crushing deflection endgame master masterVsMaster short"]
+
+43... Ne6+ { Decoy and deflection! Lure the king away from the bishop. } 44. Ke5 Nxc5 { Now capture the bishop! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2bk1Fp1/4p1P1/3rP3/p7/P2R1KB1/8 w - - 0 36"]
+[LichessURL "https://lichess.org/uoMWGWie/black#73"]
+[PuzzleId "o5fC6"]
+[Themes "crushing deflection endgame short"]
+
+36. Bxe5+ { Decoy and deflection! Lure the king away from the rook. } 36... Kxe5 37. Rxd4 { Now capture the rook! } *
+
+[Event "Intermediate 2: Decoy & Deflection"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "25"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/1pp3p1/1p6/2p2p2/8/1P1Br3/P1K3PP/3R4 w - - 0 23"]
+[LichessURL "https://lichess.org/qRgYOwzT/black#48"]
+[PuzzleId "p6gD7"]
+[Themes "crushing deflection discoveredAttack endgame short"]
+
+23. Bxf5+ { Decoy and deflection! Lure the king away from the rook. } 23... Kb8 24. Rxd8+ { Now capture the rook! } *

@@ -1,7 +1,7 @@
 [Event "Practical 2: Opening Ambush"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1624"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,14 @@
 [LichessURL "https://lichess.org/Kz8XNYl9#17"]
 [PuzzleId "KAQaI"]
 [Themes "crushing discoveredAttack kingsideAttack opening short"]
-[Rating "1110"]
 
-9... Bxh2+ 10. Nxh2 Qxd5 *
+{Practical 2: Opening Ambush
+
+This section focuses on Opening traps and quick wins.
+
+Sharpen named motif recognition and learn how to exploit them fast.
+}
+9... Bxh2+ { Opening ambush! The bishop sacrifice opens the kingside. } 10. Nxh2 Qxd5 { Now win the queen! } *
 
 
 
@@ -34,7 +39,7 @@
 [Themes "advantage fork opening short"]
 [Rating "960"]
 
-10... Qa5+ 11. Bd2 Qxb5 *
+10... Qa5+ { Opening ambush! Fork the king and bishop. } 11. Bd2 Qxb5 { Win the bishop! } *
 
 
 
@@ -78,7 +83,7 @@
 [Themes "mate mateIn1 oneMove opening"]
 [Rating "1016"]
 
-14. Qf7# *
+14. Qf7# { Opening ambush! The queen delivers checkmate on f7. } *
 
 
 

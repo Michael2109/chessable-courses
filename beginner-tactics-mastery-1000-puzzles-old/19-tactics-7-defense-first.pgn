@@ -11,6 +11,12 @@
 [PuzzleId "QrqhB"]
 [Themes "crushing defensiveMove endgame pawnEndgame quietMove short"]
 
+{Tactics 7: Defense First
+
+This section focuses on Blocking, interposing, escaping.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 1. a4 Kf2 2. a5 *
 
 { Defensive pawn advance! By playing a4, we create a passed pawn that can't be stopped by the enemy king. Sometimes the best defense is a strong counter-attack! }

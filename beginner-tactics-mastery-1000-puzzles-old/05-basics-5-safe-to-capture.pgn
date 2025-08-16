@@ -6,24 +6,19 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r5/p4pk1/1b2b1pp/np1p4/3P1P2/PPRKPP2/3N3P/2R5 w - - 4 28"]
-[LichessURL "https://lichess.org/uYhDervm/black#54"]
-[PuzzleId "HanPh"]
-[Themes "advantage master middlegame short"]
+[FEN "2r4k/pp5p/8/5n2/r7/2NR4/1PK5/3R4 w - - 0 39"]
+[LichessURL "https://lichess.org/3ooSdG1Y/black#76"]
+[PuzzleId "07qNu"]
+[Themes "advantage endgame short"]
 
 {Basics 5: Safe to Capture?
 
-This section focuses on Safe captures - counting attackers and defenders.
+This section focuses on Is it safe to take? Simple counting.
 
 Build core habits and quick recognition by checking forcing moves first.
 }
-1. Rxc8 { Count carefully! After the bishop recaptures, your second rook wins the piece. } 1... Bxc8 2. Rxc8 *
 
-
-
-
-
-
+39. Rd8+ { Safe to capture! Check the king and win the rook. } 39... Rxd8 40. Rxd8+ { Now capture the other rook! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -33,18 +28,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r4/p1R2p1p/4pkp1/1p6/8/5PP1/P4PNP/6K1 b - - 1 27"]
-[LichessURL "https://lichess.org/tc1A2N3W#53"]
-[PuzzleId "hsWEO"]
+[FEN "4r1k1/1pp3p1/p3rP1p/3p4/1P3P1P/P7/1B6/1R2R1K1 b - - 0 26"]
+[LichessURL "https://lichess.org/vahBAJf3#51"]
+[PuzzleId "MhMPa"]
 [Themes "advantage endgame short"]
 
-1... Rd1+ { Smart calculation! Give check, force the knight to block, then capture it. } 2. Ne1 Rxe1+ *
-
-
-
-
-
-
+26... Rxe1+ { Safe to capture! Check the king and win the rook. } 27. Rxe1 Rxe1+ { Now capture the other rook! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -54,18 +43,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/1p1q2pp/p3pn2/3p4/bP1Pp3/P1Q1P1P1/3BBPP1/2R3K1 w - - 1 22"]
-[LichessURL "https://lichess.org/RhiSz75e/black#42"]
-[PuzzleId "NSXvg"]
-[Themes "advantage middlegame short"]
+[FEN "8/8/3P3k/2pn4/5pp1/7p/7K/8 w - - 0 85"]
+[LichessURL "https://lichess.org/erQj3izl/black#168"]
+[PuzzleId "hSYPK"]
+[Themes "advancedPawn advantage endgame knightEndgame master promotion short"]
 
-1. Qxc8+ { Perfect trade! Queen for rook, then your rook captures their queen. } 1... Qxc8 2. Rxc8+ *
-
-
-
-
-
-
+85. d7 { Safe to capture! Push the pawn and promote. } 85... Ne3 86. d8=Q { Promote to queen! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -75,18 +58,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r5/B2k1p2/2r5/4Pp2/2R2Pp1/P5Pp/7P/2R3K1 b - - 0 36"]
-[LichessURL "https://lichess.org/BfuiE5gw#71"]
-[PuzzleId "IO5Ap"]
-[Themes "advantage endgame master short"]
+[FEN "8/8/R1K5/P5k1/8/7p/8/8 b - - 0 58"]
+[LichessURL "https://lichess.org/GiNCBsTJ#115"]
+[PuzzleId "PTJGb"]
+[Themes "advancedPawn advantage endgame master promotion rookEndgame short"]
 
-1... Rxc4 { Equal trade! Both sides have one rook attacking, so the exchange is safe. } 2. Rxc4 Rxc4 *
-
-
-
-
-
-
+58... h2 { Safe to capture! Push the pawn and promote. } 59. Kc7 h1=Q { Promote to queen! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -96,18 +73,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r2r4/p4pkp/6p1/6P1/3R4/K4b2/2P1NP2/3R4 w - - 6 31"]
-[LichessURL "https://lichess.org/XED3dIjA/black#60"]
-[PuzzleId "ZxEdX"]
-[Themes "advantage endgame master short"]
+[FEN "8/3r3k/pp2pb2/6p1/5pN1/1P5P/P5K1/8 w - - 0 39"]
+[LichessURL "https://lichess.org/csgK1Wno/black#76"]
+[PuzzleId "oLJcn"]
+[Themes "advantage endgame fork short"]
 
-1. Rxd8 { Good counting! Trade rooks and your backup rook finishes the job. } 1... Rxd8 2. Rxd8 *
-
-
-
-
-
-
+39. Nxf6+ { Safe to capture! Fork the king and bishop. } 39... Kg6 40. Nxd7 { Now capture the rook! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -117,18 +88,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/5pp1/1R2p2p/4P3/8/8/5BPP/2R3K1 b - - 0 37"]
-[LichessURL "https://lichess.org/fVYZX3jx#73"]
-[PuzzleId "XMAuS"]
-[Themes "advantage endgame short"]
+[FEN "2r2rk1/2qp1p1p/3Np1pB/pp2P3/3P4/1P6/1P3PQP/2R4K b - - 1 23"]
+[LichessURL "https://lichess.org/lhqA4VnH#45"]
+[PuzzleId "pQr7s"]
+[Themes "advantage middlegame short"]
 
-1... Rxc1+ { Clever sequence! Check forces the bishop to block, then you win it. } 2. Be1 Rxe1+ *
-
-
-
-
-
-
+23... Qxd6 { Safe to capture! Take the knight and win material. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -138,18 +103,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r4/1q2bk1p/p4p2/1p6/8/1P1R1P2/1PP3PP/3Q2K1 w - - 1 27"]
-[LichessURL "https://lichess.org/yZYmFoaQ/black#52"]
-[PuzzleId "0Dg5M"]
-[Themes "advantage endgame short"]
+[FEN "3r2k1/5ppp/1rp1p3/p7/p7/8/N1P3PP/2KR4 w - - 0 27"]
+[LichessURL "https://lichess.org/xB2Xh9OE/black#52"]
+[PuzzleId "qRs8t"]
+[Themes "advantage endgame mate mateIn1 oneMove"]
 
-1. Rxd8 { Simple calculation! Your queen is ready to recapture after the bishop takes. } 1... Bxd8 2. Qxd8 *
-
-
-
-
-
-
+27. Rxd8# { Safe to capture! The rook delivers mate on the back rank. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -159,18 +118,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r1k1/1pp2R1p/3p1Npq/p2Pp3/P1P5/5QN1/1b4PP/7K b - - 3 28"]
-[LichessURL "https://lichess.org/F7uasWgU#55"]
-[PuzzleId "HwNfp"]
-[Themes "advantage middlegame short"]
+[FEN "5r1k/8/7p/p3p3/2P1P3/1P1R4/P5PP/7K b - - 0 34"]
+[LichessURL "https://lichess.org/QyEIVrl4#67"]
+[PuzzleId "rSt9u"]
+[Themes "advantage endgame mate mateIn1 oneMove rookEndgame"]
 
-1... Kxf7 { Bold king capture! The knight can check, but then you capture it too. } 2. Nxe8+ Kxe8 *
-
-
-
-
-
-
+34... Rf1# { Safe to capture! The rook delivers mate on the back rank. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -180,18 +133,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bq2k1/pp3nbp/2p5/2n1p3/2P1P3/1BN5/PP1Q1PP1/2KR3R w - - 2 20"]
-[LichessURL "https://lichess.org/NHJjgRmj/black#38"]
-[PuzzleId "B6oDh"]
-[Themes "advantage kingsideAttack middlegame short"]
+[FEN "7k/p1p3pp/8/5r2/6bq/8/PPP1RbPN/5Q1K w - - 2 29"]
+[LichessURL "https://lichess.org/h0UREsKN/black#56"]
+[PuzzleId "sTu0v"]
+[Themes "advantage mate mateIn1 oneMove"]
 
-1. Qxd8+ { Excellent trade! Queen for queen, then your rook cleans up the knight. } 1... Nxd8 2. Rxd8+ *
-
-
-
-
-
-
+29. Rf8# { Safe to capture! The rook delivers mate on the back rank. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -201,18 +148,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5k2/4B1pp/1p2B3/4Pp2/P1p1bP2/1P2P3/6q1/2K1Q3 b - - 0 38"]
-[LichessURL "https://lichess.org/mSkwegZw#75"]
-[PuzzleId "XzBW4"]
-[Themes "advantage endgame short"]
+[FEN "2rr2k1/5pbp/p3p1p1/Pp4Q1/2P1N2R/8/1PP2PPP/3R2K1 b - - 0 23"]
+[LichessURL "https://lichess.org/g9HZQmX7#45"]
+[PuzzleId "tUv1w"]
+[Themes "advantage mate mateIn1 middlegame oneMove"]
 
-1... Kxe7 { Careful calculation! After the queen checks, you capture the other bishop. } 2. Qb4+ Kxe6 *
-
-
-
-
-
-
+23... Rxd1# { Safe to capture! The rook delivers mate on the back rank. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -222,18 +163,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1r3k1/5qbp/3p1np1/1p2p3/1Q2P3/3b3P/2RN1PPB/2R3K1 w - - 4 30"]
-[LichessURL "https://lichess.org/qpv1GfkG/black#58"]
-[PuzzleId "CpwNm"]
-[Themes "advantage middlegame short"]
+[FEN "6k1/1r3ppp/p1p2n2/4p3/8/4P1P1/5P1P/3R2K1 w - - 0 30"]
+[LichessURL "https://lichess.org/f50dc3nD/black#58"]
+[PuzzleId "uVw2x"]
+[Themes "advantage endgame mate mateIn2 short"]
 
-1. Rxc8+ { Double rook power! After Black recaptures, your second rook delivers mate. } 1... Rxc8 2. Rxc8+ *
-
-
-
-
-
-
+30. Rd8+ { Safe to capture! Check the king and force mate. } 30... Ne8 31. Rxe8# { Deliver mate! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -243,18 +178,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r3k1/1p3pp1/p1qn1b1p/3p4/3PN3/PP2P2P/4QPP1/R1R3K1 b - - 0 28"]
-[LichessURL "https://lichess.org/1wtjep4C#55"]
-[PuzzleId "iDkgc"]
-[Themes "advantage middlegame short"]
+[FEN "1r2r1k1/1p3pp1/p6p/3p4/3R1P1P/6PR/PPP5/1K6 b - - 0 27"]
+[LichessURL "https://lichess.org/kSTW3WvF#53"]
+[PuzzleId "vWx3y"]
+[Themes "advantage endgame mate mateIn2 rookEndgame short"]
 
-1... Qxe2 { Smart sequence! Trade queens, then your rook wins the other rook. } 2. Rxe2 Rxc1 *
-
-
-
-
-
-
+27... Re1+ { Safe to capture! Check the king and force mate. } 28. Rd1 Rxd1# { Deliver mate! } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -264,18 +193,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4Rr1k/2R4p/p7/4Pb2/1P6/P4qP1/5P2/6K1 w - - 2 31"]
-[LichessURL "https://lichess.org/PLVTTBXJ/black#60"]
-[PuzzleId "M3Uum"]
-[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[FEN "3r2k1/5ppp/1rp1p3/p7/p7/8/N1P3PP/2KR4 w - - 0 28"]
+[LichessURL "https://lichess.org/xB2Xh9OE/black#53"]
+[PuzzleId "wXy4z"]
+[Themes "advantage endgame mate mateIn1 oneMove"]
 
-1. Rxf8# { Ultimate safety! When it's checkmate, you don't need to worry about recaptures! } *
-
-
-
-
-
-
+28. Rxd8# { Safe to capture! The rook delivers mate on the back rank. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -285,18 +208,12 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r3rk1/p1p3pp/5n2/8/8/P7/NPP2PPP/R1BqQ1K1 b - - 2 18"]
-[LichessURL "https://lichess.org/7UA3H6hW#35"]
-[PuzzleId "6nsLJ"]
-[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[FEN "5r1k/8/7p/p3p3/2P1P3/1P1R4/P5PP/7K b - - 0 35"]
+[LichessURL "https://lichess.org/QyEIVrl4#68"]
+[PuzzleId "xYz5a"]
+[Themes "advantage endgame mate mateIn1 oneMove rookEndgame"]
 
-1... Qxe1# { Perfect finish! The safest capture is one that delivers checkmate! } *
-
-
-
-
-
-
+35... Rf1# { Safe to capture! The rook delivers mate on the back rank. } *
 
 [Event "Basics 5: Safe to Capture?"]
 [Site "https://lichess.org"]
@@ -306,9 +223,9 @@ Build core habits and quick recognition by checking forcing moves first.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4Rr1k/p1R4p/8/P2r4/6p1/5P1b/1P5P/6K1 w - - 2 34"]
-[LichessURL "https://lichess.org/jZghBMuD/black#66"]
-[PuzzleId "2cAVm"]
-[Themes "endgame hangingPiece mate mateIn1 oneMove"]
+[FEN "7k/p1p3pp/8/5r2/6bq/8/PPP1RbPN/5Q1K w - - 2 30"]
+[LichessURL "https://lichess.org/h0UREsKN/black#57"]
+[PuzzleId "yZa6b"]
+[Themes "advantage mate mateIn1 oneMove"]
 
-1. Rxf8# { Back rank mate! The ultimate safe capture - it ends the game immediately! } *
+30. Rf8# { Safe to capture! The rook delivers mate on the back rank. } *

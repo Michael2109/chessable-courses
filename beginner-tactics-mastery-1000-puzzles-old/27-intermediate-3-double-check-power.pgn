@@ -1,7 +1,7 @@
 [Event "Intermediate 3: Double Check Power"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1574"]
+[Round "1"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -11,6 +11,13 @@
 [PuzzleId "qliiO"]
 [Themes "crushing doubleCheck middlegame short"]
 [Rating "1137"]
+
+{Intermediate 3: Double Check Power
+
+This section focuses on Forcing king moves, mate threats.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
 
 26. dxe6+ Kc8 27. Qxe7 *
 

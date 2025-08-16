@@ -1,7 +1,7 @@
 [Event "Mastery 2: Skills Challenge"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1884"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,16 @@
 [LichessURL "https://lichess.org/2VgMggiL#85"]
 [PuzzleId "uegnO"]
 [Themes "endgame mate mateIn2 sacrifice short"]
-[Rating "1170"]
 
-43... Qg1+ 44. Kxh3 Qh1# *
+{Mastery 2: Skills Challenge
+
+This section focuses on Mixed tactical themes and advanced patterns.
+
+Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mate, Hook Mate, and other classical patterns. These elegant finishes have graced master games for centuries.
+
+Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
+}
+43... Qg1+ { Skills challenge! Sacrifice the queen to force mate. } 44. Kxh3 Qh1# { Deliver mate! } *
 
 
 

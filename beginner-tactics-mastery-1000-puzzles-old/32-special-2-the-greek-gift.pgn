@@ -1,7 +1,7 @@
 [Event "Special 2: The Greek Gift"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "685"]
+[Round "1"]
 [White "You"]
 [Black "Opponent"]
 [Result "*"]
@@ -11,6 +11,15 @@
 [PuzzleId "DNUE2"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Rating "945"]
+
+{Special 2: The Greek Gift
+
+This section focuses on Classic bishop sacrifice Bxh7+.
+
+Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mate, Hook Mate, and other classical patterns. These elegant finishes have graced master games for centuries.
+
+Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
+}
 
 18. Qd7+ Kb8 19. Qd8+ Rxd8 20. Rxd8# *
 

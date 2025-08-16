@@ -1,7 +1,7 @@
 [Event "Advanced 6: Exchange Sacrifice"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "1488"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,14 @@
 [LichessURL "https://lichess.org/Ul5HQBXe#43"]
 [PuzzleId "3MXod"]
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
-[Rating "1107"]
 
-22... Qf2+ 23. Kh1 Qf1+ 24. Rxf1 Rxf1# *
+{Advanced 6: Exchange Sacrifice
+
+This section focuses on Rook for minor piece advantage.
+
+Build core habits and quick recognition by checking forcing moves first.
+}
+22... Qf2+ { Exchange sacrifice! Give up the queen to open the back rank. } 23. Kh1 Qf1+ 24. Rxf1 Rxf1# { Now the rook delivers mate! } *
 
 
 
@@ -34,7 +39,7 @@
 [Themes "backRankMate long mate mateIn3 middlegame sacrifice"]
 [Rating "810"]
 
-25. Qxf7+ Kh8 26. Qf8+ Rxf8 27. Rxf8# *
+25. Qxf7+ { Exchange sacrifice! Give up the queen to open the back rank. } 25... Kh8 26. Qf8+ Rxf8 27. Rxf8# { Now the rook delivers mate! } *
 
 
 

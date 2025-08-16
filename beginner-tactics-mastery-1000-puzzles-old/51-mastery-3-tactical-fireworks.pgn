@@ -1,7 +1,7 @@
 [Event "Mastery 3: Tactical Fireworks"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
-[Round "794"]
+[Round "1"]
 [White "Opponent"]
 [Black "You"]
 [Result "*"]
@@ -10,9 +10,16 @@
 [LichessURL "https://lichess.org/npB8Y7Xi#69"]
 [PuzzleId "JHn7Y"]
 [Themes "endgame long mate mateIn3"]
-[Rating "978"]
 
-35... Qa1+ 36. Qd1 Qxd1+ 37. Rf1 Qxf1# *
+{Mastery 3: Tactical Fireworks
+
+This section focuses on Complex combinations and sacrifices.
+
+Master the most beautiful checkmate patterns in chess: Arabian Mate, Boden's Mate, Hook Mate, and other classical patterns. These elegant finishes have graced master games for centuries.
+
+Learning these special mates will add artistry to your tactical arsenal. Each pattern has its own unique beauty and strategic significance in chess history.
+}
+35... Qa1+ { Tactical fireworks! Sacrifice the queen to force mate. } 36. Qd1 Qxd1+ 37. Rf1 Qxf1# { Deliver mate! } *
 
 
 
@@ -34,7 +41,7 @@
 [Themes "exposedKing long mate mateIn3 middlegame"]
 [Rating "1120"]
 
-30... Ra1+ 31. Kc2 R8a2+ 32. Nb2 Rxb2# *
+30... Ra1+ { Tactical fireworks! Expose the king with rook checks. } 31. Kc2 R8a2+ 32. Nb2 Rxb2# { Deliver mate! } *
 
 
 
@@ -56,7 +63,7 @@
 [Themes "backRankMate endgame long mate mateIn3 sacrifice"]
 [Rating "956"]
 
-29... Qxf2+ 30. Kh1 Qf1+ 31. Rxf1 Rxf1# *
+29... Qxf2+ { Tactical fireworks! Sacrifice the queen to open the back rank. } 30. Kh1 Qf1+ 31. Rxf1 Rxf1# { Deliver mate! } *
 
 
 
