@@ -11,14 +11,9 @@
 [PuzzleId "08yJ9"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-{Basics 3: Back Rank Knockout
+{ Back Rank Knockout - Master the most fundamental checkmate pattern. When the enemy king is trapped on the back rank by its own pawns, deliver mate with your rook or queen. Look for forcing moves like checks that lead to mate. }
 
-This section focuses on Simple back rank patterns.
-
-Build core habits and quick recognition by checking forcing moves first.
-}
-
-30. Rd8+ { Back rank knockout! Check the king and force mate. } 30... Ne8 31. Rxe8# { Deliver mate! } *
+30. Rd8+ Ne8 31. Rxe8# { Mate! The king has no escape squares } *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -33,7 +28,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "1fY6T"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-27... Re1+ { Back rank knockout! Check the king and force mate. } 28. Rd1 Rxd1# { Deliver mate! } *
+27... Re1+ 28. Rd1 Rxd1# { The white king is mated on the back rank } *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -48,7 +43,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "3ZnqL"]
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 
-23... Rxd1# { Back rank knockout! The rook delivers mate on the back rank. } *
+23... Rxd1# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -63,7 +58,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "5GML4"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-27. Rxd8# { Back rank knockout! The rook delivers mate on the back rank. } *
+27. Rxd8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -78,7 +73,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7Nx5k"]
 [Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
 
-34... Rf1# { Back rank knockout! The rook delivers mate on the back rank. } *
+34... Rf1# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -93,7 +88,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "8Kx5k"]
 [Themes "backRankMate mate mateIn1 oneMove"]
 
-29. Rf8# { Back rank knockout! The rook delivers mate on the back rank. } *
+29. Re8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -108,7 +103,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "9Lm6n"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-26... Rd1# { Back rank knockout! The rook delivers mate on the back rank. } *
+26... Rd1# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -123,7 +118,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "0Pq7r"]
 [Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
 
-33. Rf8# { Back rank knockout! The rook delivers mate on the back rank. } *
+33. Rd8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -138,7 +133,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "1Rs8t"]
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 
-22... Rxd1# { Back rank knockout! The rook delivers mate on the back rank. } *
+22... Rxd1# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -153,7 +148,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "2Tv9u"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-29. Rd8+ { Back rank knockout! Check the king and force mate. } 29... Ne8 30. Rxe8# { Deliver mate! } *
+29. Rd8+ Ne8 30. Rxe8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -168,7 +163,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "3Uw0v"]
 [Themes "backRankMate endgame mate mateIn2 rookEndgame short"]
 
-26... Re1+ { Back rank knockout! Check the king and force mate. } 27. Rd1 Rxd1# { Deliver mate! } *
+26... Re1+ 27. Rd1 Rxd1# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -183,7 +178,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "4Vx1w"]
 [Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-28. Rxd8# { Back rank knockout! The rook delivers mate on the back rank. } *
+28. Rxd8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -198,7 +193,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "5Wy2x"]
 [Themes "backRankMate endgame mate mateIn1 oneMove rookEndgame"]
 
-35... Rf1# { Back rank knockout! The rook delivers mate on the back rank. } *
+35... Rf1# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -213,7 +208,7 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "6Xz3y"]
 [Themes "backRankMate mate mateIn1 oneMove"]
 
-30. Rf8# { Back rank knockout! The rook delivers mate on the back rank. } *
+30. Re8# *
 
 [Event "Basics 3: Back Rank Knockout"]
 [Site "https://lichess.org"]
@@ -228,4 +223,4 @@ Build core habits and quick recognition by checking forcing moves first.
 [PuzzleId "7Ya4z"]
 [Themes "backRankMate mate mateIn1 middlegame oneMove"]
 
-24... Rxd1# { Back rank knockout! The rook delivers mate on the back rank. } *
+24... Rxd1# *
