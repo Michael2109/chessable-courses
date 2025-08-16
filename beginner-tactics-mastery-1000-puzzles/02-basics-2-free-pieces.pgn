@@ -226,3 +226,105 @@ Build core habits and quick recognition by checking forcing moves first.
 [Rating "954"]
 
 35... Nxf6 { Taking the knight and protecting the queen } 36. Qxe4 Nxe4 *
+
+
+[Event "Hanging Piece (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1166"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4Bk1/pp3p1p/2p2PpQ/3b4/1P6/P4Rr1/7P/R6K b - - 3 31"]
+[LichessURL "https://lichess.org/dlkHcwa5#61"]
+[PuzzleId "NOSZh"]
+[Themes "hangingPiece mate mateIn1 middlegame oneMove"]
+[Rating "953"]
+
+31... Bxf3# *
+
+
+[Event "Hanging Piece (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1163"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp4p1/1n2b2p/2p2pb1/3pPN2/P2P2PP/1PPQ1B2/1K1R1B1R w - - 0 21"]
+[LichessURL "https://lichess.org/dITDbNUk/black#40"]
+[PuzzleId "dR0b7"]
+[Themes "advantage fork hangingPiece middlegame short"]
+[Rating "952"]
+
+21. Nxe6 Bxd2 22. Nxd8 *
+
+
+[Event "Hanging Piece (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1158"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k2r1/p4p2/2b1pN2/1p2PpBp/3p3P/P1r5/4nPP1/R4R1K w - - 4 25"]
+[LichessURL "https://lichess.org/4JdaXTAm/black#48"]
+[PuzzleId "Jcxoy"]
+[Themes "advantage discoveredAttack hangingPiece middlegame short"]
+[Rating "951"]
+
+25. Nxg8+ f6 26. Bxf6+ *
+
+
+[Event "Hanging Piece (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1151"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/2p2Bp1/p2b1n1p/1p2pN2/8/2P1P2P/PP3PP1/3RK2R b Kkq - 1 17"]
+[LichessURL "https://lichess.org/k54iqrfD#33"]
+[PuzzleId "Eqh1K"]
+[Themes "advantage hangingPiece middlegame short"]
+[Rating "949"]
+
+17... Kxf7 18. Nxd6+ cxd6 *
+
+
+[Event "Hanging Piece (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1145"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/NP6/1k6/8/6Kp/6bP/6P1/8 b - - 2 52"]
+[LichessURL "https://lichess.org/rDmcTx3M#103"]
+[PuzzleId "IyZSq"]
+[Themes "crushing endgame hangingPiece short"]
+[Rating "947"]
+
+52... Kxa7 53. b8=Q+ Kxb8 *
+
+
+[Event "Hanging Piece (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1135"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K1k4/3p2p1/2pP1pP1/2P2p1b/5N2/8/8 w - - 0 75"]
+[LichessURL "https://lichess.org/OP74BUNi/black#148"]
+[PuzzleId "TAd7t"]
+[Themes "crushing endgame hangingPiece master short"]
+[Rating "944"]
+
+75. Nxh4 f3 76. Nxf3 *
