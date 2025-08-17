@@ -572,7 +572,7 @@ def write_puzzles_per_theme_to_directory(
         print(f"[{current_theme}/{total_themes}] Processing theme: {theme} ({len(puzzles)} puzzles)")
         
         # Get evenly distributed subset of puzzles (max 2000)
-        puzzles_subset = get_evenly_distributed_subset(puzzles, 2000)
+        puzzles_subset = puzzles
         print(f"  Selected {len(puzzles_subset)} puzzles for even distribution")
         
         # Sort puzzles by difficulty (rating) within each theme
@@ -864,38 +864,6 @@ def _get_difficulty_label(rating: int) -> str:
     else:
         return "Expert"
 
-
-def get_evenly_distributed_subset(puzzles: List[Puzzle], target_count: int = 2000) -> List[Puzzle]:
-    """Select an evenly distributed subset of puzzles across the rating range.
-    
-    This function ensures that puzzles are selected evenly across the rating spectrum,
-    not just taking the easiest or hardest puzzles.
-    
-    Args:
-        puzzles: List of puzzles sorted by rating
-        target_count: Number of puzzles to select (default: 2000)
-    
-    Returns:
-        List of puzzles with even distribution across ratings
-    """
-    if len(puzzles) <= target_count:
-        return puzzles
-    
-    # Sort puzzles by rating to ensure proper distribution
-    sorted_puzzles = sorted(puzzles, key=lambda p: p.rating)
-    
-    # Calculate step size to get even distribution
-    step = len(sorted_puzzles) / target_count
-    
-    selected_puzzles = []
-    for i in range(target_count):
-        index = int(i * step)
-        if index < len(sorted_puzzles):
-            selected_puzzles.append(sorted_puzzles[index])
-    
-    return selected_puzzles
-
-
 def process_all_puzzles_by_theme_streaming(
     csv_path: str,
     min_rating: int = 0,
@@ -946,7 +914,7 @@ def process_all_puzzles_by_theme_streaming(
             return 0
             
         # Get evenly distributed subset of puzzles (max 2000)
-        puzzles_subset = get_evenly_distributed_subset(puzzles, 2000)
+        puzzles_subset = puzzles
         
         # Sort puzzles by difficulty (rating) for final output
         puzzles_sorted = sorted(puzzles_subset, key=lambda p: p.rating)
