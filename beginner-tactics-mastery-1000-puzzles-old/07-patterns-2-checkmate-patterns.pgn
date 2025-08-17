@@ -6,109 +6,78 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2k1r3/1pp4p/1r4p1/p2Rn3/7B/b2R4/P1P3PP/K7 w - - 0 27"]
-[LichessURL "https://lichess.org/S5fAQjNE/black#52"]
-[PuzzleId "0iCwz"]
-[Themes "mate mateIn2 middlegame queensideAttack short"]
+[FEN "1k3b1r/ppp3q1/2n2p1p/3Rp1p1/4P1B1/P5B1/1PP2PPP/3R2K1 w - - 4 19"]
+[LichessURL "https://lichess.org/KNb92bCL/black#36"]
+[PuzzleId "BjTAp"]
+[Themes "backRankMate mate mateIn2 middlegame sacrifice short"]
 
 {Patterns 2: Checkmate Patterns
 
 This section focuses on Queen+knight, rook+bishop patterns.
 
-Sharpen named motif recognition and learn how to exploit them fast.
+Learn how different piece combinations work together to deliver checkmate. Queen+knight and rook+bishop are powerful mating combinations!
 }
-1. Rd8+ 1... Rxd8 2. Rxd8# *
-
-
-
-
-
-
+19. Rd8+ Nxd8 20. Rxd8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r1k/7p/3Q2p1/p7/2P1p3/P7/6PP/5R1K b - - 0 38"]
-[LichessURL "https://lichess.org/A7NXmOKi#75"]
-[PuzzleId "Nc9zc"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+[FEN "1k6/1p6/pP1p4/n5q1/8/2P3P1/7P/4R2K w - - 0 42"]
+[LichessURL "https://lichess.org/jazZJryu/black#82"]
+[PuzzleId "IRjwg"]
+[Themes "endgame mate mateIn2 short"]
 
-1... Rxf1#
-
-
-
-
-
-
+42. Re8+ Qd8 43. Rxd8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "3"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6p1/7p/3p2kP/3P4/2PK4/8/8 w - - 2 57"]
-[LichessURL "https://lichess.org/KwWQjT1p/black#112"]
-[PuzzleId "CYOq7"]
-[Themes "crushing defensiveMove endgame long pawnEndgame"]
+[FEN "3r2k1/p4pp1/7p/8/8/1PQ5/P4PPP/6K1 b - - 0 29"]
+[LichessURL "https://lichess.org/qJgvTNKm#57"]
+[PuzzleId "LeVJQ"]
+[Themes "backRankMate endgame mate mateIn2 queenRookEndgame short"]
 
-57. c4
-57... dxc4+ 58. Kxc4 Kxh5 59. d5
-
-
-
-
-
-
+29... Rd1+ 30. Qe1 Rxe1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "4"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b2knr/p2ppp2/2p3pb/q1p1P1Np/4N3/3P1Q2/PPP2PPP/R1B1R1K1 b - - 4 12"]
-[LichessURL "https://lichess.org/jl4N1VVl#23"]
-[PuzzleId "52I2M"]
-[Themes "hangingPiece kingsideAttack mate mateIn1 oneMove opening"]
+[FEN "n5k1/5p1p/3r1Pp1/p1pP4/8/5P1P/4R1B1/5K2 w - - 0 45"]
+[LichessURL "https://lichess.org/9Jrlly8D/black#88"]
+[PuzzleId "ZMO6M"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1... Qxe1#
-
-
-
-
-
-
+45. Re8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2Q5/6pk/7p/3p4/2R1bP2/6PP/5P2/r2R2K1 b - - 0 39"]
-[LichessURL "https://lichess.org/7c7LsZz6#77"]
-[PuzzleId "Tw7vK"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "3rk2r/1p4bp/p4pp1/4p3/1B6/Q7/PP3PPP/3R2K1 b k - 0 22"]
+[LichessURL "https://lichess.org/mKUUFmed#43"]
+[PuzzleId "F1Bm0"]
+[Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rxd1+ 2. Kh2 3. Rh1# *
-
-
-
-
-
-
+22... Rxd1+ 23. Be1 Rxe1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -118,102 +87,72 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r4rk/6pp/p7/1p4N1/3b4/7P/P1n2PP1/6K1 w - - 0 34"]
-[LichessURL "https://lichess.org/uk8OwNS0/black#66"]
-[PuzzleId "5sWvq"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[FEN "3r2k1/1n3ppp/ppq1p3/4P3/5P2/P2R3P/1P1Q2PK/8 w - - 2 34"]
+[LichessURL "https://lichess.org/q2RHwdEu/black#66"]
+[PuzzleId "xTuSV"]
+[Themes "endgame long mate mateIn3"]
 
-1. Nf7#
-
-
-
-
-
-
+34. Rxd8+ Nxd8 35. Qxd8+ Qe8 36. Qxe8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b4k/pp2p3/3p2Q1/8/4n3/2P5/P1P2RPP/R1B3NK b - - 0 21"]
-[LichessURL "https://lichess.org/ng2ueKxW#41"]
-[PuzzleId "N0S5f"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+[FEN "3b3k/5p1p/5p2/5N2/4rrPK/P2R3P/8/8 w - - 0 37"]
+[LichessURL "https://lichess.org/dRsWg6Rj/black#72"]
+[PuzzleId "VD8MN"]
+[Themes "endgame mate mateIn2 short"]
 
-1... Nxf2#
-
-
-
-
-
-
+37. Rxd8+ Re8 38. Rxe8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "8"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r2qkb1r/pb1pnp1p/1pn1p1p1/2p1P3/4NP2/3P1N2/PPP3PP/R1BQKB1R w KQkq - 1 8"]
-[LichessURL "https://lichess.org/HLTnd2Nu/black#14"]
-[PuzzleId "Ce9yv"]
-[Themes "master mate mateIn1 oneMove opening smotheredMate"]
+[FEN "4q2k/ppp1r1pp/5B2/2b5/8/2N4Q/PPP3PP/3R3K b - - 0 22"]
+[LichessURL "https://lichess.org/oSFycLgO#43"]
+[PuzzleId "j7svm"]
+[Themes "backRankMate mate mateIn2 middlegame short"]
 
-1. Nd6#
-
-
-
-
-
-
+22... Re1+ 23. Rxe1 Qxe1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "9"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/5p2/2k5/B2pP2p/3P2p1/b2n4/P4PPP/1R4NK b - - 0 32"]
-[LichessURL "https://lichess.org/Suwj1uz0#63"]
-[PuzzleId "qT0qy"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[FEN "1rb3k1/5p1p/2q2bpP/1p3p2/2p5/2P5/1P2Q1P1/1B2RRK1 w - - 2 30"]
+[LichessURL "https://lichess.org/ei6tOGKA/black#58"]
+[PuzzleId "e1X4h"]
+[Themes "kingsideAttack mate mateIn2 middlegame short"]
 
-1... Nxf2#
-
-
-
-
-
-
+30. Qe8+ Qxe8 31. Rxe8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "10"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6rk/p4rpp/3N4/8/5B2/8/Pq2bbPP/3R3K w - - 0 33"]
-[LichessURL "https://lichess.org/QgTnF4DD/black#64"]
-[PuzzleId "j1GFb"]
-[Themes "hangingPiece mate mateIn1 middlegame oneMove smotheredMate"]
+[FEN "3r2k1/p1R2p1p/bp2p1p1/8/8/1P2nNP1/PQ3P1P/6K1 b - - 0 26"]
+[LichessURL "https://lichess.org/ccJo6Dd3#51"]
+[PuzzleId "t48A6"]
+[Themes "endgame mate mateIn2 short"]
 
-1. Nxf7#
-
-
-
-
-
-
+26... Rd1+ 27. Ne1 Rxe1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -223,18 +162,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "5r2/p2r2k1/1p5p/4pppP/8/3n1P2/6PQ/1R4NK b - - 0 37"]
-[LichessURL "https://lichess.org/JznEtHRk#73"]
-[PuzzleId "ojsIc"]
-[Themes "endgame mate mateIn1 oneMove smotheredMate"]
+[FEN "4R3/p1k5/3p4/1Qp3r1/3p4/1P3P2/1BPP4/2K5 b - - 0 39"]
+[LichessURL "https://lichess.org/CwIxmKk1#77"]
+[PuzzleId "i5ZQ0"]
+[Themes "backRankMate endgame long mate mateIn3"]
 
-1... Nf2#
-
-
-
-
-
-
+39... Rg1+ 40. Qf1 Rxf1+ 41. Re1 Rxe1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -244,18 +177,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/8/1p6/p2Bp2p/P2p1p2/1PrP1Pk1/3R4/6K1 b - - 5 44"]
-[LichessURL "https://lichess.org/t5ulNBPV#87"]
-[PuzzleId "l1iNq"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "2kr1b1r/ppp3p1/4qp1p/4n3/7B/2P1P3/PP1Q1PPP/3RK2R w K - 0 15"]
+[LichessURL "https://lichess.org/LrZ5L88b/black#28"]
+[PuzzleId "kGyof"]
+[Themes "mate mateIn1 middlegame oneMove queensideAttack"]
 
-1... Rc1+ 2. Rd1 Rxd1# *
-
-
-
-
-
-
+15. Qxd8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -265,81 +192,57 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/p2P2pk/7p/5R2/8/8/Pr4PP/7K b - - 0 30"]
-[LichessURL "https://lichess.org/HTTWlAZA#59"]
-[PuzzleId "qk6P3"]
-[Themes "endgame mate mateIn2 short"]
+[FEN "3b1k2/pp3prp/8/1Bp5/4R3/1P6/P4PPP/1K6 w - - 1 23"]
+[LichessURL "https://lichess.org/6c75Zk3T/black#44"]
+[PuzzleId "01GC2"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1... Rb1+ 2. Rc1 Rxc1# *
-
-
-
-
-
-
+23. Re8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "14"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1r1k1/ppp2ppp/3p2q1/3P4/2P5/3nQ1P1/P2B1PBP/R4RK1 w - - 0 17"]
-[LichessURL "https://lichess.org/8QNGwytV/black#32"]
-[PuzzleId "DbkyF"]
-[Themes "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove"]
+[FEN "8/8/3Q4/r3P1R1/2k4P/6p1/6P1/7K b - - 4 59"]
+[LichessURL "https://lichess.org/3pOvaI7f#117"]
+[PuzzleId "jkHER"]
+[Themes "endgame mate mateIn2 rookEndgame short"]
 
-1. Qxe8# *
-
-
-
-
-
-
+59... Rh1+ 60. Rg1 Rxg1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "15"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/6pp/5pk1/R7/1P1P4/P4N2/r4PPP/6K1 b - - 2 36"]
-[LichessURL "https://lichess.org/ozGusdTh#71"]
-[PuzzleId "eVwya"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "5rk1/p1p2pp1/q6p/4R3/8/5PP1/PPQ4P/7K b - - 0 25"]
+[LichessURL "https://lichess.org/VloTHEwt#49"]
+[PuzzleId "gEZEz"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1... Ra1+ 2. Ne1 Rxe1# *
-
-
-
-
-
-
+25... Qf1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "16"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5p1p/1p6/p5p1/P2B2P1/5P2/4R1K1/2q5 w - - 0 37"]
-[LichessURL "https://lichess.org/wJDngWbZ/black#72"]
-[PuzzleId "cL6cc"]
-[Themes "endgame mate mateIn1 oneMove"]
+[FEN "2kr1b1r/1pp2ppp/p1nqp3/8/P2P2n1/2N4P/1PPBNPP1/2QR1RK1 b - - 0 14"]
+[LichessURL "https://lichess.org/MWXTav8t#27"]
+[PuzzleId "8ZKT2"]
+[Themes "mate mateIn1 oneMove opening"]
 
-1. Re8# *
-
-
-
-
-
-
+14... Qh2# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -349,18 +252,12 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/Rb3ppp/2p1p3/8/2Nr4/1P6/1P3PPP/2R3K1 b - - 0 18"]
-[LichessURL "https://lichess.org/EYf0H0sE#35"]
-[PuzzleId "66t8g"]
+[FEN "4r2k/1p4pp/pQp5/8/3Prp1P/2P5/P4PPB/R5K1 b - - 1 27"]
+[LichessURL "https://lichess.org/c6ByyZNN#53"]
+[PuzzleId "FdXHD"]
 [Themes "backRankMate endgame mate mateIn2 short"]
 
-1... Rd1+ 19. Rxd1 Rxd1# *
-
-
-
-
-
-
+27... Re1+ 28. Rxe1 Rxe1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -370,39 +267,27 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1bqk2r/ppp2p1p/2nb4/8/2p1PQ2/2N5/PPPP2PP/R1B2RK1 w kq - 4 11"]
-[LichessURL "https://lichess.org/3zAsf7XE/black#20"]
-[PuzzleId "3aOBX"]
-[Themes "attackingF2F7 mate mateIn1 oneMove opening"]
+[FEN "1r1q1b1r/2p1kBpp/p2p1p2/4p3/Pn2P3/1Q5P/1PnP1PP1/RNB2RK1 w - - 6 17"]
+[LichessURL "https://lichess.org/QHFzOZmT/black#32"]
+[PuzzleId "gGnNp"]
+[Themes "mate mateIn1 middlegame oneMove"]
 
-1. Qxf7# *
-
-
-
-
-
-
+17. Qe6# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "19"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r4k1/5pp1/3R3p/3B3n/3RN3/7P/1r3PPB/6K1 b - - 0 31"]
-[LichessURL "https://lichess.org/Rtmnyb6A#61"]
-[PuzzleId "TdiHG"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "r4rk1/pp1n2p1/2p4p/q2p1N2/3P2Qb/3Bp3/PP4PP/R4K1R w - - 0 18"]
+[LichessURL "https://lichess.org/9ulNKUdF/black#34"]
+[PuzzleId "o99eH"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1... Rb1+ 32. Rd1 Rxd1# *
-
-
-
-
-
-
+18. Qxg7# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
@@ -412,114 +297,84 @@ Sharpen named motif recognition and learn how to exploit them fast.
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3qr1k1/pp3p1p/6pB/n2p4/3P4/P1n1RN2/2P2PPP/4R1K1 w - - 0 20"]
-[LichessURL "https://lichess.org/Ixj5Afas/black#38"]
-[PuzzleId "jIgG6"]
-[Themes "fork mate mateIn2 middlegame short"]
+[FEN "4rrk1/2q2ppp/1ppp1n1B/p7/P2PP1Q1/2N5/1PP3PP/R5K1 w - - 0 20"]
+[LichessURL "https://lichess.org/EPNkmPcU/black#38"]
+[PuzzleId "0CjII"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove"]
 
-1. Rxe8+ 20... Qxe8 21. Rxe8# *
-
-
-
-
-
-
+20. Qxg7# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "21"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3rk2B/1b1p1p1p/3qp1p1/1B6/P3P3/2P2P1Q/1P3bPP/RN5K b - - 0 22"]
-[LichessURL "https://lichess.org/UqVFj7Ic#43"]
-[PuzzleId "SgDvZ"]
-[Themes "kingsideAttack mate mateIn2 middlegame short"]
+[FEN "1r4k1/2p3pp/p2p4/P1p5/2P5/2Q3Pq/1BP2K1n/8 w - - 0 33"]
+[LichessURL "https://lichess.org/Oq4MEjgJ/black#64"]
+[PuzzleId "GjUUq"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1... Qd1+ 23. Bf1 Qxf1# *
-
-
-
-
-
-
+33. Qxg7# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "22"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/5ppp/4p3/2Np1b2/1q1P4/5N2/5PPP/R5K1 w - - 0 27"]
-[LichessURL "https://lichess.org/MtJOArMf/black#52"]
-[PuzzleId "cvyG9"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "2k4r/p1pp3r/b1p5/4pNP1/4P3/2N5/PPP2PP1/R3R1K1 b - - 0 22"]
+[LichessURL "https://lichess.org/IK6zjDvZ#43"]
+[PuzzleId "OQMYo"]
+[Themes "mate mateIn1 middlegame oneMove"]
 
-1. Ra8+ 27... Qb8 28. Rxb8# *
-
-
-
-
-
-
+22... Rh1# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "23"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1kr5/1p3p2/pQ1p3r/4p3/4Pp2/3R4/PP3P2/K1R5 b - - 0 32"]
-[LichessURL "https://lichess.org/kd7ASgaS#63"]
-[PuzzleId "9ukvE"]
-[Themes "backRankMate endgame mate mateIn1 oneMove queenRookEndgame"]
+[FEN "3b1k2/pp3prp/8/1Bp5/4R3/1P6/P4PPP/1K6 w - - 1 23"]
+[LichessURL "https://lichess.org/6c75Zk3T/black#44"]
+[PuzzleId "01GC2"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1... Rxc1# *
-
-
-
-
-
-
+23. Re8# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "24"]
-[White "You"]
-[Black "Opponent"]
+[White "Opponent"]
+[Black "You"]
 [Result "*"]
 [SetUp "1"]
-[FEN "4r2k/2qb2pp/n1p5/5p2/p2P1b2/PpPB1N1P/1P2QP2/1N1KR3 w - - 7 31"]
-[LichessURL "https://lichess.org/4jzkO98a/black#60"]
-[PuzzleId "3dQC1"]
-[Themes "backRankMate mate mateIn2 middlegame short"]
+[FEN "3r1r1k/pp3pbp/2p1p3/8/8/7P/P1Pq1PQ1/6RK w - - 6 28"]
+[LichessURL "https://lichess.org/YYRD6aXG/black#54"]
+[PuzzleId "oZcnq"]
+[Themes "endgame mate mateIn1 oneMove"]
 
-1. Qxe8+ 1... Bxe8 2. Rxe8# *
-
-
-
-
-
-
+28. Qxg7# *
 
 [Event "Patterns 2: Checkmate Patterns"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "25"]
-[White "Opponent"]
-[Black "You"]
+[White "You"]
+[Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "3r2k1/5pp1/p6p/1p2P1b1/1P2R3/P7/1B3PPP/6K1 b - - 0 27"]
-[LichessURL "https://lichess.org/Ufm0zhep#53"]
-[PuzzleId "vRqvE"]
-[Themes "backRankMate endgame mate mateIn2 short"]
+[FEN "5q1k/2r3pp/p2p1R2/1p6/8/1BPpP2P/PP4P1/1K6 w - - 0 30"]
+[LichessURL "https://lichess.org/0U2lRbuQ/black#58"]
+[PuzzleId "pXeNN"]
+[Themes "backRankMate endgame mate mateIn1 oneMove"]
 
-1... Rd1+ 28. Re1 Rxe1# *
+30. Rxf8# *

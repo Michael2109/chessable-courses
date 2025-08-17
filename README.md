@@ -1,194 +1,230 @@
 # chessable-courses
 
-# Beginner Tactics Mastery — 1000 Puzzles (Deluxe Edition)
+# Beginner Tactics Mastery — 1000 Puzzles (Complete Lichess Themes Edition)
 
-A structured Chessable-style puzzle collection for beginners, grouped by tactical theme and ordered by difficulty (easy → medium → hard).  
-Includes core tactical motifs, defensive patterns, and bonus "crowd-pleaser" puzzles like traps and sacrifices to make learning fun.
+A comprehensive Chessable-style puzzle collection for beginners, covering 40+ Lichess tactical themes ordered by difficulty.  
+Designed for systematic improvement with complete coverage of essential tactical patterns.
+
+## Course Structure Overview
+
+- **FOUNDATION** (300 puzzles) - Essential one-move tactics and basic patterns
+- **CHECKMATE PATTERNS** (150 puzzles) - All major mate themes from Lichess
+- **TACTICAL PATTERNS** (340 puzzles) - Core tactical motifs and combinations  
+- **ADVANCED & DEFENSIVE** (130 puzzles) - Quiet moves, defense, and special situations
+- **ENDGAME MASTERY** (80 puzzles) - Essential endgame patterns by piece type
+
+---
 
 # Complete Beginner Chess Tactics Course – 1000 Puzzles
 
-| #  | Category                               | Sub-Theme / Examples                           | Puzzles  | Likely Lichess Theme(s)       |
-|----|----------------------------------------|------------------------------------------------|----------|-------------------------------|
-| 1  | **Basics 1: Deliver Checkmate!**       | Direct threats, undefended squares             | 25       | mate, mateIn1                 |
-| 2  | **Basics 2: Free Pieces!**             | One-move captures, undefended pieces           | 20       | hangingPiece, oneMove         |
-| 3  | **Basics 3: Back Rank Blitz**          | Simple back rank patterns                      | 15       | backRankMate, mateIn1         |
-| 4  | **Basics 4: Fork Attack!**             | Knight forks (15), pawn forks (10)             | 25       | fork, knightFork              |
-| 5  | **Basics 5: Safe to Capture?**         | Is it safe to take? Simple counting            | 15       | capture, advantage            |
-| 6  | **Patterns 1: Pins to the King**       | Absolute pins, winning pinned pieces           | 25       | pin, absolutePin              |
-| 7  | **Patterns 2: Checkmate Patterns**     | Queen+knight, rook+bishop patterns             | 25       | mateIn1, mate                 |
-| 8  | **Patterns 3: Attack Two Things!**     | Queen forks, rook forks, two threats           | 30       | fork, doubleAttack            |
-| 9  | **Patterns 4: Pin the Pieces**         | Pins to queens/rooks, exploiting pins          | 25       | pin, relativePin              |
-| 10 | **Patterns 5: Skewer Attack**          | Bishop skewers (15), rook/queen skewers (15)   | 30       | skewer, attackingPiece        |
-| 11 | **Patterns 6: Danger Alert!**          | What is my opponent threatening?               | 20       | defensiveMove, threat         |
-| 12 | **Review: Skills Check #1**            | Combining previous themes                      | 20       | mix (various)                 |
-| 13 | **Tactics 1: Surprise Attack!**        | Simple discoveries, setup moves                | 30       | discoveredAttack, discovery   |
-| 14 | **Tactics 2: Remove the Guard**        | Captures, simple deflections                   | 30       | removeDefender, capture       |
-| 15 | **Tactics 3: Two-Move Checkmate**      | Forcing checks, simple sequences               | 30       | mateIn2, mate                 |
-| 16 | **Tactics 4: Surprise Check!**         | Discoveries with check                         | 25       | discoveredCheck, doubleCheck  |
-| 17 | **Tactics 5: Back Rank Breakthrough**  | With sacrifices, removing defenders            | 25       | backRankMate, sacrifice       |
-| 18 | **Tactics 6: Overworked Pieces**       | One piece guards too much                      | 25       | overloading, removeDefender   |
-| 19 | **Tactics 7: Defense First**           | Blocking, interposing, escaping                | 25       | defensiveMove, blocking       |
-| 20 | **Endgame 1: Promotion Race!**         | Who promotes first? Counting tempos            | 20       | promotion, endgame            |
-| 21 | **Endgame 2: King vs King & Pawn**     | Opposition, key squares                        | 20       | endgame, pawnEndgame          |
-| 22 | **Endgame 3: Queen Endings**           | Ladder mate, centralization technique          | 15       | endgame, queenEndgame         |
-| 23 | **Endgame 4: Rook Endings**            | Box technique, cutting off                     | 15       | endgame, rookEndgame          |
-| 24 | **Endgame 5: Passed Pawn Power**       | Creating, advancing, defending                 | 20       | endgame, passedPawn           |
-| 25 | **Intermediate 1: Checkmate in Two**   | Common mating patterns, quiet first moves      | 35       | mateIn2, quietMove            |
-| 26 | **Intermediate 2: Decoy & Deflection** | Luring pieces to bad squares                   | 25       | deflection, decoy             |
-| 27 | **Intermediate 3: Double Check Power** | Forcing king moves, mate threats               | 20       | doubleCheck, check            |
-| 28 | **Intermediate 4: Trapped Pieces**     | Trapped bishops (15), queens (10), rooks (10)  | 35       | trappedPiece, trap            |
-| 29 | **Intermediate 5: In-Between Moves**   | Zwischenzug, desperado moves                   | 25       | zwischenzug, intermezzo       |
-| 30 | **Review: Skills Check #2**            | All tactics so far combined                    | 25       | mix (various)                 |
-| 31 | **Special 1: Knight's Final Strike**   | Smothered mate, Philidor's legacy              | 15       | smotheredMate, mate           |
-| 32 | **Special 2: The Greek Gift**          | Classic bishop sacrifice Bxh7+                 | 25       | sacrifice, greekGift          |
-| 33 | **Special 3: Attack the Weak Point**   | f7/f2 weaknesses in the opening                | 20       | opening, weakness             |
-| 34 | **Special 4: Long Diagonal Power**     | Bishop dominance on long diagonals             | 20       | bishopEndgame, longDiagonal   |
-| 35 | **Special 5: Retreat to Victory**      | Winning by moving pieces backward              | 15       | quietMove, retreat            |
-| 36 | **Special 6: Knight Magic**            | Octopus knights, outpost domination            | 20       | knightEndgame, fork           |
-| 37 | **Advanced 1: Three-Move Checkmate**   | Clear forcing sequences                        | 25       | mateIn3, mate                 |
-| 38 | **Advanced 2: Sacrifice for Attack**   | Clearance, line opening sacrifices             | 20       | sacrifice, clearance          |
-| 39 | **Advanced 3: Interference**           | Blocking defensive lines                       | 15       | interference, blocking        |
-| 40 | **Advanced 4: Defense Master**         | Counter-threats, perpetual check               | 25       | defensiveMove, perpetualCheck |
-| 41 | **Advanced 5: Quiet Moves Win**        | Non-forcing winning moves                      | 20       | quietMove, zugzwang           |
-| 42 | **Advanced 6: Exchange Sacrifice**     | Rook for minor piece advantage                 | 15       | sacrifice, exchangeSacrifice  |
-| 43 | **Practical 1: Survive the Opening!**  | Defending against Scholar's mate, traps        | 20       | opening, defensiveMove        |
-| 44 | **Practical 2: Opening Ambush**        | Legal's trap, queen traps, quick wins          | 15       | opening, trap                 |
-| 45 | **Practical 3: Trade to Win**          | When/how to simplify when ahead                | 20       | simplification, advantage     |
-| 46 | **Practical 4: Escape Artist**         | Stalemate tricks, perpetual check saves        | 20       | stalemate, perpetualCheck     |
-| 47 | **Practical 5: Mating Net**            | Quiet moves creating inevitable mate           | 20       | mate, matingNet               |
-| 48 | **Practical 6: King Dance**            | Opposition & zugzwang in endgames              | 20       | zugzwang, endgame             |
-| 49 | **Mastery 1: Special Checkmates**      | Arabian (5), Boden's (5), Hook (5), others (5) | 20       | arabianMate, hookMate, mate   |
-| 50 | **Mastery 2: Skills Challenge**        | Medium difficulty combinations                 | 25       | mix (various)                 |
-| 51 | **Mastery 3: Tactical Fireworks**      | 2-3 tactical themes combined                   | 30       | mix, combination              |
-| 52 | **Mastery 4: Final Boss**              | Tournament-level mixed puzzles                 | 30       | mix, master                   |
-|    | **TOTAL**                              |                                                | **1000** |                               |
+## ✅ FOUNDATION THEMES (300 puzzles)
 
-## Key Design Principles
+| # | Chapter | Lichess Theme | Puzzles | Description |
+|---|---------|---------------|---------|-------------|
+| 1 | **Checkmate in 1** | `mateIn1` | 50 | Direct checkmate patterns |
+| 2 | **Hanging Pieces** | `hangingPiece` | 40 | Spot and capture undefended pieces |
+| 3 | **Basic Forks** | `fork` | 40 | Attack two pieces at once |
+| 4 | **Basic Pins** | `pin` | 40 | Pin pieces to king or valuable pieces |
+| 5 | **Basic Skewers** | `skewer` | 40 | Force valuable piece to move, win piece behind |
+| 6 | **Capturing Defender** | `capturingDefender` | 25 | Remove the guard to win material |
+| 7 | **Counting Captures** | `advantage` | 25 | Calculate exchanges correctly |
 
-- **Difficulty progression:**  
-  - *Easy* = direct 1-move win.  
-  - *Medium* = 2 moves or clear forcing idea.  
-  - *Hard* = 2–3 moves with tactic disguised.  
+## ✅ CHECKMATE PATTERNS (150 puzzles)
 
-- **Theme repetition:**  
-  Patterns like **back rank mates** appear multiple times — direct, disguised, and defensive.
+| # | Chapter | Lichess Theme | Puzzles | Description |
+|---|---------|---------------|---------|-------------|
+| 9 | **Checkmate in 2** | `mateIn2` | 40 | Two-move forcing sequences |
+| 10 | **Back Rank Mates** | `backRankMate` | 30 | Classic 1st/8th rank patterns |
+| 11 | **Checkmate in 3** | `mateIn3` | 30 | Three-move combinations |
+| 12 | **Smothered Mate** | `smotheredMate` | 15 | Knight delivers mate to trapped king |
+| 13 | **Arabian Mate** | `arabianMate` | 15 | Knight + Rook corner pattern |
+| 14 | **Hook & Special Mates** | `hookMate`, `anastasiaMate`, `bodenMate` | 20 | Named mating patterns |
 
-- **Balanced training:**  
-  ~65% attacking, ~25% defensive tactics, ~10% practical/endgame & bonus content.
+## ✅ TACTICAL PATTERNS (340 puzzles)
 
-- **Fun factor:**  
-  Includes traps, sacrifices, mating nets, and a final "exam" for extra engagement.
+| # | Chapter | Lichess Theme | Puzzles | Description |
+|---|---------|---------------|---------|-------------|
+| 15 | **Knight Forks** | `knightFork` | 30 | Knight-specific double attacks |
+| 16 | **Discovered Attacks** | `discoveredAttack` | 30 | Move one piece to unleash another |
+| 17 | **Double Check** | `doubleCheck` | 25 | Two pieces give check simultaneously |
+| 18 | **Deflection** | `deflection` | 30 | Force defender away from duty |
+| 19 | **Decoy/Attraction** | `attraction` | 25 | Lure piece to bad square |
+| 20 | **Trapped Pieces** | `trappedPiece` | 30 | Win pieces with no escape |
+| 21 | **X-Ray Attacks** | `xRayAttack` | 25 | Attack through pieces |
+| 22 | **Zwischenzug** | `zwischenzug` | 25 | Surprising in-between moves |
+| 23 | **Sacrifices** | `sacrifice` | 40 | Give up material for advantage |
+| 24 | **Exposed King** | `exposedKing` | 20 | Exploit unsafe king position |
+| 25 | **Attacking f2/f7** | `attackingF2F7` | 20 | Weak squares in opening |
+| 26 | **Interference** | `interference` | 20 | Block defensive lines |
+| 27 | **Clearance** | `clearance` | 15 | Clear lines for your pieces |
+| 28 | **Promotion Tactics** | `promotion` | 20 | Pawn promotion combinations |
+| 29 | **Undermining** | `undermining` | 15 | Remove support from below |
+
+## ✅ ADVANCED & DEFENSIVE (130 puzzles)
+
+| # | Chapter | Lichess Theme | Puzzles | Description |
+|---|---------|---------------|---------|-------------|
+| 30 | **Quiet Moves** | `quietMove` | 25 | Non-forcing winning moves |
+| 31 | **Defensive Moves** | `defensiveMove` | 30 | Best defense techniques |
+| 32 | **Perpetual Check** | `perpetualCheck` | 15 | Force a draw when behind |
+| 33 | **Stalemate Tricks** | `stalemate` | 15 | Save lost positions |
+| 34 | **Zugzwang** | `zugzwang` | 15 | Force opponent into bad moves |
+| 35 | **Advanced Pawns** | `advancedPawn` | 20 | Passed pawn power |
+| 36 | **En Passant** | `enPassant` | 10 | Special pawn capture tactics |
+
+## ✅ ENDGAME MASTERY (80 puzzles)
+
+| # | Chapter | Lichess Theme | Puzzles | Description |
+|---|---------|---------------|---------|-------------|
+| 37 | **Pawn Endgames** | `pawnEndgame` | 20 | King and pawn technique |
+| 38 | **Rook Endgames** | `rookEndgame` | 20 | Rook and pawn principles |
+| 39 | **Queen Endgames** | `queenEndgame` | 15 | Queen technique and tricks |
+| 40 | **Bishop Endgames** | `bishopEndgame` | 10 | Bishop and pawn patterns |
+| 41 | **Knight Endgames** | `knightEndgame` | 15 | Knight-specific endgames |
 
 ---
 
-## Suggested Learning Path
+## Complete Theme Coverage (42 themes)
 
-1. **Basic Mates** → **Back Rank Mates** → **Named Patterns**.  
-2. **Hanging Pieces** → **Forks** → **Pins** → **Skewers & X-rays**.  
-3. **Removing Defenders** → **Discovered Attacks** → **Pawn Tactics**.  
-4. **Defensive Tactics** → **Find the Draw** → **Zugzwang/Opposition**.  
-5. **Traps & Sacrifices** → **Mating Nets** → **Anti-Blunder Mates**.  
-6. **Mixed Bag Final Exam**.
+✅ **Included:** absolutePin, advancedPawn, advantage, anastasiaMate, arabianMate, attackingF2F7, attraction, backRankMate, bishopEndgame, bodenMate, capturingDefender, clearance, defensiveMove, deflection, discoveredAttack, doubleCheck, enPassant, exposedKing, fork, hangingPiece, hookMate, interference, knightEndgame, knightFork, mateIn1, mateIn2, mateIn3, oneMove, pawnEndgame, perpetualCheck, pin, promotion, queenEndgame, quietMove, rookEndgame, sacrifice, skewer, smotheredMate, stalemate, trappedPiece, undermining, xRayAttack, zugzwang, zwischenzug
 
-This ensures a smooth transition from obvious patterns to realistic in-game scenarios, with plenty of variety to keep learners hooked.
+## Difficulty Guidelines
+
+### Recommended Rating Ranges by Section:
+- **FOUNDATION**: 600-1000 rating
+- **CHECKMATE PATTERNS**: 800-1200 rating  
+- **TACTICAL PATTERNS**: 900-1400 rating
+- **ADVANCED & DEFENSIVE**: 1100-1600 rating
+- **ENDGAME MASTERY**: 1000-1500 rating
+
+### Within Each Chapter:
+- First 30% of puzzles: Easy (lower rating range)
+- Middle 40% of puzzles: Medium (mid rating range)
+- Last 30% of puzzles: Hard (upper rating range)
 
 ---
 
-## Using the Streaming Puzzle Processing Features
+## Implementation Guide
 
-The project now includes advanced streaming puzzle processing capabilities that can handle large Lichess puzzle datasets efficiently.
+### Quick Start - Process All Themes
+
+```bash
+# Create a script to process all themes
+for theme in oneMove hangingPiece mateIn1 fork pin skewer capturingDefender advantage \
+             mateIn2 backRankMate mateIn3 smotheredMate arabianMate hookMate \
+             knightFork discoveredAttack doubleCheck deflection attraction trappedPiece \
+             xRayAttack zwischenzug sacrifice exposedKing attackingF2F7 interference \
+             clearance promotion undermining quietMove defensiveMove perpetualCheck \
+             stalemate zugzwang advancedPawn enPassant pawnEndgame rookEndgame \
+             queenEndgame bishopEndgame knightEndgame; do
+    
+    echo "Processing theme: $theme"
+    python -m app.main --stream-all \
+        --csv-path lichess_db_puzzle.csv \
+        --theme $theme \
+        --min-rating 800 \
+        --max-rating 1400 \
+        --min-popularity 85 \
+        --out-dir course_puzzles/$theme
+done
+```
+
+### Custom Difficulty Ranges
+
+```bash
+# Foundation chapters (easier)
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv \
+    --theme oneMove --min-rating 600 --max-rating 1000 \
+    --min-popularity 90 --limit 40 --out-dir foundation/oneMove
+
+# Advanced chapters (harder)
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv \
+    --theme quietMove --min-rating 1200 --max-rating 1600 \
+    --min-popularity 85 --limit 25 --out-dir advanced/quietMove
+```
+
+### High-Quality Filter Settings
+
+```bash
+# Maximum quality for course creation
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv \
+    --theme fork --min-rating 800 --max-rating 1200 \
+    --min-popularity 95 --min-plays 100 \
+    --limit 40 --out-dir high_quality/fork
+```
+
+---
+
+## Course Features
+
+### Learning Path
+1. **Complete FOUNDATION** section first (Chapters 1-8)
+2. **Master CHECKMATE PATTERNS** (Chapters 9-14)
+3. **Work through TACTICAL PATTERNS** systematically (Chapters 15-29)
+4. **Study ADVANCED & DEFENSIVE** for tournament play (Chapters 30-36)
+5. **Practice ENDGAME MASTERY** for complete game understanding (Chapters 37-41)
+
+### Key Benefits
+- **Complete Coverage**: All major Lichess tactical themes included
+- **Natural Progression**: Concepts build on each other logically
+- **Quality Control**: Filter by popularity and play count for best puzzles
+- **Flexible Difficulty**: Adjust rating ranges to match student level
+- **Direct Implementation**: Each chapter maps to one Lichess theme query
+
+### Spaced Repetition Schedule
+- Review FOUNDATION themes weekly
+- Review CHECKMATE PATTERNS every 2 weeks
+- Review other sections monthly
+- Focus extra practice on weak areas identified through testing
+
+---
+
+## Technical Requirements
 
 ### Prerequisites
 
-1. **Download the Lichess Puzzles Database:**
-   ```bash
-   # Download the compressed version (recommended)
-   wget https://database.lichess.org/lichess_db_puzzle.csv.zst
-   
-   # Or download the uncompressed version
-   wget https://database.lichess.org/lichess_db_puzzle.csv
-   ```
+1. **Download Lichess Puzzle Database:**
+```bash
+# Compressed version (recommended)
+wget https://database.lichess.org/lichess_db_puzzle.csv.zst
+
+# Or uncompressed version
+wget https://database.lichess.org/lichess_db_puzzle.csv
+```
 
 2. **Install Dependencies:**
-   ```bash
-   # For compressed .zst files
-   pip install zstandard
-   
-   # Core dependencies
-   pip install chess
-   ```
-
-### Basic Usage
-
-#### Process All Puzzles by Theme (Streaming)
 ```bash
-# Process all puzzles with basic filtering
-python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 800 --max-rating 1200 --out-dir themes_pgn_800-1200
+pip install chess zstandard
 ```
 
-#### High-Quality Beginner Puzzles
-```bash
-# Create beginner puzzles with quality filters
-python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 200 --max-rating 1200 --min-popularity 85 --min-plays 50 --out-dir beginner_puzzles
+### File Organization
+
 ```
-
-#### Expert-Level Puzzles
-```bash
-# Create expert puzzles with strict quality filters
-python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 1400 --max-rating 2000 --min-popularity 95 --min-plays 200 --out-dir expert_puzzles
+course_puzzles/
+├── foundation/
+│   ├── oneMove.pgn
+│   ├── hangingPiece.pgn
+│   └── ...
+├── checkmates/
+│   ├── mateIn1.pgn
+│   ├── mateIn2.pgn
+│   └── ...
+├── tactics/
+│   ├── fork.pgn
+│   ├── pin.pgn
+│   └── ...
+├── advanced/
+│   ├── quietMove.pgn
+│   ├── defensiveMove.pgn
+│   └── ...
+└── endgames/
+    ├── pawnEndgame.pgn
+    ├── rookEndgame.pgn
+    └── ...
 ```
-
-### Key Features
-
-- **Memory Efficient:** Processes millions of puzzles without loading everything into memory
-- **Quality Filtering:** Filter by popularity percentile and minimum plays/reviews
-- **Difficulty Sorting:** Puzzles are sorted by rating within each theme
-- **Difficulty Labels:** Event names include difficulty information (Easy, Medium, Hard, etc.)
-- **Theme Organization:** Creates one PGN file per tactical theme
-
-### Command Line Options
-
-| Option | Description | Example |
-|--------|-------------|---------|
-| `--stream-all` | Enable streaming processing | `--stream-all` |
-| `--min-rating` | Minimum rating filter | `--min-rating 800` |
-| `--max-rating` | Maximum rating filter | `--max-rating 1200` |
-| `--min-popularity` | Minimum popularity percentile | `--min-popularity 90` |
-| `--min-plays` | Minimum number of plays/reviews | `--min-plays 100` |
-| `--out-dir` | Output directory | `--out-dir my_puzzles` |
-
-### Output Structure
-
-The script creates one PGN file per theme:
-```
-output_directory/
-├── Fork.pgn
-├── Pin.pgn
-├── Mate In 1.pgn
-├── Back Rank Mate.pgn
-└── ...
-```
-
-Each file contains puzzles sorted by difficulty, with event names like:
-- `"Fork Attack (Medium)"`
-- `"Pin the Pieces (Hard)"`
-- `"Mate In 1 (Easy)"`
-
-### Performance Notes
-
-- **Memory Usage:** Constant regardless of CSV size
-- **Processing Speed:** Depends on file size and filters
-- **Progress Reporting:** Updates every 10,000 puzzles
-- **Incremental Output:** Files created as themes are completed
-
-For more detailed information, see [STREAMING_FEATURES.md](STREAMING_FEATURES.md).
 
 ---
 
-## Original Usage (Selective Processing)
+## Support & Updates
 
-For selective processing of specific themes or smaller datasets:
-
-```bash
-uv run python -m app.main --csv-path lichess_db_puzzle.csv --min-rating 200 --max-rating 1500 --per-theme 100
-```
+For the latest updates and additional resources, check the repository regularly. The Lichess puzzle database is updated monthly with new puzzles, so you can refresh your course content periodically to include the latest high-quality puzzles.
