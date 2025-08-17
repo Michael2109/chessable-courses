@@ -1,0 +1,97 @@
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1b2pB/2p1p3/3pP3/8/2P1PR2/P1P3PP/R2Q2K1 b - - 0 15"]
+[LichessURL "https://lichess.org/pFdW4L6B#29"]
+[PuzzleId "irV1i"]
+[Themes "advantage hangingPiece middlegame short"]
+
+{Basics 5: Safe to Capture?
+
+This section focuses on Is it safe to take? Simple counting.
+
+Queens are typically worth 9 points, bishops 3, knights 3, and rooks 5.
+
+Before capturing a piece, always count the material! Ask yourself: "If I take this piece, what can my opponent take back?"
+}
+15... Kxh7 16. Rxf8 16... Qxf8 *
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n5k/p5pp/4Q1b1/3qp3/8/P2P3P/KP2P3/5rNR w - - 0 27"]
+[LichessURL "https://lichess.org/0Ge1xVzz/black#52"]
+[PuzzleId "T1Y5o"]
+[Themes "advantage hangingPiece middlegame short"]
+
+27. Qxd5 27... Bf7 28. Qxf7 *
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R3p/3k2b1/1PN5/3r4/4n2P/P1p3P1/2R3K1 b - - 5 33"]
+[LichessURL "https://lichess.org/wbpX6KOA#65"]
+[PuzzleId "bWDLm"]
+[Themes "advantage endgame hangingPiece short"]
+
+33... Kxc5 34. Rxd4 34... Kxd4 *
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3p1ppp/bp6/p1pP4/2P2PP1/8/Pb4K1/R1B1rB2 w - - 0 28"]
+[LichessURL "https://lichess.org/skqJk709/black#54"]
+[PuzzleId "tFQfs"]
+[Themes "advantage endgame hangingPiece short"]
+
+28. Bxb2 28... Rxa1 29. Bxa1 *
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pppp1ppp/8/4q3/2B5/3Q4/PPP2bPP/RN2R1K1 w kq - 0 13"]
+[LichessURL "https://lichess.org/CKIByfI0/black#24"]
+[PuzzleId "8g41X"]
+[Themes "advantage hangingPiece opening pin short"]
+
+13. Kxf2 Qxe1+ 14. Kxe1 *
+
+[Event "Basics 5: Safe to Capture?"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb2rk1/pp3ppB/1n6/2pq4/8/2P2N2/P4PPP/R1BQ1RK1 b - - 0 12"]
+[LichessURL "https://lichess.org/dqST8r2l#23"]
+[PuzzleId "p51Nq"]
+[Themes "advantage hangingPiece opening short"]
+
+12... Kxh7 13. Qxd5 Nxd5 *
