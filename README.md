@@ -1,3 +1,5 @@
+Absolutely! Splitting them out makes sense since each named mate pattern deserves focused practice. Here's the updated structure:
+
 # chessable-courses
 
 # Beginner Tactics Mastery — 1000 Puzzles (Complete Lichess Themes Edition)
@@ -7,86 +9,96 @@ Designed for systematic improvement with complete coverage of essential tactical
 
 ## Course Structure Overview
 
-- **FOUNDATION** (300 puzzles) - Essential one-move tactics and basic patterns
+- **FOUNDATION** (260 puzzles) - Essential one-move tactics and basic patterns
 - **CHECKMATE PATTERNS** (150 puzzles) - All major mate themes from Lichess
 - **TACTICAL PATTERNS** (340 puzzles) - Core tactical motifs and combinations  
 - **ADVANCED & DEFENSIVE** (130 puzzles) - Quiet moves, defense, and special situations
 - **ENDGAME MASTERY** (80 puzzles) - Essential endgame patterns by piece type
+- **MIXED CHALLENGES** (40 puzzles) - Combined themes and final tests
 
 ---
 
 # Complete Beginner Chess Tactics Course – 1000 Puzzles
 
-## ✅ FOUNDATION THEMES (300 puzzles)
+## ✅ FOUNDATION THEMES (260 puzzles)
 
-| # | Chapter | Lichess Theme | Puzzles | Description |
-|---|---------|---------------|---------|-------------|
-| 1 | **Checkmate in 1** | `mateIn1` | 50 | Direct checkmate patterns |
-| 2 | **Hanging Pieces** | `hangingPiece` | 40 | Spot and capture undefended pieces |
-| 3 | **Basic Forks** | `fork` | 40 | Attack two pieces at once |
-| 4 | **Basic Pins** | `pin` | 40 | Pin pieces to king or valuable pieces |
-| 5 | **Basic Skewers** | `skewer` | 40 | Force valuable piece to move, win piece behind |
-| 6 | **Capturing Defender** | `capturingDefender` | 25 | Remove the guard to win material |
-| 7 | **Counting Captures** | `advantage` | 25 | Calculate exchanges correctly |
+| # | Chapter                | Lichess Theme       | Puzzles | Description                                    |
+|---|------------------------|---------------------|---------|------------------------------------------------|
+| 1 | **Checkmate in 1**     | `mateIn1`           | 50      | Direct checkmate patterns                      |
+| 2 | **Hanging Pieces**     | `hangingPiece`      | 40      | Spot and capture undefended pieces             |
+| 3 | **Basic Forks**        | `fork`              | 40      | Attack two pieces at once                      |
+| 4 | **Basic Pins**         | `pin`               | 40      | Pin pieces to king or valuable pieces          |
+| 5 | **Basic Skewers**      | `skewer`            | 40      | Force valuable piece to move, win piece behind |
+| 6 | **Capturing Defender** | `capturingDefender` | 25      | Remove the guard to win material               |
+| 7 | **Counting Captures**  | `advantage`         | 25      | Calculate exchanges correctly                  |
 
 ## ✅ CHECKMATE PATTERNS (150 puzzles)
 
-| # | Chapter | Lichess Theme | Puzzles | Description |
-|---|---------|---------------|---------|-------------|
-| 9 | **Checkmate in 2** | `mateIn2` | 40 | Two-move forcing sequences |
-| 10 | **Back Rank Mates** | `backRankMate` | 30 | Classic 1st/8th rank patterns |
-| 11 | **Checkmate in 3** | `mateIn3` | 30 | Three-move combinations |
-| 12 | **Smothered Mate** | `smotheredMate` | 15 | Knight delivers mate to trapped king |
-| 13 | **Arabian Mate** | `arabianMate` | 15 | Knight + Rook corner pattern |
-| 14 | **Hook & Special Mates** | `hookMate`, `anastasiaMate`, `bodenMate` | 20 | Named mating patterns |
+| #  | Chapter                  | Lichess Theme    | Puzzles | Description                          |
+|----|--------------------------|------------------|---------|--------------------------------------|
+| 8  | **Checkmate in 2**       | `mateIn2`        | 40      | Two-move forcing sequences           |
+| 9  | **Back Rank Mates**      | `backRankMate`   | 30      | Classic 1st/8th rank patterns        |
+| 10 | **Checkmate in 3**       | `mateIn3`        | 30      | Three-move combinations              |
+| 11 | **Smothered Mate**       | `smotheredMate`  | 15      | Knight delivers mate to trapped king |
+| 12 | **Arabian Mate**         | `arabianMate`    | 15      | Knight + Rook corner pattern         |
+| 13 | **Hook Mate**            | `hookMate`       | 10      | Rook + Knight + Pawn pattern         |
+| 14 | **Anastasia's Mate**     | `anastasiaMate`  | 5       | Knight + Rook on h-file              |
+| 15 | **Boden's Mate**         | `bodenMate`      | 5       | Two bishops criss-cross pattern      |
 
 ## ✅ TACTICAL PATTERNS (340 puzzles)
 
-| # | Chapter | Lichess Theme | Puzzles | Description |
-|---|---------|---------------|---------|-------------|
-| 15 | **Knight Forks** | `knightFork` | 30 | Knight-specific double attacks |
-| 16 | **Discovered Attacks** | `discoveredAttack` | 30 | Move one piece to unleash another |
-| 17 | **Double Check** | `doubleCheck` | 25 | Two pieces give check simultaneously |
-| 18 | **Deflection** | `deflection` | 30 | Force defender away from duty |
-| 19 | **Decoy/Attraction** | `attraction` | 25 | Lure piece to bad square |
-| 20 | **Trapped Pieces** | `trappedPiece` | 30 | Win pieces with no escape |
-| 21 | **X-Ray Attacks** | `xRayAttack` | 25 | Attack through pieces |
-| 22 | **Zwischenzug** | `zwischenzug` | 25 | Surprising in-between moves |
-| 23 | **Sacrifices** | `sacrifice` | 40 | Give up material for advantage |
-| 24 | **Exposed King** | `exposedKing` | 20 | Exploit unsafe king position |
-| 25 | **Attacking f2/f7** | `attackingF2F7` | 20 | Weak squares in opening |
-| 26 | **Interference** | `interference` | 20 | Block defensive lines |
-| 27 | **Clearance** | `clearance` | 15 | Clear lines for your pieces |
-| 28 | **Promotion Tactics** | `promotion` | 20 | Pawn promotion combinations |
-| 29 | **Undermining** | `undermining` | 15 | Remove support from below |
+| #  | Chapter                | Lichess Theme      | Puzzles | Description                          |
+|----|------------------------|--------------------|---------|--------------------------------------|
+| 16 | **Knight Forks**       | `knightFork`       | 30      | Knight-specific double attacks       |
+| 17 | **Discovered Attacks** | `discoveredAttack` | 30      | Move one piece to unleash another    |
+| 18 | **Double Check**       | `doubleCheck`      | 25      | Two pieces give check simultaneously |
+| 19 | **Deflection**         | `deflection`       | 30      | Force defender away from duty        |
+| 20 | **Decoy/Attraction**   | `attraction`       | 25      | Lure piece to bad square             |
+| 21 | **Trapped Pieces**     | `trappedPiece`     | 30      | Win pieces with no escape            |
+| 22 | **X-Ray Attacks**      | `xRayAttack`       | 25      | Attack through pieces                |
+| 23 | **Zwischenzug**        | `zwischenzug`      | 25      | Surprising in-between moves          |
+| 24 | **Sacrifices**         | `sacrifice`        | 40      | Give up material for advantage       |
+| 25 | **Exposed King**       | `exposedKing`      | 20      | Exploit unsafe king position         |
+| 26 | **Attacking f2/f7**    | `attackingF2F7`    | 20      | Weak squares in opening              |
+| 27 | **Interference**       | `interference`     | 20      | Block defensive lines                |
+| 28 | **Clearance**          | `clearance`        | 15      | Clear lines for your pieces          |
+| 29 | **Promotion Tactics**  | `promotion`        | 20      | Pawn promotion combinations          |
+| 30 | **Undermining**        | `undermining`      | 15      | Remove support from below            |
 
 ## ✅ ADVANCED & DEFENSIVE (130 puzzles)
 
-| # | Chapter | Lichess Theme | Puzzles | Description |
-|---|---------|---------------|---------|-------------|
-| 30 | **Quiet Moves** | `quietMove` | 25 | Non-forcing winning moves |
-| 31 | **Defensive Moves** | `defensiveMove` | 30 | Best defense techniques |
-| 32 | **Perpetual Check** | `perpetualCheck` | 15 | Force a draw when behind |
-| 33 | **Stalemate Tricks** | `stalemate` | 15 | Save lost positions |
-| 34 | **Zugzwang** | `zugzwang` | 15 | Force opponent into bad moves |
-| 35 | **Advanced Pawns** | `advancedPawn` | 20 | Passed pawn power |
-| 36 | **En Passant** | `enPassant` | 10 | Special pawn capture tactics |
+| #  | Chapter              | Lichess Theme    | Puzzles | Description                   |
+|----|----------------------|------------------|---------|-------------------------------|
+| 31 | **Quiet Moves**      | `quietMove`      | 25      | Non-forcing winning moves     |
+| 32 | **Defensive Moves**  | `defensiveMove`  | 30      | Best defense techniques       |
+| 33 | **Perpetual Check**  | `perpetualCheck` | 15      | Force a draw when behind      |
+| 34 | **Stalemate Tricks** | `stalemate`      | 15      | Save lost positions           |
+| 35 | **Zugzwang**         | `zugzwang`       | 15      | Force opponent into bad moves |
+| 36 | **Advanced Pawns**   | `advancedPawn`   | 20      | Passed pawn power             |
+| 37 | **En Passant**       | `enPassant`      | 10      | Special pawn capture tactics  |
 
 ## ✅ ENDGAME MASTERY (80 puzzles)
 
-| # | Chapter | Lichess Theme | Puzzles | Description |
-|---|---------|---------------|---------|-------------|
-| 37 | **Pawn Endgames** | `pawnEndgame` | 20 | King and pawn technique |
-| 38 | **Rook Endgames** | `rookEndgame` | 20 | Rook and pawn principles |
-| 39 | **Queen Endgames** | `queenEndgame` | 15 | Queen technique and tricks |
-| 40 | **Bishop Endgames** | `bishopEndgame` | 10 | Bishop and pawn patterns |
-| 41 | **Knight Endgames** | `knightEndgame` | 15 | Knight-specific endgames |
+| #  | Chapter             | Lichess Theme   | Puzzles | Description                |
+|----|---------------------|-----------------|---------|----------------------------|
+| 38 | **Pawn Endgames**   | `pawnEndgame`   | 20      | King and pawn technique    |
+| 39 | **Rook Endgames**   | `rookEndgame`   | 20      | Rook and pawn principles   |
+| 40 | **Queen Endgames**  | `queenEndgame`  | 15      | Queen technique and tricks |
+| 41 | **Bishop Endgames** | `bishopEndgame` | 10      | Bishop and pawn patterns   |
+| 42 | **Knight Endgames** | `knightEndgame` | 15      | Knight-specific endgames   |
+
+## ✅ MIXED CHALLENGES (40 puzzles)
+
+| #  | Chapter             | Lichess Theme   | Puzzles | Description                     |
+|----|---------------------|-----------------|---------|--------------------------------|
+| 43 | **Master Mix**      | `master`        | 20      | High-rated mixed puzzles       |
+| 44 | **Crushing Attack** | `crushing`      | 20      | Overwhelming winning positions |
 
 ---
 
-## Complete Theme Coverage (42 themes)
+## Complete Theme Coverage (44 themes)
 
-✅ **Included:** absolutePin, advancedPawn, advantage, anastasiaMate, arabianMate, attackingF2F7, attraction, backRankMate, bishopEndgame, bodenMate, capturingDefender, clearance, defensiveMove, deflection, discoveredAttack, doubleCheck, enPassant, exposedKing, fork, hangingPiece, hookMate, interference, knightEndgame, knightFork, mateIn1, mateIn2, mateIn3, oneMove, pawnEndgame, perpetualCheck, pin, promotion, queenEndgame, quietMove, rookEndgame, sacrifice, skewer, smotheredMate, stalemate, trappedPiece, undermining, xRayAttack, zugzwang, zwischenzug
+✅ **Included:** advantage, advancedPawn, anastasiaMate, arabianMate, attackingF2F7, attraction, backRankMate, bishopEndgame, bodenMate, capturingDefender, clearance, crushing, defensiveMove, deflection, discoveredAttack, doubleCheck, enPassant, exposedKing, fork, hangingPiece, hookMate, interference, knightEndgame, knightFork, master, mateIn1, mateIn2, mateIn3, pawnEndgame, perpetualCheck, pin, promotion, queenEndgame, quietMove, rookEndgame, sacrifice, skewer, smotheredMate, stalemate, trappedPiece, undermining, xRayAttack, zugzwang, zwischenzug
 
 ## Difficulty Guidelines
 
@@ -96,6 +108,7 @@ Designed for systematic improvement with complete coverage of essential tactical
 - **TACTICAL PATTERNS**: 900-1400 rating
 - **ADVANCED & DEFENSIVE**: 1100-1600 rating
 - **ENDGAME MASTERY**: 1000-1500 rating
+- **MIXED CHALLENGES**: 1200-1800 rating
 
 ### Within Each Chapter:
 - First 30% of puzzles: Easy (lower rating range)
@@ -110,13 +123,14 @@ Designed for systematic improvement with complete coverage of essential tactical
 
 ```bash
 # Create a script to process all themes
-for theme in oneMove hangingPiece mateIn1 fork pin skewer capturingDefender advantage \
+for theme in mateIn1 hangingPiece fork pin skewer capturingDefender advantage \
              mateIn2 backRankMate mateIn3 smotheredMate arabianMate hookMate \
-             knightFork discoveredAttack doubleCheck deflection attraction trappedPiece \
-             xRayAttack zwischenzug sacrifice exposedKing attackingF2F7 interference \
-             clearance promotion undermining quietMove defensiveMove perpetualCheck \
-             stalemate zugzwang advancedPawn enPassant pawnEndgame rookEndgame \
-             queenEndgame bishopEndgame knightEndgame; do
+             anastasiaMate bodenMate knightFork discoveredAttack doubleCheck \
+             deflection attraction trappedPiece xRayAttack zwischenzug sacrifice \
+             exposedKing attackingF2F7 interference clearance promotion undermining \
+             quietMove defensiveMove perpetualCheck stalemate zugzwang advancedPawn \
+             enPassant pawnEndgame rookEndgame queenEndgame bishopEndgame \
+             knightEndgame master crushing; do
     
     echo "Processing theme: $theme"
     python -m app.main --stream-all \
@@ -133,9 +147,7 @@ done
 
 ```bash
 # Foundation chapters (easier)
-python -m app.main --stream-all --csv-path lichess_db_puzzle.csv \
-    --theme oneMove --min-rating 600 --max-rating 1000 \
-    --min-popularity 90 --limit 40 --out-dir foundation/oneMove
+python -m app.main --stream-all --csv-path lichess_db_puzzle.csv --min-rating 200 --max-rating 1200 --min-popularity 90 --out-dir beginner-puzzles
 
 # Advanced chapters (harder)
 python -m app.main --stream-all --csv-path lichess_db_puzzle.csv \
@@ -158,11 +170,12 @@ python -m app.main --stream-all --csv-path lichess_db_puzzle.csv \
 ## Course Features
 
 ### Learning Path
-1. **Complete FOUNDATION** section first (Chapters 1-8)
-2. **Master CHECKMATE PATTERNS** (Chapters 9-14)
-3. **Work through TACTICAL PATTERNS** systematically (Chapters 15-29)
-4. **Study ADVANCED & DEFENSIVE** for tournament play (Chapters 30-36)
-5. **Practice ENDGAME MASTERY** for complete game understanding (Chapters 37-41)
+1. **Complete FOUNDATION** section first (Chapters 1-7)
+2. **Master CHECKMATE PATTERNS** (Chapters 8-15)
+3. **Work through TACTICAL PATTERNS** systematically (Chapters 16-30)
+4. **Study ADVANCED & DEFENSIVE** for tournament play (Chapters 31-37)
+5. **Practice ENDGAME MASTERY** for complete game understanding (Chapters 38-42)
+6. **Challenge yourself with MIXED puzzles** (Chapters 43-44)
 
 ### Key Benefits
 - **Complete Coverage**: All major Lichess tactical themes included
@@ -200,26 +213,17 @@ pip install chess zstandard
 ### File Organization
 
 ```
-course_puzzles/
+beginner-puzzles-course/
 ├── foundation/
-│   ├── oneMove.pgn
-│   ├── hangingPiece.pgn
+│   ├── <chapter-number>-checkmate-in-1.pgn
 │   └── ...
 ├── checkmates/
-│   ├── mateIn1.pgn
-│   ├── mateIn2.pgn
 │   └── ...
 ├── tactics/
-│   ├── fork.pgn
-│   ├── pin.pgn
 │   └── ...
 ├── advanced/
-│   ├── quietMove.pgn
-│   ├── defensiveMove.pgn
 │   └── ...
 └── endgames/
-    ├── pawnEndgame.pgn
-    ├── rookEndgame.pgn
     └── ...
 ```
 
