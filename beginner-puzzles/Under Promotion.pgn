@@ -1,0 +1,396 @@
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/P1p4p/2p2R2/3pk1P1/1P3r1P/2P3Q1/5p1K/8 b - - 1 49"]
+[LichessURL "https://lichess.org/XZYixYPa#97"]
+[PuzzleId "OZ6gb"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+[Rating "858"]
+
+49... f1=N+ 50. Kg2 Nxg3 *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/5P1q/4k3/3pB3/3P4/2P5/8/8 w - - 3 62"]
+[LichessURL "https://lichess.org/8hamUiik/black#122"]
+[PuzzleId "TSrBE"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+[Rating "902"]
+
+62. f8=N+ Kf5 63. Nxh7 *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2P2k1/7p/6q1/8/3Q2P1/P3p1KP/8 b - - 1 45"]
+[LichessURL "https://lichess.org/qCANfejk#89"]
+[PuzzleId "p1Nld"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+[Rating "918"]
+
+45... e1=N+ 46. Kf1 Nxd3 *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/5K1k/P3Q1p1/8 b - - 1 51"]
+[LichessURL "https://lichess.org/QrILJv8L#101"]
+[PuzzleId "X7iLj"]
+[Themes "advancedPawn crushing endgame fork master promotion short underPromotion"]
+[Rating "931"]
+
+51... g1=N+ 52. Kf2 Nxe2 *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4NP1k/3pK2p/8/3B4/p7/7P/1q2b3 w - - 0 53"]
+[LichessURL "https://lichess.org/wOPxHesh/black#104"]
+[PuzzleId "DuYAe"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove promotion underPromotion"]
+[Rating "943"]
+
+53. f8=N# *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/KP1k4/P1q5/8/8/8/8/8 w - - 1 92"]
+[LichessURL "https://lichess.org/g1gLCetC/black#182"]
+[PuzzleId "lHKYv"]
+[Themes "advancedPawn crushing endgame fork long master promotion underPromotion"]
+[Rating "953"]
+
+92. b8=N+ Kd6 93. Nxc6 Kxc6 94. Kb8 *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6q1/8/8/4NQ2/4K1pk/8 b - - 5 67"]
+[LichessURL "https://lichess.org/kZJgaWaW#133"]
+[PuzzleId "0D1rh"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+[Rating "961"]
+
+67... g1=N+ 68. Kf2 Nxf3 *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "8"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pR1P4/2k4p/2P3p1/3K4/8/P7/4r3 w - - 5 46"]
+[LichessURL "https://lichess.org/F7lDXpEt/black#90"]
+[PuzzleId "thYKI"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion underPromotion"]
+[Rating "965"]
+
+46. d8=N# *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "9"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2pr1P2/6k1/8/5K2/P7/8/8 w - - 0 58"]
+[LichessURL "https://lichess.org/bgElhh5M/black#114"]
+[PuzzleId "GsnZP"]
+[Themes "advancedPawn crushing endgame fork master promotion short underPromotion"]
+[Rating "967"]
+
+58. f8=N+ Kf6 59. Nxd7+ *
+
+
+
+[Event "Under Promotion (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "10"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/pp3P1k/5p1p/8/P3pP2/7P/BpP4K/5q2 w - - 0 36"]
+[LichessURL "https://lichess.org/AtVBlzwv/black#70"]
+[PuzzleId "2bNV8"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion underPromotion"]
+[Rating "997"]
+
+36. f8=N# *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "11"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1PK/5q1P/8/8/8/8/8 w - - 1 56"]
+[LichessURL "https://lichess.org/sIxBvyiT/black#110"]
+[PuzzleId "xoOO6"]
+[Themes "advancedPawn crushing endgame fork long promotion underPromotion"]
+[Rating "1001"]
+
+56. g8=N+ Kf7 57. Nxf6 Kxf6 58. Kg8 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "12"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P1k1/p4q2/4p3/P1B1Pp1p/5P2/6P1/4bK2 w - - 1 41"]
+[LichessURL "https://lichess.org/5gug6Kqh/black#80"]
+[PuzzleId "Fc4nn"]
+[Themes "advancedPawn crushing endgame fork master promotion short underPromotion"]
+[Rating "1025"]
+
+41. e8=N+ Kg6 42. Nxf6 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/5Q1p/4K1pk/8 b - - 5 65"]
+[LichessURL "https://lichess.org/HvYZ6s1s#129"]
+[PuzzleId "SS5vA"]
+[Themes "advancedPawn crushing endgame fork long master promotion underPromotion"]
+[Rating "1033"]
+
+65... g1=N+ 66. Ke3 Nxf3 67. Kxf3 Kg1 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "14"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/3P1pk1/5q1p/p4Pp1/8/2R4P/6P1/7K w - - 0 43"]
+[LichessURL "https://lichess.org/zGW3Qg1O/black#84"]
+[PuzzleId "Q4dsj"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+[Rating "1043"]
+
+43. dxe8=N+ Kh8 44. Nxf6 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q3Q3/3r2k1/6p1/7p/6nP/6PK/3r2p1/8 b - - 0 41"]
+[LichessURL "https://lichess.org/JmvcMJYo#81"]
+[PuzzleId "LUDef"]
+[Themes "advancedPawn endgame master mate mateIn1 oneMove promotion underPromotion"]
+[Rating "1071"]
+
+41... g1=N# *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p3k3/P2p4/3Q1K2/4p3/8 b - - 1 48"]
+[LichessURL "https://lichess.org/XYbCGeic#95"]
+[PuzzleId "eUq1o"]
+[Themes "advancedPawn crushing defensiveMove endgame fork long master masterVsMaster promotion underPromotion"]
+[Rating "1080"]
+
+48... e1=N+ 49. Ke2 Nxd3 50. Kxd3 Kd5 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "17"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/KP1k4/P1q5/8/8/8/8/8 w - - 3 65"]
+[LichessURL "https://lichess.org/LY0qxcX3/black#128"]
+[PuzzleId "zcyfp"]
+[Themes "advancedPawn crushing endgame fork long promotion underPromotion"]
+[Rating "1091"]
+
+65. b8=N+ Kd6 66. Nxc6 Kxc6 67. Kb8 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3P3p/7b/p7/1p6/4pp2/P1P5/4R1K1 b - - 0 40"]
+[LichessURL "https://lichess.org/o6Wh663q#79"]
+[PuzzleId "cNzWX"]
+[Themes "advancedPawn crushing endgame fork master promotion short underPromotion"]
+[Rating "1093"]
+
+40... f2+ 41. Kg2 fxe1=N+ *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pkp/p5n1/7P/8/2P5/P2Qp1PK/5R2 b - - 0 44"]
+[LichessURL "https://lichess.org/rGx81o8F#87"]
+[PuzzleId "x2jYJ"]
+[Themes "advancedPawn crushing endgame fork hangingPiece promotion short underPromotion"]
+[Rating "1096"]
+
+44... exf1=N+ 45. Kh3 Nxd2 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/1R6/8/1P4k1/6p1/6K1/2r4p/8 b - - 0 49"]
+[LichessURL "https://lichess.org/jt5lMLj5#97"]
+[PuzzleId "z6TP6"]
+[Themes "advancedPawn endgame mate mateIn1 oneMove promotion underPromotion"]
+[Rating "1122"]
+
+49... h1=N# *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/1pp5/p2q3k/4R1R1/1P4P1/3P2Qp/P1P2p1K/8 b - - 2 40"]
+[LichessURL "https://lichess.org/s7tr1Mkt#79"]
+[PuzzleId "SuGxX"]
+[Themes "advancedPawn advantage endgame fork promotion short underPromotion"]
+[Rating "1139"]
+
+40... f1=N+ 41. Kxh3 Nxg3 *
+
+
+
+[Event "Under Promotion (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "22"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5q1P/1pK3k1/2p2pP1/5P2/P7/8/8 w - - 1 69"]
+[LichessURL "https://lichess.org/G0UFV7PR/black#136"]
+[PuzzleId "yLeMn"]
+[Themes "advancedPawn crushing endgame fork promotion short underPromotion"]
+[Rating "1139"]
+
+69. h8=N+ Kg7 70. Nxf7 *
+
+
+
