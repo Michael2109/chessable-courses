@@ -1,2 +1,241 @@
-# Empty PGN file for Chapter 11: Smothered Mate
-# This file will be populated with puzzles from the smotheredMate theme
+[Event "Smothered Mate (Very Easy)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "24"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/pp3kpp/1b1Bp3/nP6/3N2n1/2P5/P5PP/RN1Q2RK b - - 0 18"]
+[LichessURL "https://lichess.org/Q3aBBpo4#35"]
+[PuzzleId "OPmWc"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "551"]
+
+18... Nf2# *
+
+[Event "Smothered Mate (Very Easy)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/p3np1p/b5p1/2pp4/8/PP1nPNP1/2RN1PBP/3Q2RK b - - 6 18"]
+[LichessURL "https://lichess.org/9ucsR6GG#35"]
+[PuzzleId "3YAcJ"]
+[Themes "kingsideAttack mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "428"]
+
+18... Nxf2# *
+
+[Event "Smothered Mate (Easy)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "843"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pppb2pp/5n2/2nP1p2/2P1p3/PP6/1B1PNPPP/RN1QKB1R b KQkq - 2 9"]
+[LichessURL "https://lichess.org/JLooY9VG#17"]
+[PuzzleId "sPg0e"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+[Rating "785"]
+
+9... Nd3# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1611"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb2/pp1nnp1r/4p3/1N1pP2p/3N3B/8/PPP2PP1/R4RK1 w q - 0 17"]
+[LichessURL "https://lichess.org/ilZUo9xZ/black#32"]
+[PuzzleId "LpGGV"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "832"]
+
+17. Nd6# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1615"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp1pnpp1/2n1p2p/2p1P3/2P1NP2/5N2/PP1P2PP/R1BQKB1R w KQkq - 1 8"]
+[LichessURL "https://lichess.org/MLT4m7pI/black#14"]
+[PuzzleId "X8oBA"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+[Rating "832"]
+
+8. Nd6# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "2784"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kn2r2r/pp4p1/Nn3q2/5p2/7p/NP5P/P4PP1/2R1R1K1 w - - 0 30"]
+[LichessURL "https://lichess.org/WtjzggZa/black#58"]
+[PuzzleId "gHKKS"]
+[Themes "mate mateIn1 middlegame oneMove smotheredMate"]
+[Rating "878"]
+
+30. Nc7# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5362"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b3k1/5ppp/5n2/qpN3N1/1n1p4/1Q1P2P1/5P1P/4rBK1 w - - 0 29"]
+[LichessURL "https://lichess.org/aMYcq72D/black#56"]
+[PuzzleId "VXDdC"]
+[Themes "fork long mate mateIn3 middlegame smotheredMate"]
+[Rating "990"]
+
+{The black king is trapped on the back rank (8th rank) with limited escape squares. White needs to first push the king into the corner, block them in, then deliver a smothered mate.}
+29. Qxf7+ Kh8 30. Qf8+ Ng8 31. Nf7# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5376"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/Bp1b2p1/2p3B1/7R/2P3n1/8/PP4PP/7K b - - 0 27"]
+[LichessURL "https://lichess.org/DqrmP8hx#53"]
+[PuzzleId "xhv6U"]
+[Themes "endgame mate mateIn2 short smotheredMate"]
+[Rating "990"]
+
+27... Rf1+ 28. Bg1 Nf2# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5322"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kB1R2/pp3pnQ/2p1p1p1/3p4/1n2P1P1/2N5/PPq5/K7 b - - 1 25"]
+[LichessURL "https://lichess.org/VqpmNV7K#49"]
+[PuzzleId "v9sWk"]
+[Themes "mate mateIn2 middlegame short smotheredMate"]
+[Rating "987"]
+
+25... Qc1+ 26. Nb1 Nc2# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5350"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2nkb1r/pp1npppp/8/1N1PN3/8/8/PP3PPP/R1BbK2R w KQkq - 0 13"]
+[LichessURL "https://lichess.org/rV05kcmf/black#24"]
+[PuzzleId "Yby5y"]
+[Themes "mate mateIn1 oneMove opening smotheredMate"]
+[Rating "989"]
+
+13. Nc7# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5362"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b3k1/5ppp/5n2/qpN3N1/1n1p4/1Q1P2P1/5P1P/4rBK1 w - - 0 29"]
+[LichessURL "https://lichess.org/aMYcq72D/black#56"]
+[PuzzleId "VXDdC"]
+[Themes "fork long mate mateIn3 middlegame smotheredMate"]
+[Rating "990"]
+
+29. Qxf7+ Kh8 30. Qf8+ Ng8 31. Nf7# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5398"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "krn2b2/1p1r3p/1Q3p2/3P3K/2N3P1/7P/8/8 w - - 5 53"]
+[LichessURL "https://lichess.org/RoikfpiF/black#104"]
+[PuzzleId "5kKU5"]
+[Themes "endgame mate mateIn2 short smotheredMate"]
+[Rating "992"]
+
+53. Qa5+ Na7 54. Nb6# *
+
+[Event "Smothered Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "5431"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r3/pp5Q/5kp1/8/3p1n2/8/PP1N1PPP/4R1KR b - - 0 22"]
+[LichessURL "https://lichess.org/rUADDRLp#43"]
+[PuzzleId "wuX44"]
+[Themes "mate mateIn2 middlegame short smotheredMate"]
+[Rating "993"]
+
+22... Rxe1+ 23. Nf1 Ne2# *
+
+[Event "Smothered Mate (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "6163"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r2/1b2ppkp/p2p1np1/q1n5/1P2PN2/2N2P2/1PPQB1PP/2KR3R b - - 0 16"]
+[LichessURL "https://lichess.org/pXoYRcY8#31"]
+[PuzzleId "fubPl"]
+[Themes "mate mateIn2 middlegame pin queensideAttack short smotheredMate"]
+[Rating "1063"]
+
+16... Qa1+ 17. Nb1 Nb3# *
+
+[Event "Smothered Mate (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "7031"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/pb3p1p/1p4p1/2p5/3q4/1PN2PPn/PBQP2BP/R4R1K b - - 5 19"]
+[LichessURL "https://lichess.org/b4ffHg2Y#37"]
+[PuzzleId "Nmg4O"]
+[Themes "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate"]
+[Rating "1199"]
+
+{A sacrifice!}
+19... Qg1+ 20. Rxg1 Nf2# *
