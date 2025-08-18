@@ -1,4 +1,4 @@
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40049"]
@@ -14,7 +14,7 @@
 
 26. Qxg7# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40052"]
@@ -30,7 +30,7 @@
 
 42. Qh4# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40053"]
@@ -46,7 +46,7 @@
 
 21... Qxa2# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40059"]
@@ -62,7 +62,7 @@
 
 28... Qxe1# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40063"]
@@ -78,7 +78,7 @@
 
 39... Bxe3# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40064"]
@@ -94,7 +94,7 @@
 
 32. Rc8# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40070"]
@@ -110,7 +110,7 @@
 
 12... Qxg2# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40051"]
@@ -126,7 +126,7 @@
 
 18. Bxg6# *
 
-[Event "Mate In 1 (Very Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "40173"]
@@ -142,7 +142,7 @@
 
 15. Bxh7# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102036"]
@@ -158,7 +158,7 @@
 
 17. Nxf7# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102054"]
@@ -174,7 +174,7 @@
 
 10... Nxf2# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102059"]
@@ -190,7 +190,7 @@
 
 32. Be7# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102061"]
@@ -206,7 +206,7 @@
 
 37. Qg8# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102064"]
@@ -222,7 +222,7 @@
 
 34. Rd8# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102065"]
@@ -238,7 +238,7 @@
 
 17. Ba6# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102068"]
@@ -254,7 +254,7 @@
 
 17. Nxf7# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "102073"]
@@ -270,7 +270,7 @@
 
 22. Qh5# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "103136"]
@@ -286,7 +286,7 @@
 
 64. g7# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "103141"]
@@ -302,7 +302,7 @@
 
 29. Ng6# *
 
-[Event "Mate In 1 (Easy)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "103150"]
@@ -318,7 +318,7 @@
 
 63. Rh1# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134289"]
@@ -334,7 +334,7 @@
 
 33. Qxa6# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134291"]
@@ -350,7 +350,7 @@
 
 41. Qxb7# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134293"]
@@ -366,7 +366,7 @@
 
 23... Nf2# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134303"]
@@ -382,7 +382,7 @@
 
 19. Bxb5# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134388"]
@@ -398,7 +398,7 @@
 
 12... Bxd4# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134391"]
@@ -414,7 +414,7 @@
 
 39. Rh7# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134396"]
@@ -430,7 +430,7 @@
 
 48. Qe7# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134403"]
@@ -446,7 +446,7 @@
 
 37... f4# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134408"]
@@ -462,7 +462,7 @@
 
 14... Nxf2# *
 
-[Event "Mate In 1 (Medium)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "134411"]
@@ -478,7 +478,7 @@
 
 45. Rc5# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245320"]
@@ -494,7 +494,7 @@
 
 49. Qf5# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245321"]
@@ -510,7 +510,7 @@
 
 38... Ra2# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245323"]
@@ -526,7 +526,7 @@
 
 35. Rh7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245325"]
@@ -542,7 +542,7 @@
 
 12. Qh7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245361"]
@@ -558,7 +558,7 @@
 
 32. Bxf6# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245362"]
@@ -574,7 +574,7 @@
 
 53. Bh4# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245364"]
@@ -590,7 +590,7 @@
 
 35. Rh7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245366"]
@@ -606,7 +606,7 @@
 
 15. Qc7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245368"]
@@ -622,7 +622,7 @@
 
 28... a1=Q# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245371"]
@@ -638,7 +638,7 @@
 
 41... Ne5# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245376"]
@@ -654,7 +654,7 @@
 
 41... g4# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245379"]
@@ -670,7 +670,7 @@
 
 9. Rd8# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245380"]
@@ -686,7 +686,7 @@
 
 39... Qg2# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245381"]
@@ -702,7 +702,7 @@
 
 38. Rxh7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245382"]
@@ -718,7 +718,7 @@
 
 13. Nd6# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245383"]
@@ -734,7 +734,7 @@
 
 26... Qg2# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245386"]
@@ -750,7 +750,7 @@
 
 13... Qxf2# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245389"]
@@ -766,7 +766,7 @@
 
 16. Nf7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245393"]
@@ -782,7 +782,7 @@
 
 27. Qxg7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245396"]
@@ -798,7 +798,7 @@
 
 23... Qh2# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245402"]
@@ -814,7 +814,7 @@
 
 31. Rxh7# *
 
-[Event "Mate In 1 (Hard)"]
+[Event "Basics 1: Mate in one"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "245404"]
