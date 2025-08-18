@@ -1,4 +1,4 @@
-[Event "Smothered Mate (Very Easy)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "24"]
@@ -14,7 +14,7 @@
 
 18... Nf2# *
 
-[Event "Smothered Mate (Very Easy)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -30,7 +30,7 @@
 
 18... Nxf2# *
 
-[Event "Smothered Mate (Easy)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "843"]
@@ -46,7 +46,7 @@
 
 9... Nd3# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1611"]
@@ -62,7 +62,7 @@
 
 17. Nd6# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1615"]
@@ -78,7 +78,7 @@
 
 8. Nd6# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2784"]
@@ -94,7 +94,7 @@
 
 30. Nc7# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5362"]
@@ -111,7 +111,7 @@
 {The black king is trapped on the back rank (8th rank) with limited escape squares. White needs to first push the king into the corner, block them in, then deliver a smothered mate.}
 29. Qxf7+ Kh8 30. Qf8+ Ng8 31. Nf7# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5376"]
@@ -127,7 +127,7 @@
 
 27... Rf1+ 28. Bg1 Nf2# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5322"]
@@ -143,7 +143,7 @@
 
 25... Qc1+ 26. Nb1 Nc2# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5350"]
@@ -159,7 +159,7 @@
 
 13. Nc7# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5362"]
@@ -175,7 +175,7 @@
 
 29. Qxf7+ Kh8 30. Qf8+ Ng8 31. Nf7# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5398"]
@@ -191,7 +191,7 @@
 
 53. Qa5+ Na7 54. Nb6# *
 
-[Event "Smothered Mate (Medium)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "5431"]
@@ -207,7 +207,7 @@
 
 22... Rxe1+ 23. Nf1 Ne2# *
 
-[Event "Smothered Mate (Hard)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "6163"]
@@ -223,7 +223,7 @@
 
 16... Qa1+ 17. Nb1 Nb3# *
 
-[Event "Smothered Mate (Hard)"]
+[Event "Checkmates 2: Smothered Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "7031"]
