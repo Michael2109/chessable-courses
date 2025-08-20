@@ -1,4 +1,4 @@
-[Event "Arabian Mate (Very Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1"]
@@ -15,7 +15,7 @@
 {The Arabian mate is a checkmating pattern where a knight defends a rook and the rook attacks the king.}
 32. Rg8# *
 
-[Event "Arabian Mate (Very Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2"]
@@ -31,7 +31,7 @@
 
 33... Rg1# *
 
-[Event "Arabian Mate (Very Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "3"]
@@ -47,7 +47,7 @@
 
 39. Rb8# *
 
-[Event "Arabian Mate (Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "365"]
@@ -63,7 +63,7 @@
 
 34. Rxh7+ Rxh7 35. Rxh7# *
 
-[Event "Arabian Mate (Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "366"]
@@ -79,7 +79,7 @@
 
 38. Nxf6+ Kh8 39. Rxh7# *
 
-[Event "Arabian Mate (Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "367"]
@@ -95,7 +95,7 @@
 
 24... Nxf3+ 25. Kh1 Rxh2# *
 
-[Event "Arabian Mate (Easy)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "373"]
@@ -103,7 +103,7 @@
 [Black "Opponent"]
 [Result "*"]
 [SetUp "1"]
-[FEN "8/7k/p2b3p/2pN4/2Pp4/1P5r/P2K2R1/8 w - - 4 39"]
+[FEN "8/7k/p2b3p/2pN4/2Pp4/1P5r/P2K2R1/8 w - - 0 39"]
 [LichessURL "https://lichess.org/OU2kzVpJ/black#76"]
 [PuzzleId "pXP27"]
 [Themes "arabianMate endgame mate mateIn2 short"]
@@ -111,7 +111,7 @@
 
 39. Nf6+ Kh8 40. Rg8# *
 
-[Event "Arabian Mate (Medium)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "892"]
@@ -127,7 +127,7 @@
 
 29. Rxh6+ Rh7 30. Rxh7# *
 
-[Event "Arabian Mate (Medium)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "894"]
@@ -143,7 +143,7 @@
 
 38... Qxh2+ 39. Rxh2 Rxh2# *
 
-[Event "Arabian Mate (Medium)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1009"]
@@ -159,7 +159,7 @@
 
 32... Rxd1+ 33. Rb1 Rxb1# *
 
-[Event "Arabian Mate (Hard)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1860"]
@@ -175,7 +175,7 @@
 
 34. Rh1+ Nh6 35. Rxh6+ Rh7 36. Rxh7# *
 
-[Event "Arabian Mate (Hard)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1861"]
@@ -192,7 +192,7 @@
 30... Nf3+ 31. Kh1 Rh4+ 32. Nh2 Rxh2# *
 
 
-[Event "Arabian Mate (Hard)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1862"]
@@ -208,7 +208,7 @@
 
 30. Qb8+ Rxb8 31. Rxb8# *
 
-[Event "Arabian Mate (Hard)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "1864"]
@@ -224,7 +224,7 @@
 
 20... Nf3+ 21. Kh1 Rxh2# *
 
-[Event "Arabian Mate (Hard)"]
+[Event "Checkmates 3: Arabian Mate"]
 [Site "https://lichess.org"]
 [Date "????.??.??"]
 [Round "2106"]
