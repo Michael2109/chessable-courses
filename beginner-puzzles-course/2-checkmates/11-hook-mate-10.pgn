@@ -1,2 +1,160 @@
-# Empty PGN file for Chapter 13: Hook Mate
-# This file will be populated with puzzles from the hookMate theme
+[Event "Hook Mate (Very Easy)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/6pp/2N5/1B3pbP/p5n1/2B1p1PK/5r2/4R3 b - - 1 39"]
+[LichessURL "https://lichess.org/7by2PWbN#77"]
+[PuzzleId "9HKEX"]
+[Themes "hookMate mate mateIn1 middlegame oneMove"]
+[Rating "399"]
+
+{Hook Mate is a specific checkmate pattern in chess where a knight and rook work together, resembling a hook, to deliver checkmate.}
+39... Rh2# *
+
+[Event "Hook Mate (Very Easy)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "4"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6R1/pk1p4/Np1p1b2/1P2r3/P2K4/8 w - - 18 64"]
+[LichessURL "https://lichess.org/5BTMV69V/black#126"]
+[PuzzleId "CwyAo"]
+[Themes "endgame hookMate master mate mateIn1 oneMove"]
+[Rating "452"]
+
+64. Rb6# *
+
+[Event "Hook Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "637"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/pp1kb3/2ppp3/4n3/N3P1p1/1QP3P1/PP3P2/R4RK1 b - - 0 21"]
+[LichessURL "https://lichess.org/ecO9Ei4n#41"]
+[PuzzleId "cbc0c"]
+[Themes "hookMate kingsideAttack mate mateIn2 middlegame short"]
+[Rating "888"]
+
+21... Nf3+ 22. Kg2 Rh2# *
+
+[Event "Hook Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "638"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p5p1/2p1q1Np/4p1nP/6P1/2P5/1P6/5RK1 w - - 0 41"]
+[LichessURL "https://lichess.org/wqcnJucJ/black#80"]
+[PuzzleId "cywXr"]
+[Themes "endgame hookMate mate mateIn2 short"]
+[Rating "888"]
+
+41. Rxf8+ Kh7 42. Rh8# *
+
+[Event "Hook Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "643"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1r2/1pp2p2/p4Nnk/3pPR2/3P4/8/PPP1B1PP/R5K1 w - - 0 20"]
+[LichessURL "https://lichess.org/O30EMGmF/black#38"]
+[PuzzleId "Ul7Tm"]
+[Themes "hookMate mate mateIn2 middlegame short"]
+[Rating "889"]
+
+20. Rh5+ Kg7 21. Rh7# *
+
+[Event "Hook Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1014"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pb3p1p/4p1p1/1pp1P3/4Nn2/1P1B3R/P1P2PPP/3R2K1 w - - 1 20"]
+[LichessURL "https://lichess.org/tMNEZ112/black#38"]
+[PuzzleId "zGjxL"]
+[Themes "hookMate kingsideAttack mate mateIn2 middlegame short"]
+[Rating "955"]
+
+20. Nf6+ Kg7 21. Rxh7# *
+
+[Event "Hook Mate (Medium)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1018"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4Rp2/6k1/1pN3pp/5n1P/2P2PK1/1P1r2P1/8 b - - 1 35"]
+[LichessURL "https://lichess.org/LWUMWovw#69"]
+[PuzzleId "LRaxG"]
+[Themes "endgame hookMate mate mateIn1 oneMove"]
+[Rating "956"]
+
+35... Rxg2# *
+
+[Event "Hook Mate (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1453"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/3k4/3Np1p1/3pPp1p/5q1P/pP6/P1K1B3/8 w - - 0 48"]
+[LichessURL "https://lichess.org/HcnHiyc8/black#94"]
+[PuzzleId "sIXGo"]
+[Themes "endgame hookMate master mate mateIn2 short"]
+[Rating "1010"]
+
+48. Bb5+ Ke7 49. Re8# *
+
+[Event "Hook Mate (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1460"]
+[White "Opponent"]
+[Black "You"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp3pp1/4p1n1/2bpP1p1/6P1/1PB2P2/P1P3KP/R2Q1N1R b kq - 0 19"]
+[LichessURL "https://lichess.org/hmeNhpdp#37"]
+[PuzzleId "TCK4H"]
+[Themes "hookMate mate mateIn2 middlegame short"]
+[Rating "1012"]
+
+19... Nf4+ 20. Kg3 Rh3# *
+
+[Event "Hook Mate (Hard)"]
+[Site "https://lichess.org"]
+[Date "????.??.??"]
+[Round "1472"]
+[White "You"]
+[Black "Opponent"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/pp3r2/4pN2/3pP1R1/2pP1n2/P1P2r2/8/6K1 w - - 0 46"]
+[LichessURL "https://lichess.org/eDPLmfT0/black#90"]
+[PuzzleId "1lzoB"]
+[Themes "endgame hookMate mate mateIn2 short"]
+[Rating "1015"]
+
+46. Rg8+ Ke7 47. Re8# *
